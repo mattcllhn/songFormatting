@@ -1,11 +1,20 @@
+h4{
+    cursor: pointer;
+}
 .expand-collapse{
-    height:0px;
+    max-height:0px;
     overflow:hidden;
+    transition: all 500ms ease-out;
+
 }
 .expand-collapse.expanded{
-    height:inherit;
+    max-height:inherit;
     overflow: auto;
+    transition: all 500ms ease-out;
+
 }
-body{
-    transition: all linear 500ms;
+
+.text{
+    width:100%;
+    /* min-height:100vh; */
 }

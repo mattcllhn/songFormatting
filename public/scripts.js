@@ -11,12 +11,24 @@ for (let i = 0; i < songList.length; i++) {
     if (this.parentElement.children[1].classList[1]=='expanded'){
       this.parentElement.children[1].classList.remove('expanded');
 
+    }else{
+      this.parentElement.children[1].classList.add('expanded');
     }
-    this.parentElement.children[1].classList.add('expanded');
   };
   songRow.appendChild(heading);
 
-  let songEc = createDomElement('div', 'expand-collapse', formatSong(songList[i].Arrangement[0].text));
+  let songEc = createDomElement('div', 'expand-collapse');
+
+  let input = createDomElement('textarea', 'text');
+
+  input.setAttribute('rows', '30');
+  // input.setAttribute('value', formatSong(songList[i].Arrangement[0].text));
+  input.value = formatSong(songList[i].Arrangement[0].text);
+
+  let submitButton = createDomElement('button','text-right', 'Update');
+
+  songEc.appendChild(input);
+  songEc.appendChild(submitButton);
 
   songRow.appendChild(songEc);
   
@@ -61,7 +73,6 @@ function getSongs() {
         for (let i = 0; i < res.length; i++) {
           songList.push(res[i].data)
         }
-        console.log('songList', songList);
         renderSongs();
       } else {
         console.log('Error: ' + xhr.status); // An error occurred during the request.
