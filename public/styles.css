@@ -1,0 +1,11 @@
+.expand-collapse{
+    height:0px;
+    overflow:hidden;
+}
+.expand-collapse.expanded{
+    height:inherit;
+    overflow: auto;
+}
+body{
+    transition: all linear 500ms;
+}
