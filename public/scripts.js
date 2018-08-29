@@ -3,7 +3,6 @@ console.log('scripts still running');
 let songList = [];
 
 function renderSongs(){
-  console.log('renderSongs')
 for (let i = 0; i < songList.length; i++) {
   let songRow = createDomElement('div','col-xs-12');
   let heading = createDomElement('h4', 'title', songList[i].Song[0].title);
@@ -26,7 +25,7 @@ for (let i = 0; i < songList.length; i++) {
   input.value = formatSong(songList[i].Arrangement[0].text);
 
   let submitButton = createDomElement('button','text-right', 'Update');
-
+  submitButton.setAttribute('onClick', 'makeUpdate(songList['+i+'].Song[0].title)')
   songEc.appendChild(input);
   songEc.appendChild(submitButton);
 
@@ -49,19 +48,36 @@ if(element && content){
 return element;
 
 }
+
 function formatSong(song){
   let unformattedSong = song[0]
   let formattedSong = unformattedSong
     .replace(/\[ \]/g, "")
     .replace(/\{\,\}/g, '\n');
-  console.log(formattedSong);
-
   return formattedSong;
-
 }
+
+function makeUpdate(title){
+  console.log('getId', title)
+  let xhr = new XMLHttpRequest();
+  xhr.open('PUT', '/make-update?title='+encodeURI(title));
+  xhr.send(null);
+  xhr.onreadystatechange = function () {
+    var DONE = 4; // readyState 4 means the request is done.
+    var OK = 200; // status 200 is a successful return.
+    if (xhr.readyState === DONE) {
+      if (xhr.status === OK) {
+        let res = JSON.parse(xhr.responseText);
+        console.log(res);
+      } else {
+        console.log('Error: ' + xhr.status); // An error occurred during the request.
+      }
+    }
+  }
+}
+
 function getSongs() {
-  console.log('hello form getsongs')
-  var xhr = new XMLHttpRequest();
+  let xhr = new XMLHttpRequest();
   xhr.open('GET', '/songs/');
   xhr.send(null);
   xhr.onreadystatechange = function () {

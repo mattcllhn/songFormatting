@@ -32,6 +32,12 @@ app.get('/songs', function (req, res) {
     res.send(JSON.stringify(values));
   });
 });
+
+app.put('/make-update', function (req, res) {
+  console.log('ping make update',req.query);
+  res.send(true);
+});
+
 parser.parseStringAsync = function (song) {
   return new Promise(function (resolve, reject) {
     parser.parseString(song, function (err, result) {
