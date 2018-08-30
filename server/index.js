@@ -39,31 +39,51 @@ app.get('/songs', function (req, res) {
 });
 
 app.put('/make-update', function (req, res) {
-  returnID(req.query.title).then((result) => {
-    if (result === false) {
-      console.log('no results found for', req.query.title);
-      res.sendStatus(404);
-    } else if (result) {
-      console.log('do some other stuff with this friggin data', result)
+  let baseUrl = 'https://' + appID + ':' + secret + '@api.planningcenteronline.com/services/v2/songs/'
 
-    }
-  });
+
+  //call to return song id based on title
+  let returnSongIdUrl = baseUrl + '?where[title]=' + req.query.title;
+    PCGetMethod(returnSongIdUrl)
+    .then((result) => {
+      if (result.meta.total_count == 0) {
+        res.sendStatus(404);
+      } else if (result.meta.total_count == 1) {
+      console.log('this is the song ID', result.data[0].id);
+
+
+      //call to return arrangement id based on song id
+        let returnArrangementUrl = baseUrl + result.data[0].id+'/arrangements'
+        PCGetMethod(returnArrangementUrl).then((arrResult) => {
+          if (arrResult.meta.total_count == 0) {
+            res.sendStatus(404);
+          } else if (arrResult.meta.total_count == 1) {
+            console.log('this is the arrangement ID', arrResult.data[0].id);
+            
+          }
+        }).catch(
+          (err)=>{
+            console.log(err);
+          }
+        );
+        }
+      }).catch(
+        (err) => {
+          console.log(err);
+        }
+      );;
 });
 
-async function returnID(title) {
+async function PCGetMethod(url) {
   return new Promise((resolve, reject) => {
-    https.get('https://' + appID + ':' + secret + '@api.planningcenteronline.com/services/v2/songs/?where[title]=' + title, (resp) => {
+    https.get(url, (resp) => {
       let data = '';
       resp.on('data', (chunk) => {
         data += chunk;
       });
       resp.on('end', () => {
         let res = JSON.parse(data);
-        if (res.meta.total_count == 0) {
-          resolve(false)
-        } else if (res.meta.total_count == 1) {
-          resolve(res.data[0].id)
-        }
+        resolve(res)
       });
     }).on("error", (err) => {
       console.log("Error: " + err.message);
