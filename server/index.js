@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
 const app = express();
-const fs = require('fs');
+const fs = require('./fileSystem');
 const parser = require('./parseString');
 const secretStuff = require('./environment.json');
 const port = secretStuff.PORT;
@@ -24,7 +24,7 @@ app.get('/', (req, res) => {
 app.get('/songs', function (req, res) {
   console.log('get called in /songs');
   const rootPath = '../../Downloads/songs';
-  const folders = getDirectories(rootPath);
+  const folders = fs.getDirectories(rootPath);
   let songArr = [];
   for (let i = 0; i < folders.length; i++) {
     const loopPath = rootPath + '/' + folders[i] + '/data.xml';
@@ -77,19 +77,6 @@ async function returnID(title) {
 
 
 
-fs.readFileAsync = function (filename) {
-  return new Promise(function (resolve, reject) {
-    fs.readFile(filename, function (err, data) {
-      if (err)
-        reject(err);
-      else
-        resolve(data);
-    });
-  });
-};
 
-function getDirectories(path) {
-  return fs.readdirSync(path).filter((file) => {
-    return fs.statSync(path + '/' + file).isDirectory();
-  });
-}
+
+
