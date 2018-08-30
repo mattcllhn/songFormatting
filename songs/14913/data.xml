@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14913</id>
+		<songbook_id>21</songbook_id>
+		<title>The Precious Blood</title>
+		<copyright>Words and Music by Peter Gagnon     © 2005 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:14:59</created>
+		<modified>2009-03-20 09:14:59</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BOVVYS&quot;,&quot;title&quot;:&quot;The Precious Blood&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51ks8drdPUL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16041</id>
+		<song_id>14913</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[C2      | Fmaj7      | C2      | Fmaj7]
+
+Verse 1:
+Be[C2]fore the cross I kneel{,} and see the [Fmaj7]measure of my sin
+How [C2]You became a curse for me,{,} though [Fmaj7]You were innocent
+The [Am]magnitude of [Fmaj7]Your great love{,} was [C]shown in full deg[G]ree
+When [F]righteous blood, the c[G]rimson [Am]spill
+Rai[2/4]ned [Fmaj7]down from C[4/4]alva[Gsus4   G]ry
+
+Chorus:
+Oh, the [F]precious [C]blood{,} that [Am]flowed from Mercy’s [G]side
+Washed [F]away my [C]sin{,} when [Am]Christ my Savior d[G]ied
+Oh, the [F]precious [C]blood{,} [2/4]of [Em]Christ the c[4/4]rucif[F]ied
+It [F]speaks for me bef[G]ore Your th[Am]rone
+Wh[2/4]ere [F]I stand [G]jus[4/4]ti[C2]fied[| Fmaj7    | C2    | Fmaj7]
+
+Verse 2:
+And [C2]who am I that I should know{,} this [Fmaj7]treasure of such worth
+My [C2]Savior’s pure atoning blood,{,} shed [Fmaj7]for the wrath I’d earned
+For [Am]sin has stained my [Fmaj7]every deed,
+My [C]every word and [Gsus   G]thought
+What [F]wondrous love that m[G]akes me [Am]one
+Your [Fmaj7]priceless blood has b[Gsus4   G (to chorus)]ought
+
+Bridge:
+A [C2]crown of thorns,{,} pierced [Am]hands and feet
+A [C2/Bb]body bruised, and [Gsus4]Mercy’s p[G]lea
+A [C2]crown of thorns,{,} pierced [Am]hands and feet
+A [C2/Bb]body bruised, and [Gsus4]Mercy’s plea[| F2 (to chorus)]</text>
+		<searchtext>intro verse 1 before the cross i kneel and see the measure of my sin how you became a curse for me though you were innocent the magnitude of your great love was shown in full degree when righteous blood the crimson spill rained down from calvary chorus oh the precious blood that flowed from mercys side washed away my sin when christ my savior died oh the precious blood of christ the crucified it speaks for me before your throne where i stand justified verse 2 and who am i that i should know this treasure of such worth my saviors pure atoning blood shed for the wrath id earned for sin has stained my every deed my every word and thought what wondrous love that makes me one your priceless blood has bought bridge a crown of thorns pierced hands and feet a body bruised and mercys plea a crown of thorns pierced hands and feet a body bruised and mercys plea</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>63</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:14:59</created>
+		<modified>2009-03-20 09:14:59</modified>
+		<creator>1543</creator>
+		<ccli>4804297</ccli>
+		<album>Valley Of Vision</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>73373</id>
+		<songbook_id>21</songbook_id>
+		<title>Lead Me To Calvary</title>
+		<copyright>Evelyn Hussey, William Kirkpatrick</copyright>
+		<created>2018-03-26 20:36:14</created>
+		<modified>2018-03-26 20:51:40</modified>
+		<creator>24706</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>81256</id>
+		<song_id>73373</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+K[D]ing of my life I c[G/D]rown Thee n[D]ow
+T[D]hine shall the glory [A]be
+L[D]est I forget Thy th[G]orn-crowned b[D]row
+L[D]ead me to [D/A]Cal  -  [A]va  -  [D]ry
+
+Chorus:
+L[A]est I forg[A7]et Geths[D]emane
+L[A]est I forg[A7]et Thine [D]agony
+L[Bm]est I for[F#7]get Thy l[G]ove for [D]me
+L[D]ead me to [D/A]Cal  -  [A]va  -  [D]ry
+
+Verse 2:
+S[D]how me the tomb where T[G/D]hou wast l[D]aid
+T[D]enderly mourned and w[A]ept
+A[D]ngels in robes of l[G]ight arr[D]ayed
+G[D]uarded Thee w[D/A]hilst   T[A]hou   sl[D]ept
+
+Verse 4:
+M[D]ay I be willing [G/D]Lord to b[D]ear
+D[D]aily my cross for T[A]hee
+E[D]ven Thy cup of g[G]rief to s[D]hare
+T[D]hou hast borne [D/A]all     [A]for   [D]me</text>
+		<searchtext>verse 1 king of my life i crown thee now thine shall the glory be lest i forget thy thorncrowned brow lead me to cal va ry chorus lest i forget gethsemane lest i forget thine agony lest i forget thy love for me lead me to cal va ry verse 2 show me the tomb where thou wast laid tenderly mourned and wept angels in robes of light arrayed guarded thee whilst thou slept verse 4 may i be willing lord to bear daily my cross for thee even thy cup of grief to share thou hast borne all for me</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>80</bpm>
+		<tempo>Medium</tempo>
+		<created>2018-03-26 20:36:14</created>
+		<modified>2018-03-26 20:51:40</modified>
+		<creator>24706</creator>
+		<ccli>5176</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14888</id>
+		<songbook_id>21</songbook_id>
+		<title>The Lord Is</title>
+		<copyright>Music by Pat Sczebel     Words by Pat Sczebel and Bob Kauflin     © 2008 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:14:56</created>
+		<modified>2010-07-17 22:30:15</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001EUOBLY&quot;,&quot;title&quot;:&quot;The Lord Is&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51CGlRp8SUL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16016</id>
+		<song_id>14888</song_id>
+		<description>Initial arrangement</description>
+		<text>
+Verse 1: 
+The [E]depths of Your [A2]grace who can [E]measure [| E]
+You [E]fully sup[A]ply all I [Bsus]need [| B]
+[F#m7]You restore my [C#m]weary soul a[G#m7]gain and a[A2]gain
+And [F#m7]lead me in Your [A2]righteousness{,} and [Bsus]peace [| Bsus]
+
+Verse 2: 
+You’re [E]with me through [A2]every dark [E]valley
+There’s [E]nothing that I [A]have to [Bsus]fear [| B]
+[F#m7]You are there to [C#m]comfort me{,} a[G#m7]gain and a[A2]gain
+Pro[F#m7]tecting me, as[A2]suring me You’re [Bsus]near [| B]
+
+Chorus:
+The [E]Lord is, [Bsus]
+The [F#m7]Lord is my [A]Shepherd
+The [E]Lord is, [Bsus]
+The [F#m7]Lord is my [A]Shepherd
+[E]I shall not [F#m7]want [| F#m7   | F#m7   | F#m7]
+
+Verse 3:
+You [E]gave Your own [A2]life for my [E]ransom
+So [E]I could re[A]joice at Your [Bsus]side [| B]
+[F#m7]You have shown Your [C#m]faithfulness{,} a[G#m7]gain and a[A2]gain
+There’s [F#m7]nothing good{,} that [A2]You will not pro[Bsus]vide [| B]
+
+Bridge:
+[B]I will [C#m]dwell [A]in Your [E]house,
+[B]All the [F#m]days of my [A2]life [| A2 (repeat bridge)]</text>
+		<searchtext> verse 1 the depths of your grace who can measure you fully supply all i need you restore my weary soul again and again and lead me in your righteousness and peace verse 2 youre with me through every dark valley theres nothing that i have to fear you are there to comfort me again and again protecting me assuring me youre near chorus the lord is the lord is my shepherd the lord is the lord is my shepherd i shall not want verse 3 you gave your own life for my ransom so i could rejoice at your side you have shown your faithfulness again and again theres nothing good that you will not provide bridge i will dwell in your house all the days of my life </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>3/4</time_signature>
+		<bpm>96</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:14:56</created>
+		<modified>2010-07-17 22:30:15</modified>
+		<creator>1543</creator>
+		<ccli>5260902</ccli>
+		<album>Psalms</album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

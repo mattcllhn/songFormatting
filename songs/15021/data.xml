@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>15021</id>
+		<songbook_id>21</songbook_id>
+		<title>In A Little While</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2007 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:14</created>
+		<modified>2009-03-20 09:15:14</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0019IQTSY&quot;,&quot;title&quot;:&quot;In a Little While&quot;,&quot;artist&quot;:&quot;Mark &amp; Stephen Altrogge&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/517j98UaeeL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16163</id>
+		<song_id>15021</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[| Em     | Em     | C     | C     | Em     | Em     | C     | C]
+
+Verse 1:
+In a little [Em]while there’ll be no more tears, in a little [C]while
+[C] [ ]In a little [Em]while pain will disappear, in a little [C]while
+
+Pre-Ch:
+[C] [ ]In a little while the [D/F#]wait will be [G]over
+[C] [ ]In a little while the [D/F#]night will be [G]past
+[C] [ ]There’ll be singing, there’ll be [D/F#]dancing and [G]laughter
+[C] [ ]And we’ll see the [Am]Son at la[| D7sus4]st
+
+Chorus:
+And we will [G2]see Your face{,} [C6] [ ]with our own eyes
+[G2]We will gaze [C6] [ ]with our own eyes
+[G]Full on Your [G/F#]glory,{,} ne[Em7]ver have to look aw[D]ay
+[D] [ ]And we will [G2]see Your face{,} [C6] [ ]with our own eyes
+[G2]We will gaze [C6] [ ]with our own eyes
+[G]Full on Your [G/F#]glory,{,} ne[Em7]ver have to look aw[D]ay
+[Am] [ ]In a little [D]while, a little [Em]while
+
+Verse 2:
+In a little [Em]while there’ll be no more sin, in a little [C]while
+[C] [ ]In a little [Em]while our joy will never end, in a little [C (to pre-chorus)]while
+
+Bridge:
+These [Em]momen[D]tary, l[C]ight af[G/B]flictions
+[Am]They are [G/B]storing [C]up for [D]us
+A [Em]glorious [D]weight we c[C]an’t i[G/B]magine
+[Am]Kept in [G/B]heaven by G[C]od for [D]us (repeat)</text>
+		<searchtext>intro verse 1 in a little while therell be no more tears in a little while in a little while pain will disappear in a little while prech in a little while the wait will be over in a little while the night will be past therell be singing therell be dancing and laughter and well see the son at last chorus and we will see your face with our own eyes we will gaze with our own eyes full on your glory never have to look away and we will see your face with our own eyes we will gaze with our own eyes full on your glory never have to look away in a little while a little while verse 2 in a little while therell be no more sin in a little while in a little while our joy will never end in a little while bridge these momentary light afflictions they are storing up for us a glorious weight we cant imagine kept in heaven by god for us repeat</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>116</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:15:14</created>
+		<modified>2009-03-20 09:15:14</modified>
+		<creator>1543</creator>
+		<ccli>5023682</ccli>
+		<album>In A Little While</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

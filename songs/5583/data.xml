@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5583</id>
+		<songbook_id>21</songbook_id>
+		<title>Rock Of Ages (Traditional)</title>
+		<copyright>Words and Music by Augustus Toplady     Public domain</copyright>
+		<created>2008-09-25 14:58:42</created>
+		<modified>2017-03-08 20:34:01</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6314</id>
+		<song_id>5583</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+Rock of [A]Ages, [D]cleft for [A]me, let me [A]hide my[E]self in [A]Thee
+[E]Let the [E]water [E7]and the [A]blood, [E]from Thy [Bm]wounded [E7]side which [F#m]flowed
+Be of [A]sin the [D]double [A]cure, save from [F#m]wrath and [E]make me [A]pure
+
+
+Verse 2:
+Not the [A]labors [D]of my [A]hands, can ful[A]fill Thy [E]law’s de[A]mands
+[E]Could my [E]zeal no [E7]respite [A]know, [E]could my [Bm]tears for[E7]ever [F#m]flow
+All for [A]sin could [D]not a[A]tone, Thou must [F#m]save, and [E]Thou a[A]lone
+
+
+Verse 3:
+Nothing [A]in my [D]hand I [A]bring, simply [A]to the [E]cross I [A]cling
+[E]Naked [E]come to [E7]Thee for [A]dress, [E]helpless [Bm]look to [E7]Thee for [F#m]grace
+Foul I [A]to the [D]fountain [A]fly, wash me [F#m]Savior, [E]or I [A]die        
+
+
+Verse 4:
+While I [A]draw this [D]fleeting [A]breath, when my [A]eyes shall [E]close in [A]death
+[E]When I [E]soar to [E7]worlds un[A]known, [E]see Thee [Bm]on Thy [E7]judgment [F#m]throne, 
+Rock of [A]Ages, [D]cleft for [A]me, let me [F#m]hide my[E]self in [A]Thee</text>
+		<searchtext>verse 1 rock of ages cleft for me let me hide myself in thee let the water and the blood from thy wounded side which flowed be of sin the double cure save from wrath and make me pure verse 2 not the labors of my hands can fulfill thy laws demands could my zeal no respite know could my tears forever flow all for sin could not atone thou must save and thou alone verse 3 nothing in my hand i bring simply to the cross i cling naked come to thee for dress helpless look to thee for grace foul i to the fountain fly wash me savior or i die verse 4 while i draw this fleeting breath when my eyes shall close in death when i soar to worlds unknown see thee on thy judgment throne rock of ages cleft for me let me hide myself in thee</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>3/4</time_signature>
+		<bpm>69</bpm>
+		<tempo>Slow</tempo>
+		<created>2008-09-25 14:58:42</created>
+		<modified>2017-03-08 20:34:01</modified>
+		<creator>1543</creator>
+		<ccli>40588</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>2355</id>
+		<songbook_id>21</songbook_id>
+		<text>Good Friday</text>
+	</Keyword>
+</data>
+

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>33268</id>
+		<songbook_id>21</songbook_id>
+		<title>You Are My King</title>
+		<copyright>Words and music by Billy James Foote © 1997 worshiptogether.com songs. All rights reserved. Used by permission.</copyright>
+		<created>2010-03-26 00:44:32</created>
+		<modified>2015-03-13 22:05:22</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>65866</id>
+		<song_id>33268</song_id>
+		<description>Chorus &amp; Bridge Only </description>
+		<text>
+CHORUS:
+[E]  Amazing l[E/G#]ove, ho[A]w can it be
+[E]  That You, my King, would die for m[Bsus - B - A/B]e
+[E]  Amazing l[E/G#]ove, I[A] know it’s true
+[E]  It is my joy to honor You[Bsus]
+In all I [A]do  [B]    I honor yo[E]u
+
+
+BRIDGE:
+[E]You are my King
+[E]You are my King
+[E]Jesus, You are my King
+[E]Jesus, You are my King</text>
+		<searchtext> chorus amazing love how can it be that you my king would die for me amazing love i know its true it is my joy to honor you in all i do i honor you bridge you are my king you are my king jesus you are my king jesus you are my king</searchtext>
+		<primary>0</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2014-09-20 16:29:41</created>
+		<modified>2014-09-20 16:29:41</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>18</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>69620</id>
+		<song_id>33268</song_id>
+		<description>Good Friday - Amazing Love chorus</description>
+		<text>VERSE:
+[E/G#]    I’m forg[A2]iven bec[Bsus]ause you were fors[B]aken
+[E/G#]    I’m acc[A2]epted; [Bsus]  you were cond[B]emned
+[E/G#]    I’m al[A2]ive and well, Your [Bsus]Spirit is with[B]in me
+Bec[A2]ause you d[B]ied and rose ag[E]ain
+
+
+CHORUS:
+[E]  Amazing l[E/G#]ove, ho[A]w can it be
+[E]  That You, my King, would die for m[Bsus - B - A/B]e
+[E]  Amazing l[E/G#]ove, I[A] know it’s true
+[E]  It is my joy to honor You[Bsus]
+In all I [A]do  [B]    I honor yo[E]u
+
+CHORUS: 
+A[E]mazing [B]love how [A]can [A/F#]it [E]be  [E/G#]
+That [A]Thou [A/F#]my [E]God [A/F#]should’st [A/B]die [B]for [E]me   [A]    [E]    [A] 
+
+
+BRIDGE:
+[E]You are my King
+[E]You are my King
+[E]Jesus, You are my King
+[E]Jesus, You are my King</text>
+		<searchtext>verse im forgiven because you were forsaken im accepted you were condemned im alive and well your spirit is within me because you died and rose again chorus amazing love how can it be that you my king would die for me amazing love i know its true it is my joy to honor you in all i do i honor you chorus amazing love how can it be that thou my god shouldst die for me bridge you are my king you are my king jesus you are my king jesus you are my king</searchtext>
+		<primary>0</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2015-03-13 22:04:36</created>
+		<modified>2015-03-13 22:05:22</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>18</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>35518</id>
+		<song_id>33268</song_id>
+		<description>Initial arrangement</description>
+		<text>VERSE:
+[E/G#]    I’m forg[A2]iven bec[Bsus]ause you were fors[B]aken
+[E/G#]    I’m acc[A2]epted; [Bsus]  you were cond[B]emned
+[E/G#]    I’m al[A2]ive and well, Your [Bsus]Spirit is with[B]in me
+Bec[A2]ause you d[B]ied and rose ag[E]ain
+
+
+CHORUS:
+[E]  Amazing l[E/G#]ove, ho[A]w can it be
+[E]  That You, my King, would die for m[Bsus - B - A/B]e
+[E]  Amazing l[E/G#]ove, I[A] know it’s true
+[E]  It is my joy to honor You[Bsus]
+In all I [A]do  [B]    I honor yo[E]u
+
+
+BRIDGE:
+[E]You are my King
+[E]You are my King
+[E]Jesus, You are my King
+[E]Jesus, You are my King</text>
+		<searchtext>verse im forgiven because you were forsaken im accepted you were condemned im alive and well your spirit is within me because you died and rose again chorus amazing love how can it be that you my king would die for me amazing love i know its true it is my joy to honor you in all i do i honor you bridge you are my king you are my king jesus you are my king jesus you are my king</searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2010-03-26 00:44:32</created>
+		<modified>2014-09-20 16:29:18</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>18</font_size>
+	</Arrangement>
+</data>
+

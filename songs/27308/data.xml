@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>27308</id>
+		<songbook_id>21</songbook_id>
+		<title>Precious Children</title>
+		<copyright>Words &amp; Music by Joel Sczebel, Meghan Baird, and Abbott Jones     © 2009 Sovereign Grace Worship</copyright>
+		<created>2009-08-24 22:05:59</created>
+		<modified>2009-08-24 22:05:59</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>29082</id>
+		<song_id>27308</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[C2      | Em7      | C2      | Em7]
+
+Verse 1:
+[C2]  Broken and def[Em7]iled
+Clinging to our f[C2]ilth
+We gloried in our [Em7]shame
+Running far from [Fmaj7]You
+Still Your mercy [Am]sought and [C  Csus]saved [G]us
+
+Chorus:
+Halle[F]lu[C]jah
+We be[F]long [G]to [Am]You
+You have [F]washed our [C]stains
+And have [F]raised us [G]up with [Am]Christ
+Precious [F]children [G]in Your [C2]eyes [| Em7    | C2    | Em7]
+
+Turn:
+[||: Am    C2    | C2    G    :|| (to chorus)]
+
+Verse 2:
+[C2]   You gave Your only [Em7]Son
+Your joy and Your del[C2]ight
+You nailed Him to the [Em7]cross
+You crushed Him for our [Fmaj7]sin
+How could You love [Am]us{,} like You [C  Csus]love [G]Him</text>
+		<searchtext>intro verse 1 broken and defiled clinging to our filth we gloried in our shame running far from you still your mercy sought and saved us chorus hallelujah we belong to you you have washed our stains and have raised us up with christ precious children in your eyes turn verse 2 you gave your only son your joy and your delight you nailed him to the cross you crushed him for our sin how could you love us like you love him</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>78</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-08-24 22:05:59</created>
+		<modified>2009-08-24 22:05:59</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>Sons &amp; Daughters</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

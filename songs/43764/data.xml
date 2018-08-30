@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>43764</id>
+		<songbook_id>21</songbook_id>
+		<title>Z - Psalm 96:4-6 (ESV)</title>
+		<copyright></copyright>
+		<created>2011-11-25 16:29:14</created>
+		<modified>2011-11-25 16:36:04</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>47123</id>
+		<song_id>43764</song_id>
+		<description>Initial arrangement</description>
+		<text>Psalm 96:4-6
+
+Declare his glory among the nations,
+      his marvelous works among all the peoples!
+For great is the LORD, and greatly to be praised;
+      he is to be feared above all gods.
+For all the gods of the peoples are worthless idols,
+      but the LORD made the heavens.
+Splendor and majesty are before him;
+      strength and beauty are in his sanctuary.</text>
+		<searchtext>psalm 9646 declare his glory among the nations his marvelous works among all the peoples for great is the lord and greatly to be praised he is to be feared above all gods for all the gods of the peoples are worthless idols but the lord made the heavens splendor and majesty are before him strength and beauty are in his sanctuary</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2011-11-25 16:29:14</created>
+		<modified>2011-11-25 16:36:04</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>18</font_size>
+	</Arrangement>
+</data>
+

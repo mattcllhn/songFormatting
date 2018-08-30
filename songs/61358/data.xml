@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>61358</id>
+		<songbook_id>21</songbook_id>
+		<title>Before The Skies</title>
+		<copyright>Original words by Isaac Watts     Alt. and additional words and music by Doug Plank     © 2014 Sovereign Grace Worship</copyright>
+		<created>2014-11-29 12:14:17</created>
+		<modified>2014-11-29 12:14:17</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00NLNSC80&quot;,&quot;title&quot;:&quot;Before the Skies&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/5145fGL8PNL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>67133</id>
+		<song_id>61358</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[Bb     | F7    | Gm    | Eb]
+
+VERSE 1:
+Be[Bb]fore the skies were stretched abroad
+From [Eb]everlasting was the Word
+[Cm7]God was He; the Word was God{,} and [F]He must be adored
+[Bb]By the Word all came to be, the [Eb]universe and all contained
+[Cm7]Showing God’s authority, His [F]power and His reign
+
+CHORUS:
+[Bb]Glory, [F7]glory, [Gm]glory in the [Eb]highest
+[Bb]Glory, [F7]glory, [Gm]glory God is [Eb]with us, with [Eb]us [F   | Gm    F/A (to end:) Bb]
+
+VERSE 2:
+[Bb]Though His glories still proceed{,} [Eb]never changing from our Lord
+[Cm7]He laid down His majesty{,} and [F]took on human form
+[Bb]Mortals here beheld His face, the [Eb]Heav'nly Father's perfect Son
+[Cm7]Full of truth and full of grace;{,} the [F]Savior now has come!
+
+Verse 3:
+[Bb]He gave up His life in love{,} [Eb]so our lips could gladly tell
+[Cm7]Christ, the Word, has come to us,{,} our [F]Lord, Immanuel</text>
+		<searchtext>intro verse 1 before the skies were stretched abroad from everlasting was the word god was he the word was god and he must be adored by the word all came to be the universe and all contained showing gods authority his power and his reign chorus glory glory glory in the highest glory glory glory god is with us with us verse 2 though his glories still proceed never changing from our lord he laid down his majesty and took on human form mortals here beheld his face the heavnly fathers perfect son full of truth and full of grace the savior now has come verse 3 he gave up his life in love so our lips could gladly tell christ the word has come to us our lord immanuel</searchtext>
+		<primary>1</primary>
+		<key>Bb</key>
+		<time_signature>4/4</time_signature>
+		<bpm>65</bpm>
+		<tempo>Slow</tempo>
+		<created>2014-11-29 12:14:17</created>
+		<modified>2014-11-29 12:14:17</modified>
+		<creator>1546</creator>
+		<ccli>7031875</ccli>
+		<album>Prepare Him Room</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

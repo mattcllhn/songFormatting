@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14876</id>
+		<songbook_id>21</songbook_id>
+		<title>Who Made Me To Know You</title>
+		<copyright>Words and Music by Pat Sczebel      © 2005 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:14:55</created>
+		<modified>2009-03-20 09:14:55</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BOTX70&quot;,&quot;title&quot;:&quot;Who Made Me to Know You&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51ASvkc53%2BL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16004</id>
+		<song_id>14876</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[| G     | Gsus4     | Em7     | C    D/C    | C]
+
+Verse 1:
+Who made me to [C2]know You, but [G2/B]You
+[G/B]When dead in sin You [C2]gave me new [D]life
+Now my heart is [C2]filled{,} with love for [G2/B]You, [G/B] [C2]Jesus
+
+Chorus:
+[G]Fa[G2]ther, [D/C]thank [C]You{,} for Your [G2/B]Spirit’s work in m[C  C2  C]e
+For [Em7]o[D/E]pen-ing [D/C]my [C2]eyes{,} to the [G/B]Christ of Calvar[C]y
+Je[D]sus, You gave Your [C]life{,} [D]in exchange for [C/E]mine
+Now [D]I will live for [C]You who [D/C]died, [C] [ ]Jesus
+
+Turn:
+[G   G2   | D/E   C/E     | Em7   D/E     | C   D/C     | C]
+
+Verse 2:
+You placed a crown of [C2]grace on my [G/B]head
+[G/B]You covered me in [C2]robes of righteous[D]ness
+Forever I will [C2]always be [G2/B]Yours, [G/B] [C2]Jesus</text>
+		<searchtext>intro verse 1 who made me to know you but you when dead in sin you gave me new life now my heart is filled with love for you jesus chorus father thank you for your spirits work in me for opening my eyes to the christ of calvary jesus you gave your life in exchange for mine now i will live for you who died jesus turn verse 2 you placed a crown of grace on my head you covered me in robes of righteousness forever i will always be yours jesus</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>90</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:14:55</created>
+		<modified>2009-03-20 09:14:55</modified>
+		<creator>1543</creator>
+		<ccli>4804307</ccli>
+		<album>Valley Of Vision</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

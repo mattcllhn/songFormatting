@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>15003</id>
+		<songbook_id>21</songbook_id>
+		<title>Forever God</title>
+		<copyright>Words &amp; Music by Doug Plank     © 2004 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:12</created>
+		<modified>2009-03-20 09:15:12</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00104M9EA&quot;,&quot;title&quot;:&quot;Forever God&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61uXihJYOlL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16144</id>
+		<song_id>15003</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[A2]   You were God all yesterday, always
+[A2]   You are God still here today, to stay
+With [D]You there’s no beginning
+With [D]You there is no ending
+For[A2]ever You remain unchanged
+And [B]though all else will [B7]fade
+[E]You will be the sa[| E7     |]me
+
+Chorus:
+You go [D]on and on and on and on
+And [A2]on and on and on and on
+[D]On and on and on and on
+For[B7]ever, [E7]You are [A2     | A2    | A2    | A2    |]God
+
+Verse 2:
+[A2]   Seasons change{,} and time goes past so fast
+[A2]   Everything my eyes can see won’t last
+But [D]You will not be shaken
+[D]You’re our Rock in heaven
+For[A2]ever You remain unchanged
+And [B]though all else will [B7]fade
+[E]You will be the sa[| E7     |]me</text>
+		<searchtext>verse 1 you were god all yesterday always you are god still here today to stay with you theres no beginning with you there is no ending forever you remain unchanged and though all else will fade you will be the same chorus you go on and on and on and on and on and on and on and on on and on and on and on forever you are god verse 2 seasons change and time goes past so fast everything my eyes can see wont last but you will not be shaken youre our rock in heaven forever you remain unchanged and though all else will fade you will be the same</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>120</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:12</created>
+		<modified>2009-03-20 09:15:12</modified>
+		<creator>1543</creator>
+		<ccli>4520014</ccli>
+		<album>Awesome God</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

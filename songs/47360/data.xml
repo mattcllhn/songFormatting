@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>47360</id>
+		<songbook_id>21</songbook_id>
+		<title>More Love to Thee</title>
+		<copyright>Elizabeth P. Prentiss | Fernando Ortega | William Howard Doane © 2004 Curb Songs, Cerdo Verde Music (Admin. by Curb Records)</copyright>
+		<created>2012-05-20 00:10:09</created>
+		<modified>2012-12-29 15:25:57</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>51064</id>
+		<song_id>47360</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[G]More love to Thee O Christ, [G]more love to Th[D]ee
+[G]Hear Thou the prayer I make [D]on bended k[G]nee
+[C]This is my [G]earnest plea
+[D]More love O C[Em]hrist to Thee
+[C]More love to T[G]hee
+[D]More love to [G]Thee
+
+Verse 2:
+[G]Once earthly joy I craved [G]sought peace and r[D]est
+[G]Now Thee alone I seek, [D]give what is [G] best
+[C]This all my prayer shall be
+[D]More love O C[Em]hrist to Thee
+[C]More love to T[G]hee
+[D]More love to T[G]hee
+
+Verse 3:
+[G]Then shall my latest breath [G]whisper Thy p[D]raise
+[G]This be the parting cry [D]my heart shall r[G]aise
+[C]This still my p[G]rayer shall be
+[D]More love O C[Em]hrist to Thee
+[C]More love to T[G]hee
+[D]More love to T[G]hee</text>
+		<searchtext>verse 1 more love to thee o christ more love to thee hear thou the prayer i make on bended knee this is my earnest plea more love o christ to thee more love to thee more love to thee verse 2 once earthly joy i craved sought peace and rest now thee alone i seek give what is best this all my prayer shall be more love o christ to thee more love to thee more love to thee verse 3 then shall my latest breath whisper thy praise this be the parting cry my heart shall raise this still my prayer shall be more love o christ to thee more love to thee more love to thee</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2012-05-20 00:10:09</created>
+		<modified>2012-05-20 00:53:25</modified>
+		<creator>1546</creator>
+		<ccli>4460961</ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>55051</id>
+		<song_id>47360</song_id>
+		<description>Medley with More Love, More Power</description>
+		<text>
+
+Verse 1: 
+[G]More love to Thee O Christ, [G]more love to Th[D]ee
+[G]Hear Thou the prayer I make [D]on bended k[G]nee
+[C]This is my [G]earnest plea
+[D]More love O C[Em]hrist to Thee
+[C]More love to T[G]hee
+[D]More love to [G]Thee
+
+
+VERSE: 
+[Em]      More love,  [Cmaj7]       more power
+[D]     More of [Bm7]You in my[Em]   life.   [D] 
+[Em]      More love,  [Cmaj7]       more power
+[D]     More of [Bm7]You in my[Em]   life.  
+
+CHORUS: 
+I will worship [Am7]You with all of my [Em]heart,
+I will worship [Am7]You with all of my [Em]mind,
+I will worship [Am7]You with all of my st[Em]rength,
+For you are my [Cmaj7]Lord.  [Bm7] 
+
+ENDING: 
+You are my [Cmaj7]Lord   [D] 
+You are my [Em]Lord. [Cmaj7   |   D   Bm7  |  Em  |  Emaj  |] 
+
+
+{new_page}
+{key:A}
+Verse 2: 
+[A]Once earthly joy I craved [A]sought peace and r[E]est
+[A]Now Thee alone I seek, [E]give what is [A] best
+[D]This all my prayer shall be
+[E]More love O C[F#m]hrist to Thee
+[D]More love to T[A]hee
+[E]More love to T[A]hee</text>
+		<searchtext> verse 1 more love to thee o christ more love to thee hear thou the prayer i make on bended knee this is my earnest plea more love o christ to thee more love to thee more love to thee verse more love more power more of you in my life more love more power more of you in my life chorus i will worship you with all of my heart i will worship you with all of my mind i will worship you with all of my strength for you are my lord ending you are my lord you are my lord verse 2 once earthly joy i craved sought peace and rest now thee alone i seek give what is best this all my prayer shall be more love o christ to thee more love to thee more love to thee</searchtext>
+		<primary>0</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2012-12-29 15:17:03</created>
+		<modified>2012-12-29 15:25:57</modified>
+		<creator>1546</creator>
+		<ccli>4460961</ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

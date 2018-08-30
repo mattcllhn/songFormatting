@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>66055</id>
+		<songbook_id>21</songbook_id>
+		<title>Auld Lang Syne</title>
+		<copyright>Public Domain</copyright>
+		<created>2015-12-31 17:34:56</created>
+		<modified>2015-12-31 17:37:33</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>72563</id>
+		<song_id>66055</song_id>
+		<description>Initial arrangement</description>
+		<text>
+
+Verse 1: 
+Should auld acquaintance be forgot, 
+And never brought to mind?
+Should auld acquaintance be forgot, 
+And auld lang syne. (And long, long ago)
+
+Chorus: 
+For auld lang syne, my jo, (my dear)
+For auld lang syne, 
+We'll tak a cup o' kindness yet, 
+For auld lang syne, 
+
+Verse 2: 
+And surely ye'll be your pint-stowp! (you’ll buy your pint-jug!)
+And surely I'll be mine! (I'll buy mine!)
+And we'll tak a cup o' kindness yet, 
+For auld lang syne. 
+
+Verse 3: 
+We twa hae run abūt the braes (We two have run about the hills)
+And pū'd the gowans fine; (And pulled the daisies fine)
+But we've wander'd mōny a weary fit (many a weary foot)
+Sin auld lang syne. 
+
+Verse 4: 
+We twa hae paidl'd i' the burn, (We two have paddled in the stream)
+Frae mornin' sun till dine; *(From morn till dinner-time)
+But seas between us braid hae roar'd (broad have roared)
+Sin auld lang syne. 
+
+Verse 5: 
+And there's a hand, my trusty fiere! (my trusty friend!)
+And gie's a hand o' thine! (And give us a hand of yours!)
+And we'll tak a right guid willy waught, (a deep draught of good-will)
+For auld lang syne. 
+</text>
+		<searchtext> verse 1 should auld acquaintance be forgot and never brought to mind should auld acquaintance be forgot and auld lang syne and long long ago chorus for auld lang syne my jo my dear for auld lang syne well tak a cup o kindness yet for auld lang syne verse 2 and surely yell be your pintstowp youll buy your pintjug and surely ill be mine ill buy mine and well tak a cup o kindness yet for auld lang syne verse 3 we twa hae run abūt the braes we two have run about the hills and pūd the gowans fine and pulled the daisies fine but weve wanderd mōny a weary fit many a weary foot sin auld lang syne verse 4 we twa hae paidld i the burn we two have paddled in the stream frae mornin sun till dine from morn till dinnertime but seas between us braid hae roard broad have roared sin auld lang syne verse 5 and theres a hand my trusty fiere my trusty friend and gies a hand o thine and give us a hand of yours and well tak a right guid willy waught a deep draught of goodwill for auld lang syne </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2015-12-31 17:34:56</created>
+		<modified>2015-12-31 17:37:33</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

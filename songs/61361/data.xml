@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>61361</id>
+		<songbook_id>21</songbook_id>
+		<title>There Blooms A Rose In Bethlehem</title>
+		<copyright>Words and Music by Neil DeGraide     © 2014 Sovereign Grace Worship</copyright>
+		<created>2014-11-29 12:14:18</created>
+		<modified>2014-11-29 12:14:18</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00NLNSEAG&quot;,&quot;title&quot;:&quot;There Blooms a Rose in Bethlehem&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/5145fGL8PNL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>67136</id>
+		<song_id>61361</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[||: E     | E   F#m  | C#m     | C#m   A  :||]
+
+VERSE 1:
+There [C#m]blooms a [G#m]rose in [A]Bethle[E]hem, from [F#m]tender stem [E/G#]hath [A]sprung
+Of [C#m]Jesse's [G#m]line this [A]flower [E]grows{,} as [F#m]men of [F#7]old have [B]sung
+I[B7/D#]saiah told us [Esus]long a[E]go{,} a[G#7]bout this rose we’d [C#m]find [A]
+In [E]virgin [G#m]arms, we [A]shall be[E]hold{,} the [A6]Savior [Bsus]of mankind [E (intro)]
+
+VERSE 2:
+The [C#m]glories [G#m]of the [A]hea[E]vens{,} sur[F#m]rounded shep[E/G#]herds [A]bright
+The [C#m]angels [G#m]sang, a [A]sign was [E]shown, the [F#m]Christ was [F#7]born that [B]night
+What [B7/D#]mystery they [Esus]came u[E]pon, the [G#7]sign the heralds [C#m]laud [A]
+In m[E]anger s[G#m]lept the [A]Holy [E]One, in [A6]flesh, the [Bsus]Son of [E]God
+
+INSTR:
+[E    | E   F#m  | C#m   G#m   | A   E   | C#m   G#m   | A   E   |]
+
+[C#m   G#m   | A   E   | Amaj7     | A6]
+
+VERSE 3:
+This [E]flow'r in [G#m/D#]bloom, a [A/C#]scent so [E/B]sweet{,} that [A]greets us in [E/G#]the  [A]air
+It [C#m]has dis[G#m]pelled with [A]hopeful[E]ness{,} the [F#m]sting of [F#7]death’s de[B]spair
+Fore[B/D#]told, this rose was [Esus]born to [E]die, but [G#7]would not see de[C#m]cay [A]
+So [E]those who [G#m]place their [A]faith in [E]Him
+Shall [A]blossom [B]from the [C#m]grave [A]
+
+TAG:
+So [E]those who [G#m]place their [A]faith in [E]Him
+Shall [A]blossom [B]from the [E]grave [(intro)]
+
+</text>
+		<searchtext>intro verse 1 there blooms a rose in bethlehem from tender stem hath sprung of jesses line this flower grows as men of old have sung isaiah told us long ago about this rose wed find in virgin arms we shall behold the savior of mankind verse 2 the glories of the heavens surrounded shepherds bright the angels sang a sign was shown the christ was born that night what mystery they came upon the sign the heralds laud in manger slept the holy one in flesh the son of god instr verse 3 this flowr in bloom a scent so sweet that greets us in the air it has dispelled with hopefulness the sting of deaths despair foretold this rose was born to die but would not see decay so those who place their faith in him shall blossom from the grave tag so those who place their faith in him shall blossom from the grave </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>88</bpm>
+		<tempo>Slow</tempo>
+		<created>2014-11-29 12:14:18</created>
+		<modified>2014-11-29 12:14:18</modified>
+		<creator>1546</creator>
+		<ccli>7031878</ccli>
+		<album>Prepare Him Room</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>35753</id>
+		<songbook_id>21</songbook_id>
+		<title>Majesty</title>
+		<copyright>Martin Smith | Stuart Garrard © 2003, 2004 Curious? Music UK (Admin. by EMI Christian Music Publishing)</copyright>
+		<created>2010-10-04 18:22:48</created>
+		<modified>2011-02-04 17:18:24</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>38263</id>
+		<song_id>35753</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+H[Am]ere I [Fmaj7]am
+H[C/E]umbled by Your maje[Fmaj7]sty
+Co[C/E]vered by Your grace so f[G/B]ree  [E/G#]
+H[Am]ere I [Fmaj7]am
+Kn[C/E]owing I'm a sinful [Fmaj7]man
+Co[C/E]vered by the blood of the L[G/B]amb  [E/G#]
+
+PRE-CHORUS:
+N[Am]ow   [G/B]I've fo[C]und the greatest love of [Am]all  [G/B]is   m[C]ine
+Since You laid down Your l[D/F#]ife
+The greatest sacrif[F]ice  [G7/F    F    G7/F]
+
+Chorus 1:
+M[C]ajes[G]ty m[Am]ajes[F]ty
+Your gr[C]ace has found me just as I [G]am
+Empty-h[Am]anded but alive in Your h[F]ands
+
+Verse 2:
+H[Am]ere I [Fmaj7]am
+H[C/E]umbled by the love that You g[Fmaj7]ive
+Forg[C/E]iven so that I can forg[G/B]ive  [E/G#]
+H[Am]ere I [Fmaj7]stand
+K[C/E]nowing that I'm Your de[Fmaj7]sire
+S[C/E]anctified by glory and f[G/B]ire  [E/G#]
+
+Chorus 2:
+M[C]ajes[G]ty m[Am]ajes[F]ty
+For[C]ever I am changed by Your l[G]ove
+In the pres[Am]ence of Your maje[Fmaj7]sty majesty</text>
+		<searchtext>verse 1 here i am humbled by your majesty covered by your grace so free here i am knowing im a sinful man covered by the blood of the lamb prechorus now ive found the greatest love of all is mine since you laid down your life the greatest sacrifice chorus 1 majesty majesty your grace has found me just as i am emptyhanded but alive in your hands verse 2 here i am humbled by the love that you give forgiven so that i can forgive here i stand knowing that im your desire sanctified by glory and fire chorus 2 majesty majesty forever i am changed by your love in the presence of your majesty majesty</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>68</bpm>
+		<tempo>Medium</tempo>
+		<created>2010-10-04 18:22:48</created>
+		<modified>2011-02-04 17:18:24</modified>
+		<creator>1546</creator>
+		<ccli>4219071</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

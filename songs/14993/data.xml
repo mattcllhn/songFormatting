@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14993</id>
+		<songbook_id>21</songbook_id>
+		<title>Haven't You Been Good</title>
+		<copyright>Words &amp; Music by Steve Earl     © 1998 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:11</created>
+		<modified>2009-03-20 09:15:11</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BVDPDG&quot;,&quot;title&quot;:&quot;Haven't You Been Good&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51FHJmKXExL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16134</id>
+		<song_id>14993</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[| G   G/D   Eb+5 | C      | G   G/D   F | F      | G    C   |]
+
+Verse 1:
+[G]  Thank You for the [D/F#]cross
+[Em]  Thank You Lord for [C]drawing me
+[G]  Out of millions [D/F#]lost
+[Em]  Thank You Lord for [C]saving me
+[Am]  Haven't You been [Dsus    D]good
+[Am]  Haven't You been [C]so good? [D]
+
+Chorus:
+[G]  Glory to Your [D]name
+[Am]  Glory to Your [C]holy [Dsus   D]name
+[G]  Thankfulness and [D]praise
+[Am]  For grace and mercy [C]never [Dsus]chang[D]ing
+[Am]  Haven't You been [Dsus   D]good
+[Am]  Haven't You been [Dsus]so go[D]od to [| G   G/D   Eb+5 | C     | G    F  | F]me
+
+Verse 2:
+[G]  Favor on my [D/F#]life
+[Em]  Always watching [C]over me
+[G]  My darkness turned to [D/F#]light
+[Em]  And heaven’s arms en[C]folding me
+[Am]  Haven’t You been [Dsus   D]good
+[Am]  Haven’t You been [C]so goo[D (to chorus)]d
+
+Tag:
+[| G   G/D   Eb+5 | C      | G   G/D   F | F      | G     |]</text>
+		<searchtext>intro verse 1 thank you for the cross thank you lord for drawing me out of millions lost thank you lord for saving me havent you been good havent you been so good chorus glory to your name glory to your holy name thankfulness and praise for grace and mercy never changing havent you been good havent you been so good to me verse 2 favor on my life always watching over me my darkness turned to light and heavens arms enfolding me havent you been good havent you been so good tag </searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>92</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:11</created>
+		<modified>2009-03-20 09:15:11</modified>
+		<creator>1543</creator>
+		<ccli>2561817</ccli>
+		<album>I Stand In Awe</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

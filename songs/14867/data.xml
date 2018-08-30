@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14867</id>
+		<songbook_id>21</songbook_id>
+		<title>Christ The Lord Is Born Today</title>
+		<copyright>Words and Music by Mark Altrogge     © 2006 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2009-03-20 09:14:54</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0012AMDJS&quot;,&quot;title&quot;:&quot;Christ the Lord Is Born Today&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61AitRsTtfL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>15995</id>
+		<song_id>14867</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: G    D/G    | C2/G    D/G    :||]
+
+Verse 1:
+[G]How my [D/G]happy [C2/G]heart re[D/G]joices
+[G]I can [D/G]hear the [C2/G]angel [D/G]voices
+[C2]&quot;Christ is [D/C]born&quot; they [C2]all are [D/C]singing
+[Am7]From the [D/A]sky this [Am7]good news [D/A]bring[Am7]ing
+[D]Let the [G/B]earth re[C]joice, O [D]come and [G/B]lift your [C]voi[Dsus4]ces
+
+Chorus:
+[C2]Christ the Lord is [G]born today, He [C2]came from heaven's [G]throne
+[C2]God is born a [G]man today, to [C]bring His [G/B]children [Dsus4]home
+To [C]bring His [G/B]children[Dsus4] [ ]home
+
+Verse 2:
+[G]Death and [D/G]darkness [C2/G]surely [D/G]tremble
+[G]Light has [D/G]come to [C2/G]all the [D/G]people
+The [C2]Lion [D/C]comes to [C2]crush the [D/C]serpent
+He [Am7]comes a [D/A]Lamb, a [Am7]lowly [D/A]ser[Am7]vant
+[D]Let the [G/B]earth re[C]joice, O [D]come and [G/B]lift your [C]voi[Dsus4]ces
+
+Verse 3:
+[G]God has [D/G]sent His [C2/G]greatest [D/G]treasure
+[G]Shown His [D/G]love in [C2/G]greatest [D/G]measure
+[C2]Sending [D/C]Christ to [C2]bleed and [D/C]suffer
+[Am7]Purchas[D/A]ing our [Am7]joy for[D/A]ev[Am7]er
+[D]Let the [G/B]earth re[C]joice, O [D]come and [G/B]lift your [C]voi[Dsus4]ces</text>
+		<searchtext>intro verse 1 how my happy heart rejoices i can hear the angel voices christ is born they all are singing from the sky this good news bringing let the earth rejoice o come and lift your voices chorus christ the lord is born today he came from heavens throne god is born a man today to bring his children home to bring his children home verse 2 death and darkness surely tremble light has come to all the people the lion comes to crush the serpent he comes a lamb a lowly servant let the earth rejoice o come and lift your voices verse 3 god has sent his greatest treasure shown his love in greatest measure sending christ to bleed and suffer purchasing our joy forever let the earth rejoice o come and lift your voices</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>92</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2009-03-20 09:14:54</modified>
+		<creator>1543</creator>
+		<ccli>4866187</ccli>
+		<album>Savior</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

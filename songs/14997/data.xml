@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14997</id>
+		<songbook_id>21</songbook_id>
+		<title>You Are Lord</title>
+		<copyright>Words &amp; Music by Bob Kauflin     © 1993 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:12</created>
+		<modified>2009-03-20 09:15:12</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BVHJLU&quot;,&quot;title&quot;:&quot;You Are Lord&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51FHJmKXExL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16138</id>
+		<song_id>14997</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro: 
+[| Dm    Dm/C    | G       | Dm       | Gsus    G    |]
+
+Verse 1: 
+[Dm]Once we were [Dm/C]sepa[G7sus4]rated,{,}[G7] [ ]di[Dm]vided by [Dm/C]walls of [G7sus4   G7]sin
+[Gm]Hating and [Gm/F]being [Csus]ha[C]ted,{,} [Gm]ruled by our [Gm/F]pride [Csus   C]within
+Then [Dm]You [Dm/C]took upon Your[G7sus4]self, [ ]the [G7]guilt of ev’ry [Bb2]heart
+And [F]though we were [Asus4]blind,{,} now [A]we can [Bb]see
+There [F/A]is no [Eb/G]other [Bb/F]Saviour but [Bb2   F/A]You
+And You’ve [Gm]brought us to[Bb2]gether
+
+
+Chorus: 
+[F]You are [C]Lord of [Bb]ev’ry [C]nation
+[Dm]You are [C]Lord of ev’ry [Bb2]tribe and [C]race
+And [Dm]by Your [C]blood{,} we’ve re[Bb2]ceived sal[C]vation
+So that [Gm]we can join toge[Dm]ther
+And [Gm]worship You as [C]one
+And [Gm]glorify Your [Bb2]name until You [Dm    | C/D   | Bb2/D   | C/D   |]come
+
+
+Verse 2: 
+[Dm]Different [Dm/C]names and [G7sus4]fac[G7]es, [Dm]each one by [Dm/C]Your de[G7sus4  G7]sign
+[Gm]Gathered from [Gm/F]ev’ry [Csus]na[C]tion, [Gm]taken from [Gm/F]ev’ry [Csus  C]time
+To [Dm]be a [Dm/C]kingdom of Your [G7sus4]own, [ ]to [G7]serve You without [Bb2]end
+[F]And to re[Asus4]flect Your [A]perfect [Bb]light
+For [F/A]all who [Eb/G]live in [Bb/F]darkness and [Bb2    F/A]pain
+So the [Gm]whole world might[Bb] know that... [(to chorus)]</text>
+		<searchtext>intro verse 1 once we were separated divided by walls of sin hating and being hated ruled by our pride within then you took upon yourself the guilt of evry heart and though we were blind now we can see there is no other saviour but you and youve brought us together chorus you are lord of evry nation you are lord of evry tribe and race and by your blood weve received salvation so that we can join together and worship you as one and glorify your name until you come verse 2 different names and faces each one by your design gathered from evry nation taken from evry time to be a kingdom of your own to serve you without end and to reflect your perfect light for all who live in darkness and pain so the whole world might know that </searchtext>
+		<primary>1</primary>
+		<key>F</key>
+		<time_signature>4/4</time_signature>
+		<bpm>79</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:15:12</created>
+		<modified>2009-03-20 09:15:12</modified>
+		<creator>1543</creator>
+		<ccli>1312617</ccli>
+		<album>I Stand In Awe</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

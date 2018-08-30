@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>61364</id>
+		<songbook_id>21</songbook_id>
+		<title>Hark The Herald Angels Sing</title>
+		<copyright>Words by Charles Wesley     Music by Felix Mendelssohn     Additional words and music by David LaChance, Jr.     © 2014 Sovereign Grace Praise</copyright>
+		<created>2014-11-29 12:14:18</created>
+		<modified>2015-11-23 20:53:51</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00NLNSGQI&quot;,&quot;title&quot;:&quot;Hark! the Herald Angels Sing&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/5145fGL8PNL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>67139</id>
+		<song_id>61364</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro: 
+[||: E     A | G#m     B :||]
+
+Verse 1: 
+[E]Hark! the herald [C#m]angels [G#m]sing, [B] 
+“[E]Glory to the [C#m]newborn [G#m]King [B] 
+[A]Peace on earth, and [B]mercy [G#/B#]mild, [C#m] 
+[B/D#]God and sinners [D#]recon[G#m]ciled!”
+[G#m]Joyful, all ye [A]nations, [E]ris[B]e;
+[G#m]Join the triumph [A]of the [C#m]skies [B] 
+[A]With angelic [C#7b9]host pro[F#m]claim, [F#m/E] 
+“[B/D#]Christ is [E]born in [B#dim7]Bethleh[C#m]em!” [C#m/B] 
+
+Chorus: 
+[A]Hark! the herald [C#7b9]angels [F#m]sing,
+“[B#dim7]Glory  [E/B]to the [E/B]newb[B]orn K[E]in[(intro)]g!” [(To tag:) C#m] 
+
+Verse 2: 
+[E]Christ, by highest [C#m]Heav’n a[G#m]dored[B],
+[E]Christ the ever[C#m]lasting [G#m]Lord [B] 
+[A]Late in time, be[B]hold Him c[G#/C]ome, [C#m] 
+Off[B/D#]spring of a v[D#]irgin’s w[G#m]omb
+[G#m]Veiled in flesh the G[A]odhead s[E]ee; [B] 
+H[G#m]ail th’incarnate [A]Dei[E]ty [B] 
+[A]Pleased as man with [C#7b9]man to [F#m]dwell,[F#m/E] 
+J[B/D#]esus, [E]ou[B#dim7]r Emman[C#m]uel [C#m/B] 
+
+{new_page}
+Bridge: 
+[C#m]Glo[G#7]-[A]-ri[E]a [B (2x)] 
+[C#m]Glo[G#7]-[A]-ri[E]a [B7] 
+
+VERSE 3: 
+[E]Hail the heav'n-born [C#m]Prince of [G#m]Peace! [B] 
+[E]Hail the Sun of [C#m]Righteous[G#m]ness! [B] 
+[A]Light and life to [B]all He [G#/B#]brings, [C#m] 
+[B/D#]ris’n with healing [D#]in His [G#m]wings
+[G#m]Mild, He lays His [A]glory [E]by, [B] 
+[G#m]Born that man no [A]more may [C#m]die [B] 
+[A]Born to raise the [C#7b9]sons of [F#m]earth[F#m/E],
+[B/D#]Born to [E]give them [B#dim7]second [C#m]birth [C#m/B] 
+
+Tag: 
+[B#dim7]Glory  [E/B]to the [E/B]new–[B]born [E]King! [A | G#m     B | E] </text>
+		<searchtext>intro verse 1 hark the herald angels sing glory to the newborn king peace on earth and mercy mild god and sinners reconciled joyful all ye nations rise join the triumph of the skies with angelic host proclaim christ is born in bethlehem chorus hark the herald angels sing glory to the newborn king verse 2 christ by highest heavn adored christ the everlasting lord late in time behold him come offspring of a virgins womb veiled in flesh the godhead see hail thincarnate deity pleased as man with man to dwell jesus our emmanuel bridge gloria gloria verse 3 hail the heavnborn prince of peace hail the sun of righteousness light and life to all he brings risn with healing in his wings mild he lays his glory by born that man no more may die born to raise the sons of earth born to give them second birth tag glory to the newborn king </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>3/4</time_signature>
+		<bpm>60</bpm>
+		<tempo>Slow</tempo>
+		<created>2014-11-29 12:14:18</created>
+		<modified>2015-11-23 20:53:51</modified>
+		<creator>1546</creator>
+		<ccli>7031881</ccli>
+		<album>Prepare Him Room</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

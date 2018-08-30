@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14970</id>
+		<songbook_id>21</songbook_id>
+		<title>Your Holy Majesty</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2001 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:08</created>
+		<modified>2009-03-20 09:15:08</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0010V7AX8&quot;,&quot;title&quot;:&quot;Your Holy Majesty&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/41het-XU6lL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16111</id>
+		<song_id>14970</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[D]You are high above all [E7]things
+The heavens can’t con[G]tain
+Your radiance and Your [G/D]beau[D]ty
+[D]You shine brighter than the [E7]sun
+I’m ravished and un[Cmaj7]done
+You’ve conquered me com[G]plete[F]ly
+Now [Am]I am longing for the [D7sus]time{,} when I will see Your...
+
+Chorus:
+[G]Holy, [D]holy, [Am]majesty, Your [C2]glory and Your [Dsus]splen[D]dor
+[G]Holy [D]holy [Am]majesty, You [C2]fill my soul with [C2/B]wonder
+And un[Am]speakable de[Am/G]light
+At [Em]just the sight of Your [F2]holy [D7sus]majes[G     | Asus    A]ty
+
+Verse 2:
+[D]Why would You shed Your own [E7]blood
+For those who spurned Your [G]love
+And so many times re[G/D]fused Your [D]grace
+[D]Why would You take up our [E7]curse
+Why did You love us [Cmaj7]first
+Oh You deserve e[G]ternal [F]praise
+Now [Am]I am longing for the [D7sus]time{,} when I will see Your...</text>
+		<searchtext>verse 1 you are high above all things the heavens cant contain your radiance and your beauty you shine brighter than the sun im ravished and undone youve conquered me completely now i am longing for the time when i will see your chorus holy holy majesty your glory and your splendor holy holy majesty you fill my soul with wonder and unspeakable delight at just the sight of your holy majesty verse 2 why would you shed your own blood for those who spurned your love and so many times refused your grace why would you take up our curse why did you love us first oh you deserve eternal praise now i am longing for the time when i will see your</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>82</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:15:08</created>
+		<modified>2009-03-20 09:15:08</modified>
+		<creator>1543</creator>
+		<ccli>3337356</ccli>
+		<album>No Greater Love</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

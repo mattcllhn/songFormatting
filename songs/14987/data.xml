@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14987</id>
+		<songbook_id>21</songbook_id>
+		<title>For Your Glory Alone</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 1999 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:11</created>
+		<modified>2010-03-21 07:23:56</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00111XZPY&quot;,&quot;title&quot;:&quot;For Your Glory Alone&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51772JOjBtL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16128</id>
+		<song_id>14987</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+For every [Am]heart Your [G]cross red[C]eemed
+For every [Am]triumph [G]over [C]sin
+For every [Am]time You [G]gave us [C]strength
+For every [Em]time Your love broke in [G]
+For [F]every time You [Am]spared us
+And del[F]ivered us from [Am]death
+For [F]every escape from Satan’s [G]snares.
+
+Chorus:
+Let Your [F]victories [Am]be re[G]coun[C]ted
+Let Your [F]mighty [G]deeds be [C]sung
+Let Your [F]greatness [Am]be ex[G]al[C]ted, for Your [F]glo[C]ry al[G]one
+Let Your [F]victories [Am]be re[G]coun[C]ted
+Let Your [F]mighty [G]deeds be [C]sung
+Let your [F]greatness [Am]be ex[G]al[C]ted, for Your [F]glo[C]ry al[G]one [C]
+For Your [F]glo[G]ry al[Bb2]one.  [C]
+
+Verse 2:
+For every [Am]slave Your [G]pow’r has [C]freed
+For every [Am]sickness [G]You have [C]healed
+For every [Am]taste of [G]heaven’s [C]joy
+And for Your [Em]wondrous love rev[G]ealed
+For [F]grace that’s working [Am]in us
+And [F]bringing forth good [Am]fruit
+For [F]forming in us Your glorious [G]Son</text>
+		<searchtext>verse 1 for every heart your cross redeemed for every triumph over sin for every time you gave us strength for every time your love broke in for every time you spared us and delivered us from death for every escape from satans snares chorus let your victories be recounted let your mighty deeds be sung let your greatness be exalted for your glory alone let your victories be recounted let your mighty deeds be sung let your greatness be exalted for your glory alone for your glory alone verse 2 for every slave your powr has freed for every sickness you have healed for every taste of heavens joy and for your wondrous love revealed for grace thats working in us and bringing forth good fruit for forming in us your glorious son</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>132</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:11</created>
+		<modified>2010-03-21 07:23:56</modified>
+		<creator>1543</creator>
+		<ccli>2847517</ccli>
+		<album>Everlasting</album>
+		<font_size>15</font_size>
+	</Arrangement>
+</data>
+

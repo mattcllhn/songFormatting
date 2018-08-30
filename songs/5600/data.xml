@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5600</id>
+		<songbook_id>21</songbook_id>
+		<title>All Hail The Power Of Jesus' Name</title>
+		<copyright>Words &amp; Music by Edward Perronet and Oliver Holden     Public domain</copyright>
+		<created>2008-09-24 23:10:57</created>
+		<modified>2008-09-24 23:10:57</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6331</id>
+		<song_id>5600</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+All [G]hail the pow'r of  [D]Je[Em]sus' [D]name! [G]Let [D]an[Em]gels [G]pros[D]trate [G]fall;
+[D]Bring [G]forth [D]the [G]royal diadem,
+[D]And [G]crown [D/F#]Him [Em]Lord [A7]of [Dsus   D]all;
+[D]Bring [G]forth the royal [D]diadem,
+And [G/B]crown [C]Him [G]Lord[D]- of [G]all!
+
+Verse 2:
+Ye [G]chosen seed of [D]Is[Em]rael's [D]race, [G]ye [D]ran[Em]somed [G]from [D]the [G]fall,
+[D]Hail [G]Him [D]who [G]saves you by His grace,
+[D]And [G]crown [D/F#]Him [Em]Lord [A7]of [Dsus  D]all;
+[D]Hail [G]Him who saves you [D]by His grace, 
+And [G/B]crown [C]Him [G]Lord[D]- of [G]all!
+
+Verse 3:
+Let [G]ev'ry kindred, [D]ev'[Em]ry [D]tribe, [G]on [D]this [Em]ter[G]rest[D]rial [G]ball,
+[D]To [G]Him [D]all [G]majesty ascribe,
+[D]And [G]crown [D/F#]Him [Em]Lord [A7]of [Dsus  D]all;
+[D]To [G]Him all majes[D]ty ascribe,
+And [G/B]crown [C]Him [G]Lord[D]- of [G]all!
+
+Verse 4:
+O [G]that with yonder [D]sac[Em]red [D]throng, [G]we [D]at [Em]His [G]feet [D]may [G]fall!
+[D]We'll [G]join [D]the [G]everlasting song
+[D]And [G]crown [D/F#]Him [Em]Lord [A7]of [Dsus  D]all;
+[D]We'll [G]join the ever[D]lasting song
+And [G/B]crown [C]Him [G]Lord[D]- of [G]all!</text>
+		<searchtext>verse 1 all hail the powr of jesus name let angels prostrate fall bring forth the royal diadem and crown him lord of all bring forth the royal diadem and crown him lord of all verse 2 ye chosen seed of israels race ye ransomed from the fall hail him who saves you by his grace and crown him lord of all hail him who saves you by his grace and crown him lord of all verse 3 let evry kindred evry tribe on this terrestrial ball to him all majesty ascribe and crown him lord of all to him all majesty ascribe and crown him lord of all verse 4 o that with yonder sacred throng we at his feet may fall well join the everlasting song and crown him lord of all well join the everlasting song and crown him lord of all</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>124</bpm>
+		<tempo>Slow</tempo>
+		<created>2008-09-24 23:10:57</created>
+		<modified>2008-09-24 23:10:57</modified>
+		<creator>1543</creator>
+		<ccli>25400</ccli>
+		<album></album>
+		<font_size></font_size>
+	</Arrangement>
+</data>
+

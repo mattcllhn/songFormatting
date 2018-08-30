@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>33290</id>
+		<songbook_id>21</songbook_id>
+		<title>What Wondrous Love Is This?</title>
+		<copyright>American Folk Hymn. Lyrics attributed to Alexander Means. Tune: Wondrous Love. Public Domain.</copyright>
+		<created>2010-03-27 22:23:45</created>
+		<modified>2017-03-08 20:41:24</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>35541</id>
+		<song_id>33290</song_id>
+		<description>Initial arrangement</description>
+		<text>VERSE 1:
+[Dm]What wond[Am]rous [C]love [Em]is [Dm]this,
+[C]O my [Dm]soul! O my [C]soul!
+[F]What [C]wond[Bm]rous [Am]love [G]is [Am]this, [G]O [C]my [Dm]soul!
+[C]What [F]wond[C]rous [F]love [C]is [Dm]this
+That [C]caused [Am]the [Bm7]Lord [C]of [Dm]bliss
+To bear [Am]the d[Em]readful [Dm]curse,
+[C]For my [Dm]soul, for my [C]soul,
+[F]To [C]bear [Bm]the [Am]dread[G]ful [Am]curse, [G]for [C]my [Dm]soul.
+
+VERSE 2:
+When I was sinking down,
+Sinking down, sinking down,
+When I was sinking down, sinking down;
+When I was sinking down,
+Beneath God's righteous frown,
+Christ laid aside his crown,
+For my soul, for my soul,
+Christ laid aside his crown, for my soul.
+
+VERSE 3:
+To God, and to the Lamb,
+I will sing, I will sing,
+To God, and to the Lamb, I will sing;
+To God, and to the Lamb,
+Unto the great I AM,
+While millions join the theme,
+I will sing, I will sing,
+While millions join the theme, I will sing.
+
+VERSE 4:
+And when from death we're free,
+We'll sing on, we'll sing on,
+And when from death we're free, we'll sing on;
+And when from death we're free,
+We'll sing, and joyful be,
+And through eternity
+We'll sing on, we'll sing on,
+And through eternity we'll sing on.
+</text>
+		<searchtext>verse 1 what wondrous love is this o my soul o my soul what wondrous love is this o my soul what wondrous love is this that caused the lord of bliss to bear the dreadful curse for my soul for my soul to bear the dreadful curse for my soul verse 2 when i was sinking down sinking down sinking down when i was sinking down sinking down when i was sinking down beneath gods righteous frown christ laid aside his crown for my soul for my soul christ laid aside his crown for my soul verse 3 to god and to the lamb i will sing i will sing to god and to the lamb i will sing to god and to the lamb unto the great i am while millions join the theme i will sing i will sing while millions join the theme i will sing verse 4 and when from death were free well sing on well sing on and when from death were free well sing on and when from death were free well sing and joyful be and through eternity well sing on well sing on and through eternity well sing on </searchtext>
+		<primary>1</primary>
+		<key>Am</key>
+		<time_signature>2/2</time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2010-03-27 22:23:45</created>
+		<modified>2017-03-08 20:41:24</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>2355</id>
+		<songbook_id>21</songbook_id>
+		<text>Good Friday</text>
+	</Keyword>
+</data>
+

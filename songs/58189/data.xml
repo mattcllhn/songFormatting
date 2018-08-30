@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>58189</id>
+		<songbook_id>21</songbook_id>
+		<title>Wide as the Sky</title>
+		<copyright>Matt Redman</copyright>
+		<created>2014-04-10 22:38:33</created>
+		<modified>2015-06-21 09:51:35</modified>
+		<creator>1547</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>63485</id>
+		<song_id>58189</song_id>
+		<description>Initial arrangement</description>
+		<text>Chorus:
+[C2]   Hands [G]up hearts [Em7]open   [Dsus]wide   as the [C2]sky
+ We [G]lift You high[Em7],      we [Dsus]lift    You high
+ [C2]  Hands [G]up hearts [Em7]open   [Dsus]wide   as we [C2]cry
+ [G]  God we [Em7]lift   Your name [Dsus]high
+
+Verse:
+ [C2]    Let all the other names[Em7] fade   a[D]way [G/B]
+ [C2]    Let all the other names[Em7] fade   a[D]way
+ Until there’s [G/B]only [C2]You
+ Let all the other names [Em7]fade   [D]away
+ Jesus, [G/B]take Your [C2]place
+ Jesus, [Em7]take [D]Your place [G]
+
+Bridge:
+Our God [C2]we [G]lift You high [Em7]we [Dsus]lift You high
+[C2]Hands u[G]p God we li[Em7]Your name [Dsus]high
+Our God [C2]we [G]lift You high [Em7]we [Dsus]lift You high
+[C2]Hands u[G]p God we li[Em7]Your name [Dsus]high
+</text>
+		<searchtext>chorus hands up hearts open wide as the sky we lift you high we lift you high hands up hearts open wide as we cry god we lift your name high verse let all the other names fade away let all the other names fade away until theres only you let all the other names fade away jesus take your place jesus take your place bridge our god we lift you high we lift you high hands up god we liyour name high our god we lift you high we lift you high hands up god we liyour name high </searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2014-04-10 22:38:33</created>
+		<modified>2015-06-21 09:51:35</modified>
+		<creator>1547</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

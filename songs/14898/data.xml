@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14898</id>
+		<songbook_id>21</songbook_id>
+		<title>Joy In My Morning</title>
+		<copyright>Words &amp; Music by Peter Gagnon     © 2008 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:14:57</created>
+		<modified>2009-03-20 09:14:57</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BQQG0U&quot;,&quot;title&quot;:&quot;Joy in My Morning&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/519kK7bceBL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16026</id>
+		<song_id>14898</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[C2    | F2     | C2     | F2   (2x)]
+
+Verse 1:
+When darkness [C2]falls, temptations c[F2]all
+And all a[Csus]round [C] me [Am7]seems un[Gsus]done      [F]
+You hear my [C]pleas, supply my [F]needs
+And tell me [Dm7]of Your [C/E]wondrous [Gsus]love      [G]
+
+Chorus:
+[C]You are the j[C/E]oy in my [Fmaj7]morning
+[C] [ ]You're m[C/E]y song of [Fmaj7]praise
+[Am7]Just like the n[G6]ew day [Fmaj7]dawning
+[Dm7]Flooding my [F/C]world with [Gsus]grace[| G]
+
+Verse 2:
+Though trials [C2]come and every [F2]one
+Can take me [Csus C]further [Am7]from Your [Gsus]truth [F2]
+You calm my [C2]fears, dry all my [F2]tears
+And you draw me [Dm7]closer, [C/E]Lord, to [Gsus]You  [G]
+
+Bridge:
+In [Am7]You there's no shadow of turning
+[G6]Constant in all Your ways
+You're [Fmaj7]growing my faith{,} and I'm [Gsus]learning to lean 
+On [F/A]You all of my [Gsus]days   [G]</text>
+		<searchtext>intro verse 1 when darkness falls temptations call and all around me seems undone you hear my pleas supply my needs and tell me of your wondrous love chorus you are the joy in my morning youre my song of praise just like the new day dawning flooding my world with grace verse 2 though trials come and every one can take me further from your truth you calm my fears dry all my tears and you draw me closer lord to you bridge in you theres no shadow of turning constant in all your ways youre growing my faith and im learning to lean on you all of my days </searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>6/8</time_signature>
+		<bpm>145</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:14:57</created>
+		<modified>2009-03-20 09:14:57</modified>
+		<creator>1543</creator>
+		<ccli>5171572</ccli>
+		<album>Come Weary Saints</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

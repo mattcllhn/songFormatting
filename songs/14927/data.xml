@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14927</id>
+		<songbook_id>21</songbook_id>
+		<title>Receive The Glory</title>
+		<copyright>Words &amp; Music by Bob Kauflin     © 2004 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:01</created>
+		<modified>2009-08-30 06:57:43</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B000ZJSFJ4&quot;,&quot;title&quot;:&quot;Receive the Glory&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51CotfwF8BL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16061</id>
+		<song_id>14927</song_id>
+		<description>Initial arrangement</description>
+		<text>
+Chorus:
+[G]Not to [G/F#]us, but to Your [C/E]name al[G/D]one
+Be all the [C]glory, the [G/B]glory for[Am7]ever  [D/F#]
+[G]For Your [G/F#]faithfulness and [C/E]steadfast [Gmaj7/D]love
+Receive the [C]glory, the [G/B]glory
+[2/4]Bel[Am7]ongs [D]to [4/4][G]You.  [C/G]
+
+Verse 1:
+[G]All that we’ve accomplished{,} You have [C/G]done for us
+And [G]any fruit we harvest{,} is a [F2]gift from Your hand
+[Em]We are only [D]jars of clay
+That [C]hold a priceless [G/B]treasure
+And we ex[Am7]ist to bring You [Em7]pleasure, O [Dsus   D]God
+
+Verse 2:
+[G]Only by Your mercy can we [C/G]come to You
+Though [G]we deserved Your judgment
+You have [F2]called us by name
+So we [Em]glory in the [D]cross of Christ
+That [C]made us Yours for[G/B]ever
+That [Am]joined our lives toge[Em7]ther to si[Dsus     C/E D/F#]ng</text>
+		<searchtext> chorus not to us but to your name alone be all the glory the glory forever for your faithfulness and steadfast love receive the glory the glory belongs to you verse 1 all that weve accomplished you have done for us and any fruit we harvest is a gift from your hand we are only jars of clay that hold a priceless treasure and we exist to bring you pleasure o god verse 2 only by your mercy can we come to you though we deserved your judgment you have called us by name so we glory in the cross of christ that made us yours forever that joined our lives together to sing</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>120</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:01</created>
+		<modified>2009-08-30 06:57:43</modified>
+		<creator>1543</creator>
+		<ccli>4664262</ccli>
+		<album>Worship God Live</album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14977</id>
+		<songbook_id>21</songbook_id>
+		<title>In You Alone</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2000 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:09</created>
+		<modified>2009-03-20 09:15:09</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00104M8R8&quot;,&quot;title&quot;:&quot;In You Alone&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/614mSX3tPCL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16118</id>
+		<song_id>14977</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+This [Am]storm-tossed heart{,} has f[Am/G]in'lly found a h[F    | F]arbor,
+In [Am]You my heart has f[Am/G]in'lly found its h[F    | F]ome
+And [Am]You will be my dw[Am/G]elling place{,} for[F]ever, O my L[C/E]ord
+My sh[Dm7]ade and shelter, [F] [ ]and my s[G    | Gsus4    |]ong
+
+Chorus:
+In [G]You a[C]lone my h[F]eart re[Am]joices
+In [G]You a[C]lone is al[F]l de[G]light
+In [G]You a[C]lone is al[F]l my [Am]gladness
+In [F]You alone my s[Am]oul is satisf[G    C   | G]ied, [ ]s[C    |]atis[G   C   |]fied
+[G] [ ]In You alo[||: C   Bb/C   | C   Bb/C   | Fmaj7   Bb/F   | Fmaj7   Bb/F   :||]ne
+
+Verse 2:
+This [Am]wand'ring heart{,} has c[Am/G]ome back to its Sh[F    | F]epherd
+My [Am]wand'ring heart{,} by p[Am/G]recious blood is h[F    | F]ealed
+Oh [Am]sing the mercies{,} [Am/G]of our mighty S[F]avior{,} and our K[C/E]ing
+Great l[Dm7]ove of God, [F] [ ]in flesh reve[G    | Gsus4    |]aled</text>
+		<searchtext>verse 1 this stormtossed heart has finlly found a harbor in you my heart has finlly found its home and you will be my dwelling place forever o my lord my shade and shelter and my song chorus in you alone my heart rejoices in you alone is all delight in you alone is all my gladness in you alone my soul is satisfied satisfied in you alone verse 2 this wandring heart has come back to its shepherd my wandring heart by precious blood is healed oh sing the mercies of our mighty savior and our king great love of god in flesh revealed</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>135</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:09</created>
+		<modified>2009-03-20 09:15:09</modified>
+		<creator>1543</creator>
+		<ccli>3071227</ccli>
+		<album>King Of Grace</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

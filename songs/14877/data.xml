@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14877</id>
+		<songbook_id>21</songbook_id>
+		<title>O Great God</title>
+		<copyright>Words and Music by Bob Kauflin      © 2006 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:55</created>
+		<modified>2009-03-20 09:14:55</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BOQM4C&quot;,&quot;title&quot;:&quot;O Great God&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51ASvkc53%2BL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16005</id>
+		<song_id>14877</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro: 
+[|  /   /   G | Am7    G/F | C/E    C | F     | Gsus4   G]
+
+Verse 1: 
+O great [C]God of [F/G]highest [C]heav’n, occu[Dm]py my low[C/E]ly [F]heart
+Own it [C]all and [F/G]reign su[C]preme, conquer [Dm]every [Gsus]reb[G]-el [C]pow’r
+[G]Let no [Am]vice or [G/F]sin re[C]main, [G]that re[Am7]sists Your [F]holy [Gsus  G]war
+You have [F2/A]loved and [G/B]purchased [C]me
+[C/E]Make me [F]Yours for[Gsus]ev[G]-er[C    G | Am     Dm | Gsus4    | G]more
+
+Verse 2: 
+[F/G]I was [C]blinded [F/G]by my [C]sin, had no [Dm]ears to [C/E]hear Your [F]voice
+Did not [C]know Your [F/G]love with[C]in, had no [Dm]taste for [Gsus]heav[G]-en’s [C]joys
+[G]Then Your [Am]Spirit [G/F]gave me [C]life, [G]opened [Am7]up Your [F]Word to [Gsus  G]me
+Through the [F2/A]gospel [G/B]of Your [C]Son
+[C/E]Gave me [F]endless [Gsus  G]hope and [C   G]peace 
+
+Turn: 
+[Am7      G/F | C/E      G | Am7 F      | Gsus4 G      |]
+
+[F2/A      G/B | C      C/E | F  Gsus4  G | Asus4  A]
+
+{key:D}
+Verse 3: 
+[Asus]Help me [D]now to [G6]live a [D]life{,} that’s de[Em]pendent on [D/F#]Your [G]grace
+Keep my [D/A]heart and [G6]guard my [D/F#]soul, from the [Em]evils [Asus   A]that I [D]face
+[A]You are [Bm]worthy [A/G]to be [D]praised, [A]with my [Bm7]every [G]thought and [Asus   A]deed
+O great [G2/B]God of [A/C#]highest [D]heav’n
+[D/F#]Glori[G]fy Your [Asus   A]Name through [D]me</text>
+		<searchtext>intro verse 1 o great god of highest heavn occupy my lowly heart own it all and reign supreme conquer every rebel powr let no vice or sin remain that resists your holy war you have loved and purchased me make me yours forevermore verse 2 i was blinded by my sin had no ears to hear your voice did not know your love within had no taste for heavens joys then your spirit gave me life opened up your word to me through the gospel of your son gave me endless hope and peace turn verse 3 help me now to live a life thats dependent on your grace keep my heart and guard my soul from the evils that i face you are worthy to be praised with my every thought and deed o great god of highest heavn glorify your name through me</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>3/4</time_signature>
+		<bpm>72</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:14:55</created>
+		<modified>2009-03-20 09:14:55</modified>
+		<creator>1543</creator>
+		<ccli>4804015</ccli>
+		<album>Valley Of Vision</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

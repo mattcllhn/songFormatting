@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>63400</id>
+		<songbook_id>21</songbook_id>
+		<title>No Longer Slaves</title>
+		<copyright>Jonathan David Helser | Melissa Helser © 2014 Bethel Music Publishing </copyright>
+		<created>2015-03-04 20:46:33</created>
+		<modified>2015-03-04 21:25:23</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>69430</id>
+		<song_id>63400</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+You unrav[C]el me with a melody
+You surr[F]ound me [G]with a s[C]ong
+Of del[C]iverance from my enemies
+Till [F]all my f[G]ears are g[C]one
+
+
+Chorus 1:
+I'm no l[F]onger a sl[G]ave to f[C]ear
+I [Am]am a ch[G]ild of [C]God
+I'm no l[F]onger a sl[G]ave to f[C]ear
+I [Am]am a c[G]hild of [Am]God
+
+
+Inst: 
+[| Am   G  |  C   F | Am   G | C   F |]
+
+
+Verse 2:
+From my M[C]other's womb
+You have ch[Em]osen me
+L[F]ove has [G]called my n[C]ame
+I've been b[C]orn again into Your f[Em]amily
+Your bl[F]ood flows th[G]rough my v[C]eins
+
+
+Bridge:
+[Am]       You split the [G]sea so I could w[C]alk right th[F]rough it
+[Am]       My fears were d[G]rowned in perfect l[C]ove  [F]
+[Am]       You rescued [G]me so I could s[C]tand and s[Em]ing
+I [F]am a c[G]hild of G[C]od</text>
+		<searchtext>verse 1 you unravel me with a melody you surround me with a song of deliverance from my enemies till all my fears are gone chorus 1 im no longer a slave to fear i am a child of god im no longer a slave to fear i am a child of god inst verse 2 from my mothers womb you have chosen me love has called my name ive been born again into your family your blood flows through my veins bridge you split the sea so i could walk right through it my fears were drowned in perfect love you rescued me so i could stand and sing i am a child of god</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2015-03-04 20:46:33</created>
+		<modified>2015-03-04 21:25:23</modified>
+		<creator>1546</creator>
+		<ccli>7030123</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

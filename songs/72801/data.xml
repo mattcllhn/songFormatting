@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>72801</id>
+		<songbook_id>21</songbook_id>
+		<title>I Lay It All</title>
+		<copyright>Mary Smith</copyright>
+		<created>2018-02-07 23:26:17</created>
+		<modified>2018-02-07 23:30:43</modified>
+		<creator>23187</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>80593</id>
+		<song_id>72801</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1
+When troubles [Bb]come when darkness [Cm7]crowds
+When fortunes[Bb/D] fail and loss sur[Eb]rounds
+My soul is [Bb]weak but Christ is [Cm7]strong
+And so to [Bb/D]Him I leave it [Eb]all
+For [F]He Who [Bb/D]holds all [Eb]things   Can [F]bear each [Bb/D]care I[Eb] bring
+
+
+Chorus 1 
+So I lay it [Bb]all on [Gm]Jesu[F]s
+Steadfast is the [Eb]love of [Gm]Je - [F]sus
+[Gm]He hears my [F/A]cry He's [Cm]faith[Bb]ful   [F]I lay it [Eb]all on [F]Je - [Eb]sus[Gm7]
+
+
+Verse 2
+When questions[Bb] rise when faith wears[Cm7] thin
+When fears come [Bb/D]fast and truth grows [Eb] dim
+The One wh[Bb]o saved will not for[Cm]sake
+I'll trust His [Bb/D]Word and trust His [Eb] way
+For [F]He Who [Bb/D]bore my [Eb]blame    Can [F]bear each [Bb/D]care I [Eb] name
+
+
+Bridge
+[Eb]I am we[Bb]ak You are st[Gm]rong
+Jesus c[F]ome and take it a[Eb]ll
+All my ca[Gm]res I cast on Y[F]ou
+
+
+Tag
+[Eb]I lay it all, [Gm]I lay it all[F] on Jesus</text>
+		<searchtext>verse 1 when troubles come when darkness crowds when fortunes fail and loss surrounds my soul is weak but christ is strong and so to him i leave it all for he who holds all things can bear each care i bring chorus 1 so i lay it all on jesus steadfast is the love of je sus he hears my cry hes faithful i lay it all on je sus verse 2 when questions rise when faith wears thin when fears come fast and truth grows dim the one who saved will not forsake ill trust his word and trust his way for he who bore my blame can bear each care i name bridge i am weak you are strong jesus come and take it all all my cares i cast on you tag i lay it all i lay it all on jesus</searchtext>
+		<primary>1</primary>
+		<key>Bb</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2018-02-07 23:26:17</created>
+		<modified>2018-02-07 23:30:43</modified>
+		<creator>23187</creator>
+		<ccli>7096631</ccli>
+		<album>Prayers of the Saints </album>
+		<font_size>13</font_size>
+	</Arrangement>
+</data>
+

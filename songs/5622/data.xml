@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5622</id>
+		<songbook_id>21</songbook_id>
+		<title>O The Deep, Deep Love Of Jesus</title>
+		<copyright>Words by Tre­vor Fran­cis     Music by Thom­as Will­iams      Public domain</copyright>
+		<created>2008-10-26 00:00:57</created>
+		<modified>2017-03-08 20:31:45</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>42919</id>
+		<song_id>5622</song_id>
+		<description>Good Friday</description>
+		<text>Verse 1:
+[Em]O the [B]deep, [Em]deep [B7]love of [Em]Jesus,
+[G]Vast, [D]un[B]meas[Em]ured, [Am]bound[B7]less, [Em]free!
+[Em]Rolling [B]as [Em]a [B7]mighty [Em]ocean
+[G]In [D]its [B]full[Em]ness [Am]o[B7]ver [Em]me!
+
+[G]Under[D]neath me, [Em]all a[B7]round me, [Em]is the [Am]current [Em]of [Am]Thy [B7]love
+[C]Leading [B]on[C]ward, [B7]leading [Em]homeward, [G]to [D]Thy [B]glo[Em]rious [Am]rest [B7]a[Em]bove!
+
+
+Verse 2:
+[Em]O the [B]deep, [Em]deep [B7]love of [Em]Jesus,
+[G]Love [D]of [B]eve[Em]ry [Am]love [B7]the [Em]best!
+[Em]’Tis an [B]o[Em]cean [B7]full of [Em]blessing,
+[G]’Tis [D]a [B]hav[Em]en [Am]giv[B7]ing [Em]rest!
+
+[G]O the [D]deep, deep [Em]love of [B7]Jesus, [Em]’tis a [Am]heaven of [Em]heavens [Am]to [B7]me;
+[C]And it [B]lifts [C]me [B7]up to [Em]glory, [G]for [D]it [B]lifts [Em]me [Am]up [B7]to [Em]Thee!</text>
+		<searchtext>verse 1 o the deep deep love of jesus vast unmeasured boundless free rolling as a mighty ocean in its fullness over me underneath me all around me is the current of thy love leading onward leading homeward to thy glorious rest above verse 2 o the deep deep love of jesus love of every love the best tis an ocean full of blessing tis a haven giving rest o the deep deep love of jesus tis a heaven of heavens to me and it lifts me up to glory for it lifts me up to thee</searchtext>
+		<primary>0</primary>
+		<key>Em</key>
+		<time_signature>4/4</time_signature>
+		<bpm>66</bpm>
+		<tempo>Medium</tempo>
+		<created>2011-04-22 12:32:46</created>
+		<modified>2011-04-22 12:32:46</modified>
+		<creator>1546</creator>
+		<ccli>137178</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>6353</id>
+		<song_id>5622</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[Em]O the [B]deep, [Em]deep [B7]love of [Em]Jesus,
+[G]Vast, [D]un[B]meas[Em]ured, [Am]bound[B7]less, [Em]free!
+[Em]Rolling [B]as [Em]a [B7]mighty [Em]ocean
+[G]In [D]its [B]full[Em]ness [Am]o[B7]ver [Em]me!
+
+[G]Under[D]neath me, [Em]all a[B7]round me, [Em]is the [Am]current [Em]of [Am]Thy [B7]love
+[C]Leading [B]on[C]ward, [B7]leading [Em]homeward, [G]to [D]Thy [B]glo[Em]rious [Am]rest [B7]a[Em]bove!
+
+
+Verse 2:
+[Em]O the [B]deep, [Em]deep [B7]love of [Em]Jesus,
+[G]Spread [D]His [B]praise [Em]from [Am]shore [B7]to [Em]shore!
+[Em]How He [B]lov[Em]eth, [B7]ever [Em]loveth,
+[G]Chan[D]geth [B]nev[Em]er, [Am]nev[B7]er[Em]more!
+
+[G]How He [D]watches [Em]o’er His [B7]loved ones, [Em]died to [Am]call them [Em]all [Am]His [B7]own;
+[C]How for [B]them [C]He [B7]inter[Em]cedeth, [G]watch[D]eth [B]o’er [Em]them [Am]from [B7]the [Em]throne!
+
+
+Verse 3:
+[Em]O the [B]deep, [Em]deep [B7]love of [Em]Jesus,
+[G]Love [D]of [B]eve[Em]ry [Am]love [B7]the [Em]best!
+[Em]’Tis an [B]o[Em]cean [B7]full of [Em]blessing,
+[G]’Tis [D]a [B]hav[Em]en [Am]giv[B7]ing [Em]rest!
+
+[G]O the [D]deep, deep [Em]love of [B7]Jesus, [Em]’tis a [Am]heaven of [Em]heavens [Am]to [B7]me;
+[C]And it [B]lifts [C]me [B7]up to [Em]glory, [G]for [D]it [B]lifts [Em]me [Am]up [B7]to [Em]Thee!</text>
+		<searchtext>verse 1 o the deep deep love of jesus vast unmeasured boundless free rolling as a mighty ocean in its fullness over me underneath me all around me is the current of thy love leading onward leading homeward to thy glorious rest above verse 2 o the deep deep love of jesus spread his praise from shore to shore how he loveth ever loveth changeth never nevermore how he watches oer his loved ones died to call them all his own how for them he intercedeth watcheth oer them from the throne verse 3 o the deep deep love of jesus love of every love the best tis an ocean full of blessing tis a haven giving rest o the deep deep love of jesus tis a heaven of heavens to me and it lifts me up to glory for it lifts me up to thee</searchtext>
+		<primary>1</primary>
+		<key>Em</key>
+		<time_signature>4/4</time_signature>
+		<bpm>66</bpm>
+		<tempo>Medium</tempo>
+		<created>2008-10-26 00:00:57</created>
+		<modified>2017-03-08 20:31:45</modified>
+		<creator>1543</creator>
+		<ccli>137178</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>2355</id>
+		<songbook_id>21</songbook_id>
+		<text>Good Friday</text>
+	</Keyword>
+</data>
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14980</id>
+		<songbook_id>21</songbook_id>
+		<title>Your Praise Will Never Cease</title>
+		<copyright>Words by Steve Cook &amp; Bob Kauflin     Music by Steve Cook     © 2000 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:09</created>
+		<modified>2009-03-20 09:15:09</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00104H62U&quot;,&quot;title&quot;:&quot;Your Praise Will Never Cease&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/614mSX3tPCL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16121</id>
+		<song_id>14980</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[Am]   There's an [F]ancient [C]song that's [G]sung an[Am    F    | C    G    |]ew
+[Am]   By the [F]ones who [C]live to [G]worship Y[Am    F    | C    G    |]ou
+[Dm]   Like a [F]river it [Am]runs through [G]every [Dm    F    | Am    G    ]age
+[Dm]   Driven [F]by the [Am]glory [F]of Your gr[Gsus4      | G]ace
+
+Chorus:
+And when we've [G]sung Your [Am]praise{,} for a [F]thousand [C]years
+We'll have [G]just be[Am]gun to [F2]sing
+For Your [G]throne will [Am]reign through e[F]terni[C]ty
+And Your [G]praise will [Am]never c[F2]ease
+It will [G]never c[||: Am    F    | C    G    ||:]ease
+
+Verse 2:
+[Am]   To the [F]One who [C]caused all [G]things to b[Am    F    | C    G    |]e,
+[Am]   To the [F]One who [C]rules in [G]sov'reign[Am    F    | C    G    |]ty,
+[Dm]   We de[F]clare our [Am]joy in [G]You, our K[Dm    F    | Am    G    |]ing,
+[Dm]   And de[F]light in [Am]being [F]Your re[Gsus4    | G]deemed</text>
+		<searchtext>verse 1 theres an ancient song thats sung anew by the ones who live to worship you like a river it runs through every age driven by the glory of your grace chorus and when weve sung your praise for a thousand years well have just begun to sing for your throne will reign through eternity and your praise will never cease it will never cease verse 2 to the one who caused all things to be to the one who rules in sovreignty we declare our joy in you our king and delight in being your redeemed</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>138</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:09</created>
+		<modified>2009-03-20 09:15:09</modified>
+		<creator>1543</creator>
+		<ccli>3071636</ccli>
+		<album>King Of Grace</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

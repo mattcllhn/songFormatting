@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>68106</id>
+		<songbook_id>21</songbook_id>
+		<title>Here's My Heart</title>
+		<copyright>I Am They</copyright>
+		<created>2016-08-10 17:50:58</created>
+		<modified>2016-08-10 17:50:58</modified>
+		<creator>5114</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>75000</id>
+		<song_id>68106</song_id>
+		<description>Initial arrangement</description>
+		<text>Chorus: 
+[Em]Here's my [C]heart [G]Lord, 
+[Em]here's my [C]heart [G]Lord
+[Em]Here's my [C]heart [G]Lord,
+[Em]speak [C]what is [G]true
+
+Verse 1: 
+'Cause I am [Am7]found, I am [C]Yours, I am [Em]loved, I'm made [D]pure
+I have [Am7]life, I can [C]breathe, I am [G]healed, I am [D]free
+
+Verse 2: 
+'Cause You are [Am7]strong, You are [C]sure, You are [Em]life, You've [D]endured
+You are [Am7]good, always [C]true, You are [G]light breaking [D]through
+
+Instrumental:
+[Am7   C    G    D]
+
+Bridge: 
+You are [Am7]more, than [C]enough
+You are [G]here, You are [D]love
+You are [Am7]hope, You are [C]grace
+You're all I [G]have, You're [D]everything</text>
+		<searchtext>chorus heres my heart lord heres my heart lord heres my heart lord speak what is true verse 1 cause i am found i am yours i am loved im made pure i have life i can breathe i am healed i am free verse 2 cause you are strong you are sure you are life youve endured you are good always true you are light breaking through instrumental bridge you are more than enough you are here you are love you are hope you are grace youre all i have youre everything</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2016-08-10 17:50:58</created>
+		<modified>2016-08-10 17:50:58</modified>
+		<creator>5114</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

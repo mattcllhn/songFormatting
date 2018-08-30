@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>15010</id>
+		<songbook_id>21</songbook_id>
+		<title>Your Love</title>
+		<copyright>Words &amp; Music by Bob Kauflin     © 2004 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:13</created>
+		<modified>2009-03-20 09:15:13</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00104LZVS&quot;,&quot;title&quot;:&quot;Your Love&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61uXihJYOlL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16152</id>
+		<song_id>15010</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[E     | A     | F#m     | B     | C#m     | G#m     | A     | B]
+
+Chorus:
+[E]Your love will [A]last forever
+[F#m]It’s like a [B7]mighty river
+[C#m]That flows and [E/G#]flows forever
+[A]Never [A/B]stop[B]ping
+[E]Your awesome [A]love protects me
+[F#m7]When I sin Your [B7]love corrects me
+[C#m]You’re faithful [E/G#]to direct me
+[A]Al[F#m7]ways [B]to Your [E    | A    | F#m    | B]love
+
+Verse 1:
+[A]And when I think of [E]all You’ve done
+[A]There’s no love greater than [E]this
+[A]You freely gave Your [C#m7]precious Son
+[D]To die for all my [B (to chorus)]sins
+
+Verse 2:
+[A]And when I choose to [E]disobey
+[A]You lead me back to Your [E]truth
+[A]You show the fullness [C#m7]of Your love
+[D]By making me like [B (to chorus)]You</text>
+		<searchtext>intro chorus your love will last forever its like a mighty river that flows and flows forever never stopping your awesome love protects me when i sin your love corrects me youre faithful to direct me always to your love verse 1 and when i think of all youve done theres no love greater than this you freely gave your precious son to die for all my sins verse 2 and when i choose to disobey you lead me back to your truth you show the fullness of your love by making me like you</searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>176</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:13</created>
+		<modified>2009-03-20 09:15:13</modified>
+		<creator>1543</creator>
+		<ccli>4520052</ccli>
+		<album>Awesome God</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

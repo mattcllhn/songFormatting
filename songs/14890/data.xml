@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14890</id>
+		<songbook_id>21</songbook_id>
+		<title>When I Survey</title>
+		<copyright>Words &amp; music by Isaac Watts     Additional words &amp; music by Devon Kauflin     © 2008 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:56</created>
+		<modified>2017-03-08 20:41:44</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BVM0CI&quot;,&quot;title&quot;:&quot;When I Survey&quot;,&quot;artist&quot;:&quot;Na Band&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51pvb6KwaZL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16018</id>
+		<song_id>14890</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro: 
+[E      B      | E/G#    A    (2x)]
+
+Verse 1: 
+When I sur[C#m7]vey the [B/D#]wondrous [E]cross
+On which the [C#m7]Prince of Glory [Bsus]died [B] 
+My richest [B/D#]gain[E] [ ]I count but [F#m]loss [E/G#] 
+And pour con[F#m7]tempt on [B]all my [E]pride [| A     | E/G#     | A] 
+
+Verse 2: 
+Forbid it, [C#m7]Lord, that [B/D#]I should [E]boast
+Save in the [C#m7]death of Christ, my [Bsus]God [B] 
+All the vain [B/D#]things[E] [ ]that charm me [C#m7]most
+I sacri[F#m7]fice them to His [C#m7]blood [ | E     | A     | B] 
+
+Verse 3: 
+See, from His [C#m7]head, His [B/D#]hands, His [E]feet
+Sorrow and [C#m7]love flow mingled [Bsus]down [B] 
+Did e’er such [B/D#]love and sorrow [C#m]meet
+Or thorns com[F#m7]pose so rich a [A]crown? [||: E   B   | E/G#   A   :||] 
+
+{key:F#}
+Verse 4: 
+[C#sus | C#sus C#] [ ]Were all the [F#]realms of nature [F#/A#]mine
+That were an [D#m]offering far too [C#sus]small [C#]
+Love so a[F#/A#]mazing, so di[D#m]vine
+Demands my [G#m7]soul, my life, my [||: G#m    | F#/A#    | B    | F#    :||]all
+
+Bridge: 
+I give my [F#maj7]life, I give my [B]all
+To follow [F#/A#]You, to follow [B]You
+
+Tag: 
+[F#     F#2     | F#maj7     Bmaj7     :||  F#]</text>
+		<searchtext>intro verse 1 when i survey the wondrous cross on which the prince of glory died my richest gain i count but loss and pour contempt on all my pride verse 2 forbid it lord that i should boast save in the death of christ my god all the vain things that charm me most i sacrifice them to his blood verse 3 see from his head his hands his feet sorrow and love flow mingled down did eer such love and sorrow meet or thorns compose so rich a crown verse 4 were all the realms of nature mine that were an offering far too small love so amazing so divine demands my soul my life my all bridge i give my life i give my all to follow you to follow you tag </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>68</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:14:56</created>
+		<modified>2017-03-08 20:41:44</modified>
+		<creator>1543</creator>
+		<ccli>5174153</ccli>
+		<album>Looked Upon</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>65623</id>
+		<song_id>14890</song_id>
+		<description>The Wonderful Cross</description>
+		<text>VERSE 1:
+[D]When I survey the wondrous cross
+On which the Prince of Glory died
+My richest gain I count but loss
+And pour contempt on all my pride
+
+
+VERSE 2:
+[D]See from His head, His hands, His feet
+Sorrow and love flow mingled down
+Did ever such love and sorrow meet
+Or thorns compose so rich a crown.
+
+
+CHORUS:
+[G]O the wonderful [D/F#]cross, O the [G]wonderful [D/F#]cross
+Bids me [G]come and die and [D/F#]find that I
+May [A]truly live
+O the [G]wonderful [D/F#]cross, O the [G]wonderful [D/F#]cross
+All who [G]gather here by [D/F#]grace draw near
+And [A]bless Your name.
+
+VERSE 3:
+[D]Forbid it, Lord, that I should boast
+Save in the death of Christ, my	God 	
+All the vain things that charm 	me most
+I sacrifice them to His blood 	
+
+VERSE 4:
+[D]Were the whole realm of nature mine
+That were an offering far too small
+Love so amazing, so divine
+Demands my soul, my life, my all.
+
+
+</text>
+		<searchtext>verse 1 when i survey the wondrous cross on which the prince of glory died my richest gain i count but loss and pour contempt on all my pride verse 2 see from his head his hands his feet sorrow and love flow mingled down did ever such love and sorrow meet or thorns compose so rich a crown chorus o the wonderful cross o the wonderful cross bids me come and die and find that i may truly live o the wonderful cross o the wonderful cross all who gather here by grace draw near and bless your name verse 3 forbid it lord that i should boast save in the death of christ my god all the vain things that charm me most i sacrifice them to his blood verse 4 were the whole realm of nature mine that were an offering far too small love so amazing so divine demands my soul my life my all </searchtext>
+		<primary>0</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>68</bpm>
+		<tempo>Slow</tempo>
+		<created>2014-09-11 18:17:38</created>
+		<modified>2014-09-11 18:23:22</modified>
+		<creator>1547</creator>
+		<ccli>5174153</ccli>
+		<album>Looked Upon</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>2355</id>
+		<songbook_id>21</songbook_id>
+		<text>Good Friday</text>
+	</Keyword>
+</data>
+

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>39569</id>
+		<songbook_id>21</songbook_id>
+		<title>Your Name Alone Can Save</title>
+		<copyright>Music by Zach Jones &amp; Joel Sczebel     Words by Zach Jones     © 2011 Sovereign Grace Worship</copyright>
+		<created>2011-03-30 21:49:36</created>
+		<modified>2011-03-30 21:49:36</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B004RR8UJA&quot;,&quot;title&quot;:&quot;Your Name Alone Can Save&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/41QLoqrrewL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>42478</id>
+		<song_id>39569</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[C     | F     | Am     | G]
+
+Verse 1:
+[C]When we were [Cmaj7]dead in our trans[Em]gressions
+[G]Jesus, You [C]came to bring us back to [Em]God
+[G]You [Am7]    canceled the debt that stood a[Em7]gainst us
+Set it a[C]side, nailing it to the c[Em]ross
+[G]Now with [F]joy we can pro[G]claim [Gsus]
+
+Chorus:
+[Fmaj7]You’ve over[C]come the grave
+[G]You took our [Am]curse away
+[F]There is no [C]other name{,} by [Am]which we’re [Gsus]saved
+[Fmaj7]For in Your [C]death we died
+[G]In You we [Am]have new life
+[F]Jesus, Your [G]name alone [||:]can [C]save [F    | Am    | G    :||]
+
+Verse 2:
+[C]Now death has [Cmaj7]lost its sting for[Em]ever
+[G]Because You a[C]rose we do not hope in v[Em]ain
+[G]You [Am7]    defeated every evil p[Em7]ower
+Disarming them [C]all{,} bearing our guilt and [Em]shame
+[G]And for[F]ever we’ll pro[G]claim [Gsus]
+
+Bridge:
+In Your [F]name there is [C]freedom,{,} [G]life and [Am]peace
+In the [F]name ab[C]ove all [G]names
+In Your [F]name there is [C]power,{,} [G]darkness [Am7]flees
+At the [F]name ab[C]ove all [G]names</text>
+		<searchtext>intro verse 1 when we were dead in our transgressions jesus you came to bring us back to god you canceled the debt that stood against us set it aside nailing it to the cross now with joy we can proclaim chorus youve overcome the grave you took our curse away there is no other name by which were saved for in your death we died in you we have new life jesus your name alone can save verse 2 now death has lost its sting forever because you arose we do not hope in vain you defeated every evil power disarming them all bearing our guilt and shame and forever well proclaim bridge in your name there is freedom life and peace in the name above all names in your name there is power darkness flees at the name above all names</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>144</bpm>
+		<tempo>Fast</tempo>
+		<created>2011-03-30 21:49:36</created>
+		<modified>2011-03-30 21:49:36</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>Risen</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

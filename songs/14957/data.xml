@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14957</id>
+		<songbook_id>21</songbook_id>
+		<title>Come Now Almighty King</title>
+		<copyright>Lyrics by Martin Maddan     Alt. lyrics by Bob Kauflin     Music by John Spiro and Bob Kauflin     © 2001 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:06</created>
+		<modified>2009-03-20 09:15:06</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BOU6WG&quot;,&quot;title&quot;:&quot;Come Now Almighty King&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51kpGaYi7nL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16098</id>
+		<song_id>14957</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[D2      | D2      | D2      | D2]
+
+VERSE 1:
+[D2]Come now almighty King, [D2]help us Your name to sing
+[D2]We will declare Your praise, [D2]righteous in all Your ways
+[A]Father, all glori[G]ous,{,} [A]o’er all victorio[G]us
+[A]Come and reign over [Em7]us
+Ancient of [D2    | D2    | D2    | D2]Days
+
+VERSE 2:
+[D2]Come now incarnate Word, [D2]take up Your mighty sword
+[D2]Our humble prayers attend,{,} [D2]faithful unto the end
+[A]Come and Your people [G]bless, [A]and give Your Word succ[G]ess
+[A]Lord of all righteous[Em7]ness
+On us de[D2    | D2    | D2    | D2]scend
+
+{key:E}
+VERSE 3:
+[E2]Come Holy Spirit come, [E2]Your perfect will be done
+[E2]Brighten our darkened hearts, [E2]Your precious life impart.
+[B2]Guide us into Your [A]truth, [B2]so we might bear more [A]fruit
+[B2]Fill us with more of [F#m7]You
+Spirit of [||: E2    | E2    | E2    | E2   :||]power.
+
+{key:F}
+VERSE 4:
+[F]To the great [G5/F]one in three,{,} [Ab/F   Bb/F   ] [F]eternal [G5/F]praises be [Ab/F   Bb/F]
+[F]Timeless, un[G5/F]changing Lord, [Ab/F   Bb/F   ] [F (break)]now and forevermore
+[C2]Your sovereign majes[Bb2]ty,{,} [C2]may we in glory [Bb2]see
+[C2]And to eterni[Gm7]ty
+Love and a[F2]dore.</text>
+		<searchtext>intro verse 1 come now almighty king help us your name to sing we will declare your praise righteous in all your ways father all glorious oer all victorious come and reign over us ancient of days verse 2 come now incarnate word take up your mighty sword our humble prayers attend faithful unto the end come and your people bless and give your word success lord of all righteousness on us descend verse 3 come holy spirit come your perfect will be done brighten our darkened hearts your precious life impart guide us into your truth so we might bear more fruit fill us with more of you spirit of power verse 4 to the great one in three eternal praises be timeless unchanging lord now and forevermore your sovereign majesty may we in glory see and to eternity love and adore</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>92</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:06</created>
+		<modified>2009-03-20 09:15:06</modified>
+		<creator>1543</creator>
+		<ccli>4088972</ccli>
+		<album>Upward: The Bob Kauflin Hymns Project</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

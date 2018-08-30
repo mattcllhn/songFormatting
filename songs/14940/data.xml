@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14940</id>
+		<songbook_id>21</songbook_id>
+		<title>Soli Deo Gloria</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2002 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:03</created>
+		<modified>2009-03-20 09:15:03</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0010VL2F0&quot;,&quot;title&quot;:&quot;Soli Deo Gloria&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/519CuW9nbdL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16075</id>
+		<song_id>14940</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: E     | Bm     | D2     | G2     :||]
+
+Verse 1:
+We res[E2]olve to know nothing else, but [A2]Jesus Christ  
+[D2]Jesus Christ, and Him [A2]crucified  
+We res[E2]olve to know nothing else, but [A2]Jesus Christ 
+The [D2]Lamb of God, and our [A2]sacrifice 
+To [B]come to [B/F#]God by [E/G#]grace al[A]one 
+Through [E/G#]faith al[A]one in His [B]blood,{,}[B/A] [ ]spilled for [| B/G#    B/F#  |]us 
+
+Chorus:
+Singing [E]soli Deo [B]gloria 
+To [F#m]God alone be glory  
+To [D2]God alone be glory 
+Singing [E]soli Deo [Bm]gloria 
+To [A2]God alone be glory 
+To [D2]God alone be glory 
+[D2] [ ]In Jesus Christ [(to intro)]
+
+Verse 2:
+We res[E2]olve to live for nothing else, but [A2]Jesus Christ  
+To [D2]know the One who [A2]is our life 
+We res[E2]olve to live by nothing but{,} Your [A2]Word alone 
+Your [D2]strength alone, for Your [A2]will alone 
+To [B]make our [B/F#]goal to please [E/G#]You al[A]one 
+Worship [E/G#]You al[A]one, our [B]God [B/A] [ ]and our [B/G#     B/F#]King</text>
+		<searchtext>intro verse 1 we resolve to know nothing else but jesus christ jesus christ and him crucified we resolve to know nothing else but jesus christ the lamb of god and our sacrifice to come to god by grace alone through faith alone in his blood spilled for us chorus singing soli deo gloria to god alone be glory to god alone be glory singing soli deo gloria to god alone be glory to god alone be glory in jesus christ verse 2 we resolve to live for nothing else but jesus christ to know the one who is our life we resolve to live by nothing but your word alone your strength alone for your will alone to make our goal to please you alone worship you alone our god and our king</searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>80</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:15:03</created>
+		<modified>2009-03-20 09:15:03</modified>
+		<creator>1543</creator>
+		<ccli>4126803</ccli>
+		<album>All We Long To See</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

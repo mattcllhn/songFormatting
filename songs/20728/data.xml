@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>20728</id>
+		<songbook_id>21</songbook_id>
+		<title>When I Survey (Scott)</title>
+		<copyright>Words &amp; Music by Isaac Watts (arr. by Kathryn Scott)</copyright>
+		<created>2009-04-16 23:56:53</created>
+		<modified>2017-03-08 20:42:37</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>22179</id>
+		<song_id>20728</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1: 
+When I surv[Eb]ey [Ebmaj7 Ab]               the  w[Ab/Bb]ondrous [Eb]   cross  [Ebsus] 
+[Eb]     On which [Bb/D]the   P[Cm]rince [Ab]    of [Fm7(4)]Glory    [Bbsus]  died, 
+
+[Bb]     My [Ab/Bb]rich  -  [Bb]est [Eb]gain [Ebmaj7 Ab]                 I count but[Cm]    loss, 
+
+[Ab]     And [Fm7(4)]pour con [Eb]- tempt [Bbsus]       on [Bb]all my [Eb]   pride.   [Ebsus] 
+
+
+Verse 2: 
+[Eb]     For[Bbsus]bid   [Bb]it, [Eb]Lord, [Ebmaj7 Ab]                  that [Bbsus]I should [Eb]     boast, [Ebsus] 
+[Eb]     Save in [Bb/D]the  d[Cm]eath, [Ab]     of [Fm7(4)]Christ my [Bbsus]       God! 
+
+[Bb]     All [Bb9]the  [Bb/D]vain th[Eb]ings [Ebmaj7 Ab]                that charm me[Cm]     most, 
+
+[Ab]     I [Fm7(4)]sacri  -[Eb]    fice  [Bbsus]       them [Bb]to His [Eb]   blood. [Ebsus] 
+
+Verse 3: 
+[Eb]     See [Bbsus]from  [B]His [Eb]head,[Ebmaj7 Ab]                His [Ab/Bb]hands, His [Eb]    feet, [Ebsus] 
+[Eb]     Sorrow [Bb/D]and  [Cm]love [Ab]     flow [Fm7]mingled [Bb]   down! [Bbsus] 
+[Bb]     Did [Bb9]e’er [Bb/D]such [Eb]love [Ebmaj7 Ab]                 and sorrow [Cm]     meet, 
+[Ab]     Or [Fm7]thorns com [Eb]- pose  [Bbsus]       so [Bb]rich a [Eb]   crown? 
+
+{key:F}
+Verse 4: 
+[Bb/C]     Were the [Gm/C]whole [F]realm [Fmaj7 Bb]            of [Bb/C]nature [F]    mine, [Fsus] 
+[F] That [F/E]were [C/E] a   [Dm] of -[C  Bb]    - - fering [Gm7]      far too [Csus]     small; 
+[C]     Love [F/C]so  [C7]a – m[F]az [Fmaj7 Bb]- ing, so div [Dm]- ine, 
+[Bb]    De[Gm7(4)]mands my [F]   soul, [Gm]     demands my [F/A]   soul, 
+[Bb]    Love demands my [F]    soul, [Csus]      my [C]life, my [Bb]     all.   [F2] 
+</text>
+		<searchtext>verse 1 when i survey the wondrous cross on which the prince of glory died my rich est gain i count but loss and pour con tempt on all my pride verse 2 forbid it lord that i should boast save in the death of christ my god all the vain things that charm me most i sacri fice them to his blood verse 3 see from his head his hands his feet sorrow and love flow mingled down did eer such love and sorrow meet or thorns com pose so rich a crown verse 4 were the whole realm of nature mine that were a of fering far too small love so a maz ing so div ine demands my soul demands my soul love demands my soul my life my all </searchtext>
+		<primary>1</primary>
+		<key>Eb</key>
+		<time_signature>4/4</time_signature>
+		<bpm>76</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-04-16 23:56:54</created>
+		<modified>2017-03-08 20:42:37</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>Satisfy</album>
+		<font_size>16</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>2355</id>
+		<songbook_id>21</songbook_id>
+		<text>Good Friday</text>
+	</Keyword>
+</data>
+

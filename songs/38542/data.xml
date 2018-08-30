@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>38542</id>
+		<songbook_id>21</songbook_id>
+		<title>Joyful (The One Who Saves)</title>
+		<copyright>Jason Ingram, Brenton Brown/Thankyou Music (Admin. by EMI Christian Music Publishing)</copyright>
+		<created>2011-02-16 10:30:29</created>
+		<modified>2013-01-09 14:31:11</modified>
+		<creator>2868</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>41353</id>
+		<song_id>38542</song_id>
+		<description>Meant to be played with Capo on 5 or 7</description>
+		<text>Verse 1:
+[D]Joyful, joyful [G]we adore You 
+[Bm]God of Glory, [A]Lord of Love 
+[D]Hearts unfold like [G]flowers before You 
+[Bm]Opening to the [A]sun [D]above 
+
+Verse 2:
+[D]Melt the clouds of [G]sin and sadness 
+[Bm]Drive the dark of [A]doubt away 
+[D]Giver of e[G]ternal gladness 
+[Bm]Fill us with the [A]light of [D]day 
+
+Chorus:
+You are the [G]One who [D]saves 
+You are the [A]One who [Bm]saves 
+You are the [G]One whose [D]hands lift us [A]from the grave 
+You are the [G]Light of [D]Life 
+The Ever[A]lasting [Bm]Day 
+You are the [G]One who [D]takes all our [A]sins away 
+
+Verse 3:
+[D]You are giving [G]and forgiving 
+[Bm]Ever blessing, [A]ever blessed 
+[D]Fountain of the [G]joy of living 
+[Bm]Ocean depths of [A]happy [D]rest 
+
+Tag:
+[G]Jesus, You [D]are my rescue 
+[A]Jesus, You [Bm]are my rescue 
+[G]I give You [D]everything I [A]am (6X) </text>
+		<searchtext>verse 1 joyful joyful we adore you god of glory lord of love hearts unfold like flowers before you opening to the sun above verse 2 melt the clouds of sin and sadness drive the dark of doubt away giver of eternal gladness fill us with the light of day chorus you are the one who saves you are the one who saves you are the one whose hands lift us from the grave you are the light of life the everlasting day you are the one who takes all our sins away verse 3 you are giving and forgiving ever blessing ever blessed fountain of the joy of living ocean depths of happy rest tag jesus you are my rescue jesus you are my rescue i give you everything i am 6x </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2011-02-16 10:30:29</created>
+		<modified>2013-01-09 14:31:12</modified>
+		<creator>2868</creator>
+		<ccli>5895580</ccli>
+		<album>Joyful - Single</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+	<Keyword>
+		<id>1255</id>
+		<songbook_id>21</songbook_id>
+		<text>God's Attributes</text>
+	</Keyword>
+</data>
+

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>15014</id>
+		<songbook_id>21</songbook_id>
+		<title>All I Really Need</title>
+		<copyright>Words &amp; Music by Mark Altrogge      © 2006 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:14</created>
+		<modified>2009-03-20 09:15:14</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0019IVBPA&quot;,&quot;title&quot;:&quot;All I Really Need&quot;,&quot;artist&quot;:&quot;Mark &amp; Stephen Altrogge&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/517j98UaeeL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16156</id>
+		<song_id>15014</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[| A     | A     |]
+Verse 1:
+[A]In the darkest [E/G#]hour I must [F#m]face
+I'm [A/E]counting on Your [Dmaj7]grace,{,} to [A/C#]give me all I [E  A        E]need
+[A]Sunless days and [E/G#]cheerless nights will [F#m]pass
+And [A/E]work their work at [Dmaj7]last,{,} to [A/C#]form Your joy in [E]me
+For [Bm2]when I am weak,{,} I [Esus4]find that you are st[E]rong, and
+Chorus:
+[A]All I really n[E/G#]eed is Your gr[F#m]ace
+All I n[A/E]eed to know is Y[Dmaj7]ou are near me
+[A/C#] [ ]All I need is Y[E]ou
+[A]All I really n[E/G#]eed is Your gr[F#m]ace
+All I n[A/E]eed to know is Y[Dmaj7]ou are for me
+[A/C#] [ ]All I need is Y[E]ou, [Esus4] [ ]all I [E]need is Y[D    | A]ou
+
+Verse 2:
+[A]Some may place their [E/G#]hope in feeble [F#m]men
+I [A/E]can't do that ag[Dmaj7]ain,{,} for [A/C#]only You are [E   A        E]strong
+[A]I will pray to [E/G#]God who lifts my [F#m]head
+To [A/E]You who came and [Dmaj7]shed{,} Your [A/C#]blood for all my [E]wrongs
+For [Bm2]when I am weak,{,} I [Esus4]find that You are st[E]rong, and[(to chorus)]
+
+Verse 3:
+[A]Lord, I know You [E/G#]hear my every [F#m]sigh
+Y[A/E]ou hear the rav[Dmaj7]en's cry,{,} and [A/C#]give the sparrow [E   A        E]food
+[A]How much more will [E/G#]You provide in [F#m]love
+For [A/E]those You bought with [Dmaj7]blood,{,} and [A/C#]work all things for [E]good
+For [Bm2]when I am weak,{,} I [Esus4]find that You are st[E]rong, and [(to chorus)]</text>
+		<searchtext>intro verse 1 in the darkest hour i must face im counting on your grace to give me all i need sunless days and cheerless nights will pass and work their work at last to form your joy in me for when i am weak i find that you are strong and chorus all i really need is your grace all i need to know is you are near me all i need is you all i really need is your grace all i need to know is you are for me all i need is you all i need is you verse 2 some may place their hope in feeble men i cant do that again for only you are strong i will pray to god who lifts my head to you who came and shed your blood for all my wrongs for when i am weak i find that you are strong and verse 3 lord i know you hear my every sigh you hear the ravens cry and give the sparrow food how much more will you provide in love for those you bought with blood and work all things for good for when i am weak i find that you are strong and </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>70</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:15:14</created>
+		<modified>2009-03-20 09:15:14</modified>
+		<creator>1543</creator>
+		<ccli>5023716</ccli>
+		<album>In A Little While</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

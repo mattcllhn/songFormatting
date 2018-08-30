@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>15022</id>
+		<songbook_id>21</songbook_id>
+		<title>You'll Provide For Me</title>
+		<copyright>Words &amp; Music by Stephen Altrogge     © 2005 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:15</created>
+		<modified>2009-03-20 09:15:15</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0019IVBQY&quot;,&quot;title&quot;:&quot;You'll Provide for Me&quot;,&quot;artist&quot;:&quot;Mark &amp; Stephen Altrogge&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/517j98UaeeL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16164</id>
+		<song_id>15022</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: Em      | C2/E      | G      | Bm      :||]
+
+Verse 1:
+O [Em]Lord, You [C/E]care for all the e[G]arth
+The [Bm]flowers and the b[Em]irds
+You pro[C/E]vide their daily b[D]read [| D]
+How much [Em]more [C/E]You have cared for [G]me
+You [Bm]met my greatest n[Em]eed
+When [C/E]Christ hung on the t[D      | D]ree
+So I [C2]know that You’ll provide for [D]me
+
+Chorus:
+So [G]God, I trust in [G/C]You
+I trust in [Em]You, I [D]trust in [G/C]You
+In what[Em]ever I may f[D/F#]ace
+I will [Em]trust Your sovereign g[D]race
+[C2]I will [D]always trust in Y[Em (to intro)]ou
+
+Verse 2:
+O [Em]Lord, when [C/E]all my hopes and [G]plans
+Are t[Bm]aken from my h[Em]ands
+And I [C/E]cannot see the w[D      | D]ay
+I will [Em]rest [C/E]in Your sovereign [G]plan
+And [Bm]bless Your gracious h[Em]and
+I [C/E]know Your promise [D      | D]stands
+That I’ll [C2]see Your goodness in this l[D]and</text>
+		<searchtext>intro verse 1 o lord you care for all the earth the flowers and the birds you provide their daily bread how much more you have cared for me you met my greatest need when christ hung on the tree so i know that youll provide for me chorus so god i trust in you i trust in you i trust in you in whatever i may face i will trust your sovereign grace i will always trust in you verse 2 o lord when all my hopes and plans are taken from my hands and i cannot see the way i will rest in your sovereign plan and bless your gracious hand i know your promise stands that ill see your goodness in this land</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>145</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:15</created>
+		<modified>2009-03-20 09:15:15</modified>
+		<creator>1543</creator>
+		<ccli>4803762</ccli>
+		<album>In A Little While</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

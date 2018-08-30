@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>64408</id>
+		<songbook_id>21</songbook_id>
+		<title>He is Exalted</title>
+		<copyright></copyright>
+		<created>2015-05-13 17:10:00</created>
+		<modified>2015-05-13 22:32:11</modified>
+		<creator>5114</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>70555</id>
+		<song_id>64408</song_id>
+		<description>Initial arrangement</description>
+		<text>[D] [G] [D] [G] 
+
+Verse: 
+[D]He is exalted the King is exalted on [G]High
+I will [D/F#]praise [A]Him
+[D]He is exalted forever exalted
+And [G]I will praise [A]His [Bm7]name
+
+Chorus: 
+[G]He [D/F#]is the [A]Lord 
+[D]Forever His [A]truth shall [G]reign
+[G]Heaven [D/F#]and [A]Earth 
+[D]Rejoice in His [A]holy [G D/F#]name
+[G]He is exalted the King is exalted on [D]high</text>
+		<searchtext> verse he is exalted the king is exalted on high i will praise him he is exalted forever exalted and i will praise his name chorus he is the lord forever his truth shall reign heaven and earth rejoice in his holy name he is exalted the king is exalted on high</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>6/8</time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2015-05-13 17:10:00</created>
+		<modified>2015-05-13 22:32:11</modified>
+		<creator>5114</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

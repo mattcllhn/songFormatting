@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14959</id>
+		<songbook_id>21</songbook_id>
+		<title>Like A River Glorious</title>
+		<copyright>Lyrics by Frances Havergal     Music by James Mountain     Arr. by Bob Kauflin     Arr. © 1998 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:06</created>
+		<modified>2009-03-20 09:15:06</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BOS344&quot;,&quot;title&quot;:&quot;Like a River Glorious&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51kpGaYi7nL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16100</id>
+		<song_id>14959</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[A/G    G    | Dmaj7/F#       | A/G    G    | Dmaj7/F#]
+
+Verse 1:
+[A/G]Like a [G]river [Dmaj7/F#]glorious [A/G]is God’s [G]perfect [Dmaj7/F#]peace
+[A/G]Over [G]all vic[Dmaj7/F#]torious [E7sus]in its [E7]bright in[Asus]crease[A]
+[F#m7]Perfect, yet it [Bm7]floweth [Em7sus4]fuller every [Asus    A]day
+[D]Perfect, [A/C#]yet it [Bm]grow[A]eth [Em7]deeper [A2]all the [C2]way [| G2/B   A]
+
+Chorus:
+[Dmaj7]Stayed upon Je[G/D]hovah, [Em7]hearts are [D/F#]fully [Asus    A]blest
+[Bm]Finding [Bm/A]as He [G2]promised
+[Em7]Perfect [A]peace and [(1X to intro, 2X to bridge)]rest
+
+Verse 2:
+[A/G]Hidden [G]in the [Dmaj7/F#]hollow [A/G]of His [G]blessed [Dmaj7/F#]hand
+[A/G]Never [G]foe can [Dmaj7/F#]follow, [E7sus]never [E7]traitor [Asus]stand [A]
+[F#m7]Not a surge of [Bm7]worry, [Em7+4]not a shade of [Asus]care [A]
+[D2]Not a [A/C#]blast of [Bm]hur[A]ry [Em7]touch the [A2]spirit [C2]there [| G2/B  A (to chorus)]
+
+Bridge:
+[| C2    | G2/B    | Bb    | F2/A    | G    | A    | G/B    | A/C#    |]
+
+Verse 3:
+[D]Every [Dmaj7]joy or [D]tri[Dmaj7]al [G/D]falleth [A/D]from a[G/D]bove [A/D]
+[Bm]Traced u[Bm2]pon our [Bm]dial [G2]by the Sun of [F#m7]Love
+[Gmaj9]We may trust Him [Bm7]fully [Em7]all for [D]us to [Asus    A]do
+[Bm]They who [A]trust Him [Esus]whol[E]ly{,} [Em7]find Him [A7sus]wholly [| C2]true [| G2/B | C2 | Bb2 |]
+
+{key:F}
+Chorus:
+[Fmaj7]Stayed upon Je[Bb2]hovah, [Gm7]hearts are [F/A]fully [G7/B]blest [A7/C#]
+[Dm]Finding [Dm/C]as He [Bb2]promised
+[Gm7]Perfect [C7sus]peace and [C/Bb   Bb   | Fmaj7/A     | C/Bb   Bb   | Dm9+4     |]rest.
+[| Gm7    F/A    | Bb2    Bb/C    | F2       |]</text>
+		<searchtext>intro verse 1 like a river glorious is gods perfect peace over all victorious in its bright increase perfect yet it floweth fuller every day perfect yet it groweth deeper all the way chorus stayed upon jehovah hearts are fully blest finding as he promised perfect peace and rest verse 2 hidden in the hollow of his blessed hand never foe can follow never traitor stand not a surge of worry not a shade of care not a blast of hurry touch the spirit there bridge verse 3 every joy or trial falleth from above traced upon our dial by the sun of love we may trust him fully all for us to do they who trust him wholly find him wholly true chorus stayed upon jehovah hearts are fully blest finding as he promised perfect peace and rest </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>92</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:15:06</created>
+		<modified>2009-03-20 09:15:06</modified>
+		<creator>1543</creator>
+		<ccli>4217475</ccli>
+		<album>Upward: The Bob Kauflin Hymns Project</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5557</id>
+		<songbook_id>21</songbook_id>
+		<title>O Little Town of Bethlehem</title>
+		<copyright>Words by Phillips Brooks     Music by Lewis Redner     Public domain</copyright>
+		<created>2008-09-25 20:27:49</created>
+		<modified>2008-09-25 20:27:49</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6288</id>
+		<song_id>5557</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1: 
+O [D]little [Ddim]town of [Em]Bethlehem, how [D]still we [A7]see thee [D]lie
+A[D]bove thy [Em]deep and [G]dreamless sleep, the [D]silent [A7]stars go [D]by
+Yet [D]in thy [Em]dark streets [F#7]shineth, the [Bm]everlasting [F#7]Light
+The [D]hopes and [Ddim]fears of [Em]all the [G]years
+Are [D]met in [A7sus]thee [D]tonight
+
+Verse 2: 
+For [D]Christ is [Ddim]born of [Em]Mary, and [D]gathered [A7]all a[D]bove
+While [D]mortals [Em]sleep, the [G]angels keep, their [D]watch of [A7]wondering [D]love
+O [D]morning [Em]stars [F#7]together, pro[Bm]claim the holy [F#7]birth
+And [D]praises [Ddim]sing to [Em]God the [G]King
+And [D]Peace to [A7sus]men on [D]earth
+
+Verse 3: 
+How [D]silent[Ddim]ly, how [Em]silently, the [D]wondrous [A7]gift is [D]given!
+So [D]God im[Em]parts to [G]human hearts, the [D]blessings [A7]of His [D]heaven.
+No [D]ear may [Em]hear His [F#7]coming, but [Bm]in this world of [F#7]sin,
+Where [D]meek souls [Ddim]will re[Em]ceive Him [G]still,
+The [D]dear Christ [A7sus]enters [D]in.
+
+Verse 4: 
+O [D]holy [Ddim]Child of [Em]Bethlehem, de[D]scend to [A7]us, we [D]pray
+Cast [D]out our [Em]sin and [G]enter in, be [D]born to [A7]us to[D]day
+We [D]hear the [Em]Christmas [F#7]angels, the [Bm]great glad tidings [F#7]tell
+O [D]come to [Ddim]us, a[Em]bide with [G]us
+Our [D]Lord E[A7sus]mmanu[D]el</text>
+		<searchtext>verse 1 o little town of bethlehem how still we see thee lie above thy deep and dreamless sleep the silent stars go by yet in thy dark streets shineth the everlasting light the hopes and fears of all the years are met in thee tonight verse 2 for christ is born of mary and gathered all above while mortals sleep the angels keep their watch of wondering love o morning stars together proclaim the holy birth and praises sing to god the king and peace to men on earth verse 3 how silently how silently the wondrous gift is given so god imparts to human hearts the blessings of his heaven no ear may hear his coming but in this world of sin where meek souls will receive him still the dear christ enters in verse 4 o holy child of bethlehem descend to us we pray cast out our sin and enter in be born to us today we hear the christmas angels the great glad tidings tell o come to us abide with us our lord emmanuel</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>54</bpm>
+		<tempo>Slow</tempo>
+		<created>2008-09-25 20:27:49</created>
+		<modified>2008-09-25 20:27:49</modified>
+		<creator>1543</creator>
+		<ccli>27879</ccli>
+		<album></album>
+		<font_size></font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

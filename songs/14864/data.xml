@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14864</id>
+		<songbook_id>21</songbook_id>
+		<title>Hope Has Come</title>
+		<copyright>Words &amp; Music by Stephen Altrogge     © 2006 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2015-12-12 23:13:33</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0012AKDU4&quot;,&quot;title&quot;:&quot;Hope Has Come&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61AitRsTtfL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>15992</id>
+		<song_id>14864</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[C    | C     | C     | C]
+
+Verse 1:
+[C] [ ]Let us join with the [F]angel voices
+[C] [ ]Let us join their [F]happy song
+[C] [ ]All of heaven and [F]earth rejoices
+[C] [ ]For the Lamb of [F]God has come
+[Am] [ ]He has come to [F]rescue sinners
+[Am] [ ]Come to meet our [F]desperate need
+[Am] [ ]He was born to [F]bring forgiveness
+[Em]Born for Calva[F2]ry
+
+Chorus: 
+[C]Alleluia, [F2]Hope has come
+[Am]Allel[G]uia, [F2]Christ has come
+We [Em]once were slaves in [F2]misery
+Till [Em]You appeared and [F2]set us free
+[Am]Allel[G]uia, [F2]hope has [| F2    | C    | C]come
+
+
+Turn:
+[Am*  **  |  G*  ** |   C  |  C   |  Am* ** |  G* **  |   C  |  F   |  F   |]
+
+Verse 2: 
+[C] [ ]Let us lay our [F]gifts before Him
+[C] [ ]Let us magni[F]fy His Name
+[C] [ ]With our thankful [F]hearts adore Him
+[C] [ ]For the Lord has [F]come to save
+[Am] [ ]He has come to [F]break sin’s power
+[Am] [ ]He has come to [F]set us free
+[Am] [ ]Hope was born that [F]glorious hour
+[Em]Christ the mighty [F2]King</text>
+		<searchtext>intro verse 1 let us join with the angel voices let us join their happy song all of heaven and earth rejoices for the lamb of god has come he has come to rescue sinners come to meet our desperate need he was born to bring forgiveness born for calvary chorus alleluia hope has come alleluia christ has come we once were slaves in misery till you appeared and set us free alleluia hope has come turn verse 2 let us lay our gifts before him let us magnify his name with our thankful hearts adore him for the lord has come to save he has come to break sins power he has come to set us free hope was born that glorious hour christ the mighty king</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>143</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2015-12-12 23:13:33</modified>
+		<creator>1543</creator>
+		<ccli>4866228</ccli>
+		<album>Savior</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

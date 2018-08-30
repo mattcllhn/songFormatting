@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>42146</id>
+		<songbook_id>21</songbook_id>
+		<title>How He Loves (Chorus Only)</title>
+		<copyright>John Mark McMillan</copyright>
+		<created>2011-08-24 00:08:01</created>
+		<modified>2011-08-24 00:22:20</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>45331</id>
+		<song_id>42146</song_id>
+		<description>Initial arrangement</description>
+		<text>Chorus 1:
+[A]Oh how he loves us, [B7/F#]so  Oh how he [Esus]loves us
+How He loves us [D2] so
+[A]Oh how he loves [D/F#]us, so  oh how he lo[E]ves us
+How He loves us [D] so [A    D2/F#    Esus    Dmaj7]
+
+Chorus 2:
+He l[A]oves us, oh how he [D2/F#]loves us
+Oh how He lo[E]ves us, oh how He lo[D2]ves
+Yeah He l[A]oves us, oh how He [D/F#]loves us
+Oh how He lo[E]ves us, oh how He lo[D2]ves</text>
+		<searchtext>chorus 1 oh how he loves us so oh how he loves us how he loves us so oh how he loves us so oh how he loves us how he loves us so chorus 2 he loves us oh how he loves us oh how he loves us oh how he loves yeah he loves us oh how he loves us oh how he loves us oh how he loves</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>6/8</time_signature>
+		<bpm>74</bpm>
+		<tempo>Medium</tempo>
+		<created>2011-08-24 00:08:01</created>
+		<modified>2011-08-24 00:22:20</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>18</font_size>
+	</Arrangement>
+</data>
+

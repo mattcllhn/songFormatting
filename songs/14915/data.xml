@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14915</id>
+		<songbook_id>21</songbook_id>
+		<title>Grace Unmeasured</title>
+		<copyright>Words &amp; Music by Bob Kauflin     © 2005 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:59</created>
+		<modified>2009-03-20 09:14:59</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B000ZJQE7Y&quot;,&quot;title&quot;:&quot;Grace Unmeasured&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51CotfwF8BL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16043</id>
+		<song_id>14915</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[D     | Dsus     | D     | Dsus     |]
+
+Verse 1:
+[D]Grace unmeasured, [Dsus]vast and free
+That [D]knew me from e[A]terni[Bm]ty
+That [D]called me out be[G]fore my birth
+[9/8]To [Bm]bring You [Em]glory [A]on th[6/8]is [G]earth [| Gmaj7     |]
+[D]Grace amazing, [G]pure and deep
+That [D]saw me in my [A]mise[Bm]ry
+That [D]took my curse and [G]owned my blame
+[9/8]So [Em]I could [G]bear your [A]righte[6/8]ous [D]name [A/C#]
+
+Chorus:
+[Bm]Grace ([A/B]grace, [G]grace), paid for my [D/F#]sins and brought me to [Asus]life [A]
+[Bm]Grace ([A/B]grace, [G]grace), clothes me with [Em7]pow’r to do what is [Asus]right [A]
+[Bm]Grace ([A]grace, [G]grace),
+Will lead me to [D/F#]heav’n,{,} where I’ll see Your [G] face
+And [C2]never cease{,} to [G/B]thank you for Your [D   | Dsus   | D   | Dsus]grace
+
+Verse 2:
+[D]Grace abounding, [G]strong and true
+That [D]makes me long to [A]be like [Bm]You
+That [D]turns me from my [G]selfish pride
+[9/8]To [Bm]love the [Em]cross on [A]which Y[6/8]ou [G]died [| Gmaj7     |]
+[D]Grace unending, [G]all my days
+You’ll [D]give me strength to [A]run this [Bm]race
+And [D]when my years on [G]earth are through
+T[9/8]he [Em]praise will [G]all be[A]long [6/8]to [D]You [A/C#]</text>
+		<searchtext>intro verse 1 grace unmeasured vast and free that knew me from eternity that called me out before my birth to bring you glory on this earth grace amazing pure and deep that saw me in my misery that took my curse and owned my blame so i could bear your righteous name chorus grace grace grace paid for my sins and brought me to life grace grace grace clothes me with powr to do what is right grace grace grace will lead me to heavn where ill see your face and never cease to thank you for your grace verse 2 grace abounding strong and true that makes me long to be like you that turns me from my selfish pride to love the cross on which you died grace unending all my days youll give me strength to run this race and when my years on earth are through the praise will all belong to you </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>6/8</time_signature>
+		<bpm>152</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:14:59</created>
+		<modified>2009-03-20 09:14:59</modified>
+		<creator>1543</creator>
+		<ccli>4662862</ccli>
+		<album>Worship God Live</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

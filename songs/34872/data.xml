@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>34872</id>
+		<songbook_id>21</songbook_id>
+		<title>Grace Like Rain</title>
+		<copyright>Chris Collins/Edwin O. Excell/John Newton/T.Agnew</copyright>
+		<created>2010-06-16 15:27:26</created>
+		<modified>2010-07-23 21:27:00</modified>
+		<creator>1547</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>37244</id>
+		<song_id>34872</song_id>
+		<description>Initial arrangement</description>
+		<text>VERSE 1:
+A[C#M]mazing g[A]race, how s[E]weet the s[B]ound  
+That s[C#M]aved a w[A]retch like m[E]e [B]
+I o[C#M]nce was l[A]ost, but n[E]ow I’m f[B]ound
+T’was b[C#M]lind, but n[A]ow I s[E]ee so cl[B]early 
+
+VERSE 2:
+Was g[C#M]race that t[A]aught my h[E]eart to f[B]ear  
+And g[C#M]race my f[A]ears reli[E]eved  [B]
+How p[C#M]recious d[A]id that g[E]race app[B]ear
+The h[C#M]our I f[A]irst beli[E]eved  [B]
+
+CHORUS:
+[C#M]   Hallelu[A]jah, grace like r[E]ain falls d[B]own on me
+[C#M]   Hallelu[A]jah, all my st[E]ains are washed aw[B]ay
+Their washed away [C#M]   [A]    [E]    [B]
+
+VERSE 3:
+When w[C#M]e’ve been th[A]ere ten th[E]ousand y[B]ears
+Bright sh[C#M]ining a[A]s the s[E]un  [B]
+We’ve n[C#M]o less d[A]ays to s[E]ing God’s pr[B]aise
+Than w[C#M]hen we f[A]irst beg[E]un  [B]
+</text>
+		<searchtext>verse 1 amazing grace how sweet the sound that saved a wretch like me i once was lost but now im found twas blind but now i see so clearly verse 2 was grace that taught my heart to fear and grace my fears relieved how precious did that grace appear the hour i first believed chorus hallelujah grace like rain falls down on me hallelujah all my stains are washed away their washed away verse 3 when weve been there ten thousand years bright shining as the sun weve no less days to sing gods praise than when we first begun </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2010-06-16 15:27:26</created>
+		<modified>2010-07-23 21:27:00</modified>
+		<creator>1547</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

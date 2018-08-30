@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>15007</id>
+		<songbook_id>21</songbook_id>
+		<title>Sovereign One</title>
+		<copyright>Words &amp; Music by Zach Jones     © 2004 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:13</created>
+		<modified>2009-03-20 09:15:13</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00104LZVI&quot;,&quot;title&quot;:&quot;Sovereign One&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61uXihJYOlL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16149</id>
+		<song_id>15007</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[F    C5    | Dm    C5    | Bb2    C5    | F       |]
+
+Verse 1:
+When [F]I’m all a[C5]lone and af[Dm7]raid
+I will [C5]trust in You
+[Bb2]For You watch [C5]over my [F]ways
+When [F]things in my [C5]life don’t make [Dm7]sense
+I will [C5]trust in You
+[Bb2]For You are [C5]good, You are [F]good
+
+Chorus:
+[Gm7]Sove[F/A]reign [C5]One
+You work [Bb2]all things [Csus]to Your [F]plan
+[Gm7]Sove[F]reign [C/E]One
+You hold [Bb]all things [Csus]in [C]Your [F   C5   | Dm7   C5   | Bb   C   | F]hands
+
+Verse 2:
+When I [F]don’t get to [C5]have my own [Dm7]way
+I will [C5]trust in You
+[Bb2]For You [C5]know what is [F]best
+When [F]tears begin to [C5]roll down my [Dm7]face
+I will [C5]trust in You
+[Bb2]For You are [C5]good, You are [F (to chorus)]good
+
+Bridge:
+[B2]Perfect in power, [F/A]You control all things
+[B2]Perfect in wisdom, [Dm]You know everything
+[Bb2]Perfect in goodness,{,} [Dm]Jesus, Y[C/E]ou’re so good to [Bb2]me
+So good to [C (to chorus)]me</text>
+		<searchtext>intro verse 1 when im all alone and afraid i will trust in you for you watch over my ways when things in my life dont make sense i will trust in you for you are good you are good chorus sovereign one you work all things to your plan sovereign one you hold all things in your hands verse 2 when i dont get to have my own way i will trust in you for you know what is best when tears begin to roll down my face i will trust in you for you are good you are good bridge perfect in power you control all things perfect in wisdom you know everything perfect in goodness jesus youre so good to me so good to me</searchtext>
+		<primary>1</primary>
+		<key>F</key>
+		<time_signature>4/4</time_signature>
+		<bpm>75</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:13</created>
+		<modified>2009-03-20 09:15:13</modified>
+		<creator>1543</creator>
+		<ccli>4519070</ccli>
+		<album>Awesome God</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

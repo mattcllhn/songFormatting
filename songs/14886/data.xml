@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14886</id>
+		<songbook_id>21</songbook_id>
+		<title>God Shall Arise</title>
+		<copyright>Words &amp; Music by Mark Altrogge      © 2008 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:56</created>
+		<modified>2009-03-20 09:14:56</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001EUQEOG&quot;,&quot;title&quot;:&quot;God Shall Arise&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51CGlRp8SUL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16014</id>
+		<song_id>14886</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[Amaj7 | A | Amaj7 | A]
+
+Verse 1:
+[A]Father of the orphan, [D]Helper of the poor
+Pro[Bm]tector of the widow [D] [ ]and the [A]weak
+[A]You are our deliverer, You [D]daily bear us up
+You [Bm]break the prisoners’ chains [D]
+And set them [C#m     | E]free
+
+
+Chorus:
+God shall ar[F#m   A   D]ise [ ]and His foes be scat[F#m   A]tered
+[D]   God shall ar[F#m   A   D]ise, [ ]Oh sing His [C#m]praise
+[E]   Lift up your e[F#m   A   D]yes [ ]and see your [F#m]Savi[A]or
+[D]   Our mighty Sa[Bm]vior, [C#m] [ ]God shall ar[D]ise [| D]
+
+
+Verse 2:
+You [A]ride upon the heavens, Your [D]power is in the skies
+But [Bm]You became a servant [D] [ ]clothed in [A]flesh
+And [A]You obeyed Your Father, and in [D]You was no sin
+But [Bm]You were counted guilty{,} [D] [ ]and died our [C#m]death  [| E]
+
+
+Bridge:
+[Bm]Let all the nations [A/C#]say You are awesome
+[D]Let every kingdom sing [E]praise [| F#m]
+[Bm]Let all the nations [A/C#]say You are awesome
+[D]Let every kingdom sing [E]praise [| E]</text>
+		<searchtext>intro verse 1 father of the orphan helper of the poor protector of the widow and the weak you are our deliverer you daily bear us up you break the prisoners chains and set them free chorus god shall arise and his foes be scattered god shall arise oh sing his praise lift up your eyes and see your savior our mighty savior god shall arise verse 2 you ride upon the heavens your power is in the skies but you became a servant clothed in flesh and you obeyed your father and in you was no sin but you were counted guilty and died our death bridge let all the nations say you are awesome let every kingdom sing praise let all the nations say you are awesome let every kingdom sing praise </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>125</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:14:56</created>
+		<modified>2009-03-20 09:14:56</modified>
+		<creator>1543</creator>
+		<ccli>5261066</ccli>
+		<album>Psalms</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

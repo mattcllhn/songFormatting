@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14969</id>
+		<songbook_id>21</songbook_id>
+		<title>Your Hand Upon Me</title>
+		<copyright>Words &amp; Music by Eric Grover     © 2001 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:07</created>
+		<modified>2009-03-20 09:15:07</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0010V1C50&quot;,&quot;title&quot;:&quot;Your Hand Upon Me&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/41het-XU6lL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16110</id>
+		<song_id>14969</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[Dm     C     | Bb     F     | Dm     C     | Bb2]
+
+Verse 1:
+[Dm]O Lord You have [C]searched me
+And [Bb]You know my [F]ways
+You per[Dm]ceive all my [C]thoughts from af[Bb2]ar
+Your [Dm]hand is up[C]on me wher[Am7]ever I g[Bb]o
+Before [Eb]I form each word{,} You already [Csus    | C]know
+
+Chorus:
+If I rise on the [F]wings of the [C]dawn
+You are [Bb]there
+If I rest on the [Dm]far [A]side of the [Bb]sea
+Your love hems me [F]in
+Both be[C]hind and be[Dm    Dm/C]fore
+You have [Bb]laid Your [C]hand upon[Dm] me    [A]
+You have [Bb]laid Your [C]hand upon [Dm   C   | Bb   F   | Dm   C   | Bb2]me
+
+Verse 2:
+[Dm]Where can I fl[C]ee{,} from Your [Bb]presence, O [F]Lord
+If I [Dm]sleep in the d[C]epths You are [Bb]there
+Your [Dm]day will cons[C]ume all the
+[Am7]Shadows of [Bb]night
+The [Eb]dark cannot hide{,} from Your brilliant [Csus    | C]light</text>
+		<searchtext>intro verse 1 o lord you have searched me and you know my ways you perceive all my thoughts from afar your hand is upon me wherever i go before i form each word you already know chorus if i rise on the wings of the dawn you are there if i rest on the far side of the sea your love hems me in both behind and before you have laid your hand upon me you have laid your hand upon me verse 2 where can i flee from your presence o lord if i sleep in the depths you are there your day will consume all the shadows of night the dark cannot hide from your brilliant light</searchtext>
+		<primary>1</primary>
+		<key>F</key>
+		<time_signature>6/8</time_signature>
+		<bpm>135</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:07</created>
+		<modified>2009-03-20 09:15:07</modified>
+		<creator>1543</creator>
+		<ccli>3337370</ccli>
+		<album>No Greater Love</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

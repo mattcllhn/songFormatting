@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14904</id>
+		<songbook_id>21</songbook_id>
+		<title>Ransomed</title>
+		<copyright>Words by John Kent     Music &amp; additional words by Jordan Kauflin     © 2005 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:58</created>
+		<modified>2009-07-05 07:42:42</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001VMG50A&quot;,&quot;title&quot;:&quot;Ransomed&quot;,&quot;artist&quot;:&quot;Na Band&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51L7I-9GeSL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16032</id>
+		<song_id>14904</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[(bass line) A     B   | F#m     (2x)]
+
+Verse 1:
+[A]When my sin b[F#m]egins to tell me
+[A]All is lost, my [F#m]guilt displayed
+[A]I will look and [F#m]see my Savior
+[A]Jesus Christ, who [F#m]bore my blame
+
+Pre-chorus:
+[A] [ ]    And neither [F#m]death nor life nor [A]anything
+Could ever [F#m]keep me from His [Bm]love
+
+Chorus:
+[A]Hallelujah[E], [F#m]grace shall reign e[D]ternally
+[A]None shall take me[E]
+[F#m]From the ranks of [D]God’s redeemed
+[Bm]His blood has for[F#m]ever [E]ransomed [A    | A]me
+
+Verse 2:
+[A]What from Christ my [F#m]soul shall sever
+[A]Bound by ever[F#m]lasting bands?
+[A]Once in Him, in [F#m]Him forever
+[A]His eternal [F#m]covenant stands [(to pre-chorus)]
+
+Verse 3:
+[A]On such love my [F#m]soul will ponder
+[A]Love so great, so [F#m]rich, so free
+[A]I say while I’m [F#m]lost in wonder
+[A]&quot;Why, O Lord, such [F#m]love to me?&quot; [Bm (to chorus)]</text>
+		<searchtext>intro verse 1 when my sin begins to tell me all is lost my guilt displayed i will look and see my savior jesus christ who bore my blame prechorus and neither death nor life nor anything could ever keep me from his love chorus hallelujah grace shall reign eternally none shall take me from the ranks of gods redeemed his blood has forever ransomed me verse 2 what from christ my soul shall sever bound by everlasting bands once in him in him forever his eternal covenant stands verse 3 on such love my soul will ponder love so great so rich so free i say while im lost in wonder why o lord such love to me </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>98</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:14:58</created>
+		<modified>2009-07-05 07:42:42</modified>
+		<creator>1543</creator>
+		<ccli>4706106</ccli>
+		<album>Looked Upon</album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

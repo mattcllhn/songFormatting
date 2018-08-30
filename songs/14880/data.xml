@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14880</id>
+		<songbook_id>21</songbook_id>
+		<title>God Over All</title>
+		<copyright>Words &amp; Music by Devon Kauflin     © 2006 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:55</created>
+		<modified>2012-07-08 08:01:04</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001VMOR1O&quot;,&quot;title&quot;:&quot;God Over All&quot;,&quot;artist&quot;:&quot;Na Band&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51L7I-9GeSL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16008</id>
+		<song_id>14880</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[G    |    C | G    |    C |]
+
+Verse 1:
+[G] [ ]God over all [C]
+[G] [ ]Giver of life and [C]health and [D/F#]breath
+I want to [Em]sing of Your [Cmaj7]love
+[G] [ ]Came as a man [C]
+[G] [ ]Humble, You died the [C]sinner’s [D/F#]death
+I want to [Em]sing of Your [C]love
+
+Chorus:
+Your [C]love has [D]saved me, [G]by Your [D/F#]grace I [Em]now draw [D]near, and
+Your [C]love has [D]set me{,} [G]free to [D/F#]glori[Em]fy Your [D]name
+And [C]I, I want to [D]sing of Your [G    |    C | G    |    C |]love
+
+Verse 2:
+[G] [ ]I’ll never forget [C]
+[G] [ ]That You have bought me [C]with Your [D/F#]blood
+I want to [Em]sing of Your [Cmaj7]love
+[G] [ ]In all I do [C]
+[G] [ ]May Your great love be [C]shining [D/F#]through
+I want to [Em]sing of Your [C]love
+
+Verse 3:
+[G] [ ]And on that day [C]
+[G] [ ]When You come back to [C]claim Your [D/F#]own
+Yes, we will [Em]sing of Your [Cmaj7]love
+[G] [ ]Then we’ll bow down [C]
+[G] [ ]Praise You forever [C]at Your [D/F#]throne
+Yes, we will [Em]sing of Your [C]love</text>
+		<searchtext>intro verse 1 god over all giver of life and health and breath i want to sing of your love came as a man humble you died the sinners death i want to sing of your love chorus your love has saved me by your grace i now draw near and your love has set me free to glorify your name and i i want to sing of your love verse 2 ill never forget that you have bought me with your blood i want to sing of your love in all i do may your great love be shining through i want to sing of your love verse 3 and on that day when you come back to claim your own yes we will sing of your love then well bow down praise you forever at your throne yes we will sing of your love</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>6/8</time_signature>
+		<bpm>120</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:14:55</created>
+		<modified>2012-07-08 07:56:53</modified>
+		<creator>1543</creator>
+		<ccli>4803793</ccli>
+		<album>Looked Upon</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>52268</id>
+		<song_id>14880</song_id>
+		<description>Tim's alternate arrangement</description>
+		<text>Intro:
+[G    |    C | G    |    C |]
+
+Verse 1:
+[G] [ ]God over all [C]
+[G] [ ]Giver of life and [C]health and [D/F#]breath
+I want to [C]sing of Your [Em]love
+[G] [ ]Came as a man [C]
+[G] [ ]Humble, You died the [C]sinner’s [D/F#]death
+I want to [C]sing of Your [Em]love
+
+Chorus:
+Your [C]love has [D]saved me, [G]by Your [D/F#]grace I [Em]now draw [D]near, and
+Your [C]love has [D]set me{,} [G]free to [D/F#]glori[Em]fy Your [D]name
+And [C]I, I want to [D]sing of Your [G    |    C | G    |    C |]love
+
+Verse 2:
+[G] [ ]I’ll never forget [C]
+[G] [ ]That You have bought me [C]with Your [D/F#]blood
+I want to [Em]sing of Your [Cmaj7]love
+[G] [ ]In all I do [C]
+[G] [ ]May Your great love be [C]shining [D/F#]through
+I want to [Em]sing of Your [C]love
+
+Verse 3:
+[G] [ ]And on that day [C]
+[G] [ ]When You come back to [C]claim Your [D/F#]own
+Yes, we will [Em]sing of Your [Cmaj7]love
+[G] [ ]Then we’ll bow down [C]
+[G] [ ]Praise You forever [C]at Your [D/F#]throne
+Yes, we will [Em]sing of Your [C]love</text>
+		<searchtext>intro verse 1 god over all giver of life and health and breath i want to sing of your love came as a man humble you died the sinners death i want to sing of your love chorus your love has saved me by your grace i now draw near and your love has set me free to glorify your name and i i want to sing of your love verse 2 ill never forget that you have bought me with your blood i want to sing of your love in all i do may your great love be shining through i want to sing of your love verse 3 and on that day when you come back to claim your own yes we will sing of your love then well bow down praise you forever at your throne yes we will sing of your love</searchtext>
+		<primary>0</primary>
+		<key>G</key>
+		<time_signature>6/8</time_signature>
+		<bpm>120</bpm>
+		<tempo>Medium</tempo>
+		<created>2012-07-08 08:01:04</created>
+		<modified>2012-07-08 08:01:04</modified>
+		<creator>1547</creator>
+		<ccli>4803793</ccli>
+		<album>Looked Upon</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

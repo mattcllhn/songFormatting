@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14861</id>
+		<songbook_id>21</songbook_id>
+		<title>It Is Not Death To Die</title>
+		<copyright>Original Words by Henri Malan     Translated by George Bethune     Music, chorus and alternate words by Bob Kauflin     © 2008 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:53</created>
+		<modified>2010-09-24 15:52:52</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00391NM2A&quot;,&quot;title&quot;:&quot;It Is Not Death To Die&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/418rV4tiheL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>15989</id>
+		<song_id>14861</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[D/F#   G2   | Asus     | D/F#   G2   | Asus]
+
+Verse 1:
+It [D]is not [G2]death to [Asus]die
+To [D/F#]leave this weary [G2]road
+And [Bm]join the saints who [D/A]dwell on high
+Who've [Em7]found their home with [Asus]God
+
+It [D]is not [G2]death to [Asus]close
+The [D/F#]eyes long dimmed by [G2]tears
+And wake in joy be[Bm]fore your throne
+De[Em7]livered from our [Asus   A]fears
+
+Chorus:
+O [Bm]Je[A]sus, [G2]conquering the [D] grave
+Your [Bm]pre[A]cious [Em7]blood has pow'r to [Asus  A]save
+[Bm]Those who [D/F#]trust in You{,} will [Em7]in Your mercy [G2]find
+That it [Bm]is not [Asus]death to [D/F#  G   Asus]die
+
+Verse 2:
+It [D]is not [G2]death to [Asus]fling
+A[D/F#]side this earthly [G2]dust
+And [Bm]rise with strong and [D/A]noble wing
+To [Em7]live among the [Asus]just
+
+It [D]is not [G2]death to [Asus]hear
+The [D/F#]key unlock the [G2]door
+That sets us free from [Bm]mortal years 
+To [Em7]praise You ever[Asus]more</text>
+		<searchtext>intro verse 1 it is not death to die to leave this weary road and join the saints who dwell on high whove found their home with god it is not death to close the eyes long dimmed by tears and wake in joy before your throne delivered from our fears chorus o jesus conquering the grave your precious blood has powr to save those who trust in you will in your mercy find that it is not death to die verse 2 it is not death to fling aside this earthly dust and rise with strong and noble wing to live among the just it is not death to hear the key unlock the door that sets us free from mortal years to praise you evermore</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>120</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:14:53</created>
+		<modified>2009-03-20 09:14:53</modified>
+		<creator>1543</creator>
+		<ccli>5171699</ccli>
+		<album>Come Weary Saints</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

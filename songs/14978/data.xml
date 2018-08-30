@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14978</id>
+		<songbook_id>21</songbook_id>
+		<title>You Are My Everything</title>
+		<copyright>Words &amp; Music by Eric Hughes     © 2000 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:09</created>
+		<modified>2009-03-20 09:15:09</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00104H63E&quot;,&quot;title&quot;:&quot;You Are My Everything&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/614mSX3tPCL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16119</id>
+		<song_id>14978</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1: 
+[D]I can[D2]not [D]thank You e[D2]nough for sa[Bm]ving me [A   | D/F#   G   |] 
+[D]I can[D2]not [D]love You e[D2]nough for the cr[Bm   A   | D/F#   G   |]oss
+[D]I can[D2]not [D]think e[D2]nough ab[G]out You, [| G     | Em   D/F#   G   |]Jesus
+
+Chorus: 
+[A] [ ]For You are my e[Em7   D/F#   G   |]v'rything
+[A] [ ]For You are my e[Em7   D/F#   G   |]verything,
+[A] [ ]Jes[Bm   A   | D/F#   G   | Bm   A   D/F#   | G      |]us
+
+Verse 2: 
+[D]I can[D2]not im[D]agine my [D2]life with[Bm]out You [A   | D/F#   G   |] 
+[D]How I [D2]love to [D]be near to [D2]You, my S[Bm]avior [A   | D/F#   G   |] 
+Your [D]mercy [D2]sweet,
+Your [D]presence is [D2]real all ar[G]ound me, [| G      Bm  A  | Em   D/F#   G   |]Jesus</text>
+		<searchtext>verse 1 i cannot thank you enough for saving me i cannot love you enough for the cross i cannot think enough about you jesus chorus for you are my evrything for you are my everything jesus verse 2 i cannot imagine my life without you how i love to be near to you my savior your mercy sweet your presence is real all around me jesus</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>72</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:09</created>
+		<modified>2009-03-20 09:15:09</modified>
+		<creator>1543</creator>
+		<ccli>2959443</ccli>
+		<album>King Of Grace</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

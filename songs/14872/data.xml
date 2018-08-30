@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14872</id>
+		<songbook_id>21</songbook_id>
+		<title>Rejoice</title>
+		<copyright>Words and Music by Todd Twining     © 2006 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2009-03-20 09:14:54</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0012AKDYA&quot;,&quot;title&quot;:&quot;Rejoice&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61AitRsTtfL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16000</id>
+		<song_id>14872</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro: 
+[| G    | Am    | F   C/E   | Dsus4   D   | G    | Am    | F  Dm  Gsus4  G  |]
+[| C   F2   | Gsus4   G   | C   F2   | Gsus4   G   |]
+
+Verse 1: 
+All the [F]earth re[C]joice, your Cre[F/A]a[G/B]tor [C]reigns
+As the [F]only [C]awesome [Gsus4   G]God
+The [C/E]Alpha [F] and the O[G]me[Am]ga
+Who [F]was, [Dm]is, and [Gsus4  G]is [ ]to [Csus4   C]come
+Let the [G]oceans roar and the [Am]mountains sing
+He pro[F2]vides for [C/E]all He has [Dsus4   D]made
+So be [G]comforted as He [Am]rules with grace
+Re[F]joice, [Dm]all the [Gsus4  G]earth, [ ]re[C   F2   | Gsus4   G   | C  C/E  F2    | Gsus4   G   |]joice
+
+Verse 2: 
+All the [F]world re[C]joice, for the [F/A]ba[G/B]by [C]comes
+As a [F]humble [C]prince in the [Gsus4  G]night
+The [C/E]Word made [F]flesh, Em[G]manu[Am]el
+The [F]Ev[Dm]er[Gsus4]last[G]-ing [Csus4   C]Light
+Let the [G]warmth of heaven{,} reach the [Am]coldest heart
+With the [F2]gospel [C/E]of His [Dsus4   D]grace
+For His [G]heel will bruise the [Am]serpent’s head
+Re[F]joice, [Dm]all the [Gsus4  G]world, [ ]re[C   F2   | Gsus4   G   | D  D/F#  G2    | Asus   A   |]joice
+
+{new_page}
+{key:D}
+Verse 3: 
+All the [G]church re[D]joice, for your [G/B]King [A]re[D]turns
+On a [G]white horse [D]wearing a [Asus4   A]crown
+He will [D/F#]break the [G]sky{,} with the [A/E]an[A/C#]-gel’s [Bm]shout
+Des[Em7]cending [Asus4]from the [Dsus4   D]clouds
+Then the [A]dead will rise{,} from the [Bm]land and sea
+All His [G]people [D/F#]will as[Esus4   E/G#]cend
+We will [A]reign with Him for e[Bm]ternity
+Re[G]joice, [Em7]all the [Asus4   A]church, [ ]re[D]joice
+Then the [A]dead will rise{,} from the [Bm]land and sea
+All His [G]people [D/F#]will as[Esus4   E/G#]cend
+We will [A]reign with Him for e[Bm]ternity
+Re[G]joice, [Em7]all the [Asus   A]church, r[| D D/F# G2     | Asus4   A   |]ejoice
+Re[E E/G# A2    | Bsus4  ]joice, [ B]oh, r[| E E/G# A2     | Bsus4    B    | E]ejoice</text>
+		<searchtext>intro verse 1 all the earth rejoice your creator reigns as the only awesome god the alpha and the omega who was is and is to come let the oceans roar and the mountains sing he provides for all he has made so be comforted as he rules with grace rejoice all the earth rejoice verse 2 all the world rejoice for the baby comes as a humble prince in the night the word made flesh emmanuel the everlasting light let the warmth of heaven reach the coldest heart with the gospel of his grace for his heel will bruise the serpents head rejoice all the world rejoice verse 3 all the church rejoice for your king returns on a white horse wearing a crown he will break the sky with the angels shout descending from the clouds then the dead will rise from the land and sea all his people will ascend we will reign with him for eternity rejoice all the church rejoice then the dead will rise from the land and sea all his people will ascend we will reign with him for eternity rejoice all the church rejoice rejoice oh rejoice</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>104</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2009-03-20 09:14:54</modified>
+		<creator>1543</creator>
+		<ccli>4866211</ccli>
+		<album>Savior</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

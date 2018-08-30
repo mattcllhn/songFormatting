@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>54674</id>
+		<songbook_id>21</songbook_id>
+		<title>How Great is Our God</title>
+		<copyright>Chris Tomlin</copyright>
+		<created>2013-08-03 20:11:44</created>
+		<modified>2013-08-03 20:11:44</modified>
+		<creator>1547</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>59448</id>
+		<song_id>54674</song_id>
+		<description>Initial arrangement</description>
+		<text>VERSE 1: 
+The[A] splendor of a king [F#m7]clothed in majesty
+Let all the earth re[D2]joice, all the earth rejoice
+He [A]wraps himself in light 
+And d[F#m7]arkness tries to hide
+And trembles at his v[D2]oice, trembles at his voice  
+
+CHORUS: 
+How [A]great is our God!
+Sing with me: How [F#m7]great is our God!
+And all will see how [Dmaj7]great, how g[E]reat is our G[A2]od!
+
+VERSE 2: 
+And [A]age to age he stands, and [F#m7]time is in his hands
+Beginning and the e[D2]nd, beginning and the end
+The G[A]odhead three in one, [F#m7]Father, Spirit, Son
+The Lion and the L[D2]amb, the Lion and the Lamb
+
+BRIDGE: 
+[A]Name above all names, [F#m7]worthy of all praise
+My [Dmaj7]heart will sing: How g[E]reat is our [A]God</text>
+		<searchtext>verse 1 the splendor of a king clothed in majesty let all the earth rejoice all the earth rejoice he wraps himself in light and darkness tries to hide and trembles at his voice trembles at his voice chorus how great is our god sing with me how great is our god and all will see how great how great is our god verse 2 and age to age he stands and time is in his hands beginning and the end beginning and the end the godhead three in one father spirit son the lion and the lamb the lion and the lamb bridge name above all names worthy of all praise my heart will sing how great is our god</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2013-08-03 20:11:44</created>
+		<modified>2013-08-03 20:11:44</modified>
+		<creator>1547</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

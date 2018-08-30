@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14925</id>
+		<songbook_id>21</songbook_id>
+		<title>How Majestic</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2004 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:01</created>
+		<modified>2009-03-20 09:15:01</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B000ZJSFAI&quot;,&quot;title&quot;:&quot;How Majestic&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51CotfwF8BL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16059</id>
+		<song_id>14925</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[Bb     | Bb     | F     | C     | Bb     | Bb     | F     | Csus     |]
+
+Verse 1:
+When I [Bb]see the stars in [Dm]heaven
+You have [Bb]flung a[F]cross the [Bb]sky
+What is [Bb]man that You should [Dm]love him
+Or that [Bb]he should [F]catch Your [Bb]eye?
+Yet You [Gm]sent Your Son to [Eb]die
+That [F]we might come to [Bb]find
+Our [Eb]life in [C7]Him
+
+Chorus:
+O [F]Lord, our [C]Lord
+How ma[Gm]jestic is Your [Dm]name
+Ma[Bb]jestic is Your [F]name in all the [C]earth
+O [F]Lord, our [C]Lord
+How ma[Gm]jestic is Your [Dm]name
+Ma[Bb]jestic is Your [F]name in all the [C]earth
+In all the [C Dm   C Dm   C Dm]earth, [ ]in [C C]all [ ]the [F G   F G   F G]earth
+
+Verse 2:
+You are [Bb]awesome in Your [Dm]glory
+We are [Bb]sinful [F]and imp[Bb]ure
+How can [Bb]we approach the [Dm]Holy
+Who will [Bb]not one [F]sin end[Bb]ure?
+Yet You [Gm]sent Your Son to [Eb]die
+His [F]blood has paid the pr[Bb]ice
+For [Eb]all our [C7]sin</text>
+		<searchtext>intro verse 1 when i see the stars in heaven you have flung across the sky what is man that you should love him or that he should catch your eye yet you sent your son to die that we might come to find our life in him chorus o lord our lord how majestic is your name majestic is your name in all the earth o lord our lord how majestic is your name majestic is your name in all the earth in all the earth in all the earth verse 2 you are awesome in your glory we are sinful and impure how can we approach the holy who will not one sin endure yet you sent your son to die his blood has paid the price for all our sin</searchtext>
+		<primary>1</primary>
+		<key>F</key>
+		<time_signature>4/4</time_signature>
+		<bpm>140</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:01</created>
+		<modified>2009-03-20 09:15:01</modified>
+		<creator>1543</creator>
+		<ccli>4662769</ccli>
+		<album>Worship God Live</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

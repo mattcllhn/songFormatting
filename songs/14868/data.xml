@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14868</id>
+		<songbook_id>21</songbook_id>
+		<title>Salvation is Born</title>
+		<copyright>Words and Music by Gregory L. Tulenko     © 2005 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2009-03-20 09:14:54</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0012AKDWW&quot;,&quot;title&quot;:&quot;Salvation Is Born&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61AitRsTtfL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>15996</id>
+		<song_id>14868</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: D   A/D   | D   A/D   | Em7   D/F#   | G   Asus4]
+[   D   A/C#   | G/B   Asus4  A  | Em7   D/F#   | G   Asus   | D   G/D   | D   A/D]
+
+Verse 1:
+[D]Come let us [A/D]worship, come [D]let us a[A/D]dore
+[Em7]Jesus, Messi[D/F#]ah, our [G]Savior is [Asus4   A]born
+[D]Carol His gl[A/D]ory and [D]sing His sweet [A/D]Name
+[Em7]Offer a [D/F#]life of than[3/8 G]ksgiving [Asus4]and [6/8][D   G/D]praise [| D   A/D   |]
+
+Verse 2:
+[D]Join with the [A/D]angels pro[D]claiming to [A/D]earth
+[Em7]Join with the [D/F#]shepherds in [G]awe of His [Asus4   A]birth
+[D]Join all cre[A/D]ation re[D]joicing this [A/D]morn
+The [Em7]glory of [D/F#]God - becom[3/8]e - [G]man has [A]be[6/8]en [D   A/C#]born
+
+Chorus:
+[Cmaj7]Come, [G2/B]let us a[Asus4   A]dore [D]Him
+[Em]Jesus, the [D/F#]hope of the [G]world
+[Cmaj7]Come, [G2/B]worship be[Em7(b5)/Bb]fore [D/A]Him
+[Em]Christ, the Messi[D/F#]ah has [G]come
+Salva[Asus4]tion is [D   A/D   | D   A/D   | Em7   D/F#   | G2   A   |]born
+
+Verse 3:
+[D]Prophets fore[A/D]told Him, the [D]Promise of [A/D]God
+The [Em7]hope of Salva[D/F#]tion and [G]light of the [Asus4   A]world
+[D]Born in a [A/D]stable and [D]born as a [A/D]man
+[Em7]Born to ful[D/F#]fill God's [3/8 G]redeem[A 6/8]ing [D   A/C# (to chorus)]plan
+
+Tag:
+[D]Come let us [A/D]worship, come [D]let us a[A/D]dore
+[Em7]Jesus, Messi[D/F#]ah, our [G]Sav[Asus]ior is [D   A/D   | G/D   A/D   |]born
+[Em7   D/F#   | Cmaj9   Asus4   | D]</text>
+		<searchtext>intro verse 1 come let us worship come let us adore jesus messiah our savior is born carol his glory and sing his sweet name offer a life of thanksgiving and praise verse 2 join with the angels proclaiming to earth join with the shepherds in awe of his birth join all creation rejoicing this morn the glory of god become man has been born chorus come let us adore him jesus the hope of the world come worship before him christ the messiah has come salvation is born verse 3 prophets foretold him the promise of god the hope of salvation and light of the world born in a stable and born as a man born to fulfill gods redeeming plan tag come let us worship come let us adore jesus messiah our savior is born </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>6/8</time_signature>
+		<bpm>144</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2009-03-20 09:14:54</modified>
+		<creator>1543</creator>
+		<ccli>4866235</ccli>
+		<album>Savior</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

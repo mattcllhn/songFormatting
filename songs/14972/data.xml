@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14972</id>
+		<songbook_id>21</songbook_id>
+		<title>Your Great Renown</title>
+		<copyright>Words by Eric Grover     Music by Eric Grover &amp; Steve Cook     © 2000 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:08</created>
+		<modified>2009-03-20 09:15:08</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00104M8Q4&quot;,&quot;title&quot;:&quot;Your Great Renown&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/614mSX3tPCL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16113</id>
+		<song_id>14972</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[C2]   Our hearts are longing for{,}[F2]   the glory of the Lord
+[Am]   To be made [G]known in all the [F2    | F2    |]earth
+[C2]   Lord, let Your kingdom come, 
+[F2]   Lord, let Your will be done
+[Am]   Yours is the [G]greatest name of [F2    | F2    |]all
+
+Chorus:
+[F]   We [C]want to s[G]ee the [Am]nations b[F]ow
+[F]   We [C]want to h[G]ear the [Am]rising s[F]ound
+[F]   Of the [C2]worship that [D7]You des[F2]erve
+[F]   We [C]want this p[G]assion [Am]to ab[F]ound
+[F]   A [C]burden [G]for Your [Am]great ren[F]own
+[F]   For Yours [C]is the [D]greatest name of a[F2    | C    | C    | F2    | F2    |]ll
+
+Verse 2:
+[C2]   Our hearts are longing for{,}[F2]   the wisdom of the Lord
+[Am]   To be procl[G]aimed in all the [F2]earth
+[C2]   Your ways are higher than{,}[F2]   the dreams of any man
+[Am]   Yours is the [G]greatest name of [F2]all
+
+Verse 3:
+[C2]   Our hearts are hungry for{,}[F2]   the power of the Lord
+[Am]   To be displ[G]ayed in all the [F2]earth
+[C2]   The message of the cross{,}[F2]   will bring hope to the lost
+[Am]   Yours is the [G]greatest name of [F2]all</text>
+		<searchtext>verse 1 our hearts are longing for the glory of the lord to be made known in all the earth lord let your kingdom come lord let your will be done yours is the greatest name of all chorus we want to see the nations bow we want to hear the rising sound of the worship that you deserve we want this passion to abound a burden for your great renown for yours is the greatest name of all verse 2 our hearts are longing for the wisdom of the lord to be proclaimed in all the earth your ways are higher than the dreams of any man yours is the greatest name of all verse 3 our hearts are hungry for the power of the lord to be displayed in all the earth the message of the cross will bring hope to the lost yours is the greatest name of all</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>128</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:08</created>
+		<modified>2009-03-20 09:15:08</modified>
+		<creator>1543</creator>
+		<ccli>2959467</ccli>
+		<album>King Of Grace</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

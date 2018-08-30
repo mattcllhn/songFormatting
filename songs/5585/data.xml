@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5585</id>
+		<songbook_id>21</songbook_id>
+		<title>Joyful, Joyful, We Adore Thee</title>
+		<copyright>Words by Edward Hodges and Henry van Dyke     Music by Ludwig van Beethoven     Public domain</copyright>
+		<created>2008-09-25 20:59:42</created>
+		<modified>2015-10-10 16:43:18</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6316</id>
+		<song_id>5585</song_id>
+		<description>Initial arrangement</description>
+		<text>V1:
+[G]Joyful, joyful [C]we adore Thee, [G]God of glory, [Dsus]Lord of [D]love,
+[G]Hearts unfold like [C]flowers before Thee, [G]opening to the [D]sun a[G]bove.
+[D]Melt the [G]clouds of [D]sin and [G]sadness, [D]drive the [B]dark of [Em]doubt [A]a[D]way;
+[G]Giver of im[C]mortal gladness, [G]fill us with the [D]light of [G]day.  [C    G    D    G]
+
+
+V2:
+[G]All Thy works with [C]joy surround Thee, [G]earth and heav'n re[Dsus]flect Thy [D]rays,
+[G]Stars and angels [C]sing around Thee, [G]center of un[D]broken [G]praise;
+[D]Field and [G]forest, [D]vale and [G]mountain, [D]flow'ry [B]meadow, [Em]flash[A]ing [D]sea,
+[G]Chanting bird and [C]flowing fountain, [G]call us to re[D]joice in [G]Thee. [C    G    D    G]
+
+
+V3:
+[G]Thou art giving [C]and forgiving, [G]ever blessing, [Dsus]ever [D]blest,
+[G]Wellspring of the [C]joy of living, [G]ocean depth of [D]happy [G]rest.
+[D]Thou our [G]Father, [D]Christ our [G]Brother, [D]all who [B]live in [Em]love [A]are [D]Thine;
+[G]Teach us how to [C]love each other, [G]lift us to the [D]joy di[G]vine. [C    G    D    G]
+
+
+V4:
+[G]Mortals, join the [C]happy chorus, [G]which the morning [Dsus]stars be[D]gan,
+[G]Father love is [C]reigning o'er us, [G]brother love binds [D]man to [G]man.
+[D]Ever [G]singing, [D]march we [G]onward, [D]victors [B]in the [Em]midst [A]of [D]strife;
+[G]Joyful music [C]lifts us sunward, [G]in the triumph [D]song of [G]life. [C    G    D    G]</text>
+		<searchtext>v1 joyful joyful we adore thee god of glory lord of love hearts unfold like flowers before thee opening to the sun above melt the clouds of sin and sadness drive the dark of doubt away giver of immortal gladness fill us with the light of day v2 all thy works with joy surround thee earth and heavn reflect thy rays stars and angels sing around thee center of unbroken praise field and forest vale and mountain flowry meadow flashing sea chanting bird and flowing fountain call us to rejoice in thee v3 thou art giving and forgiving ever blessing ever blest wellspring of the joy of living ocean depth of happy rest thou our father christ our brother all who live in love are thine teach us how to love each other lift us to the joy divine v4 mortals join the happy chorus which the morning stars began father love is reigning oer us brother love binds man to man ever singing march we onward victors in the midst of strife joyful music lifts us sunward in the triumph song of life </searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>126</bpm>
+		<tempo>Fast</tempo>
+		<created>2008-09-25 20:59:42</created>
+		<modified>2014-05-30 01:34:56</modified>
+		<creator>1543</creator>
+		<ccli>25321</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>72014</id>
+		<song_id>5585</song_id>
+		<description>Last verse key change</description>
+		<text>V1:
+[G]Joyful, joyful [C]we adore Thee, [G]God of glory, [Dsus]Lord of [D]love,
+[G]Hearts unfold like [C]flowers before Thee, [G]opening to the [D]sun a[G]bove.
+[D]Melt the [G]clouds of [D]sin and [G]sadness, [D]drive the [B]dark of [Em]doubt [A]a[D]way;
+[G]Giver of im[C]mortal gladness, [G]fill us with the [D]light of [G]day.  [C    G    D    G]
+
+
+V2:
+[G]All Thy works with [C]joy surround Thee, [G]earth and heav'n re[Dsus]flect Thy [D]rays,
+[G]Stars and angels [C]sing around Thee, [G]center of un[D]broken [G]praise;
+[D]Field and [G]forest, [D]vale and [G]mountain, [D]flow'ry [B]meadow, [Em]flash[A]ing [D]sea,
+[G]Chanting bird and [C]flowing fountain, [G]call us to re[D]joice in [G]Thee. [C    G    D    G]
+
+
+V3:
+[G]Thou art giving [C]and forgiving, [G]ever blessing, [Dsus]ever [D]blest,
+[G]Wellspring of the [C]joy of living, [G]ocean depth of [D]happy [G]rest.
+[D]Thou our [G]Father, [D]Christ our [G]Brother, [D]all who [B]live in [Em]love [A]are [D]Thine;
+[G]Teach us how to [C]love each other, [G]lift us to the [D]joy di[G]vine. [C    G    Esus   E]
+
+
+{key:A}
+V4:
+[A]Mortals, join the [D]happy chorus, [A]which the morning [Esus]stars be[E]gan,
+[A]Father love is [D]reigning o'er us, [A]brother love binds [E]man to [A]man.
+[E]Ever [A]singing, [E]march we [A]onward, [E]victors [C#]in the [F#m]midst [B]of [E]strife;
+[A]Joyful music [D]lifts us sunward, [A]in the triumph [E]song of [A]life. [D    A    E    A]</text>
+		<searchtext>v1 joyful joyful we adore thee god of glory lord of love hearts unfold like flowers before thee opening to the sun above melt the clouds of sin and sadness drive the dark of doubt away giver of immortal gladness fill us with the light of day v2 all thy works with joy surround thee earth and heavn reflect thy rays stars and angels sing around thee center of unbroken praise field and forest vale and mountain flowry meadow flashing sea chanting bird and flowing fountain call us to rejoice in thee v3 thou art giving and forgiving ever blessing ever blest wellspring of the joy of living ocean depth of happy rest thou our father christ our brother all who live in love are thine teach us how to love each other lift us to the joy divine v4 mortals join the happy chorus which the morning stars began father love is reigning oer us brother love binds man to man ever singing march we onward victors in the midst of strife joyful music lifts us sunward in the triumph song of life </searchtext>
+		<primary>0</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>126</bpm>
+		<tempo>Fast</tempo>
+		<created>2015-10-08 20:34:10</created>
+		<modified>2015-10-10 16:43:18</modified>
+		<creator>1546</creator>
+		<ccli>25321</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>63976</id>
+		<song_id>5585</song_id>
+		<description>Verses 1 &amp; 3</description>
+		<text>V1:
+[G]Joyful, joyful [C]we adore Thee, [G]God of glory, [Dsus]Lord of [D]love,
+[G]Hearts unfold like [C]flowers before Thee, [G]opening to the [D]sun a[G]bove.
+[D]Melt the [G]clouds of [D]sin and [G]sadness, [D]drive the [B]dark of [Em]doubt [A]a[D]way;
+[G]Giver of im[C]mortal gladness, [G]fill us with the [D]light of [G]day.  [C    G    D    G]
+
+
+V3:
+[G]Thou art giving [C]and forgiving, [G]ever blessing, [Dsus]ever [D]blest,
+[G]Wellspring of the [C]joy of living, [G]ocean depth of [D]happy [G]rest.
+[D]Thou our [G]Father, [D]Christ our [G]Brother, [D]all who [B]live in [Em]love [A]are [D]Thine;
+[G]Teach us how to [C]love each other, [G]lift us to the [D]joy di[G]vine. [C    G    D    G]
+</text>
+		<searchtext>v1 joyful joyful we adore thee god of glory lord of love hearts unfold like flowers before thee opening to the sun above melt the clouds of sin and sadness drive the dark of doubt away giver of immortal gladness fill us with the light of day v3 thou art giving and forgiving ever blessing ever blest wellspring of the joy of living ocean depth of happy rest thou our father christ our brother all who live in love are thine teach us how to love each other lift us to the joy divine </searchtext>
+		<primary>0</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>126</bpm>
+		<tempo>Fast</tempo>
+		<created>2014-05-30 01:25:48</created>
+		<modified>2014-05-30 01:25:48</modified>
+		<creator>1546</creator>
+		<ccli>25321</ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

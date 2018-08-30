@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>53296</id>
+		<songbook_id>21</songbook_id>
+		<title>Promises</title>
+		<copyright>Caleb Dirnberger</copyright>
+		<created>2013-05-15 20:13:56</created>
+		<modified>2013-05-15 23:18:03</modified>
+		<creator>1547</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>57901</id>
+		<song_id>53296</song_id>
+		<description>Initial arrangement</description>
+		<text>VERSE1:
+[D]God of truth, there [A]are no lies, in [Bm]all your speech, Your [G]Word is life
+
+Your [D]heart is good, stead[A]fast in love, You’re [Bm]excellent, in [G]all wisdom  
+
+CHORUS:
+
+[G]All [A]my [Bm]trust [D/F#]is in what [G]You [A]have [D]said 
+
+[G]Stand[A]ing [Bm]firm on [D/F#]all You have [G]promised 
+
+
+VERSE2:
+[Bm]God of might, You [D]cannot fail, Your [G]purpose will, it [Em]will prevail
+
+You [A]satisfy the [D/F#]Longing soul, You’re [G]for my good, for[Em]evermore [A]
+
+
+VERSE3:
+[D/F#]God of peace, You’ve [Em]purchased me, [G]by Your blood I [Bm]am redeemed [A/C#]
+
+Your [D]every Word is [A]Yes in Christ, and [Bm]all your joy is [G]my delight            
+
+
+
+</text>
+		<searchtext>verse1 god of truth there are no lies in all your speech your word is life your heart is good steadfast in love youre excellent in all wisdom chorus all my trust is in what you have said standing firm on all you have promised verse2 god of might you cannot fail your purpose will it will prevail you satisfy the longing soul youre for my good forevermore verse3 god of peace youve purchased me by your blood i am redeemed your every word is yes in christ and all your joy is my delight </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2013-05-15 20:13:56</created>
+		<modified>2013-05-15 23:18:03</modified>
+		<creator>1547</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>15006</id>
+		<songbook_id>21</songbook_id>
+		<title>Mighty, Mighty Savior</title>
+		<copyright>Words &amp; Music by Mark Altrogge      © 2004 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:12</created>
+		<modified>2009-03-20 09:15:12</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00104J6IC&quot;,&quot;title&quot;:&quot;Mighty Mighty Savior&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61uXihJYOlL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16148</id>
+		<song_id>15006</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[C     | C     | C     | C     |]
+
+Verse 1:
+[C]No one is good
+[F]No one is holy before G[Am]od
+[Am]I need some[G]one to cleanse me
+[C]No one is pure
+[F]No one is righteous in Your s[Am]ight
+[Am]I need some[G]one to save me
+[Dm]But I’m so glad You died and [G]rose again[| G     F/A |]
+[Bb]For helpless [F/A]sinners like [Gsus     | G]me
+
+Chorus:
+What a [Am]mighty, mighty [F]Savior You a[C]re
+What a [Am]mighty, mighty [F]Savior You a[Gsus    | G]re
+You can [Am]wash away my [E7]sin
+You can [C]change my heart with[D7]in
+What a [F]mighty, mighty [G]Savior You a[C]re
+
+Verse 2:
+[C]Sin is too strong
+[F]For me to conquer on my o[Am]wn
+[Am]I need some[G]one to help me
+[C]I am too weak
+[F]I cannot change my evil h[Am]eart
+[Am]I need some[G]one to save me
+[Dm]But I’m so glad You died and [G]rose again[ G     F/A |]
+[Bb]For helpless [F/A]sinners like [Gsus     | G]me</text>
+		<searchtext>intro verse 1 no one is good no one is holy before god i need someone to cleanse me no one is pure no one is righteous in your sight i need someone to save me but im so glad you died and rose again for helpless sinners like me chorus what a mighty mighty savior you are what a mighty mighty savior you are you can wash away my sin you can change my heart within what a mighty mighty savior you are verse 2 sin is too strong for me to conquer on my own i need someone to help me i am too weak i cannot change my evil heart i need someone to save me but im so glad you died and rose again for helpless sinners like me</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>120</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:15:12</created>
+		<modified>2009-03-20 09:15:12</modified>
+		<creator>1543</creator>
+		<ccli>4520007</ccli>
+		<album>Awesome God</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

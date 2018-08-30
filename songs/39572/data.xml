@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>39572</id>
+		<songbook_id>21</songbook_id>
+		<title>Jesus Lives</title>
+		<copyright>Music by George Romanacce     Words by George Romanacce &amp; Bob Kauflin     © 2011 Sovereign Grace Worship / Sovereign Grace Praise</copyright>
+		<created>2011-03-30 21:49:36</created>
+		<modified>2011-03-30 21:49:36</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B004RR410C&quot;,&quot;title&quot;:&quot;Jesus Lives&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/41QLoqrrewL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>42481</id>
+		<song_id>39572</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[C#m7     B/D# | E         | C#m7      B/D# | E]
+
+Verse 1:
+[C#m7]I no longer fear [B/D#]the grav[E]e,{,} [A2]Christ [E/G#]has  [B/D#]come
+[C#m7]Took the sting of death [B/D#]away[E]
+Through His [A2]sav[E/G#]ing  [B/D#]blood
+[F#m7]Though my body fails{,} and my [C#m7]flesh grows weak
+Till my [G#sus]final breath{,} to this [Amaj7]hope I’ll cling
+
+Chorus:
+Jesus [E]lives and so shall I [A2]
+I’ll be raised from the d[C#m7]ust{,} with Christ on high [A2]
+Jesus [E]lives no more to d[A2]ie
+And when He ret[C#m7]urns{,} with Him I’ll r[A2]ise
+Jesus l[C#m7]ives [B/D# | A2     | C#m7    B/D# | A2]
+
+Verse 2:
+[C#m7]In this fallen world [B/D#]I cry, [A] [A2]for [E/G#]the  [B/D#]day
+[C#m7]When Your glory splits [B/D#]the s[A]ky
+And You [A2]come [E/G#]to   [B/D#]reign
+[F#m7]All creation waits for that [C#m7]promised hour
+When the [G#sus]saints of God{,} are re[Amaj7]vealed in pow’r[(to chorus)]
+
+Bridge:
+[B/D#]Not death nor [C#m7]any power of h[A2]ell
+Can separate me from the [B/D#]love,
+The [C#m7]love of my [A2]Savior [(repeat)]
+[B]  [ ]The love of my S[A2]avior</text>
+		<searchtext>intro verse 1 i no longer fear the grave christ has come took the sting of death away through his saving blood though my body fails and my flesh grows weak till my final breath to this hope ill cling chorus jesus lives and so shall i ill be raised from the dust with christ on high jesus lives no more to die and when he returns with him ill rise jesus lives verse 2 in this fallen world i cry for the day when your glory splits the sky and you come to reign all creation waits for that promised hour when the saints of god are revealed in powr bridge not death nor any power of hell can separate me from the love the love of my savior the love of my savior</searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>82</bpm>
+		<tempo>Slow</tempo>
+		<created>2011-03-30 21:49:36</created>
+		<modified>2011-03-30 21:49:36</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>Risen</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

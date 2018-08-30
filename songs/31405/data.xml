@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>31405</id>
+		<songbook_id>21</songbook_id>
+		<title>Revelation Song</title>
+		<copyright>Words and Music by Jennie Lee Riddle. © 2004 Gateway Create Publishing. CCLI#34312 </copyright>
+		<created>2010-01-23 14:12:13</created>
+		<modified>2010-02-04 12:31:56</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>33547</id>
+		<song_id>31405</song_id>
+		<description>Initial arrangement</description>
+		<text>VERSE 1:
+[D]Worthy is the  [Am7]    Lamb Who was slain
+[C]Holy, Holy is [G]He             
+[D]Sing a new song  [Am7]    to Him who sits on 
+[C]Heaven’s mercy s[G]eat 
+
+CHORUS:
+[D]Holy, holy, holy [Am7]     is the Lord God Almighty         
+[C]Who was and is and is to c[G]ome       
+[D]With all creation I sing, [Am7]     praise to the King of kings 
+[C]You are my everything, and [G]I will adore you [D    Am7   C    G]
+
+VERSE 2:
+[D]Clothed in rainbows [Am7]     of living color
+[C]Flashes of lighting, roll[G]s of thunder
+[D]Blessing and honor, strength and [Am7]   glory and power be
+[C]To You the only wise K[G]ing
+                                                                                                                                               
+VERSE 3:
+[D]Filled with wonder, [Am7]     awestruck wonder
+[C]At the mention of Your [G]name          
+[D]Jesus Your name is power [Am7]     breath and living water
+[C]Such a marv’lous mys  -  [G]tery yeah</text>
+		<searchtext>verse 1 worthy is the lamb who was slain holy holy is he sing a new song to him who sits on heavens mercy seat chorus holy holy holy is the lord god almighty who was and is and is to come with all creation i sing praise to the king of kings you are my everything and i will adore you verse 2 clothed in rainbows of living color flashes of lighting rolls of thunder blessing and honor strength and glory and power be to you the only wise king verse 3 filled with wonder awestruck wonder at the mention of your name jesus your name is power breath and living water such a marvlous mys tery yeah</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2010-01-23 14:12:13</created>
+		<modified>2010-02-04 12:31:56</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

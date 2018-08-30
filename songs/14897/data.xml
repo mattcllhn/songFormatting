@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14897</id>
+		<songbook_id>21</songbook_id>
+		<title>Greater Than We Can Imagine</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2008 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:57</created>
+		<modified>2013-06-01 19:48:19</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001EUMNO6&quot;,&quot;title&quot;:&quot;Greater Than We Can Imagine&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51CGlRp8SUL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16025</id>
+		<song_id>14897</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[A     | A     | E     | D]
+
+VERSE 1:
+[A]Every day we'll bless You, and [E/G#]praise Your name [| E/G#]
+And [F#m]on Your glorious splendor{,} we will [D]dwell [| D]
+[A]On Your wonderous works, Lord, we'll [E]meditate [| E]
+And [F#m]of Your awesome power we will t[D]ell [| D]
+We'll [Bm]speak of Your salvation 
+And [Esus]Your abundant goodness
+
+CHORUS:
+Because You are g[D]reater{,} than we can im[A]agine [| A]
+You are too be[D]autiful for us to f[A]athom [| A]
+Oh, You are g[F#m]reat and g[E]reatly to be p[D]raised [| D]
+
+Verse 2:
+[A]Every generation shall [E/G#]sing Your worth [| E/G#]
+And [F#m]magnify Your mercy and Your g[D]race [| D]
+We'll [A]sing about the Savior{,} who [E]came to earth [| E]
+To [F#m]bear the sins of those He came to s[D]ave [| D]
+You [Bm]fill our hearts with wonder
+We'll [Esus]worship You forever
+</text>
+		<searchtext>intro verse 1 every day well bless you and praise your name and on your glorious splendor we will dwell on your wonderous works lord well meditate and of your awesome power we will tell well speak of your salvation and your abundant goodness chorus because you are greater than we can imagine you are too beautiful for us to fathom oh you are great and greatly to be praised verse 2 every generation shall sing your worth and magnify your mercy and your grace well sing about the savior who came to earth to bear the sins of those he came to save you fill our hearts with wonder well worship you forever </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>138</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:14:57</created>
+		<modified>2013-06-01 19:48:19</modified>
+		<creator>1543</creator>
+		<ccli>5261042</ccli>
+		<album>Psalms</album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5624</id>
+		<songbook_id>21</songbook_id>
+		<title>Alas! And Did My Savior Bleed (Traditional)</title>
+		<copyright>Words by Isaac Watts     Music by Hugh Wilson     Public domain</copyright>
+		<created>2008-10-24 01:54:31</created>
+		<modified>2009-01-08 23:43:03</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6355</id>
+		<song_id>5624</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[G]Alas! [C/G]And [G]did [G/B C]my [G/D]Sav[D7]ior [G]bleed,
+[G]And did [G D/A]my [G/B]Sov[G]ereign [D]die?
+[D/F#]Would [G]He [D7]de[Em]vote [G7/D]that [C]sa[G]cred [D]head
+[G]For [G C]sin[G C]ners [G/D]such [D7]as [G]I?
+
+Verse 2:
+[G]Was it [C/G]for [G]sins [G/B C]that [G/D]I [D7]have [G]done
+[G]He suf[G D/A]fered [G/B]on [G]the [D]tree?
+[D/F#]A[G]maz[D7]ing [Em]pit[G7/D]y! [C]Grace [G]un[D]known!
+[G]And [G C]love [G C]be[G/D]yond [D7]de[G]gree!
+
+Verse 3:
+[G]Well might [C/G]the [G]sun [G/B C]in [G/D]dark[D7]ness [G]hide
+[G]And shut [G D/A]his [G/B]glo[G]ries [D]in,
+[D/F#]When  [G]Christ [D7]the [Em]great [G7/D]Re[C]deem[G]er, [D]died
+[G]For [G C]man [G C]the [G/D]crea[D7]ture's [G]sin
+
+Verse 4:
+Thus might [C/G]I [G]hide [G/B C]my [G/D]blush[D7]ing [G]face
+[G]While His [G D/A]dear  [G/B]cross [G]ap[D]pears,
+[D/F#]Dis[G]solve [D7]my [Em]heart [G7/D]in [C]thank[G]ful[D]ness,
+[G]And [G C]melt [G C]mine [G/D]eyes [D7]to [G]tears.
+
+Verse 5:
+[G]But drops  [C/G]of  [G]grief [G/B C]can [G/D]ne'er [D7]re[G]pay
+[G]The debt [G D/A]of [G/B]love [G]I [D]owe:
+[D/F#]Here, [G]Lord, [D7]I [Em]give [G7/D]my [C]self [G]a[D]way
+[G]'Tis [G C]all [G C]that [G/D]I [D7]can [G]do.</text>
+		<searchtext>verse 1 alas and did my savior bleed and did my sovereign die would he devote that sacred head for sinners such as i verse 2 was it for sins that i have done he suffered on the tree amazing pity grace unknown and love beyond degree verse 3 well might the sun in darkness hide and shut his glories in when christ the great redeemer died for man the creatures sin verse 4 thus might i hide my blushing face while his dear cross appears dissolve my heart in thankfulness and melt mine eyes to tears verse 5 but drops of grief can neer repay the debt of love i owe here lord i give my self away tis all that i can do</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>6/8</time_signature>
+		<bpm>120</bpm>
+		<tempo>Slow</tempo>
+		<created>2008-10-24 01:54:31</created>
+		<modified>2009-01-08 23:43:03</modified>
+		<creator>1543</creator>
+		<ccli>106123</ccli>
+		<album></album>
+		<font_size></font_size>
+	</Arrangement>
+</data>
+

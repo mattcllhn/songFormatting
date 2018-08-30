@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5595</id>
+		<songbook_id>21</songbook_id>
+		<title>God Moves In A Mysterious Way</title>
+		<copyright>Words &amp; Music by William Cowper     Public domain</copyright>
+		<created>2008-09-24 20:47:43</created>
+		<modified>2016-12-21 14:07:22</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>76228</id>
+		<song_id>5595</song_id>
+		<description>For Roger Smith's Christmas lyrics, see attachement</description>
+		<text>Verse 1:
+God [D]moves in a my[A]sterious [G/B]way
+His [A]wonders [G/B]to per[D]form
+He [D]plants His [Bm]footsteps [A]in the [D]sea
+And [A]rides up[Em]on the [D]storm
+
+Verse 2:
+Ye [D]fearful saints fresh [A]courage [G/B]take
+The [A]clouds ye [G/B]so much [D]dread
+Are [D]big with [Bm]mercy, [A]and shall [D]break
+In [A]blessings [Em]on your [D]head
+
+Verse 3:
+Judge [D]not the Lord by [A]feeble [G/B]sense     
+But [A]trust Him [G/B]for His [D]grace
+Be[D]hind a [Bm]frowning [A]provi[D]dence
+He [A]hides a [Em]smiling [D]face
+
+Verse 4:
+His [D]purposes will [A]ripen [G/B]fast                
+Un[A]folding [G/B]every [D]hour   
+The [D]bud may [Bm]have a [A]bitter [D]taste
+But [A]sweet will [Em]be the [D]flower
+
+Verse 5:
+Blind [D]unbelief is [A]sure to [G/B]err
+And [A]scan His [G/B]work in [D]vain
+God [D]is His [Bm]own in[A]terpre[D]ter
+And [A]He will [Em]make it [D]plain</text>
+		<searchtext>verse 1 god moves in a mysterious way his wonders to perform he plants his footsteps in the sea and rides upon the storm verse 2 ye fearful saints fresh courage take the clouds ye so much dread are big with mercy and shall break in blessings on your head verse 3 judge not the lord by feeble sense but trust him for his grace behind a frowning providence he hides a smiling face verse 4 his purposes will ripen fast unfolding every hour the bud may have a bitter taste but sweet will be the flower verse 5 blind unbelief is sure to err and scan his work in vain god is his own interpreter and he will make it plain</searchtext>
+		<primary>0</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>112</bpm>
+		<tempo>Slow</tempo>
+		<created>2016-12-21 14:07:22</created>
+		<modified>2016-12-21 14:07:22</modified>
+		<creator>1546</creator>
+		<ccli>2084909</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>6326</id>
+		<song_id>5595</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+God [D]moves in a my[A]sterious [G/B]way
+His [A]wonders [G/B]to per[D]form
+He [D]plants His [Bm]footsteps [A]in the [D]sea
+And [A]rides up[Em]on the [D]storm
+
+Verse 2:
+Ye [D]fearful saints fresh [A]courage [G/B]take
+The [A]clouds ye [G/B]so much [D]dread
+Are [D]big with [Bm]mercy, [A]and shall [D]break
+In [A]blessings [Em]on your [D]head
+
+Verse 3:
+Judge [D]not the Lord by [A]feeble [G/B]sense     
+But [A]trust Him [G/B]for His [D]grace
+Be[D]hind a [Bm]frowning [A]provi[D]dence
+He [A]hides a [Em]smiling [D]face
+
+Verse 4:
+His [D]purposes will [A]ripen [G/B]fast                
+Un[A]folding [G/B]every [D]hour   
+The [D]bud may [Bm]have a [A]bitter [D]taste
+But [A]sweet will [Em]be the [D]flower
+
+Verse 5:
+Blind [D]unbelief is [A]sure to [G/B]err
+And [A]scan His [G/B]work in [D]vain
+God [D]is His [Bm]own in[A]terpre[D]ter
+And [A]He will [Em]make it [D]plain</text>
+		<searchtext>verse 1 god moves in a mysterious way his wonders to perform he plants his footsteps in the sea and rides upon the storm verse 2 ye fearful saints fresh courage take the clouds ye so much dread are big with mercy and shall break in blessings on your head verse 3 judge not the lord by feeble sense but trust him for his grace behind a frowning providence he hides a smiling face verse 4 his purposes will ripen fast unfolding every hour the bud may have a bitter taste but sweet will be the flower verse 5 blind unbelief is sure to err and scan his work in vain god is his own interpreter and he will make it plain</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>112</bpm>
+		<tempo>Slow</tempo>
+		<created>2008-09-24 20:47:43</created>
+		<modified>2008-09-24 20:47:43</modified>
+		<creator>1543</creator>
+		<ccli>2084909</ccli>
+		<album></album>
+		<font_size></font_size>
+	</Arrangement>
+</data>
+

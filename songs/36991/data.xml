@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>36991</id>
+		<songbook_id>21</songbook_id>
+		<title>In the Beginning (Overture to the Trilogy)</title>
+		<copyright>Michael Card ©1986 Birdwing Music (a div. of EMI Christian Music Publishing) Mole End Music (Admin. by EMI Christian Music Publishing)</copyright>
+		<created>2010-12-09 00:10:57</created>
+		<modified>2010-12-09 00:10:57</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>39624</id>
+		<song_id>36991</song_id>
+		<description>Initial arrangement</description>
+		<text>
+[Em]  In the beg[C]inning [D]was the W[Em]ord
+And the [C]Word [D]was with [Bm]God
+And the [Am]Wo[D]rd was [Em]God
+And the [C]Word [D]became f[Em]lesh
+And the [C]Word [D]became f[Bm]lesh
+And [Am]dwelt [D]a--m[E]ong us</text>
+		<searchtext> in the beginning was the word and the word was with god and the word was god and the word became flesh and the word became flesh and dwelt among us</searchtext>
+		<primary>1</primary>
+		<key>Em</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2010-12-09 00:10:57</created>
+		<modified>2010-12-09 00:10:57</modified>
+		<creator>1546</creator>
+		<ccli>228324</ccli>
+		<album>The Life </album>
+		<font_size>18</font_size>
+	</Arrangement>
+</data>
+

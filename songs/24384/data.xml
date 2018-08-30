@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>24384</id>
+		<songbook_id>21</songbook_id>
+		<title>Jesus, You Are Beautiful</title>
+		<copyright>Pat Sczebel</copyright>
+		<created>2009-05-30 22:26:50</created>
+		<modified>2009-07-30 23:57:26</modified>
+		<creator>1547</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>26004</id>
+		<song_id>24384</song_id>
+		<description>Initial arrangement</description>
+		<text>VERSE 1:
+Son of G[Dmaj7]od You save[Gmaj7]d me
+Rescued [Dmaj7]me out of [Gmaj7]darkness
+Caused these [Dmaj7]blinded eye[Gmaj7]s to see
+Just how [D]beau[A]tif[G2]ul You are
+
+CHORUS 1:
+Jesus, You [Gmaj7]are bea[G6]utif[D2/F#]ul
+Jesus, You [Gmaj7]are bea[G]utif[F#m7]ul
+Because You f[Gmaj7]irst loved me, I l[D2/F#]ove You
+[G2]Jesu[G6]s, [Asus4]You are beautif[Dmaj7]ul     [G/D]     [Dmaj7]     [G/D]
+
+VERSE 2:
+Jesus [Dmaj7]Christ, my S[Gmaj7]avior
+Your great [Dmaj7]love knows no [Gmaj7]measure
+Though I [Dmaj7]sin conti[Gmaj7]nually
+Lord, Your [D]kind[A]ness [G2]follows me
+
+CHORUS 2:
+Jesus, You [Gmaj7]are bea[G6]utif[D2/F#]ul
+Jesus, You [Gmaj7]are bea[G]utif[F#m7]ul
+Because You f[G]irst loved me, I l[D2/F#]ove You
+Because You f[G/B]irst loved me, I l[D2/F#]ove You
+Because You f[G]irst loved me, I l[D2/F#]ove You
+</text>
+		<searchtext>verse 1 son of god you saved me rescued me out of darkness caused these blinded eyes to see just how beautiful you are chorus 1 jesus you are beautiful jesus you are beautiful because you first loved me i love you jesus you are beautiful verse 2 jesus christ my savior your great love knows no measure though i sin continually lord your kindness follows me chorus 2 jesus you are beautiful jesus you are beautiful because you first loved me i love you because you first loved me i love you because you first loved me i love you </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature></time_signature>
+		<bpm>70</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-05-30 22:26:50</created>
+		<modified>2009-07-30 23:57:26</modified>
+		<creator>1547</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

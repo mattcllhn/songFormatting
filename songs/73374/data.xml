@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>73374</id>
+		<songbook_id>21</songbook_id>
+		<title>Jesus, My Redeemer</title>
+		<copyright>Fanny J Crosby, Rob Brock</copyright>
+		<created>2018-03-26 21:42:50</created>
+		<modified>2018-03-26 21:42:50</modified>
+		<creator>24706</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>81257</id>
+		<song_id>73374</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[Cm]What I am, Thine [Fm]eye can see,
+[Cm]Yet I come, O L[Bb]ord, to Thee:
+Th[Cm]ough my sins are c[Fm]rimson red,
+[Cm]Yet for [G]me Thy b[Cm7]lood was shed.
+
+Chorus:
+[Cm]This my plea, my [Fm]only plea:
+Th[Cm]rough Thy off’ring [Bb]once for me,
+[Cm]I   may cast my[Fm]self on Thee,
+[Cm]Jesus, [G]my Red[Cm7]eemer.
+
+Verse 2:
+[Cm]As I am, I s[Fm]eek Thy face,
+K[Cm]neeling at the d[Bb]oor of Grace;
+[Cm]O forgive this h[Fm]eart of mine,
+Cl[Cm]eanse me [G]now and [Cm7]seal me Thine.
+
+Verse 3:
+[Cm]As I am, O b[Fm]lessed Lord,
+[Cm]I   believe and t[Bb]rust Thy word;
+[Cm]Let my soul no [Fm]longer roam,
+[Cm]Take, O t[G]ake this w[Cm7]and’rer home.
+
+Verse 4:
+[Cm]Lost, but found, my [Fm]sins forgiv’n,
+C[Cm]hild of God and [Bb]heir of Heav’n;
+[Cm]Lost, but found, what [Fm]joy is mine!
+[Cm]Thou dost cl[G]eanse and [Cm7]keep me Thine.</text>
+		<searchtext>verse 1 what i am thine eye can see yet i come o lord to thee though my sins are crimson red yet for me thy blood was shed chorus this my plea my only plea through thy offring once for me i may cast myself on thee jesus my redeemer verse 2 as i am i seek thy face kneeling at the door of grace o forgive this heart of mine cleanse me now and seal me thine verse 3 as i am o blessed lord i believe and trust thy word let my soul no longer roam take o take this wandrer home verse 4 lost but found my sins forgivn child of god and heir of heavn lost but found what joy is mine thou dost cleanse and keep me thine</searchtext>
+		<primary>1</primary>
+		<key>Cm</key>
+		<time_signature>4/4</time_signature>
+		<bpm>80</bpm>
+		<tempo>Medium</tempo>
+		<created>2018-03-26 21:42:50</created>
+		<modified>2018-03-26 21:42:50</modified>
+		<creator>24706</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

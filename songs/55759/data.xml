@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>55759</id>
+		<songbook_id>21</songbook_id>
+		<title>Who Has Done Good?</title>
+		<copyright>© 2013 Sovereign Grace Worship     Words &amp; Music by Joel Sczebel</copyright>
+		<created>2013-11-05 13:01:50</created>
+		<modified>2013-11-05 13:01:50</modified>
+		<creator>1548</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>60669</id>
+		<song_id>55759</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[A     | C#m     | G     | Bm     | A     | C#m     | G     | Bm ]
+
+Verse 1:
+[A]Who has done good{,} [C#m] [ ]and [G]who has sought God? [Bm]
+We h[A]ated and cursed{,} [C#m] [ ]and [G]called for Your blood [Bm]
+We [E]claimed to be wise{,} as we g[F#m]loried in shame
+We t[G]old ourselves lies, des[Bm]pising Your reign
+And [D]love, Your l[A]ove, was f[E]ar from [D]us
+And [D]love, Your l[A]ove, was f[E]ar from [(intro)]us
+
+Verse 2:
+Our m[A]ouths were like graves, [C#m] [ ]our [G]words were like darts [Bm]
+Our b[A]odies were slaves{,} [C#m] [ ]to the [G]greed of our hearts [Bm]
+We [E]thirsted for life as we w[F#m]asted our breath
+Ent[G]angled in strife, we ru[Bm]shed to our death
+And [D]love, Your [A]love, was [E]far from [D]us
+And [D]love, Your [A]love, was [E]far from [(intro)]us
+
+Verse 3:
+The [A]foolish You loved, [C#m] [ ]the [G]faithless You saved [Bm]
+The [A]lost You have found,[C#m] [ ]the w[G]orthless You raised [Bm]
+The [E]blood of Your cross{,} and Yo[F#m]ur empty grave
+Changed r[G]ebels to heirs{,} and s[Bm]inners to saints
+And [D]love, Your [A]love, has [E]come to [D]us
+And [D]love, Your [A]love, has [E]come to [A]us</text>
+		<searchtext>intro verse 1 who has done good and who has sought god we hated and cursed and called for your blood we claimed to be wise as we gloried in shame we told ourselves lies despising your reign and love your love was far from us and love your love was far from us verse 2 our mouths were like graves our words were like darts our bodies were slaves to the greed of our hearts we thirsted for life as we wasted our breath entangled in strife we rushed to our death and love your love was far from us and love your love was far from us verse 3 the foolish you loved the faithless you saved the lost you have found the worthless you raised the blood of your cross and your empty grave changed rebels to heirs and sinners to saints and love your love has come to us and love your love has come to us</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>98</bpm>
+		<tempo>Slow</tempo>
+		<created>2013-11-05 13:01:50</created>
+		<modified>2013-11-05 13:01:50</modified>
+		<creator>1548</creator>
+		<ccli></ccli>
+		<album>Grace Has Come</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

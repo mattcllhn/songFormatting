@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5564</id>
+		<songbook_id>21</songbook_id>
+		<title>Amazing Grace</title>
+		<copyright>Words &amp; Music by John Newton and Thomas Augustine Arne     Public domain</copyright>
+		<created>2008-09-24 03:06:04</created>
+		<modified>2014-07-04 14:09:07</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6295</id>
+		<song_id>5564</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+A[G]mazing [G7]grace, how [C]sweet the [G]sound
+That [G]saved a [G7]wretch like [D]me.
+I [G]once was [G7]lost, but [C]now I'm [G]found,
+Was [Em]blind, but [D7]now I [C]see. [G]
+
+Verse 2:
+'Twas gr[G]ace that [G7]taught my [C]heart to [G]fear,
+And [G]grace my [G7]fears re[D]lieved.
+How [G]precious [G7]did that [C]grace a[G]ppear
+The [Em]hour I [D7]first be[C]lieved![G]
+
+Verse 3:
+Through [G]many [G7]dangers, [C]toils and [G]snares
+I [G]have al[G7]ready [D]come
+'Tis [G]grace hath [G7]brought me [C]safe thus [G]far
+And [Em]grace will [D7]lead me [C]home[G]
+
+Verse 4:
+When [G]we've been [G7]there ten [C]thousand [G]years
+Bright [G]shining [G7]as the [D]sun,
+We've [G]no less [G7]days to [C]sing God's [G]praise
+Then [Em]when we've [D]first be[C]gun.[G]
+</text>
+		<searchtext>verse 1 amazing grace how sweet the sound that saved a wretch like me i once was lost but now im found was blind but now i see verse 2 twas grace that taught my heart to fear and grace my fears relieved how precious did that grace appear the hour i first believed verse 3 through many dangers toils and snares i have already come tis grace hath brought me safe thus far and grace will lead me home verse 4 when weve been there ten thousand years bright shining as the sun weve no less days to sing gods praise then when weve first begun </searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>6/8</time_signature>
+		<bpm>84</bpm>
+		<tempo>Medium</tempo>
+		<created>2008-09-24 03:06:04</created>
+		<modified>2014-07-04 14:09:07</modified>
+		<creator>1543</creator>
+		<ccli>2006028</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

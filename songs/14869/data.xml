@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14869</id>
+		<songbook_id>21</songbook_id>
+		<title>My Lord, I Did Not Choose You</title>
+		<copyright>Verses by Josiah Conder     Music &amp; Chorus by Devon Kauflin     © 2008 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2009-03-20 09:14:54</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BVPZKC&quot;,&quot;title&quot;:&quot;My Lord, I Did Not Choose You&quot;,&quot;artist&quot;:&quot;Na Band&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51pvb6KwaZL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>15997</id>
+		<song_id>14869</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[(solo piano line) F# B D# B C# B C# B A# B A# B G# B G# B]
+
+Verse 1:
+My [B]Lord, I [F#/A#]did not [G#m7]choose You, for [B]that could [F#/A#]never [F#sus   F#]be
+My [B]heart would [F#/A#]still re[G#m7]fuse You, had [E]You not [B/D#]chosen [F#sus    F#]me
+You [G#m]took the sin that stained me, You [F#]cleansed me, made me new
+Of [G#m]old You have ordained me, that [E]I should live in [F#]You
+
+
+Chorus:
+[B]Jesus, [D#m]You have [G#m]saved me
+And [F#]taken all my [E]sin, all my sins [F#sus    F#]away
+[B]Jesus, [D#m]You have [G#m]called me
+Be[F#]fore the world be[E]gan, to glorify Your [F#sus    F#]name
+
+
+Tag:
+I was [C#m7]without hope and dead inside
+[E]But You chose to [F#]save my [B        F#]life
+
+
+Verse 2:
+Un[B]less Your gra[F#/A#]ce had call[G#m7]ed me, and [B]taught my darkened [G#m7]mind
+The [B]world would [F#/A#]have en[G#m7]thralled me, to Your [B]glories I’d be [G#m7]blind
+My [G#m]heart knows none above You, for [F#]Your rich grace I thirst
+I [G#m]know that if I love You, You [E]must have loved me [F#]first
+
+
+[(Chorus)]
+
+
+Inst.:
+[B      Bmaj7 | B      Bmaj7 | G#m    G#m9    | G#m    D#m]
+
+
+[(Chorus)]
+
+
+[(Tag 3X)]</text>
+		<searchtext>intro verse 1 my lord i did not choose you for that could never be my heart would still refuse you had you not chosen me you took the sin that stained me you cleansed me made me new of old you have ordained me that i should live in you chorus jesus you have saved me and taken all my sin all my sins away jesus you have called me before the world began to glorify your name tag i was without hope and dead inside but you chose to save my life verse 2 unless your grace had called me and taught my darkened mind the world would have enthralled me to your glories id be blind my heart knows none above you for your rich grace i thirst i know that if i love you you must have loved me first inst </searchtext>
+		<primary>1</primary>
+		<key>B</key>
+		<time_signature>4/4</time_signature>
+		<bpm>70</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2009-03-20 09:14:54</modified>
+		<creator>1543</creator>
+		<ccli>5173611</ccli>
+		<album>Looked Upon</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

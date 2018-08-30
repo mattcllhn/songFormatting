@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5604</id>
+		<songbook_id>21</songbook_id>
+		<title>What Child Is This?</title>
+		<copyright>Words by William Dix     Traditional music     Public domain</copyright>
+		<created>2008-09-25 19:42:26</created>
+		<modified>2012-12-17 16:03:09</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>39778</id>
+		<song_id>5604</song_id>
+		<description>Bloom arrangement</description>
+		<text>Verse 1:
+What [Em]child [D/F#]is [G]this, who, [D]laid to [Bm]rest, 
+On [C2]Mary's [Am7]lap is [B]sleep[B7]ing?
+Whom [Em]an[D/F#]gels [G]greet with [D]anthems [Bm]sweet, 
+While [Cmaj7]shepherds [B]watch are [Em]keeping?
+[G]This, this is [D]Christ the [Bm]King, 
+Whom [Cmaj7]shepherds [Am7]guard and [B]angels [B7]sing
+[G]Haste, haste to [D]bring Him [Bm]laud, the [Cmaj7]babe, the [B]son of [Em]Mary.
+
+Verse 2:
+Why [Em]lies [D/F#]He [G]in such [D]mean es[Bm]tate, 
+Where [C2]ox and [Am7]ass are [B]feed[B7]ing?
+Good [Em]Chris[D/F#]tian, [G]fear; for [D]sinners [Bm]here 
+The [Cmaj7]silent [B]Word is [Em]pleading.
+[G]Nails, spear shall [D]pierce Him th[Bm]rough; 
+The [Cmaj7]cross be [Am7]borne for [B]me, for [B7]you
+[G]Hail, hail the [D]Word made [Bm]flesh,the [Cmaj7]babe, the [B]son of [Em]Mary.
+ 
+Verse 3:
+So [Em]bring [D/F#]Him [G]incense, [D]gold, and [Bm]myrrh, 
+Come [C2]peasant, [Am7]king, to [B]own [B7]Him;
+The [Em]King [D/F#]of [G]Kings sal[D]vation [Bm]brings, 
+Let [Cmaj7]loving [B]hearts en[Em]throne Him.
+[G]Raise, raise the [D2]songs on [Bm]high, 
+The [Cmaj7]virgin [Am7]sings her [B]lulla[B7]by
+[G]Joy, joy for [D]Christ is [Bm]born, the [Cmaj7]babe, the [B]son of [Em]Mary.
+
+
+(16th Century)</text>
+		<searchtext>verse 1 what child is this who laid to rest on marys lap is sleeping whom angels greet with anthems sweet while shepherds watch are keeping this this is christ the king whom shepherds guard and angels sing haste haste to bring him laud the babe the son of mary verse 2 why lies he in such mean estate where ox and ass are feeding good christian fear for sinners here the silent word is pleading nails spear shall pierce him through the cross be borne for me for you hail hail the word made fleshthe babe the son of mary verse 3 so bring him incense gold and myrrh come peasant king to own him the king of kings salvation brings let loving hearts enthrone him raise raise the songs on high the virgin sings her lullaby joy joy for christ is born the babe the son of mary 16th century</searchtext>
+		<primary>1</primary>
+		<key>Em</key>
+		<time_signature>6/8</time_signature>
+		<bpm>112</bpm>
+		<tempo>Slow</tempo>
+		<created>2010-12-23 11:30:56</created>
+		<modified>2012-12-17 16:03:09</modified>
+		<creator>1546</creator>
+		<ccli>2766502</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>6335</id>
+		<song_id>5604</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+What [Em]child is this, who, [D]laid to rest, 
+On [C2]Mary's lap is [B]sleeping?
+Whom [Em]angels greet with [D]anthems sweet, 
+While [C2]shepherds [B]watch are [Em]keeping?
+[Bm]This, [G]this is [D]Christ the King, 
+Whom [C]shepherds guard and [B]angels sing
+[Bm]Haste, [G]haste to [D]bring Him laud, the [C]babe, the [B]son of [Em]Mary.
+
+Verse 2:
+Why [Em]lies He in such [D]mean estate, 
+Where [C]ox and ass are [B]feeding?
+Good [Em]Christian, fear; for [D]sinners here 
+The [C]silent [B]Word is [Em]pleading.
+[Bm]Nails, [G]spear, shall [D]pierce Him through; 
+The [C]cross be borne for [B]me, for you
+[Bm]Hail, [G]hail the [D]Word made flesh,the [C]babe, the [B]son of [Em]Mary.
+ 
+Verse 3:
+So [Em]bring Him incense, [D]gold, and myrrh, 
+Come [C]peasant, king, to [B]own Him;
+The [Em]King of Kings sal[D]vation brings, 
+Let [C]loving [B]hearts en[Em]throne Him.
+[Bm]Raise, [G]raise the [D2]songs on high, 
+The [C]virgin sings her [B]lullaby
+[Bm]Joy, [G]joy for [D]Christ is born, the [C]babe, the [B]son of [Em]Mary.</text>
+		<searchtext>verse 1 what child is this who laid to rest on marys lap is sleeping whom angels greet with anthems sweet while shepherds watch are keeping this this is christ the king whom shepherds guard and angels sing haste haste to bring him laud the babe the son of mary verse 2 why lies he in such mean estate where ox and ass are feeding good christian fear for sinners here the silent word is pleading nails spear shall pierce him through the cross be borne for me for you hail hail the word made fleshthe babe the son of mary verse 3 so bring him incense gold and myrrh come peasant king to own him the king of kings salvation brings let loving hearts enthrone him raise raise the songs on high the virgin sings her lullaby joy joy for christ is born the babe the son of mary</searchtext>
+		<primary>0</primary>
+		<key>Em</key>
+		<time_signature>6/8</time_signature>
+		<bpm>112</bpm>
+		<tempo>Slow</tempo>
+		<created>2008-09-25 19:42:26</created>
+		<modified>2008-09-25 19:42:26</modified>
+		<creator>1543</creator>
+		<ccli>2766502</ccli>
+		<album></album>
+		<font_size></font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

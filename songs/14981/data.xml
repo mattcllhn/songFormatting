@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14981</id>
+		<songbook_id>21</songbook_id>
+		<title>Your Redeeming Love</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2000 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:10</created>
+		<modified>2017-03-08 20:44:18</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00104M8QE&quot;,&quot;title&quot;:&quot;Your Redeeming Love&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/614mSX3tPCL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16122</id>
+		<song_id>14981</song_id>
+		<description>Initial arrangement</description>
+		<text>Chorus:
+[E]  I come boldly, [B]  trusting only [F#m7]  Your redeeming l[A2    |]ove,
+[E]  Flowing freely, [B]  from Your side now, [F#m7]  Your atoning bl[A2    |]ood
+[E]  Like a river, [B/D#]  like a fountain, [A/C#]  like a cleansing fl[A2]ood
+I [C#m7]pour out my [A2]worship to Y[Bsus4    |]ou
+For [B]Your redeeming l[E    | B/E    | A    | A]ove
+
+Verse 1:
+My gl[C#m]ory,{,} in Your [D2]cross of shame and [E]suff[Esus4   | E   Esus4]'ring
+My gl[C#m]ory,{,} what the [D2]world disdains as [E]noth[Esus4   | Bsus4   B]ing
+I will gl[F#m7]ory in such [Esus4/B]foolish[E/B]ness
+I will gl[F#m7]ory, for it's [Esus4/B]nothing [E/B]less,
+Than Your [F#m7]wisdom{,} and your [E/G#]awesome pow'r, my [A2    | B    |]God
+
+Verse 2:
+My gl[C#m]ory,{,} in Your [D2]deep humili[E]a[Esus4   | E   Esus4]tion
+You f[C#m]ound me,{,} and You [D2]crowned me with sal[E]va[Esus4   | Bsus4   B]tion
+I will [F#m7]glory, all my [Esus4/B]sin and [E/B]guilt
+Have been [F#m7]covered by the [Esus4/B]blood You [E/B]spilt
+And now I'm [F#m7]living{,} in Your [E/G#]resurrection [A2    | B    |]light</text>
+		<searchtext>chorus i come boldly trusting only your redeeming love flowing freely from your side now your atoning blood like a river like a fountain like a cleansing flood i pour out my worship to you for your redeeming love verse 1 my glory in your cross of shame and suffring my glory what the world disdains as nothing i will glory in such foolishness i will glory for its nothing less than your wisdom and your awesome powr my god verse 2 my glory in your deep humiliation you found me and you crowned me with salvation i will glory all my sin and guilt have been covered by the blood you spilt and now im living in your resurrection light</searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>126</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:10</created>
+		<modified>2017-03-08 20:44:18</modified>
+		<creator>1543</creator>
+		<ccli>3071739</ccli>
+		<album>King Of Grace</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>2355</id>
+		<songbook_id>21</songbook_id>
+		<text>Good Friday</text>
+	</Keyword>
+</data>
+

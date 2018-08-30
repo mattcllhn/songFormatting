@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5614</id>
+		<songbook_id>21</songbook_id>
+		<title>Blest Be The Tie That Binds</title>
+		<copyright>Words by John Faw­cett     Music by Hans Nä­ge­li     Public domain</copyright>
+		<created>2008-10-24 01:58:45</created>
+		<modified>2008-10-24 01:58:45</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6345</id>
+		<song_id>5614</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+Blest [F]be the [C]tie that [F]binds, our [Bb]hearts in [F]Christian [C]love;
+The [C]fellow[F]ship of [C]kindred [F]minds, [Bb]is [F]like [Bb]to [F]that [C]a[F]bove.
+
+
+Verse 2:
+Be[F]fore our [C]Father’s [F]throne, we [Bb]pour our [F]ardent [C]prayers;
+Our [C]fears, our [F]hopes, our [C]aims are [F]one, [Bb]our [F]com[Bb]forts [F]and [C]our [F]cares.
+
+
+Verse 3:
+We [F]share each [C]other’s [F]woes, our [Bb]mutual [F]burdens [C]bear;
+And [C]often [F]for each [C]other [F]flows, [Bb]the [F]sym[Bb]pa[F]thi[C]zing [F]tear.
+
+
+Verse 4:
+When [F]we a[C]sunder [F]part,{,} it [Bb]gives us [F]inward [C]pain;
+But [C]we shall [F]still be [C]joined in [F]heart, [Bb]and [F]hope [Bb]to [F]meet [C]a[F]gain.
+
+
+Verse 5:
+This [F]glorious [C]hope re[F]vives, our [Bb]courage [F]by the [C]way;
+While [C]each in [F]expec[C]tation [F]lives, [Bb]and [F]longs [Bb]to [F]see [C]the [F]day.
+
+
+Verse 6:
+From [F]sorrow, [C]toil and [F]pain, and [Bb]sin, we [F]shall be [C]free,
+And [C]perfect [F]love and [C]friendship [F]reign, [Bb]through [F]all [Bb]e[F]ter[C]ni[F]ty.</text>
+		<searchtext>verse 1 blest be the tie that binds our hearts in christian love the fellowship of kindred minds is like to that above verse 2 before our fathers throne we pour our ardent prayers our fears our hopes our aims are one our comforts and our cares verse 3 we share each others woes our mutual burdens bear and often for each other flows the sympathizing tear verse 4 when we asunder part it gives us inward pain but we shall still be joined in heart and hope to meet again verse 5 this glorious hope revives our courage by the way while each in expectation lives and longs to see the day verse 6 from sorrow toil and pain and sin we shall be free and perfect love and friendship reign through all eternity</searchtext>
+		<primary>1</primary>
+		<key>F</key>
+		<time_signature>4/4</time_signature>
+		<bpm>48</bpm>
+		<tempo>Slow</tempo>
+		<created>2008-10-24 01:58:45</created>
+		<modified>2008-10-24 01:58:45</modified>
+		<creator>1543</creator>
+		<ccli>25369</ccli>
+		<album></album>
+		<font_size></font_size>
+	</Arrangement>
+</data>
+

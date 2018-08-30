@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>38464</id>
+		<songbook_id>21</songbook_id>
+		<title>Better Than Life (Bloom)</title>
+		<copyright>© Jon Bloom. All rights reserved. </copyright>
+		<created>2011-01-28 17:29:49</created>
+		<modified>2016-01-13 00:31:16</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>41248</id>
+		<song_id>38464</song_id>
+		<description>Initial arrangement</description>
+		<text>Chorus:
+Your love is [D]Better than life
+Your love is [Bm]better than life
+Your love is [Gmaj7]better than [Gmaj6]life to m[Asus   A]e
+
+Your love is [D]Better than life
+Your love is [Bm]better than life
+Your love is [Gmaj7]better than [Asus]life to m[D]e    [Asus  A]</text>
+		<searchtext>chorus your love is better than life your love is better than life your love is better than life to me your love is better than life your love is better than life your love is better than life to me </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2011-01-28 17:29:49</created>
+		<modified>2016-01-13 00:31:16</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>20</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>64641</id>
+		<song_id>38464</song_id>
+		<description>Medley with &quot;Better Is One Day&quot;</description>
+		<text>Chorus:
+Your love is [D]Better than life
+Your love is [Bm]better than life
+Your love is [Gmaj7]better than [Gmaj6]life to m[Asus   A]e
+
+Your love is [D]Better than life
+Your love is [Bm]better than life
+Your love is [Gmaj7]better than [Asus]life to m[D]e    [Asus  A]
+
+
+{key:C}
+CHORUS:
+Better is [G2]one day in Your courts
+Better is [Asus]one day in Your house
+Better is [G2]one day in Your courts
+Than thousands [Asus]elsewhere, [(Repeat)] 
+Thousands [D]elsewhere
+
+VERSE 1:
+How [D]lovely is Your dwelling place, [G2]   Oh Lord Al[Asus]mighty
+[D]My soul longs and even faints for [Asus]  You
+For [D]here my heart is satisfied, [G2]   within Your pr[Asus]esence
+I [D]sing beneath the shadow of Your [Asus]wings
+
+VERSE 2:
+One [D]thing I ask and I would seek,[G2]   to see Your [Asus]beauty
+To [D]find You in the place Your glory [Asus]dwells (repeat)</text>
+		<searchtext>chorus your love is better than life your love is better than life your love is better than life to me your love is better than life your love is better than life your love is better than life to me chorus better is one day in your courts better is one day in your house better is one day in your courts than thousands elsewhere thousands elsewhere verse 1 how lovely is your dwelling place oh lord almighty my soul longs and even faints for you for here my heart is satisfied within your presence i sing beneath the shadow of your wings verse 2 one thing i ask and i would seek to see your beauty to find you in the place your glory dwells repeat</searchtext>
+		<primary>0</primary>
+		<key>D</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2014-07-24 23:32:12</created>
+		<modified>2014-07-24 23:32:12</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

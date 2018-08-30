@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14961</id>
+		<songbook_id>21</songbook_id>
+		<title>You Heavens Adore Him</title>
+		<copyright>Verse lyrics anonymous     Chorus lyrics by Bob Kauflin     Music by Bob Kauflin and John Spiro     © 2001 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:07</created>
+		<modified>2009-03-20 09:15:07</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BOS2MC&quot;,&quot;title&quot;:&quot;You Heavens Adore Him&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51kpGaYi7nL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16102</id>
+		<song_id>14961</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[D   A   | Em   G   | D   A   | Em   G]
+Verse 1:
+[D]Praise [A]the [Em]Lord, you [G]heavens, a[D]dore Him [A   | Em   G   |]
+[D]Praise [A]Him [Em]angels [G]in the [D]height [A   | Em   G   |]
+[D]Sun [A]and [Em]moon re[G]joice be[D]fore Him [A   | Em   G   |]
+[G]Praise Him all you stars and [A]light. [| A      |]
+
+Verse 2:
+[D]Praise [A]the [Em]Lord for [G]He has [D]spoken [A   | Em   G   |]
+[D]Worlds [A]His [Em]mighty [G]voice o[D]beyed [A   | Em   G   |]
+[D]Laws [A]which [Em]never [G]can be [D]broken [A   | Em   G   |]
+[G]For their guidance He has [A]made [| A      |]
+
+Chorus:
+Cre[G]a[A]tor and [Bm]Giver of [A/C#]Grace, 
+Sus[G/D]tainer of [A/E]infants and [Gsus]kings [| G]
+Our [G2]Sav[A]ior who [Bm]rules all our [A/C#]days
+Our [G]hearts and our [D/F#]voices we [C2]bring [| A]
+To praise the [D]Lord [A    | Em   G | D  A  Em | Em   |]
+
+Verse 3:
+[D]Praise [A]the [Em]Lord for [G]He is [D]glorious [A   | Em   G   |]
+[D]Nev[A]er [Em]shall His [G]promise [D]fail [A   | Em   G   |]
+[D]God [A]has [Em]made His [G]saints vic[D]torious [A   | Em   G   |]
+[G]Sin and death shall not pre[A]vail [| A (to chorus)]
+
+Verse 4:
+[D]Praise [A]the [Em]God of [G]our sal[D]vation [A   | Em   G   |]
+[D]Hosts [A]on [Em]high His [G]power pro[D]claim [A   | Em   G   |]
+[D]Heaven [A]and [Em]earth and [G]all cre[D]ation [A   | Em   G   |]
+[G]Praise and [G]magnify His [A]name [| A (to chorus)]</text>
+		<searchtext>intro verse 1 praise the lord you heavens adore him praise him angels in the height sun and moon rejoice before him praise him all you stars and light verse 2 praise the lord for he has spoken worlds his mighty voice obeyed laws which never can be broken for their guidance he has made chorus creator and giver of grace sustainer of infants and kings our savior who rules all our days our hearts and our voices we bring to praise the lord verse 3 praise the lord for he is glorious never shall his promise fail god has made his saints victorious sin and death shall not prevail verse 4 praise the god of our salvation hosts on high his power proclaim heaven and earth and all creation praise and magnify his name </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>148</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:07</created>
+		<modified>2009-03-20 09:15:07</modified>
+		<creator>1543</creator>
+		<ccli>4090575</ccli>
+		<album>Upward: The Bob Kauflin Hymns Project</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

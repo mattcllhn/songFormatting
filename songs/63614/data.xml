@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>63614</id>
+		<songbook_id>21</songbook_id>
+		<title>When I Survey The Wondrous Cross (Traditional)</title>
+		<copyright>Isaac Watts | Lowell Mason © Words: Public Domain  Music: Public Domain </copyright>
+		<created>2015-03-25 10:13:00</created>
+		<modified>2017-03-08 20:42:02</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>69667</id>
+		<song_id>63614</song_id>
+		<description>Initial arrangement</description>
+		<text>
+Verse 1:
+[F]When I s[C]urv[F]ey [Gm/Bb]the [D/A]   [Bb/G]wondr[F/C]ous [C] [F]cross
+On which the P[Bb]rince [F/A]of [Bb/G]glory [Csus   C7]died
+[F]My rich[C]est g[F]ain [Gm/Bb]I [D/A] [Bb/G]count [F/C]but [C] [F]loss [F/E C/E]
+[Dm]And [Dm/C]pour [Am/C]cont[G/B]empt [G7/B]on [Bb6]all [Am/C]my [C7] p[F]ride
+
+
+Verse 2:
+[F]Forbid [C]it L[F]ord [Gm/Bb]that [D/A] [Bb/G]I [F/C]shou[C]ld b[F]oast
+Save in the [Bb]death [F/A]of [Bb/G]Christ my [Csus  C7]God
+[F]All the [C]vain th[F]ings [Gm/Bb]tha[D/A]t [Bb/G]charm [F/C]me [C] [F]most [F/E C/E]
+[Dm]I [Dm/C]sac[Am/C]ri[G/B]fice [G7/B]them [Bb6]to [Am/C]His [C7] [F]blood
+
+
+Verse 3:
+[F]See from [C]His h[F]ead [Gm/Bb]His [D/A]  [Bb/G]hands [F/C]Hi[C]s [F]feet
+Sorrow and [Bb]love [F/A]flow [Bb/G]mingled [Csus  C7]down
+[F]Did ever [C]such l[F]ove [Gm/Bb]an[D/A]d [Bb/G]sor[F/C]row [C] [F]meet [F/E C/E]
+[Dm]Or [Dm/C]thorns [Am/C]com[G/B]pose [G7/B]so [Bb6]rich [Am/C]a [C7] [F]crown
+
+
+Verse 4:
+[F]Were the [C]whole r[F]ealm [Gm/Bb]of [D/A] [Bb/G]nat[F/C]u[C]re [F]mine
+That were a [Bb]pres[F/A]ent [Bb/G]far too [Csus  C7]small
+[F]Love so [C]am[F]a[Gm/Bb]zi[D/A]ng [Bb/G]so [F/C]d[C]i[F]vine [F/E C/E]
+[Dm]De[Dm/C]mands [Am/C]my [G/B]soul [G7/B]my [Bb6]life [Am/C - C]my [F]all</text>
+		<searchtext> verse 1 when i survey the wondrous cross on which the prince of glory died my richest gain i count but loss and pour contempt on all my pride verse 2 forbid it lord that i should boast save in the death of christ my god all the vain things that charm me most i sacrifice them to his blood verse 3 see from his head his hands his feet sorrow and love flow mingled down did ever such love and sorrow meet or thorns compose so rich a crown verse 4 were the whole realm of nature mine that were a present far too small love so amazing so divine demands my soul my life my all</searchtext>
+		<primary>1</primary>
+		<key>F</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2015-03-25 10:13:00</created>
+		<modified>2017-03-08 20:42:02</modified>
+		<creator>1546</creator>
+		<ccli>27893</ccli>
+		<album></album>
+		<font_size>17</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>73564</id>
+		<song_id>63614</song_id>
+		<description>Verses 1 &amp; 3 Only </description>
+		<text>
+Verse 1:
+[F]When I s[C]urv[F]ey [Gm/Bb]the [D/A]   [Bb/G]wondr[F/C]ous [C] [F]cross
+On which the P[Bb]rince [F/A]of [Bb/G]glory [Csus   C7]died
+[F]My rich[C]est g[F]ain [Gm/Bb]I [D/A] [Bb/G]count [F/C]but [C] [F]loss [F/E C/E]
+[Dm]And [Dm/C]pour [Am/C]cont[G/B]empt [G7/B]on [Bb6]all [Am/C]my [C7] p[F]ride
+
+
+Verse 3:
+[F]See from [C]His h[F]ead [Gm/Bb]His [D/A]  [Bb/G]hands [F/C]Hi[C]s [F]feet
+Sorrow and [Bb]love [F/A]flow [Bb/G]mingled [Csus  C7]down
+[F]Did ever [C]such l[F]ove [Gm/Bb]an[D/A]d [Bb/G]sor[F/C]row [C] [F]meet [F/E C/E]
+[Dm]Or [Dm/C]thorns [Am/C]com[G/B]pose [G7/B]so [Bb6]rich [Am/C]a [C7] [F]crown
+</text>
+		<searchtext> verse 1 when i survey the wondrous cross on which the prince of glory died my richest gain i count but loss and pour contempt on all my pride verse 3 see from his head his hands his feet sorrow and love flow mingled down did ever such love and sorrow meet or thorns compose so rich a crown </searchtext>
+		<primary>0</primary>
+		<key>F</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2016-03-18 10:09:10</created>
+		<modified>2016-03-18 10:09:10</modified>
+		<creator>1546</creator>
+		<ccli>27893</ccli>
+		<album></album>
+		<font_size>17</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>2355</id>
+		<songbook_id>21</songbook_id>
+		<text>Good Friday</text>
+	</Keyword>
+</data>
+

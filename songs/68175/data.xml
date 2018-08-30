@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>68175</id>
+		<songbook_id>21</songbook_id>
+		<title>Sooner Count The Stars</title>
+		<copyright>© 2015 Sovereign Grace Worship       Music &amp; Words by Doug Plank and Steve &amp; Vikki Cook</copyright>
+		<created>2016-09-01 11:09:17</created>
+		<modified>2016-09-01 11:09:17</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B017NAHJGW&quot;,&quot;title&quot;:&quot;Sooner Count the Stars&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51yvAN834IL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>75095</id>
+		<song_id>68175</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: C#m    | A    | E    | E    :|| (2x)]
+
+VERSE 1:
+I could sooner count the [C#m]stars{,} than [A]number all Your [E]ways
+Though I only know in [C#m]part,{,} that [A]part exceeds all [E]praise
+As [A]sunlight fills the [E]skies{,} Your [F#m]goodness fills my [C#m]life
+For [A]all Your precious [C#m]gifts{,} receive my [B]grateful[E]ness [(intro)]
+
+VERSE 2:
+I could sooner drink the [C#m]seas{,} than [A]fathom all Your [E]love
+Like a never ceasing [C#m]stream{,} are [A]mercies through Your [E]Son
+The [A]death of Christ al[E]one{,} de[F#m]serves eternal [C#m]song
+For [A]such a love as [C#m]His{,} receive my [B]gratefuln[E]ess [|  E]
+
+CHORUS:
+No [B]praise is high enough,{,} no [C#m]thanks is deep enough
+No [A]life is long en[E]ough{,} to tell of [B]all You’ve done
+No [B]shout is loud enough,{,} no [C#m]words are strong enough
+No [A]song is sweet en[E]ough{,} to sing Your l[B]ove [| B (intro)]
+
+VERSE 3:
+I could sooner turn back [C#m]time{,} than [A]turn Your heart a[E]way
+Though the years go fleeting [C#m]by,{,} Your [A]mercies never [E]change
+Be[A]fore You made the [E]sun{,} Your [F#m]love was set on [C#m]us
+For [A]all Your faithful[C#m]ness{,} receive my [B]gratefuln[E]ess
+
+</text>
+		<searchtext>intro verse 1 i could sooner count the stars than number all your ways though i only know in part that part exceeds all praise as sunlight fills the skies your goodness fills my life for all your precious gifts receive my gratefulness verse 2 i could sooner drink the seas than fathom all your love like a never ceasing stream are mercies through your son the death of christ alone deserves eternal song for such a love as his receive my gratefulness chorus no praise is high enough no thanks is deep enough no life is long enough to tell of all youve done no shout is loud enough no words are strong enough no song is sweet enough to sing your love verse 3 i could sooner turn back time than turn your heart away though the years go fleeting by your mercies never change before you made the sun your love was set on us for all your faithfulness receive my gratefulness </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>150</bpm>
+		<tempo>Medium</tempo>
+		<created>2016-09-01 11:09:17</created>
+		<modified>2016-09-01 11:09:17</modified>
+		<creator>1546</creator>
+		<ccli>7052977</ccli>
+		<album>Sooner Count The Stars</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

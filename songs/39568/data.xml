@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>39568</id>
+		<songbook_id>21</songbook_id>
+		<title>We Have Been Healed</title>
+		<copyright>Music by Rich Gunderlock     Words by Rich Gunderlock &amp; Bob Kauflin     © 2011 Sovereign Grace Worship / Sovereign Grace Praise</copyright>
+		<created>2011-03-30 21:49:36</created>
+		<modified>2011-03-30 21:49:36</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B004RR0296&quot;,&quot;title&quot;:&quot;We Have Been Healed&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/41QLoqrrewL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>42477</id>
+		<song_id>39568</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[F#m7     A | D2      | F#m7     A | D2 ]
+
+Verse 1:
+[F#m7]You bore our sins [A]in Your [D2]body
+As [F#m7]You were hung on a [D2]tree,
+So [F#m7]we might die [A]to reb[D2]ellion
+And [A]live for him who set us f[A/E]ree [Esus]
+
+Verse 2:
+[F#m7]You were mocked [A]and rev[D2]iled
+[F#m7]Suffering [A]in our p[D2]lace
+[F#m7]Trusting all [A]to Your F[D2]ather
+So [A]enemies could know Your [E]grace
+
+Chorus:
+We have been [Dmaj7]healed, justif[A]ied, made al[E]ive in the life of C[F#m]hrist
+Righteous [Dmaj7]blood [A]covers every [E]sin
+Risen L[Dmaj7]amb, heaven's l[A]ight, crucif[E]ied and now al[F#m]ive
+In Your [Dmaj7]love, [A]You have drawn us [E]in
+
+Verse 3:
+[F#m7]Like straying sheep [A]we were w[D2]andering
+[F#m7]Destitute [A]and al[D2]one
+You [F#m7]sought us out [A]like a [D2]shepherd
+You [A]carried us and brought us [E]home
+
+Bridge:
+All our [Bm7]sin for Your gr[F#m]ace, what a gl[E]orious exchange
+All our [Bm7]sin for Your gr[F#m]ace, what a gl[E]orious exchange
+All our s[Bm7]in for Your gr[F#m]ace, what a gl[D]orious exch[E]ange</text>
+		<searchtext>intro verse 1 you bore our sins in your body as you were hung on a tree so we might die to rebellion and live for him who set us free verse 2 you were mocked and reviled suffering in our place trusting all to your father so enemies could know your grace chorus we have been healed justified made alive in the life of christ righteous blood covers every sin risen lamb heavens light crucified and now alive in your love you have drawn us in verse 3 like straying sheep we were wandering destitute and alone you sought us out like a shepherd you carried us and brought us home bridge all our sin for your grace what a glorious exchange all our sin for your grace what a glorious exchange all our sin for your grace what a glorious exchange</searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>70</bpm>
+		<tempo>Medium</tempo>
+		<created>2011-03-30 21:49:36</created>
+		<modified>2011-03-30 21:49:36</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>Risen</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

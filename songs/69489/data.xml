@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>69489</id>
+		<songbook_id>21</songbook_id>
+		<title>I Love You, Lord</title>
+		<copyright>Laurie Klein © 1978, 1980 House Of Mercy Music (Admin. by Brentwood-Benson Music Publishing, Inc.)</copyright>
+		<created>2017-01-13 08:24:45</created>
+		<modified>2017-01-13 08:24:45</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>76653</id>
+		<song_id>69489</song_id>
+		<description>Initial arrangement</description>
+		<text>I [C]love You Lord
+And I [Dm/C]lift      [C]my voice
+[C/Bb]To     [F/A]wor-[C/G]ship [G/F]You
+[C/E]O my [Dm11]soul   [Dm7]re- [G]joice
+[G7/B]Take [C]joy my King
+In [Dm/C]what   [C]You hear
+May it [Csus/D]be      [C/E]a     [F]sweet [C/E]sweet [Dm11]sound
+[G]In [Am/G]          [G7]Your [C]ear
+
+
+{key:D}
+I [D]love You Lord
+And I [Em/D]lift      [D]my voice
+[D/C]To     [G/B]wor-[D/A]ship [A/G]You
+[D/F#]O my [Em11]soul   [Em7]re- [A]joice
+[A7/C#]Take [D]joy my King
+In [Em/D]what   [D]You hear
+May it [Dsus/E]be      [D/F#]a     [G]sweet [D/F#]sweet [Em11]sound
+[A]In [Bm/A]          [A7]Your [D]ear</text>
+		<searchtext>i love you lord and i lift my voice to worship you o my soul re joice take joy my king in what you hear may it be a sweet sweet sound in your ear i love you lord and i lift my voice to worship you o my soul re joice take joy my king in what you hear may it be a sweet sweet sound in your ear</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>76</bpm>
+		<tempo>Slow</tempo>
+		<created>2017-01-13 08:24:45</created>
+		<modified>2017-01-13 08:24:45</modified>
+		<creator>1546</creator>
+		<ccli>25266</ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

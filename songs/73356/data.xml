@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>73356</id>
+		<songbook_id>21</songbook_id>
+		<title>Crowns</title>
+		<copyright>Hillsong</copyright>
+		<created>2018-03-22 20:33:43</created>
+		<modified>2018-03-22 21:53:45</modified>
+		<creator>5114</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>81235</id>
+		<song_id>73356</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1: 
+[G]There is a hill I [C    G]cherish
+[Em]Where stood a precious [D]tree
+[Em]The emblem of [C    G]Salvation
+[G/B]The gift of [D    G]Calvary
+
+Verse 2: 
+[G]How is it I should [C      G]profit?
+[Em]While He is [       D]crucified
+[Em]Yet as His life was [C   G]taken
+[G/B]So I was [D]granted [G]mine
+
+Chorus: 
+[G]My wealth is in the [C]cross
+There's [G]nothing more I [D]want
+Than [Em]just to know His [C]love
+My [G]heart is set on [D]Christ
+And I will [Em]count all else as [C]loss
+The [G]greatest of my [D]crowns
+Mean [Em]nothing to me [C]now
+For I've [G]counted up the [D]cost
+And all my wealth is in the [Gsus      G]cross
+
+{new_page}
+Verse 3: 
+[G]I will not boast in [C      G]riches
+[Em]I have no pride in [D]gold
+[Em]But I will boast in [C    G]Jesus
+[G/B]And in His [D]Name [G]alone
+
+
+Verse 4: 
+[G]And when I stand in [C    G]glory
+[Em]My crowns before the [D]Lord
+[Em]Let this be my [     C    G]confession
+[G/B]My wealth is [D]in the [G]cross</text>
+		<searchtext>verse 1 there is a hill i cherish where stood a precious tree the emblem of salvation the gift of calvary verse 2 how is it i should profit while he is crucified yet as his life was taken so i was granted mine chorus my wealth is in the cross theres nothing more i want than just to know his love my heart is set on christ and i will count all else as loss the greatest of my crowns mean nothing to me now for ive counted up the cost and all my wealth is in the cross verse 3 i will not boast in riches i have no pride in gold but i will boast in jesus and in his name alone verse 4 and when i stand in glory my crowns before the lord let this be my confession my wealth is in the cross</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>70</bpm>
+		<tempo>Medium</tempo>
+		<created>2018-03-22 20:33:43</created>
+		<modified>2018-03-22 21:53:45</modified>
+		<creator>5114</creator>
+		<ccli></ccli>
+		<album>Let There Be Light</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

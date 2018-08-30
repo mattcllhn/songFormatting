@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14907</id>
+		<songbook_id>21</songbook_id>
+		<title>So I Will Trust You</title>
+		<copyright>Words &amp; Music by Stephen Altrogge     © 2008 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:58</created>
+		<modified>2009-03-20 09:14:58</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BQOERW&quot;,&quot;title&quot;:&quot;So I Will Trust You&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/519kK7bceBL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16035</id>
+		<song_id>14907</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[G     | Cmaj7     | Em7     | Cmaj7     | G     | Cmaj7     | Em   G/B   Cmaj7  | Cmaj7 ]
+
+Verse 1:
+[Em7]Almighty Maker, [Cmaj7]Universe shaper
+[G2]You put the stars into [D/F#]space
+[Em7]Yet You descended, [Cmaj7]You have befriended
+[G2]Those who had hated Your [D/F#]name, just like [Cmaj7]me   [| Cmaj7]
+
+Chorus:
+[G]King of Glory, I [Cmaj7]know You love me
+[Em7]So I will trust You, [Cmaj7]yes I will trust You
+[G]God Almighty, [Cmaj7]You have saved me
+[Em7]So I will trust You,
+[Cmaj7]Yes I will trust in [Cmaj7     | G     | C2     | Em7     |  C2]You
+
+Verse 2:
+[Em7]Lord over nations, [Cmaj7]King of Creation
+[G2]Heaven and earth bow to [D/F#]You
+[Em7]I am Your child, I’ve [Cmaj7]been reconciled
+[G2]With tender affection You [D/F#]drew me to [Cmaj7]You   [| Cmaj7]
+
+Bridge:
+[Em]How could I [C]not trust my [Dsus]King
+The [Em]One who has [C]formed me{,} and [Am7]shaped me
+[Em]I will re[C]joice and will [Dsus]sing
+For the [Em]One who has [C]made me{,} has [Am7]saved me [(repeat bridge)]</text>
+		<searchtext>intro verse 1 almighty maker universe shaper you put the stars into space yet you descended you have befriended those who had hated your name just like me chorus king of glory i know you love me so i will trust you yes i will trust you god almighty you have saved me so i will trust you yes i will trust in you verse 2 lord over nations king of creation heaven and earth bow to you i am your child ive been reconciled with tender affection you drew me to you bridge how could i not trust my king the one who has formed me and shaped me i will rejoice and will sing for the one who has made me has saved me </searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>90</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:14:58</created>
+		<modified>2009-03-20 09:14:58</modified>
+		<creator>1543</creator>
+		<ccli>5171613</ccli>
+		<album>Come Weary Saints</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

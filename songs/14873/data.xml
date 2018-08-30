@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14873</id>
+		<songbook_id>21</songbook_id>
+		<title>All That I Need</title>
+		<copyright>Words and Music by Stephen Altrogge     © 2006 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2009-05-14 22:26:52</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BOQLXE&quot;,&quot;title&quot;:&quot;All That I Need&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51ASvkc53%2BL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16001</id>
+		<song_id>14873</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: Gm7  Bb2  | F  Csus4  | Gm7  Bb2  | F  Csus4  :||  Gm7sus4]
+
+Verse 1:
+[F]In You is st[C]rength to sus[Bb2]tain me
+And [F]wisdom en[C]ough to [Bb2]guide my hand
+[F]Mercy en[C]ough to for[Bb2]give me
+And [Gm7]power to fi[Bb2]nish [2/4] [Dm]what You [4/4 Csus4]began
+
+Chorus:
+[Gm7]All that I [Bb]need is [F]in You, J[C]esus
+The [Gm7]fountain of [Bb]grace that [Dm]over[Csus4]flows
+[Gm7]All that I [Bb]need is [F]in You, J[C]esus
+[Gm7]You are my [Bb]only [Dm    Csus4]hope,
+[Gm7]You are my [Bb]only [F  Csus4  | Bb2    | F  Csus4  | Bb2]hope
+
+Verse 2:
+[F]In You is [C]fullness of [Bb2]gladness
+And [F]fullness of [C]grace for [Bb2]every need
+[F]Rest for the [C]ones who are [Bb2]weary
+And [Gm7]beauty sur[Bb2]passing [2/4] [Dm7]all that we’[4/4]ve [Csus4]seen
+
+Bridge:
+You [Bb]satisfy my [C]heart, You [Bb]satisfy my [C]soul
+You [Bb]satisfy my [C]heart, O [Dm]help me always kn[C/E (repeat bridge)]ow</text>
+		<searchtext>intro verse 1 in you is strength to sustain me and wisdom enough to guide my hand mercy enough to forgive me and power to finish what you began chorus all that i need is in you jesus the fountain of grace that overflows all that i need is in you jesus you are my only hope you are my only hope verse 2 in you is fullness of gladness and fullness of grace for every need rest for the ones who are weary and beauty surpassing all that weve seen bridge you satisfy my heart you satisfy my soul you satisfy my heart o help me always know</searchtext>
+		<primary>1</primary>
+		<key>F</key>
+		<time_signature>4/4</time_signature>
+		<bpm>105</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2009-05-14 22:26:52</modified>
+		<creator>1543</creator>
+		<ccli>4804091</ccli>
+		<album>Valley Of Vision</album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

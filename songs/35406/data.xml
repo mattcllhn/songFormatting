@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>35406</id>
+		<songbook_id>21</songbook_id>
+		<title>Z - Psalm 32:1-7</title>
+		<copyright>English Standard Version Translation</copyright>
+		<created>2010-08-12 00:55:58</created>
+		<modified>2010-08-12 00:55:58</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>37852</id>
+		<song_id>35406</song_id>
+		<description>Initial arrangement</description>
+		<text>Blessed is the one whose transgression is forgiven,
+whose sin is covered.
+
+Blessed is the man against whom the Lord counts no iniquity,
+and in whose spirit there is no deceit.
+
+For when I kept silent, my bones wasted away
+through my groaning all day long.
+
+For day and night your hand was heavy upon me;
+my strength was dried up as by the heat of summer. (Selah)
+
+I acknowledged my sin to you, and I did not cover my iniquity;
+I said, “I will confess my transgressions to the Lord,”
+and you forgave the iniquity of my sin. (Selah)
+
+Therefore let everyone who is godly
+offer prayer to you at a time when you may be found;
+surely in the rush of great waters, they shall not reach him.
+
+You are a hiding place for me;you preserve me from trouble;
+you surround me with shouts of deliverance. (Selah)</text>
+		<searchtext>blessed is the one whose transgression is forgiven whose sin is covered blessed is the man against whom the lord counts no iniquity and in whose spirit there is no deceit for when i kept silent my bones wasted away through my groaning all day long for day and night your hand was heavy upon me my strength was dried up as by the heat of summer selah i acknowledged my sin to you and i did not cover my iniquity i said i will confess my transgressions to the lord and you forgave the iniquity of my sin selah therefore let everyone who is godly offer prayer to you at a time when you may be found surely in the rush of great waters they shall not reach him you are a hiding place for meyou preserve me from trouble you surround me with shouts of deliverance selah</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2010-08-12 00:55:58</created>
+		<modified>2010-08-12 00:55:58</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

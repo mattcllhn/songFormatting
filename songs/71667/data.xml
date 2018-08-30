@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>71667</id>
+		<songbook_id>21</songbook_id>
+		<title>Z - Psalm 85:8-13</title>
+		<copyright>English Standard Version</copyright>
+		<created>2017-08-09 23:17:36</created>
+		<modified>2017-08-09 23:17:36</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>79161</id>
+		<song_id>71667</song_id>
+		<description>Initial arrangement</description>
+		<text>Let me hear what God the LORD will speak,
+   for he will speak peace to his people, to his saints;
+   but let them not turn back to folly.
+
+Surely his salvation is near to those who fear him,
+   that glory may dwell in our land.
+	
+Steadfast love and faithfulness meet;
+   righteousness and peace kiss each other.
+
+Faithfulness springs up from the ground,
+   and righteousness looks down from the sky.
+
+Yes, the LORD will give what is good,
+   and our land will yield its increase.
+
+Righteousness will go before him
+   and make his footsteps a way. </text>
+		<searchtext>let me hear what god the lord will speak for he will speak peace to his people to his saints but let them not turn back to folly surely his salvation is near to those who fear him that glory may dwell in our land steadfast love and faithfulness meet righteousness and peace kiss each other faithfulness springs up from the ground and righteousness looks down from the sky yes the lord will give what is good and our land will yield its increase righteousness will go before him and make his footsteps a way </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2017-08-09 23:17:36</created>
+		<modified>2017-08-09 23:17:36</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>18</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>50542</id>
+		<songbook_id>21</songbook_id>
+		<title>Z - Habakkuk 2:20 (ESV)</title>
+		<copyright></copyright>
+		<created>2012-12-08 19:18:10</created>
+		<modified>2016-12-14 23:45:11</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>54713</id>
+		<song_id>50542</song_id>
+		<description>Initial arrangement</description>
+		<text>Child:
+The LORD is in his holy temple;
+     Let all the earth keep silence before him.”
+
+(Habakkuk 2:20 ESV)</text>
+		<searchtext>child the lord is in his holy temple let all the earth keep silence before him habakkuk 220 esv</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2012-12-08 19:18:10</created>
+		<modified>2016-12-14 23:45:11</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>55379</id>
+		<songbook_id>21</songbook_id>
+		<title>Your Grace Finds Me</title>
+		<copyright>Matt Redman</copyright>
+		<created>2013-10-09 23:50:23</created>
+		<modified>2016-02-05 15:28:40</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00KZ44SPY&quot;,&quot;title&quot;:&quot;Your Grace Finds Me (Live)&quot;,&quot;artist&quot;:&quot;Matt Redman&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61a8NTrfTRL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>60259</id>
+		<song_id>55379</song_id>
+		<description>Initial arrangement</description>
+		<text>VERSE 1: 
+[C]It's there in a newborn [G]cry
+[C]There in the light of every [G]sunrise
+[C]There in the shadows [D/F#]of this [Em]life
+Your great [D]grace
+
+VERSE 2: 
+[C]It's there on the mountain [G]top
+[C]There in the everyday and the [G]mundane
+[C]There in the sorrow [D/F#]and the [Em]dancing
+Your great [D]grace, Oh such [C]grace
+
+CHORUS: 
+[G]From the creation to the [     D/F#]cross
+[Em]There from the cross into eternity
+[G/B]Your grace [C]finds me
+Yes, Your grace [G]finds me
+
+VERSE 3: 
+[C]It's there on the wedding [G]day
+[C]There in the weeping by the [G]graveside
+[C]There in the very [D/F#]breath we [Em]breathe
+Your great [D]grace
+
+VERSE 4: 
+[C]It's the same for the rich and [G]poor
+[C]The same for the saint and for the [G]sinner
+[C]Enough for this whole [D]wide [Em]world
+Your great [D]grace Oh, such [C]grace
+
+{new_page}
+CHORUS 2: 
+[G]From the creation to the [     D/F#]cross
+[Em]There from the cross into eternity
+[G/B]Your grace [C]finds me
+Yes, Your grace [G]finds me
+[G]There in the darkest night of the [D/A]soul
+[Em]There in the sweetest songs of victory
+[G]Your grace [C]finds me
+Yes your grace [G]finds me
+
+PRE-CHORUS: 
+Your great [D]grace, oh [Em]such [C]grace
+
+BRIDGE: 
+So I'm [G]breathing in Your grace
+And [C]breathing out Your praise
+I'm [G]breathing in Your grace
+[C]Forever I'll be
+So I'm [Em]breathing in Your grace
+And [C]breathing out Your praise
+I'm [Em]breathing in Your grace
+[C]Forever I'll be</text>
+		<searchtext>verse 1 its there in a newborn cry there in the light of every sunrise there in the shadows of this life your great grace verse 2 its there on the mountain top there in the everyday and the mundane there in the sorrow and the dancing your great grace oh such grace chorus from the creation to the cross there from the cross into eternity your grace finds me yes your grace finds me verse 3 its there on the wedding day there in the weeping by the graveside there in the very breath we breathe your great grace verse 4 its the same for the rich and poor the same for the saint and for the sinner enough for this whole wide world your great grace oh such grace chorus 2 from the creation to the cross there from the cross into eternity your grace finds me yes your grace finds me there in the darkest night of the soul there in the sweetest songs of victory your grace finds me yes your grace finds me prechorus your great grace oh such grace bridge so im breathing in your grace and breathing out your praise im breathing in your grace forever ill be so im breathing in your grace and breathing out your praise im breathing in your grace forever ill be</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2013-10-09 23:50:23</created>
+		<modified>2016-02-05 15:28:40</modified>
+		<creator>5114</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

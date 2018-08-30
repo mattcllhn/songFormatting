@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>61356</id>
+		<songbook_id>21</songbook_id>
+		<title>O Come, O Come, Emmanuel</title>
+		<copyright>Music: Veni Emmanuel     vv. 1-2 translated by John M. Neale     vv. 3-5 by Steve Cook and Bob Kauflin     © 2014 Sovereign Grace Praise</copyright>
+		<created>2014-11-29 12:14:17</created>
+		<modified>2014-11-29 12:14:17</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00NLNSAFK&quot;,&quot;title&quot;:&quot;O Come, O Come, Emmanuel&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/5145fGL8PNL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>67131</id>
+		<song_id>61356</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[||: Em    D   | C     :||]
+
+VERSE 1:
+O [Em]come, O come, Em[C]manu[G]el, [D/F#]  and [Em]ransom captive [D]Israe[Cmaj7]l
+That [Am]mourns in lonely [C]exile [D]here, un[Em]til the Son of [D]God ap[Cmaj7]pear [(intro)]
+
+Verse 2:
+O [Em]come, Thou, [C]Dayspring from on [G]high [D/F#]
+And [Em]cause Thy light on [D]us to [Cmaj7]rise
+Dis[Am]perse the gloomy [C]clouds of [D]night
+And [Em]death's dark shadow [D]put to [Cmaj7]flight
+Re[D]joice! Re[G]joice! Em[Am]manue[Em]l shall [G]come to thee, O I[Bm]sra[A]el[(intro)]!
+
+Verse 3:
+O [Em]come, O come, true p[C]rophet of the [G]Lord [D/F#]
+And [Em]turn the key to [D]heaven’s [Cmaj7]door
+Be [Am]Thou our comfort[C]er and [D]guide and [Em]lead us to the [D]Father’s s[Cmaj7]ide
+Re[D]joice! Re[G]joice! Em[Am]manu[Em]el shall [G]by His Word our [Bm]darkness dis[A]pel
+
+Intro 2:
+[G   D   | Cmaj7      | G    D    | Cmaj7]
+
+Verse 4:
+O [G]come, our great High [D]Priest, and inter[Cmaj7]cede
+Thy [G]sacrifice, our [D]only [Cmaj7]plea
+The [Am]judgment we no [C]longer [D]fear
+Thy [Em]precious blood has [D]brought us [Cmaj7]near
+Re[C]joice! Re[G]joice! Em[Am]manu[Em]el has [G]banished every [Bm]fear of [A]hell [(intro)]
+
+Verse 5:
+O [Em]come, Thou King of [C]nations, [G]bring [D/F#]   an [Em]end to all our [D]suffe[Cmaj7]ring
+Bid [Am]every pain and [C]sorrow [D]cease, and [Em]reign now as our [D]Prince of [Cmaj7]Peace
+Re[Cmaj7]joice! Rejoice! Emmanuel, Re[Am]joice! Rejoice! Emmanuel
+Re[Gmaj7]joice! Rejoice! Emmanuel, shall [(no chord)]come again with us to dwell</text>
+		<searchtext>intro verse 1 o come o come emmanuel and ransom captive israel that mourns in lonely exile here until the son of god appear verse 2 o come thou dayspring from on high and cause thy light on us to rise disperse the gloomy clouds of night and deaths dark shadow put to flight rejoice rejoice emmanuel shall come to thee o israel verse 3 o come o come true prophet of the lord and turn the key to heavens door be thou our comforter and guide and lead us to the fathers side rejoice rejoice emmanuel shall by his word our darkness dispel intro 2 verse 4 o come our great high priest and intercede thy sacrifice our only plea the judgment we no longer fear thy precious blood has brought us near rejoice rejoice emmanuel has banished every fear of hell verse 5 o come thou king of nations bring an end to all our suffering bid every pain and sorrow cease and reign now as our prince of peace rejoice rejoice emmanuel rejoice rejoice emmanuel rejoice rejoice emmanuel shall come again with us to dwell</searchtext>
+		<primary>1</primary>
+		<key>Em</key>
+		<time_signature>4/4</time_signature>
+		<bpm>63</bpm>
+		<tempo>Slow</tempo>
+		<created>2014-11-29 12:14:17</created>
+		<modified>2014-11-29 12:14:17</modified>
+		<creator>1546</creator>
+		<ccli>7031873</ccli>
+		<album>Prepare Him Room</album>
+		<font_size>13</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

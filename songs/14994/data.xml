@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14994</id>
+		<songbook_id>21</songbook_id>
+		<title>You're So Good To Me</title>
+		<copyright>Words &amp; Music by Steve &amp; Vikki Cook     © 1999 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:11</created>
+		<modified>2009-03-20 09:15:11</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BVHJCO&quot;,&quot;title&quot;:&quot;You're So Good to Me&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51FHJmKXExL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16135</id>
+		<song_id>14994</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+You’ve [E]given me [A]so much,
+More [D2]than I’d ever [F#m7]dreamed
+[E]And so much [A]more than I de[D2]serve
+Your [E]mercies sur[A]round me,{,} re[D2]minding me a[F#m7]new
+[E]That all I [A]have has come from [D2]You,
+It’s [A/C#]all from [Bsus]You [B]
+
+Chorus:
+For You have [E]crowned my [B]days
+With over[C#m7]whelming [A]grace
+Lord, [C#m7]You’re so [B]good to [A2]me
+Though troubles [E]fall like [B]rain
+This precious [F#m7]truth re[A]mains
+Lord, [E]You’re so [B]good to [A]me
+Yes, [C#m7]You’re so [B]good [B] [ ]to [E   A   | D   F#m   | E   A   | D2      |]me.
+
+Verse 2:
+You [E]chose me, You [A]saved me,
+And [D2]made me Your [F#m7]own
+[E]Promised that [A]You would never [D2]leave
+Soon [E]one day, You’ll [A]call me,
+And [D2]we’ll see face to [F#m7]face
+[E]‘Til then You’ve [A]given me a [D2]taste,
+Of [A/C#]para[Bsus]dise [B]
+</text>
+		<searchtext>verse 1 youve given me so much more than id ever dreamed and so much more than i deserve your mercies surround me reminding me anew that all i have has come from you its all from you chorus for you have crowned my days with overwhelming grace lord youre so good to me though troubles fall like rain this precious truth remains lord youre so good to me yes youre so good to me verse 2 you chose me you saved me and made me your own promised that you would never leave soon one day youll call me and well see face to face til then youve given me a taste of paradise </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>83</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:11</created>
+		<modified>2009-03-20 09:15:11</modified>
+		<creator>1543</creator>
+		<ccli>2483380</ccli>
+		<album>I Stand In Awe</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

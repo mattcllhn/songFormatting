@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>38731</id>
+		<songbook_id>21</songbook_id>
+		<title>I Will Sing Of My Redeemer</title>
+		<copyright>© 2005 New Spring | Row J, Seat 9 Songs | Upper Cates Music | Curb Songs | Todd Smith Publishing (Admin. by Brentwood-Benson Music Publishing, Inc.)</copyright>
+		<created>2011-02-24 00:40:54</created>
+		<modified>2012-07-15 00:04:55</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0011XRP5S&quot;,&quot;title&quot;:&quot;I Will Sing Of My Redeemer&quot;,&quot;artist&quot;:&quot;Selah&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61XH7Fbt7ZL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>41556</id>
+		<song_id>38731</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[G  |  G  |  C  |  C  |  G  |  G  |  C  |  C  |]
+
+Verse 1:
+[G]I will sing of [C]my Redeemer
+[G]He Who took the [D]nails for me
+[G]I've been purchased [C]I've been pardoned
+[G]Bound to Him I'm [D]truly [G]free
+
+Verse 2:
+[G]I will sing of [C]my Redeemer
+[G]How He sought me [D]while a slave
+[G]Loosed me from the [C]curse of sin
+[G]And from the power [D]of the [G]grave
+
+Chorus:
+[G]I will sing of [C]my Redeemer
+[Em7]Lift my voice to [C]praise my [D]Lord
+[G]Ransomed by His [C]blood and mercy
+[Am7]I am His for[C]e[D]verm[G]ore
+
+Verse 3:
+[G]I will sing of [C]my Redeemer
+[G]He Who bore my c[D]ross my curse
+[G]Came a servant c[C]hose to suffer
+[G]Lifted up and [D]cast from [G]earth
+
+Verse 4:
+[G]I will sing of [C]my Redeemer
+[G]Tell about the [D]grace I've known
+[G]Here on earth with [C]those forgiven
+[G]And one day ar[D]ound His [G]throne</text>
+		<searchtext>intro verse 1 i will sing of my redeemer he who took the nails for me ive been purchased ive been pardoned bound to him im truly free verse 2 i will sing of my redeemer how he sought me while a slave loosed me from the curse of sin and from the power of the grave chorus i will sing of my redeemer lift my voice to praise my lord ransomed by his blood and mercy i am his forevermore verse 3 i will sing of my redeemer he who bore my cross my curse came a servant chose to suffer lifted up and cast from earth verse 4 i will sing of my redeemer tell about the grace ive known here on earth with those forgiven and one day around his throne</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>114</bpm>
+		<tempo>Medium</tempo>
+		<created>2011-02-24 00:40:54</created>
+		<modified>2012-07-15 00:04:55</modified>
+		<creator>1546</creator>
+		<ccli>4648556</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

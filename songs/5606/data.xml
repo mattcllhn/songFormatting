@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5606</id>
+		<songbook_id>21</songbook_id>
+		<title>Blessed Assurance</title>
+		<copyright>Words by Fanny Crosby     Music by Phoe­be Knapp     Public domain</copyright>
+		<created>2008-10-24 00:21:10</created>
+		<modified>2017-05-09 22:14:57</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>78045</id>
+		<song_id>5606</song_id>
+		<description>Bloom</description>
+		<text>Verse 1:
+[G/A]Blessed as[D]surance, [G]Jesus is [D]mine!
+O what [A/C#]a [Bm]fore[A]taste of [E]glory [E/G#]di[A]vine!
+[G/A]Heir of sal[D]vation, [G]purchase of [D]God,
+[D/B]Born of His [G/E]Spi[A/F#]rit, [G]washed [G/A]in His [D]blood.
+
+Chorus:
+[G/A]This is my [D]sto[A/F#]ry, [G]this is my [D]song,
+[A/C#]Praising my [Bm]Sav[Bm7/A]ior, [E]all the [E/G#]day [A]long;
+[G/A]This is my [D]sto[A/F#]ry, [G]this is my [D]song,
+[Bm7]Praising my [Em]Sa[A/F#]vior, [G/A]all the [A]day [D]long.  [to V.3 - ] [A/B  B]
+
+Verse 2:
+[G/A]Perfect sub[D]mission, [G]perfect de[D]light,
+Visions [A/C#]of [Bm]rap[A]ture now [E]burst on [E/G#]my [A]sight;
+[G/A]Angels des[D]cending [G]bring from a[D]bove
+[D/B]Echoes of [G/E]mer[A/F#]cy, [G]whis[G/A]pers of [D]love.
+
+{key:E}
+Verse 3:
+[A/B]Perfect su[E]bmission, [A]all is at [E]rest
+I in [B/D#]my [C#m]Sa[B]vior am [F#]happy [F#/A#]and [B]blest,
+[A/B]Watching and [E]waiting, [A]looking a[E]bove,
+[E/C#]Filled with His [A/F#]good[B/G#]ness, [A]lost [A/B]in His [E]love.
+
+Chorus:
+[A/B]This is my [E]sto[B/G#]ry, [A]this is my [E]song,
+[B/D#]Praising my [C#m]Sav[C#m7/B]ior, [F#]all the [F#/A#]day [B]long;
+[A/B]This is my [E]sto[B/G#]ry, [A]this is my [E]song,
+[C#m7]Praising my [F#m]Sa[B/G#]vior, [A/B]all the [B]day [E]long.</text>
+		<searchtext>verse 1 blessed assurance jesus is mine o what a foretaste of glory divine heir of salvation purchase of god born of his spirit washed in his blood chorus this is my story this is my song praising my savior all the day long this is my story this is my song praising my savior all the day long verse 2 perfect submission perfect delight visions of rapture now burst on my sight angels descending bring from above echoes of mercy whispers of love verse 3 perfect submission all is at rest i in my savior am happy and blest watching and waiting looking above filled with his goodness lost in his love chorus this is my story this is my song praising my savior all the day long this is my story this is my song praising my savior all the day long</searchtext>
+		<primary>0</primary>
+		<key>D</key>
+		<time_signature>3/4</time_signature>
+		<bpm>66</bpm>
+		<tempo>Medium</tempo>
+		<created>2017-05-09 22:05:38</created>
+		<modified>2017-05-09 22:14:57</modified>
+		<creator>1546</creator>
+		<ccli>22324</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>6337</id>
+		<song_id>5606</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[A]Blessed as[D]surance, [G]Jesus is [D]mine!
+O what a [Bm]fore[A]taste of [E]glory di[A]vine!
+[A]Heir of sal[D]vation, [G]purchase of [D]God,
+[D]Born of His [G]Spirit, [A]washed in His [D]blood.
+
+Chorus:
+[A]This is my [D]story, [G]this is my [D]song,
+Praising my [Bm]Savior, [E]all the day [A]long;
+[A]This is my [D]story, [G]this is my [D]song,
+Praising my [G]Sa[Em]vior, [A]all the day [D]long.
+
+Verse 2:
+[A]Perfect sub[D]mission, [G]perfect de[D]light,
+Visions of [Bm]rap[A]ture now [E]burst on my [A]sight;
+[A]Angels des[D]cending [G]bring from a[D]bove
+[D]Echoes of [G]mercy, [A]whispers of [D]love.
+
+Verse 3:
+[A]Perfect su[D]bmission, [G]all is at [D]rest
+I in my [Bm]Sa[A]vior am [E]happy and [A]blest,
+[A]Watching and [D]waiting, [G]looking a[D]bove,
+[D]Filled with His [G]goodness, [A]lost in His [D]love.</text>
+		<searchtext>verse 1 blessed assurance jesus is mine o what a foretaste of glory divine heir of salvation purchase of god born of his spirit washed in his blood chorus this is my story this is my song praising my savior all the day long this is my story this is my song praising my savior all the day long verse 2 perfect submission perfect delight visions of rapture now burst on my sight angels descending bring from above echoes of mercy whispers of love verse 3 perfect submission all is at rest i in my savior am happy and blest watching and waiting looking above filled with his goodness lost in his love</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>3/4</time_signature>
+		<bpm>66</bpm>
+		<tempo>Medium</tempo>
+		<created>2008-10-24 00:21:10</created>
+		<modified>2008-10-24 00:21:10</modified>
+		<creator>1543</creator>
+		<ccli>22324</ccli>
+		<album></album>
+		<font_size></font_size>
+	</Arrangement>
+</data>
+

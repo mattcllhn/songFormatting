@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>55234</id>
+		<songbook_id>21</songbook_id>
+		<title>I Need Thee Every Hour (Traditional)</title>
+		<copyright></copyright>
+		<created>2013-09-17 23:17:40</created>
+		<modified>2016-08-27 22:12:01</modified>
+		<creator>5114</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>60084</id>
+		<song_id>55234</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+I [C]need Thee every [C/E]hour, most [F]gracious [C]Lord
+no [G]tender voice like [Am]thine, can [D]peace [D/F#]a[G]fford.
+
+Chorus:
+I [C]need Thee, oh I [G]need Thee
+[Dm]Every hour I [C]need Thee.
+[C/E]Oh, [F]bless me [Dm]now my [C]Savior
+I [Dm]come [G]to [C]Thee
+
+Verse 2:
+I [C]need Thee every [C/E]hour; stay [F]thou near[C]by;
+temp[G]tations lose their [Am]power when [D]thou [D/F#]art [G]nigh.
+
+Verse 3:
+I [C]need Thee every [C/E]hour, in [F]joy or [C]pain;
+come [G]quickly and [Am]abide, or [D]life [D/F#]is [G]vain. 
+
+Verse 4:
+I [C]need Thee every [C/E]hour, teach [F]me thy [C]will; 
+and [G]thy rich [Am]promises in [D]me [D/F#]ful[G]fill. 
+
+Verse 5:
+I [C]need Thee every [C/E]hour, most [F]Holy [C]One; 
+O [G]make me thine in[Am]deed, thou [D]bless[D/F#]ed [G]Son. </text>
+		<searchtext>verse 1 i need thee every hour most gracious lord no tender voice like thine can peace afford chorus i need thee oh i need thee every hour i need thee oh bless me now my savior i come to thee verse 2 i need thee every hour stay thou nearby temptations lose their power when thou art nigh verse 3 i need thee every hour in joy or pain come quickly and abide or life is vain verse 4 i need thee every hour teach me thy will and thy rich promises in me fulfill verse 5 i need thee every hour most holy one o make me thine indeed thou blessed son </searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>3/4</time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2013-09-17 23:17:41</created>
+		<modified>2016-08-27 22:12:01</modified>
+		<creator>5114</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

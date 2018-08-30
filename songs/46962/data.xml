@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>46962</id>
+		<songbook_id>21</songbook_id>
+		<title>Mighty Fortress</title>
+		<copyright>© 2012 Sovereign Grace Worship     Inspired by “A Mighty Fortress Is Our God” by Martin Luther     Music &amp; Words by Steve Cook &amp; Vikki Cook</copyright>
+		<created>2012-04-28 15:14:25</created>
+		<modified>2012-04-28 15:14:25</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B007O3RLM6&quot;,&quot;title&quot;:&quot;Mighty Fortress&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51QAAIRaApL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>50631</id>
+		<song_id>46962</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[C#m      | E/B     | C#m     | E/B]
+
+VERSE 1:
+A [A]mighty fo[C#m7]rtress [E]is our God, a [A]shield that [C#m]never f[E]ails
+A[A]mid the f[C#m]lood of mo[E]rtal ills{,} His [A]power will prev[B]ail
+Our [F#m]an[E]cient [B/D#]foe is cruel{,} a[6/4]nd [C#m]armed with hate
+Yet [F#m]with [E]one [B/D#]word he’ll bow to [C#m]Jesus’ reign [B]
+
+CHORUS:
+Hope in G[A]od, [E]O my s[B]oul
+[C#m]He is str[A]ong and He is [E]strong to s[B]ave
+[E/G#]Hope in G[A]od, [E]He’s a [B]rock and your hi[C#m]ding pl[A2]ace
+He’s a mighty fortress[A   C#m   | E   B   | A   C#m   | E]
+
+VERSE 2:
+We [A]dare not tr[C#m]ust in o[E]ur own hand{,} or [A]all would be[C#m] in [E]vain
+Our [A]confi[C#m]dence is i[E]n the One{,} who [A]holds the worlds in place[B]
+He [F#m]fights [E]for [B/D#]us, the soverei[6/4]gn [C#m]Lord of hosts
+From [F#m]age [E]to [B/D#]age the triumph’s [C#m]His alone[B]
+
+Inst:
+[C#m     |          | F#m     |          | A    E    | E      |]
+
+[C#m     |          | F#m     |          | A    E    | E      | G#m      | B]</text>
+		<searchtext>intro verse 1 a mighty fortress is our god a shield that never fails amid the flood of mortal ills his power will prevail our ancient foe is cruel and armed with hate yet with one word hell bow to jesus reign chorus hope in god o my soul he is strong and he is strong to save hope in god hes a rock and your hiding place hes a mighty fortress verse 2 we dare not trust in our own hand or all would be in vain our confidence is in the one who holds the worlds in place he fights for us the sovereign lord of hosts from age to age the triumphs his alone inst </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>128</bpm>
+		<tempo>Fast</tempo>
+		<created>2012-04-28 15:14:25</created>
+		<modified>2012-04-28 15:14:25</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>From Age To Age</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

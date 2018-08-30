@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>68180</id>
+		<songbook_id>21</songbook_id>
+		<title>Undone</title>
+		<copyright>© 2015 Sovereign Grace Worship      Music by Pat Sczebel, Words by Pat Sczebel, Kate DeGraide, and Nathan Stiff</copyright>
+		<created>2016-09-01 11:09:18</created>
+		<modified>2016-09-01 11:09:18</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B017NAHQRY&quot;,&quot;title&quot;:&quot;Undone&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51yvAN834IL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>75100</id>
+		<song_id>68180</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[C6    Em   | D   Bm   | C6   G  | D   Bm7  | C6   Em  | D   Bm  | C   G  | D]
+
+VERSE1:
+Your [G]Spirit had awakened{,} our l[Gmaj7]ifeless hearts to see
+The [G6]King in brilliant glory,{,} re[C/G]vealed in majesty
+We were [G]ruined in Your p[D]resence{,} and t[Em]earing at the s[C]eams
+Our [G]eyes had gazed upon the King of k[D]ings
+
+CHORUS:
+We [C6]fall d[Em]own in [D]awe of You [Bm7]
+We [C6]fall d[G]own und[D]one [Bm7]
+We [C]fall d[Em]own bef[D]ore you, Lord, [Bm7]    un[C]done [G   | D]
+
+VERSE 2:
+Our h[G]ands had crafted idols,{,} our [Gmaj7]lips had spoken lies
+[G6]Every wayward thought we had{,} a[C/G]gainst us testified
+But [G]You were rich in m[D]ercy
+To pro[Em]vide what You de[C]mand
+And [G]now on Christ, the solid rock, we s[D]tand
+
+BRIDGE:
+[C]Ho[G]ly,   [Em]Ho[D]ly,   [C]Ho[G]ly O[D]ne           [Bm]
+[C]Ho[G]ly,   [Em]Ho[D]ly,   [C]Ho[G]ly O[D]ne,   You [Bm]are
+[C]Ho[G]ly,   [Em]Ho[D]ly,   [C]Ho[G]ly O[D]ne,   You [Bm]are
+[C]Ho[G]ly,   [Em]Ho[D]ly,   [C]Ho[G]ly O[D]ne
+
+</text>
+		<searchtext>intro verse1 your spirit had awakened our lifeless hearts to see the king in brilliant glory revealed in majesty we were ruined in your presence and tearing at the seams our eyes had gazed upon the king of kings chorus we fall down in awe of you we fall down undone we fall down before you lord undone verse 2 our hands had crafted idols our lips had spoken lies every wayward thought we had against us testified but you were rich in mercy to provide what you demand and now on christ the solid rock we stand bridge holy holy holy one holy holy holy one you are holy holy holy one you are holy holy holy one </searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>62</bpm>
+		<tempo>Slow</tempo>
+		<created>2016-09-01 11:09:18</created>
+		<modified>2016-09-01 11:09:18</modified>
+		<creator>1546</creator>
+		<ccli>7052982</ccli>
+		<album>Sooner Count The Stars</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

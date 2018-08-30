@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14875</id>
+		<songbook_id>21</songbook_id>
+		<title>Let Your Kingdom Come</title>
+		<copyright>Words and Music by Bob Kauflin     © 2006 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:55</created>
+		<modified>2009-11-29 01:18:44</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BORTJ4&quot;,&quot;title&quot;:&quot;Let Your Kingdom Come&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51ASvkc53%2BL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16003</id>
+		<song_id>14875</song_id>
+		<description>Initial arrangement</description>
+		<text>
+INTRO: 
+[||: G     | D     | Em7     | C2     :|| C2] 
+
+VERSE 1:
+[Dsus4] [ ]Your glorious [C2]cause, O God,[G] [ ]engages our hearts
+[Dsus4] [ ]May Jesus [C2]Christ be known{,} [Em7] [ ]wherever we are
+[D] [ ]We ask not [C2]for ourselves, [G/B] [ ]but for Your re[C]nown [G]
+[D] [ ]The cross has [C2]saved us so we
+[Bm]Pray Your kingdom [C2]come
+
+
+CHORUS:
+Let Your [G]kingdom [D]come, let Your [Em7]will be [C2]done
+So that [G]every[D]one might know Your [Em7]Name
+[C2] [ ]Let Your [G]song be h[D]eard{,} every[Em7]where on e[C2]arth
+Till Your [Em7]sovereign w[D]ork on earth is d[C2]one
+Let Your kingdom [G]come  [| D   | Em7   | C2   | G   | D   | C2   | C2]
+
+
+VERSE 2:
+[Dsus] [ ]Give us Your [C2]strength, O God,
+[G] [ ]And courage to speak
+[Dsus] [ ]Perform Your [C2]wondrous deeds,
+[Em7] [ ]Through those who are weak
+[D] [ ]Lord use us [C2]as You want,
+[G/B] [ ]Whatever the [C]test  [G]
+[D] [ ]By grace we’ll [C2]preach Your gospel
+[Bm]Till our dying [C2]breath</text>
+		<searchtext> intro verse 1 your glorious cause o god engages our hearts may jesus christ be known wherever we are we ask not for ourselves but for your renown the cross has saved us so we pray your kingdom come chorus let your kingdom come let your will be done so that everyone might know your name let your song be heard everywhere on earth till your sovereign work on earth is done let your kingdom come verse 2 give us your strength o god and courage to speak perform your wondrous deeds through those who are weak lord use us as you want whatever the test by grace well preach your gospel till our dying breath</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>120</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:14:55</created>
+		<modified>2009-11-29 01:18:44</modified>
+		<creator>1543</creator>
+		<ccli>4804046</ccli>
+		<album>Valley Of Vision</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

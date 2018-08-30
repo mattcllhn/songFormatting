@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14985</id>
+		<songbook_id>21</songbook_id>
+		<title>Everlasting</title>
+		<copyright>Words &amp; Music by Eric Hughes and Aaron Baird     © 1999 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:10</created>
+		<modified>2009-03-20 09:15:10</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001122SYW&quot;,&quot;title&quot;:&quot;Everlasting&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51772JOjBtL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16126</id>
+		<song_id>14985</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: E    A    | C#m    B4    :||]
+
+Verse 1:
+Oh [E]God, our Red[B]eemer,
+Our [A]Savior, our [B7sus]Friend
+Cre[E]ator of the [B]universe
+Your [A]goodness knows no [Bsus    B]end
+
+Bridge:
+And our [E]voices join with the [A]thousands who
+Know [F#m7]mercy because of the [Bsus    B]cross
+All [E]sinners washed in your [F#m7]precious blood
+For[A]ever we will [Bsus    B]sing
+
+Chorus:
+From [E]everlasting to [F#m7]everlasting,{,} [A]praise be to [Bsus    B]You
+From [E]everlasting to [F#m7]everlasting,{,} [A]praise be to [Bsus    B]You
+Oh [||:E    A    | C#m    B4    :||]God
+
+Verse 2:
+Oh [E]God, our Del[B]iverer
+And [A]Lord of all [B7sus]grace
+How [E]can I stand in [B]silence
+When the [A]heavens sing Your [Bsus    B]praise?[(to bridge)]</text>
+		<searchtext>intro verse 1 oh god our redeemer our savior our friend creator of the universe your goodness knows no end bridge and our voices join with the thousands who know mercy because of the cross all sinners washed in your precious blood forever we will sing chorus from everlasting to everlasting praise be to you from everlasting to everlasting praise be to you oh god verse 2 oh god our deliverer and lord of all grace how can i stand in silence when the heavens sing your praise</searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>112</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:10</created>
+		<modified>2009-03-20 09:15:10</modified>
+		<creator>1543</creator>
+		<ccli>2847603</ccli>
+		<album>Everlasting</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

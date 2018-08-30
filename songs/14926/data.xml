@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14926</id>
+		<songbook_id>21</songbook_id>
+		<title>Isn't He Good</title>
+		<copyright>Words &amp; Music by Steven Altrogge     © 2004 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:01</created>
+		<modified>2009-03-20 09:15:01</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B000ZJSFG2&quot;,&quot;title&quot;:&quot;Isn't He Good&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51CotfwF8BL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16060</id>
+		<song_id>14926</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[Dmaj7     | G     | Bm     | G     | Dmaj7     | G     | Bm     | G     |]
+
+Verse 1:
+Your [D]goodness [G]found us in the [Bm]darkness
+[G]Rescued us and [D]freed us
+[G]Cleansed us from with[A]in
+You [D]saved us, [G]freely You forg[Bm]ave us
+[G]Counted us as [D]righteous
+And [G]heirs with Your own [Asus4     | A]Son
+
+Chorus:
+Isn’t He [D]good, Isn’t He [Bm7]kind
+Hasn’t He [G]blessed us, time after [Asus] time
+Isn’t He [D]good, all of our [Bm7]days
+With endless [G]mercies and ceaseless [Em] grace
+O let us [Bm]si[G]ng: He is [D     | G     | Bm     | G]good.
+
+Verse 2:
+Your [D]mercies [G]meet us with the [Bm]daybreak
+And [G]every breath that [D]we take
+[G]Points us to Your [A]grace
+Your [D]power [G]keeps us till the [Bm]hour
+[G]Every knee will [D]bow and
+[G]Worship Christ al[Asus4     | A]one</text>
+		<searchtext>intro verse 1 your goodness found us in the darkness rescued us and freed us cleansed us from within you saved us freely you forgave us counted us as righteous and heirs with your own son chorus isnt he good isnt he kind hasnt he blessed us time after time isnt he good all of our days with endless mercies and ceaseless grace o let us sing he is good verse 2 your mercies meet us with the daybreak and every breath that we take points us to your grace your power keeps us till the hour every knee will bow and worship christ alone</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>125</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:01</created>
+		<modified>2009-03-20 09:15:01</modified>
+		<creator>1543</creator>
+		<ccli>4662790</ccli>
+		<album>Worship God Live</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

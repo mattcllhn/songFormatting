@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>28742</id>
+		<songbook_id>21</songbook_id>
+		<title>Amazing Grace (My Chains Are Gone)</title>
+		<copyright>Words and music by John Newton, John P. Rees and Edwin Othello Excell. Arr. and additional chorus by Chris Tomlin and Louie Giglio Public Domain. Arr. © 2006 worshiptogether.com Songs/Sixsteps Music/ASCAP (EMI CMG Publishing).  All rights reserved. Used by permission.  </copyright>
+		<created>2009-09-14 21:13:09</created>
+		<modified>2009-09-14 21:50:48</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>30603</id>
+		<song_id>28742</song_id>
+		<description>Initial arrangement</description>
+		<text>VERSE 1:
+Am[D]azing grace, how s[G/D]weet the s[D]ound
+That saved a wretch like [A/D]me
+I [D]once was [D/F#]lost, but n[G]ow I’m f[D]ound
+T’was blind, but n[A/D]ow I s[D]ee
+
+VERSE 2:
+T’was gr[D]ace that taught my h[G/D]eart to f[D]ear
+And grace my fears rel[A/D]ieved
+How pr[D]ecious [D/F#]did that gr[G]ace app[D]ear
+The hour I f[A/D]irst bel[D]ieved 
+
+CHORUS:
+My ch[D/F#]ains are g[G]one, I’ve been set f[D/F#]ree 
+My God, my S[G]avior has ransomed [D/A]me 
+And [D/F#]like a fl[G]ood His mercy r[D/F#]eigns 
+Unending l[Em]ove, am[A7]azing gr[D]ace
+
+VERSE 3:
+The L[D]ord has promised g[G/D]ood to [D]me
+His word my hope sec[A/D]ures  
+He w[D]ill my sh[D/F#]ield and p[G]ortion b[D]e
+As long as [A/D]life end[D]ures 
+
+VERSE 4:
+The [D]earth shall soon diss[G/D]olve like sn[D]ow
+The sun forbear to sh[A/D]ine  
+But G[D]od who [D/F#]called me h[G]ere bel[D]ow
+Will be for[A/D]ever m[D]ine 
+Will be for[A/D]ever m[D]ine 
+Will be for[A/D]ever m[D]ine 
+
+
+</text>
+		<searchtext>verse 1 amazing grace how sweet the sound that saved a wretch like me i once was lost but now im found twas blind but now i see verse 2 twas grace that taught my heart to fear and grace my fears relieved how precious did that grace appear the hour i first believed chorus my chains are gone ive been set free my god my savior has ransomed me and like a flood his mercy reigns unending love amazing grace verse 3 the lord has promised good to me his word my hope secures he will my shield and portion be as long as life endures verse 4 the earth shall soon dissolve like snow the sun forbear to shine but god who called me here below will be forever mine will be forever mine will be forever mine </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>3/4</time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2009-09-14 21:13:09</created>
+		<modified>2009-09-14 21:50:49</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>63742</id>
+		<songbook_id>21</songbook_id>
+		<title>Rock of Ages</title>
+		<copyright>Dustin Kensrue</copyright>
+		<created>2015-04-08 16:24:53</created>
+		<modified>2017-03-08 20:33:46</modified>
+		<creator>5114</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>69825</id>
+		<song_id>63742</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1: 
+Rock of [C]ages, [F/C]cleft for [C]me
+Let me[C] hide [F]myself i[C]n thee 
+Let the wa[F]ter and the [C]blood  
+From thy wou[F]nded side which [C]flowed
+Be of [C]sin the [F]double [C]cure         
+Save from w[C]rath and m[G]ake me p[C]ure 
+
+Verse 2: 
+Not the [C]labors [F]of my [C]hands  
+Can [C]fulﬁll the [F]laws [C]commands  
+Should my [F]passion never [C]fade  
+And my [F]efforts all be [C]weighed  
+All for [C]sin could [F]not [C]atone  
+You must [C]save and [G]you [C]alone  
+
+Chorus: 
+[C]Rock[C/B] of a[Am]ges  [C] 
+No one [F]takes your [C]life 
+Yet you [F]died that I might [C]live 
+Costly [F]grace you freely [Am]give
+Rock of ag[F]es  [C] 
+You have [Dm]paid the [Am]price 
+You were [F]cleft to cover [C]me
+Let me [F]hide myself in [C]thee
+
+{new_page}
+Verse 3: 
+Nothing [C]in my [F]hand I [C]bring  
+Simply [C]to the [F]cross I [C]cling  
+Naked [F]come to thee for [C]dress  
+Helpless [F]look to thee for [C]grace  
+Wretched [C]to the [F]fount I [C]ﬂy  
+Wash me [C]Savior [G]or I [C]die
+
+Bridge: 
+And w[Am]hile[C/B] I d[C]raw my [F]final [C]breath 
+I'll [Am]res[C/B]t up[C]on your [G]grace 
+And w[Am]hen[C/B] I c[C]lose my [F]eyes in [C]death 
+I'll [Am]wake[C/B] to [C]see your [G]face 
+
+Interlude: 
+
+ [Am] [C] [F] [C]      [Am] [C] [G] [E7] 
+
+</text>
+		<searchtext>verse 1 rock of ages cleft for me let me hide myself in thee let the water and the blood from thy wounded side which flowed be of sin the double cure save from wrath and make me pure verse 2 not the labors of my hands can fulﬁll the laws commands should my passion never fade and my efforts all be weighed all for sin could not atone you must save and you alone chorus rock of ages no one takes your life yet you died that i might live costly grace you freely give rock of ages you have paid the price you were cleft to cover me let me hide myself in thee verse 3 nothing in my hand i bring simply to the cross i cling naked come to thee for dress helpless look to thee for grace wretched to the fount i ﬂy wash me savior or i die bridge and while i draw my final breath ill rest upon your grace and when i close my eyes in death ill wake to see your face interlude </searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2015-04-08 16:24:53</created>
+		<modified>2017-03-08 20:33:46</modified>
+		<creator>5114</creator>
+		<ccli></ccli>
+		<album>The Water and the Blood</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>2355</id>
+		<songbook_id>21</songbook_id>
+		<text>Good Friday</text>
+	</Keyword>
+</data>
+

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5603</id>
+		<songbook_id>21</songbook_id>
+		<title>All Glory, Laud, and Honor</title>
+		<copyright>Words by Theodulph of Orleans     Music by Melchior Teschner     Public domain</copyright>
+		<created>2008-10-24 01:58:14</created>
+		<modified>2008-10-24 01:58:14</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6334</id>
+		<song_id>5603</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[A]All glory, [D]laud, [E]and [A]honor, to [Bm]Thee, Re[D]deem[E]er, [A]King
+[A]To whom the [D]lips [E]of [A]children, made [Bm]sweet ho[D]san[E]nas [A]ring
+[A]Thou art the [B]King [A]of [E]Is[B]ra[C#m]el, [E]Thou, [A]Da[E]vid's [B]royal [E]Son,
+[E]Who [A]in the [D]Lord's [A]Name [E]com[A]est, the [Bm]King [A]and [E]Blessed [A]One.
+
+
+Verse 2:
+[A]The compa[D]ny [E]of [A]angels, are [Bm]praising [D]Thee [E]on [A]high
+[A]And mortal [D]men, [E]and [A]all things, cre[Bm]ated, [D]make [E]re[A]ply.
+[A]The people [B]of [A]the [E]He[B]-[C#m]brews, [E]with [A]palms [E]be[B]fore Thee [E]went:
+[E]Our [A]praise and [D]prayers [A]and [E]an[A]thems, be[Bm]fore [A]Thee [E]we pre[A]sent.
+
+
+Verse 3:
+[A]To Thee be[D]fore [E]Thy [A]passion, they [Bm]sang their [D]hymns [E]of [A]praise:
+[A]To Thee, now [D]high [E]ex[A]alted,{,} our [Bm]melo[D]dy [E]we [A]raise.
+[A]Thou didst ac[B]cept [A]their [E B]prais[C#m]es, [E]ac[A]cept [E]the [B]prayers we [E]bring,
+[E]Who [A]in all [D]good [A]de[E]light[A]est, Thou [Bm]good [A]and [E]gracious [A]King.</text>
+		<searchtext>verse 1 all glory laud and honor to thee redeemer king to whom the lips of children made sweet hosannas ring thou art the king of israel thou davids royal son who in the lords name comest the king and blessed one verse 2 the company of angels are praising thee on high and mortal men and all things created make reply the people of the hebrews with palms before thee went our praise and prayers and anthems before thee we present verse 3 to thee before thy passion they sang their hymns of praise to thee now high exalted our melody we raise thou didst accept their praises accept the prayers we bring who in all good delightest thou good and gracious king</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>104</bpm>
+		<tempo>Medium</tempo>
+		<created>2008-10-24 01:58:14</created>
+		<modified>2008-10-24 01:58:14</modified>
+		<creator>1543</creator>
+		<ccli>29509</ccli>
+		<album></album>
+		<font_size></font_size>
+	</Arrangement>
+</data>
+

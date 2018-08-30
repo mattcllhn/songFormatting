@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14906</id>
+		<songbook_id>21</songbook_id>
+		<title>Through The Precious Blood</title>
+		<copyright>Words &amp; Music by Mark Altrogge      © 2008 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:58</created>
+		<modified>2009-03-20 09:14:58</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BQQFWE&quot;,&quot;title&quot;:&quot;Through the Precious Blood&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/519kK7bceBL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16034</id>
+		<song_id>14906</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[G   | Gmaj7   | Am7   | Cmaj7   (2x)]
+
+Verse 1:
+[G]You have ordained every [C2]breath we take
+In [Am7]pleasure or pain, there is [D]no mistake
+[G]Gladness and grief, both are [C2]in Your hands
+And [Am7]sufferings brief carry [D/F#]out Your plan
+And our [Em]flee[G]ting [C]sorrows, will [Em]yield an [G]endless [C]prize 
+When some [Em]bright [G]to[C]morrow, we'll [Em]see You [G]with our [C2]eyes
+
+Chorus:
+And [G]grace upon [D/F#]grace flows [Am7]down, flows d[Dsus]own [D]
+And [G]grace upon [D/F#]grace flows [Am7]down, flows d[Dsus]own [D]
+Through the [Em]pre[G]cious [C2]blood of Christ
+[(1st time to intro, 2nd time to bridge, 3rd time to tag)]
+
+Verse 2:
+[G]Father of lights, giver [C2]of all grace
+[Am7]Your mercies crown our lives [D]all our days
+[G]River of life, quench our [C2]thirsty souls
+For [Am7]no true delight does Your [D/F#]love withhold
+And in [Em]ev[G]ery [C]season [Em]we are [G]satis[C]fied
+For [Em]just [G]one [C]reason, [Em]Christ was [G]crucif[C2]ied
+
+Bridge:
+[Em]All good gifts, and every [D/F#]good thing, comes to us f[G]reely, so [Am7]freely
+[Em]All good gifts, every g[D/F#]ood thing, comes to us [G]freely, so [Am7]freely
+Through the [C]precious [D]blood, through the [C/E]precious [Dsus]blood [D]
+
+Opt. Inst:
+[G     | Gmaj7     | Am7    | Dsus    (2x, then to chorus)]
+
+Tag:
+[G      |Gmaj7     |Am7   | C2    |G      |Gmaj7    |Am7   |C2]</text>
+		<searchtext>intro verse 1 you have ordained every breath we take in pleasure or pain there is no mistake gladness and grief both are in your hands and sufferings brief carry out your plan and our fleeting sorrows will yield an endless prize when some bright tomorrow well see you with our eyes chorus and grace upon grace flows down flows down and grace upon grace flows down flows down through the precious blood of christ verse 2 father of lights giver of all grace your mercies crown our lives all our days river of life quench our thirsty souls for no true delight does your love withhold and in every season we are satisfied for just one reason christ was crucified bridge all good gifts and every good thing comes to us freely so freely all good gifts every good thing comes to us freely so freely through the precious blood through the precious blood opt inst tag </searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>6/8</time_signature>
+		<bpm>150</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:14:58</created>
+		<modified>2009-03-20 09:14:58</modified>
+		<creator>1543</creator>
+		<ccli>5171606</ccli>
+		<album>Come Weary Saints</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

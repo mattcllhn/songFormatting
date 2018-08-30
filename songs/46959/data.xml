@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>46959</id>
+		<songbook_id>21</songbook_id>
+		<title>Nothing That My Hands Can Do</title>
+		<copyright>© 2012 Sovereign Grace Worship     Original words by Horatius Bonar     Music &amp; alternate words by Matt Richley</copyright>
+		<created>2012-04-28 15:14:25</created>
+		<modified>2012-04-28 15:14:25</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B007O3RK40&quot;,&quot;title&quot;:&quot;Nothing That My Hands Can Do&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51QAAIRaApL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>50628</id>
+		<song_id>46959</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[Am      | F     | C      | G]
+
+VERSE 1:
+There’s [Am]nothing that my [F]hands can do{,} to [C]save my guilty [G]soul
+I [Am]cannot cleanse my [F]filthy stains{,} or [C]make my spirit [G]whole
+For [Am]nothing but the [F]blood of Christ{,} can [C]all my sins e[G]rase
+I [Am]dare not claim my [F]righteousness{,} but [Dm]hide with[G]in His [C]grace
+‘Tis [Am]Christ who saved me [F]from the depths, God’s [C/E]pardon I’ve re[G]ceived
+I’m [Am]washed within His [F]precious blood, my [Dm]heart is sprinkled [(intro)]clean
+
+VERSE 2:
+I’ll [Am]praise the God of [F]holiness, of [C]justice, truth, and [G]might
+Who [Am]guides me by His [F]mighty hand{,} to [C]walk within His [G]light
+While [Am]Satan weaves his [F]shallow lies{,} God [C]speaks to me in [G]love
+Re[Am]minding me His [F]only Son{,} has [Dm]bought me [G]with His [C]blood
+And [Am]Christ dispels my [F]every doubt, through [C/E]Him I am re[G]deemed
+I [Am]love because He [F]loved me first, I [Dm]live because He [(intro)]lives
+
+{key:Bm}
+VERSE 3:
+My [Bm]life is but a [G]fleeting sigh, a [D]tear within the [A]sea
+But [Bm]You are ever[G]lasting, Lord,{,} and [D]You’ve predestined [A]me
+To [Bm]leave this fading [G]world behind, not [D]fearing death will [A]come
+For [Bm]then I’ll look on [G]Jesus Christ{,} and [Em]to His [A]arms I’ll [D]run
+And [Bm]when I see Him [G]face to face, what [D/F#]glory that will [A]be
+To [Bm]look upon my [G]Savior’s scars{,} and [Em]know they [A]were for [D | G | Bm | D]me</text>
+		<searchtext>intro verse 1 theres nothing that my hands can do to save my guilty soul i cannot cleanse my filthy stains or make my spirit whole for nothing but the blood of christ can all my sins erase i dare not claim my righteousness but hide within his grace tis christ who saved me from the depths gods pardon ive received im washed within his precious blood my heart is sprinkled clean verse 2 ill praise the god of holiness of justice truth and might who guides me by his mighty hand to walk within his light while satan weaves his shallow lies god speaks to me in love reminding me his only son has bought me with his blood and christ dispels my every doubt through him i am redeemed i love because he loved me first i live because he lives verse 3 my life is but a fleeting sigh a tear within the sea but you are everlasting lord and youve predestined me to leave this fading world behind not fearing death will come for then ill look on jesus christ and to his arms ill run and when i see him face to face what glory that will be to look upon my saviors scars and know they were for me</searchtext>
+		<primary>1</primary>
+		<key>Am</key>
+		<time_signature>3/4</time_signature>
+		<bpm>88</bpm>
+		<tempo>Slow</tempo>
+		<created>2012-04-28 15:14:25</created>
+		<modified>2012-04-28 15:14:25</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>From Age To Age</album>
+		<font_size>13</font_size>
+	</Arrangement>
+</data>
+

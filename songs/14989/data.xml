@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14989</id>
+		<songbook_id>21</songbook_id>
+		<title>I Bow Down</title>
+		<copyright>Words &amp; Music by Steve &amp; Vikki Cook     © 1999 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:11</created>
+		<modified>2009-03-20 09:15:11</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00111XZQ8&quot;,&quot;title&quot;:&quot;I Bow Down&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51772JOjBtL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16130</id>
+		<song_id>14989</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[C#m     | B     | A     | A]
+
+Verse 1:
+A[E]round [Esus]You, such [Esus]beau[E]ty
+Your [E]majes[Esus]ty could [Esus]fill an [E]endless [A]sky
+[F#m7]Holy are You, [E    Esus    Esus    E]Lord
+Tran[E]scen[Esus]dent, e[Esus]xal[E]ted
+The [E]hea[Esus]vens can[Esus]not con[E]tain Your [A]presence
+[F#m7]Holy are You, [E    Esus    Esus    E]Lord
+And [B]as [C#m7]I [B]be[C#m7]hold Your [A]glory, I’m [E     | E]undone.
+
+
+Chorus:
+I bow [A]down at Your [E]feet, I bow [A]down at Your [E]feet
+I bow [B]down at Your [C#m]feet,{,} for You are my [B]God,  [C#m7    B]
+I bow [A]down at Your [E]feet, I bow [A]down at Your [E]feet
+I bow [B]down at Your [C#m]feet,{,} for You are my [B]God, my [A2]God.
+
+
+Verse 2:
+You [E]saved [Esus]me, the [A/E]sin[E]ner
+With [E]crimson [Esus]red, You [A/E]washed me [E]white as [A]snow
+[F#m7]How I love You, [E   Esus   A/E   A]Lord
+You [E]loved [Esus]me, the [A/E]mock[E]er
+With [E]kind[Esus]ness You [A/E]won my [E]heart for[A]ever
+[F#m7]How I love You, [E   Esus   A/E   E]Lord
+And [B]as [C#m7]I [B]be[C#m7]hold this [A2]mercy, I’m [E   | E2/G#]undone.</text>
+		<searchtext>intro verse 1 around you such beauty your majesty could fill an endless sky holy are you lord transcendent exalted the heavens cannot contain your presence holy are you lord and as i behold your glory im undone chorus i bow down at your feet i bow down at your feet i bow down at your feet for you are my god i bow down at your feet i bow down at your feet i bow down at your feet for you are my god my god verse 2 you saved me the sinner with crimson red you washed me white as snow how i love you lord you loved me the mocker with kindness you won my heart forever how i love you lord and as i behold this mercy im undone</searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>72</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:11</created>
+		<modified>2009-03-20 09:15:11</modified>
+		<creator>1543</creator>
+		<ccli>2847531</ccli>
+		<album>Everlasting</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

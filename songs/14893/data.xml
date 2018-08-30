@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14893</id>
+		<songbook_id>21</songbook_id>
+		<title>You Will Never Change</title>
+		<copyright>Words &amp; Music by Joel Sczebel     © 2008 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:14:57</created>
+		<modified>2009-03-20 09:14:57</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001EUTT84&quot;,&quot;title&quot;:&quot;You Will Never Change&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51CGlRp8SUL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16021</id>
+		<song_id>14893</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[Em     | G     | D     | Am     (repeat)]
+
+Verse 1:
+[Em]You have been our [C]dwelling place
+[C]    A rock am[Am]idst the [C]waves [| C]
+Though [Em]everything ar[C]ound us shakes
+[C]    Your truth will st[Am]ill remain{,} our anchor [C] [ ]forever [D]
+
+Chorus:
+[Em]Lord, Y[C]ou will never ch[G]ange
+Y[D]ou will never ch[Em]ange
+From e[G]verlasting [D]You are [C]God
+Your [Em]love for[C]ever will en[G]dure
+Your pr[D]omises are [Em]sure
+To [G]everlasting [D]You are [C]God [| Em     | G     | D     | Am]
+
+Verse 2:
+Our [Em]lives are like a p[C]assing dream
+[C]    A thought that s[Am]oon is [C]gone [| C]
+With [Em]all our strength we [C]cling to You
+[C]    Our rock, steadfa[Am]st and true, our refuge [C] [ ]forever  [D]
+
+Bridge:
+[C] [ ]Teach us to [G]number [D]here,
+[C] [ ]Our momen[G]tary [D]years
+[C] [ ]From all e[G]terni[D]ty,
+[Am] [ ]You were and will [Em]al-ways [C]be [| C]</text>
+		<searchtext>intro verse 1 you have been our dwelling place a rock amidst the waves though everything around us shakes your truth will still remain our anchor forever chorus lord you will never change you will never change from everlasting you are god your love forever will endure your promises are sure to everlasting you are god verse 2 our lives are like a passing dream a thought that soon is gone with all our strength we cling to you our rock steadfast and true our refuge forever bridge teach us to number here our momentary years from all eternity you were and will always be </searchtext>
+		<primary>1</primary>
+		<key>Em</key>
+		<time_signature>4/4</time_signature>
+		<bpm>140</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:14:57</created>
+		<modified>2009-03-20 09:14:57</modified>
+		<creator>1543</creator>
+		<ccli>5260782</ccli>
+		<album>Psalms</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

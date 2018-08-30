@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>39567</id>
+		<songbook_id>21</songbook_id>
+		<title>You Have Been Raised</title>
+		<copyright>Music by Mark Altrogge, Bob Kauflin, &amp; Ken Boer     Words by Mark Altrogge &amp; Bob Kauflin     © 2011 Sovereign Grace Praise / Sovereign Grace Worship</copyright>
+		<created>2011-03-30 21:49:36</created>
+		<modified>2011-03-30 21:49:36</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B004RR40T4&quot;,&quot;title&quot;:&quot;You Have Been Raised&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/41QLoqrrewL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>42476</id>
+		<song_id>39567</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[D     | F#m     | D     | F#m]
+
+Verse 1:
+[D]How do we know we’ve been forg[F#m]iven?
+How do we kn[D]ow{,} that we have been made [F#m]clean?
+[D]How do we know we'll go to [F#m]heaven?
+How do we k[Bm]now we've been red[E]eemed? [|  E7]
+
+Chorus:
+[A/C#]You have been raised,{,} the [D]tomb has been opened
+[F#m]Nothing can take aw[E]ay our hope in [A/C#]You
+You h[D]ave been r[E]aised
+[A/C#]You have been raised,{,} the w[D]ork is completed
+[F#m]Hell and its powers have b[E]een defeated
+[A/C#]You h[D]ave been r[E]aised [(1X) D    | F#m    | D    | F#m    (2X, to bridge)]
+
+Verse 2:
+[D]Now we are free from condem[A]nation
+There is no [D]judgment left for us to [A]fear
+[D]We don’t have to wonder if we’re [A]welcome
+You are the [Bm]one    Who’s brought us [E]near [| E7]
+
+Bridge:
+[F#m]The price You [A]paid for us{,} has [D]fully been accepted
+[F#m]Because of [A]Your shed blood{,} we [Bm7]cannot be rejected
+[F#m]The price You [A]paid for us{,} has [D]fully been accepted
+[F#m]Because of [A]Your shed blood{,} we [Bm7]cannot be rejected
+
+Inst.:
+[F#m    | A    | D D/C# Bm    | F#m    | A    | D    | E  (to Chorus)]
+
+</text>
+		<searchtext>intro verse 1 how do we know weve been forgiven how do we know that we have been made clean how do we know well go to heaven how do we know weve been redeemed chorus you have been raised the tomb has been opened nothing can take away our hope in you you have been raised you have been raised the work is completed hell and its powers have been defeated you have been raised verse 2 now we are free from condemnation there is no judgment left for us to fear we dont have to wonder if were welcome you are the one whos brought us near bridge the price you paid for us has fully been accepted because of your shed blood we cannot be rejected the price you paid for us has fully been accepted because of your shed blood we cannot be rejected inst </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>79</bpm>
+		<tempo>Medium</tempo>
+		<created>2011-03-30 21:49:36</created>
+		<modified>2011-03-30 21:49:36</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>Risen</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

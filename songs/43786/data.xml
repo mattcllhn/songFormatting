@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>43786</id>
+		<songbook_id>21</songbook_id>
+		<title>As You Go</title>
+		<copyright>Words &amp; Music by Mark Altrogge     (C) 2011 Sovereign Grace Praise</copyright>
+		<created>2011-11-27 00:55:56</created>
+		<modified>2012-10-21 00:11:42</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0064Y35OY&quot;,&quot;title&quot;:&quot;As You Go&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/515a-gIbevL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>47148</id>
+		<song_id>43786</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[A    | E    | Bm    | D    | (2X)]
+
+VERSE 1:
+As you [A]go{,} may you know the love of Chr[E]ist
+How deep and [Bm]long, how high and w[E]ide
+As you [A]leave{,} may you seek to win the pr[E]ize
+And find His [Bm]death to be Your [D6]life
+
+CHORUS:
+May you [A]go in the love{,} of Your [E]Father God
+May you [Bm]go in the grace of [D]Christ
+May you [A]go in the power{,} of the [E]Spirit now
+To bring Him [Bm]glory with your l[D]ife
+
+VERSE 2:
+As you [A]go{,} may you know the pow’r of g[E]race
+His very [Bm]strength for what’s to c[E]ome
+As you [A]leave{,} may you feel His mighty h[E]and
+Guiding your [Bm]steps in the race you r[D6]un
+
+VERSE 3:
+As you [A]go{,} may you show His heart to b[E]less
+The ones with [Bm]less, the blind and l[E]ost
+As you [A]leave{,} may you be the light of [E]Christ
+And show our [Bm]hope is in the cr[D6]oss</text>
+		<searchtext>intro verse 1 as you go may you know the love of christ how deep and long how high and wide as you leave may you seek to win the prize and find his death to be your life chorus may you go in the love of your father god may you go in the grace of christ may you go in the power of the spirit now to bring him glory with your life verse 2 as you go may you know the powr of grace his very strength for whats to come as you leave may you feel his mighty hand guiding your steps in the race you run verse 3 as you go may you show his heart to bless the ones with less the blind and lost as you leave may you be the light of christ and show our hope is in the cross</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>104</bpm>
+		<tempo>Fast</tempo>
+		<created>2011-11-27 00:55:56</created>
+		<modified>2012-10-21 00:11:42</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>The Gathering</album>
+		<font_size>18</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5556</id>
+		<songbook_id>21</songbook_id>
+		<title>Tis So Sweet to Trust in Jesus</title>
+		<copyright>Words &amp; Music by Louisa Stead and William Kirkpatrick     Public domain</copyright>
+		<created>2008-09-25 17:07:06</created>
+		<modified>2013-06-01 23:12:16</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6287</id>
+		<song_id>5556</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro: 
+[G | C | G | C]
+
+
+VERSE 1: 
+[G]‘Tis so [G/B]sweet to [C]trust in [G]Jesus
+[G]And to [Em]take Him [C]at His [D]word
+[G]Just to [G/B]rest up[C]on His [G]promise
+[C]And to [Am7]know, “Thus [D]saith the [G]Lord”
+
+
+CHORUS: 
+[G]Jesus, [G/B]Jesus, [C]how I [D]trust Him
+[Em]How I’ve [C]proved Him [Am7]o’er and [D]o’er
+[G]Jesus, [G/B]Jesus, [C]precious [G]Jesus
+[C]O for [Am7]grace to [D]trust Him [G      | C | G | C]more  
+
+                [(Chorus after V3  G | C | G | Bsus  B )]
+
+
+VERSE 2: 
+[G]O how [G/B]sweet to [C]trust in [G]Jesus,
+[G]Just to [Em]trust His [C]cleansing [D]blood
+[G]And in [G/B]simple [C]faith to [G]plunge me
+[C]‘Neath the [Am7]healing [D]cleansing [G]flood
+
+
+VERSE 3: 
+[G]Yes, ‘tis [G/B]sweet to [C]trust in [G]Jesus
+[G]Just from [Em]sin and [C]self to [D]cease
+[G]Just from [G/B]Jesus [C]simply [G]taking
+[C]Life and [Am7]rest and [D]joy and [G]peace
+
+{new_page}
+{key:E}
+VERSE 4: 
+[E]I’m so [E/G#]glad I [A]learned to [E]trust Thee
+[E]Precious [C#m]Jesus, [A]Savior, [B]friend
+[E]And I [E/G#]know that [A]Thou art [E]with me
+[A]Wilt be [F#m7]with me [B]to the [E]end
+
+
+CHORUS: 
+[E]Jesus, [E/G#]Jesus, [A]how I [B]trust Him
+[C#m]How I’ve [A]proved Him [F#m7]o’er and [B]o’er
+[E]Jesus, [E/G#]Jesus, [A]precious [E]Jesus
+[A]O for [F#m7]grace to [B]trust Him [E      | A | E | A]more  </text>
+		<searchtext>intro verse 1 tis so sweet to trust in jesus and to take him at his word just to rest upon his promise and to know thus saith the lord chorus jesus jesus how i trust him how ive proved him oer and oer jesus jesus precious jesus o for grace to trust him more verse 2 o how sweet to trust in jesus just to trust his cleansing blood and in simple faith to plunge me neath the healing cleansing flood verse 3 yes tis sweet to trust in jesus just from sin and self to cease just from jesus simply taking life and rest and joy and peace verse 4 im so glad i learned to trust thee precious jesus savior friend and i know that thou art with me wilt be with me to the end chorus jesus jesus how i trust him how ive proved him oer and oer jesus jesus precious jesus o for grace to trust him more </searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>84</bpm>
+		<tempo>Slow</tempo>
+		<created>2008-09-25 17:07:06</created>
+		<modified>2013-06-01 23:12:16</modified>
+		<creator>1543</creator>
+		<ccli>22609</ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

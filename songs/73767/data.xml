@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>73767</id>
+		<songbook_id>21</songbook_id>
+		<title>Nailed to the Cross</title>
+		<copyright>Rend Collective</copyright>
+		<created>2018-05-09 00:06:25</created>
+		<modified>2018-05-09 00:10:04</modified>
+		<creator>5114</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>81724</id>
+		<song_id>73767</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[A]
+
+VERSE 1: 
+When I [F#m]stand accused by [E]my [         D]regrets
+And the [A]devil roars his [E]empty [D]threats
+I will [F#m]preach the gospel [E/G#]to [      A]myself
+That [D]I am [A]not a [E]man [        A]condemned
+For [D]Jesus [A]Christ is [E]my [    A]defense
+
+CHORUS: 
+My sin is [A]nailed [E]to the [F#m]cross
+My [D]soul is [A]healed [E]by the [F#m]scars
+The [D]weight of [A]guilt I [E]bear no [F#m]more
+[D]Praise the [A]Lord, [E]praise the [A]Lord
+
+TURN:
+[A   E  F#m   D  A   E   A]
+
+VERSE 2: 
+When my [F#m]doubt and shame hang [E]over [D]me
+Like the [A]arrows of the [E     D]enemy
+I will [F#m]run again to [E/G#   A]Calvary
+That [D]rugged [A]hill of [E]hell's [     A]defeat
+My [D]fortress [A]and my [E    A]victory
+
+BRIDGE: 
+It is [D]finished, sin is [F#m]vanquished
+[      A]Hallelujah, praise the [E]Lord
+All the [D]glory, all the [F#m]honor
+To my [A]Savior, Christ the [E]Lord
+
+{new_page}
+VERSE 3: 
+When I [F#m]stand before the [E]throne at [D]last
+His [A]blood will plead my [E    D]innocence
+I will [F#m]worship Him with [E/G#]holy [A]hands
+And [D]raise the [A]song that [E]never [A]ends
+Of [D]Jesus [A]Christ, my [E             A]righteousness
+
+CHORUS 2: 
+My sin is [A]nailed [E]to the [F#m]cross
+My [D]soul is [A]healed [E]by the [F#m]scars
+Now [D]I'm [   A]alive [E      F#m]forevermore
+[D]Praise the [A]Lord, [E]praise the [A]Lord
+Oh [D]praise the [A]Lord, [E]praise the [A]Lord</text>
+		<searchtext>intro verse 1 when i stand accused by my regrets and the devil roars his empty threats i will preach the gospel to myself that i am not a man condemned for jesus christ is my defense chorus my sin is nailed to the cross my soul is healed by the scars the weight of guilt i bear no more praise the lord praise the lord turn verse 2 when my doubt and shame hang over me like the arrows of the enemy i will run again to calvary that rugged hill of hells defeat my fortress and my victory bridge it is finished sin is vanquished hallelujah praise the lord all the glory all the honor to my savior christ the lord verse 3 when i stand before the throne at last his blood will plead my innocence i will worship him with holy hands and raise the song that never ends of jesus christ my righteousness chorus 2 my sin is nailed to the cross my soul is healed by the scars now im alive forevermore praise the lord praise the lord oh praise the lord praise the lord</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>3/4</time_signature>
+		<bpm>80</bpm>
+		<tempo>Fast</tempo>
+		<created>2018-05-09 00:06:26</created>
+		<modified>2018-05-09 00:10:04</modified>
+		<creator>5114</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

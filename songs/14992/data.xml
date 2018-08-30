@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14992</id>
+		<songbook_id>21</songbook_id>
+		<title>Your Love Is Higher</title>
+		<copyright>Words &amp; Music by Mark Altrogge     @ 1999 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:11</created>
+		<modified>2009-03-20 09:15:11</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00111XZOU&quot;,&quot;title&quot;:&quot;Your Love Is Higher&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51772JOjBtL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16133</id>
+		<song_id>14992</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[Em    C    | D    Bm    | Em     C     | D     A]
+
+Verse 1:
+When I’m [Em]weak[C] and when I f[D]ail  [Bm]
+The [Em]power of Your m[C]ighty cross prev[D   A]ails
+When I’m [Em]tried[C] and when I’m pr[D   Bm]essed
+In the [Em]shelter of Your wings[C] I find my [A]rest
+[G]Oh [C]Lord, Your love is...
+
+Chorus:
+[G]Higher than the h[D]eights
+[Am]Deeper than the d[Em]epths
+[C]What can separate[G] me from Your [Dsus   D]love
+Your love is [G]longer than this [D]life
+[Am]Stronger than d[Em]eath
+[C]Jesus, You will k[G]eep me in Your [Am7   G]love
+[C]Jesus, You will k[G]eep me in[D] Your [Em (to intro)]love
+
+Verse 2:
+When I’m [Em]strong[C] and prosper[D    Bm]ing
+I will [Em]prize Your love{,} abo[C]ve all other th[D    A]ings
+So I re[Em]joice[C], [ ]I will del[D    Bm]ight
+That my [Em]name is written{,} i[C]n Your book of l[A]ife
+[G]Oh [C]Lord, Your love is... [(to chorus)]</text>
+		<searchtext>intro verse 1 when im weak and when i fail the power of your mighty cross prevails when im tried and when im pressed in the shelter of your wings i find my rest oh lord your love is chorus higher than the heights deeper than the depths what can separate me from your love your love is longer than this life stronger than death jesus you will keep me in your love jesus you will keep me in your love verse 2 when im strong and prospering i will prize your love above all other things so i rejoice i will delight that my name is written in your book of life oh lord your love is </searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>82</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:15:11</created>
+		<modified>2009-03-20 09:15:11</modified>
+		<creator>1543</creator>
+		<ccli>2986557</ccli>
+		<album>Everlasting</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

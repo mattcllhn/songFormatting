@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>72652</id>
+		<songbook_id>21</songbook_id>
+		<title>Give Me Jesus (bethel)</title>
+		<copyright></copyright>
+		<created>2018-01-16 14:24:58</created>
+		<modified>2018-01-16 14:56:00</modified>
+		<creator>23187</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>80412</id>
+		<song_id>72652</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[E]
+CHORUS:
+Give me[A2]   [C#m]Jesus
+Give me [A2]    [Emaj7]Jesus
+You can[A] have all this [C#m]world
+Give me[A]     [E]Jesus
+
+INTERLUDE
+[A C#m A C#m A C#m A Emaj7]
+
+VERSE:
+Give me the [A]One my soul delights in[E] [B]
+Give me the [A]One in whom my hope is [E]securely [B]found
+
+</text>
+		<searchtext>intro chorus give me jesus give me jesus you can have all this world give me jesus interlude verse give me the one my soul delights in give me the one in whom my hope is securely found </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2018-01-16 14:24:58</created>
+		<modified>2018-01-16 14:56:00</modified>
+		<creator>23187</creator>
+		<ccli>7001237</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

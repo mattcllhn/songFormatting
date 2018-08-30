@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>55760</id>
+		<songbook_id>21</songbook_id>
+		<title>My Life Is An Offering</title>
+		<copyright>© 2013 Sovereign Grace Worship     Words &amp; Music by Joel Sczebel &amp; Pat Sczebel</copyright>
+		<created>2013-11-05 13:01:51</created>
+		<modified>2013-11-05 13:01:51</modified>
+		<creator>1548</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00DZ6QSPM&quot;,&quot;title&quot;:&quot;My Life Is an Offering&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51gxHYF1DlL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>60670</id>
+		<song_id>55760</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[E]  This life is an a[B]ltar{,} [C#m] [ ]where I wa[A]nt to offer
+My s[E]oul and my m[C#m]ind and str[Bsus]ength [B]
+[E]  Cleansed by Your m[B]ercy{,} [C#m] [ ]to live a life w[A]orthy
+Of the [E]One Who c[C#m]alled my n[Bsus]ame [B]
+
+CHORUS:
+Jesus, be [A]glorif[E]ied
+Jesus, be [C#m]magni[B]fie[A]d
+Let me b[E]e a pleasing [A]sa[E]cri[Bsus]fice [B]
+Jesus, be [A]glorif[E]ied
+Jesus, be [C#m]magni[B]fie[A]d
+Here on the [F#m]altar
+My life is an [Bsus]of[B]fer[E]ing [| A    |      | E    |      | A    |      |]
+
+VERSE 2:
+[E]  How could I not l[B]ove You? [C#m] [ ]You authored my [A]rescue
+Raised me [E]up, from [C#m]death to l[Bsus]ife [B]
+[E]  Your Spirit is [B]in me,[C#m] [ ]revealing Your g[A]lory
+Oh what j[E]oy as I g[C#m]ive my l[Bsus]ife [B]
+
+Bridge:
+[A]  I choose to [E]lose my life, Lord
+[B]  And find it in [C#m]You
+
+Instr.:
+[||: C#m      | B      | A      |       :||]</text>
+		<searchtext>verse 1 this life is an altar where i want to offer my soul and my mind and strength cleansed by your mercy to live a life worthy of the one who called my name chorus jesus be glorified jesus be magnified let me be a pleasing sacrifice jesus be glorified jesus be magnified here on the altar my life is an offering verse 2 how could i not love you you authored my rescue raised me up from death to life your spirit is in me revealing your glory oh what joy as i give my life bridge i choose to lose my life lord and find it in you instr </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>117</bpm>
+		<tempo>Slow</tempo>
+		<created>2013-11-05 13:01:51</created>
+		<modified>2013-11-05 13:01:51</modified>
+		<creator>1548</creator>
+		<ccli></ccli>
+		<album>Grace Has Come</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

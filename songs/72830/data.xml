@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>72830</id>
+		<songbook_id>21</songbook_id>
+		<title>Found In You</title>
+		<copyright>Andi Rozier / Jason Ingram / Paul Baloche</copyright>
+		<created>2018-02-21 19:18:07</created>
+		<modified>2018-02-22 01:05:54</modified>
+		<creator>23187</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>80642</id>
+		<song_id>72830</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro: F C Am G
+
+VERSE 1:
+We're reaching o[F]ut to wel[Am]come You, G[G]od
+Fill this pl[F]ace ag[Am]ain with Your s[G]ong
+Flood our tho[F]ughts with wo[Am]nder and a[G]we
+Give us a gr[F]eater glimpse of a n[Am]ever-changing G[G]od 
+
+CHORUS:
+A[C]ll we want and a[F]ll we need
+Is fo[Am]und in You, fo[G]und in You
+Je[C]sus, every vic[F]tory
+Is fo[Am]und in You, fo[G]und in You
+
+VERSE 2:
+Open w[F]ide, our he[Am]arts now to Yo[G]urs
+Every f[F]ear, bowed d[Am]own to Your l[G]ove
+That we would s[F]ee like n[Am]ever be[G]fore
+Give us a gr[F]eater glimpse of a ne[Am]ver-changing G[G]od 
+
+BRIDGE:
+[F]In Your presence th[Am]ere is fr[G]eedom
+[F]In Your presence [Am]we are made wh[G]oleF
+
+</text>
+		<searchtext>intro f c am g verse 1 were reaching out to welcome you god fill this place again with your song flood our thoughts with wonder and awe give us a greater glimpse of a neverchanging god chorus all we want and all we need is found in you found in you jesus every victory is found in you found in you verse 2 open wide our hearts now to yours every fear bowed down to your love that we would see like never before give us a greater glimpse of a neverchanging god bridge in your presence there is freedom in your presence we are made wholef </searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature></time_signature>
+		<bpm>118</bpm>
+		<tempo>Fast</tempo>
+		<created>2018-02-21 19:18:07</created>
+		<modified>2018-02-22 01:05:54</modified>
+		<creator>23187</creator>
+		<ccli>7005969</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

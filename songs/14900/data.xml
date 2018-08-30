@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14900</id>
+		<songbook_id>21</songbook_id>
+		<title>Create In Me</title>
+		<copyright>Words &amp; Music by Joel Sczebel and Todd Twining     © 2008 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:14:58</created>
+		<modified>2009-03-20 09:14:58</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001EUS8YK&quot;,&quot;title&quot;:&quot;Create in Me&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51CGlRp8SUL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16028</id>
+		<song_id>14900</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[F#m   D | A   E (repeat)]
+
+Verse 1:
+[A]Please have mercy on [D]me, O [A]God
+Ac[A]cording to Your [D]steadfast [F#m]love
+[C#m] [ ]Blot out my [Bm] [ ]in[A]iqui[E]ty
+
+Verse 2:
+[A]Whiter than the [D]snow that [F#m]falls
+[A]Is the soul washed [D]in Your [F#m]blood
+[C#m] [ ]I’m guilty; [Bm] [ ]come [A]cover [E]me
+
+Chorus:
+Create in [E]me a [D]clean heart, a [F#m]pure heart
+[E]You are the [A]joy of my sal[D]vation
+Create in [E]me a [D]clean heart, a [F#m]pure heart
+[E]Here in Your [A]presence I will [D]sing
+
+Verse 3:
+[A]Sin has brought me [D]to my [F#m]knees
+[A]Mercy lifts me [D]to my [F#m]feet
+[C#m] [ ]Gratefulness [Bm] [ ]is [A]filling [E]me
+
+Bridge:
+[D2]Just as I am, [A2]without one plea
+[D2]But that You shed [A2]Your blood for me
+[D2]And You bid me [F#m]come
+O Lamb of [E]God, I [D]come [| D]</text>
+		<searchtext>intro verse 1 please have mercy on me o god according to your steadfast love blot out my iniquity verse 2 whiter than the snow that falls is the soul washed in your blood im guilty come cover me chorus create in me a clean heart a pure heart you are the joy of my salvation create in me a clean heart a pure heart here in your presence i will sing verse 3 sin has brought me to my knees mercy lifts me to my feet gratefulness is filling me bridge just as i am without one plea but that you shed your blood for me and you bid me come o lamb of god i come </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>2/2</time_signature>
+		<bpm>48</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:14:58</created>
+		<modified>2009-03-20 09:14:58</modified>
+		<creator>1543</creator>
+		<ccli>5261114</ccli>
+		<album>Psalms</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

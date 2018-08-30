@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>50540</id>
+		<songbook_id>21</songbook_id>
+		<title>Z - John 1: 1-5; 14 (ESV)</title>
+		<copyright></copyright>
+		<created>2012-12-08 19:06:55</created>
+		<modified>2016-12-14 23:43:30</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>54711</id>
+		<song_id>50540</song_id>
+		<description>Initial arrangement</description>
+		<text>
+In the beginning was the Word, 
+     And the Word was with God, 
+And the Word was God. 
+     He was in the beginning with God. 
+All things were made through him, 
+     And without him was not any thing made that was made. 
+
+
+In him was life, and the life was the light of men. 
+     The light shines in the darkness, 
+And the darkness has not overcome it.
+	
+
+And the Word became flesh and dwelt among us, 
+     And we have seen his glory, 
+Glory as of the only Son from the Father, 
+     Full of grace and truth.
+
+(John 1:1-5; 14 ESV)</text>
+		<searchtext> in the beginning was the word and the word was with god and the word was god he was in the beginning with god all things were made through him and without him was not any thing made that was made in him was life and the life was the light of men the light shines in the darkness and the darkness has not overcome it and the word became flesh and dwelt among us and we have seen his glory glory as of the only son from the father full of grace and truth john 115 14 esv</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2012-12-08 19:06:55</created>
+		<modified>2016-12-14 23:43:30</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

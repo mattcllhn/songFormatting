@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14943</id>
+		<songbook_id>21</songbook_id>
+		<title>Here Is Love</title>
+		<copyright>Words by William Rees     Adaptation, alt. words &amp; music by Steve &amp; Vikki Cook     © 2002 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:03</created>
+		<modified>2009-03-20 09:15:03</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0010VPHX8&quot;,&quot;title&quot;:&quot;Here Is Love&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/519CuW9nbdL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16078</id>
+		<song_id>14943</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro: 
+[A    B2sus4 | C#m      | A2    B2sus4 | A/E    E    |]
+
+Verse 1: 
+Here is [A]love wide [A/B]as the [G#m7]o[E/G#]cean, 
+Loving [A]kindness [B]as a [C#m]flood
+When the [A]Prince of [A/B]Life, our [G#m7]ran[E/G#]som, 
+Shed for [A2]us His [Bsus]prec[B]ious [E]blood
+Who His [F#m]love will not r[B/C#]emem[C#m]ber? 
+Who can [F#m]cease to sing His [Bsus4  B]praise?
+He can [A2]never [B2]be for[G#m7]got[E/G#]ten 
+Throughout [A]Heaven’s e[C#m]ter[B]nal [Esus4  E]days
+
+Verse 2: 
+On the [A]mount of [A/B]cruci[G#m7]fix[E/G#]ion
+Fountains [A]opened [B]deep and [C#m]wide
+Through the [A2]floodgates [A/B]of God’s [G#m7]mer[E/G#]cy
+Flowed a [A2]vast and [Bsus B]gracious [E]tide
+Grace and [F#m]love like mighty [B/C#]ri[C#m]vers
+Poured in[F#m]cessant from a[Bsus4  B]bove
+And Heaven’s [A2]peace and [B2]perfect [G#m7]jus[E/G#]tice
+Kissed a [A]guilty [C#m]world [B]in [Esus  E]love
+
+Chorus: 
+Oh how [F#m11]marve[A6]lous, oh how [C#m]glori[Emaj7/B]ous
+Is my [F#m11]Savior’s [A6]love for [E     | B     |]me!
+Oh how [F#m11]marve[A6]lous, oh how [C#m]glori[Emaj7/B]ous
+Is my [F#m11]Savior’s [A6]love [A]for [E     | E     |]me!
+
+{new_page}
+{key:F#}
+Verse 3: 
+[(Modulate up)]Of Your [B]fullness [B/C#]You are [A#m7]pour[F#/A#]ing
+Your great [B]love on [C#]me an[D#m]ew
+Without [B]measure, [B/C#]full and [A#m7]bound[F/A#]less
+Drawing [B]out my [C#]heart to [F#]You
+You a[G#m]lone will be my [C#/D#]glo[D#m]ry
+Nothing [G#m]in the world I [C#sus4  C#]see
+You have [B]cleansed and [B/C#]sancti[A#m7]fied [F#/A#]me
+You Your[G#m7]self have [C#sus4]set [C#]me [B2/D#    | B2    |]free
+
+Chorus: 
+Oh how [G#m11]marve[B2]lous, oh how [D#m7]glori[F#maj7/C#]ous
+Is my [G#m11]Savior’s [B2]love for [F#     | C#     |]me!
+Oh how [G#m11]marve[B2]lous, oh how [D#m7]glori[F#maj7/C#]ous
+Is my [G#m11]Savior’s [B2]love [C#sus4]for [F#     | F#     |]me!</text>
+		<searchtext>intro verse 1 here is love wide as the ocean loving kindness as a flood when the prince of life our ransom shed for us his precious blood who his love will not remember who can cease to sing his praise he can never be forgotten throughout heavens eternal days verse 2 on the mount of crucifixion fountains opened deep and wide through the floodgates of gods mercy flowed a vast and gracious tide grace and love like mighty rivers poured incessant from above and heavens peace and perfect justice kissed a guilty world in love chorus oh how marvelous oh how glorious is my saviors love for me oh how marvelous oh how glorious is my saviors love for me verse 3 of your fullness you are pouring your great love on me anew without measure full and boundless drawing out my heart to you you alone will be my glory nothing in the world i see you have cleansed and sanctified me you yourself have set me free chorus oh how marvelous oh how glorious is my saviors love for me oh how marvelous oh how glorious is my saviors love for me</searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>3/4</time_signature>
+		<bpm>65</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:03</created>
+		<modified>2009-03-20 09:15:03</modified>
+		<creator>1543</creator>
+		<ccli>4125581</ccli>
+		<album>All We Long To See</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

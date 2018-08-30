@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14892</id>
+		<songbook_id>21</songbook_id>
+		<title>Every Day</title>
+		<copyright>Words &amp; Music by Joel Sczebel and Todd Twining     © 2008 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:14:57</created>
+		<modified>2009-03-20 09:14:57</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BQOEWC&quot;,&quot;title&quot;:&quot;Every Day&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/519kK7bceBL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16020</id>
+		<song_id>14892</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[E      | B      | F#m7     | A2    (2x)]
+
+Verse 1:
+In Your [E]grace, You know where I w[B]alk
+You know when I f[F#m7]all, You know all my [A2]ways
+In Your l[E]ove, I know You all[B]ow
+What I cannot g[F#m7]rasp, to bring You pr[A2]aise
+
+Chorus:
+[A2]Thank You for the t[Emaj7]rials
+For the f[C#m7]ire, for the p[A2]ain
+[A2]Thank You for the st[Emaj7]rength
+Knowing Y[C#m7]ou have ord[A2]ained
+Every da[E]y  [ | B     | F#m7     | A2]
+
+Verse 2:
+Your great p[E]ower is shown when I'm w[B]eak
+You help me to s[F#m7]ee Your love in this p[A2]lace
+Perfect p[E]eace is filling my m[/B]ind
+And drawing my h[F#m7]eart to praise You ag[A2]ain
+
+Bridge:
+[C#m] [ ]In my uncertainty, [E/B] [ ]Your Word is all I need
+[F#m7] [ ]To know You're with me every d[A2]ay
+[C#m] [ ]In my uncertainty[E/B], [ ]Your Word is all I need
+[F#m7] [ ]To know You're with me every d[A2]ay   [| B/A]
+You're with me every d[A]ay     [| B/A]</text>
+		<searchtext>intro verse 1 in your grace you know where i walk you know when i fall you know all my ways in your love i know you allow what i cannot grasp to bring you praise chorus thank you for the trials for the fire for the pain thank you for the strength knowing you have ordained every day verse 2 your great power is shown when im weak you help me to see your love in this place perfect peace is filling my mind and drawing my heart to praise you again bridge in my uncertainty your word is all i need to know youre with me every day in my uncertainty your word is all i need to know youre with me every day youre with me every day </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>88</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:14:57</created>
+		<modified>2009-03-20 09:14:57</modified>
+		<creator>1543</creator>
+		<ccli>5171541</ccli>
+		<album>Come Weary Saints</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>43779</id>
+		<songbook_id>21</songbook_id>
+		<title>Isaiah 53</title>
+		<copyright>Words &amp; Music by Jonathan and Ryan Baird     (C) 2011 Sovereign Grace Worship</copyright>
+		<created>2011-11-27 00:55:55</created>
+		<modified>2017-03-08 20:25:53</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0064Y2OUK&quot;,&quot;title&quot;:&quot;Isaiah 53&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/515a-gIbevL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>47141</id>
+		<song_id>43779</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO: 
+[E   | D   A   | E   | D   A   |]
+
+VERSE 1: 
+[E]  No majes[D/E  A/E]ty  [ ]or be[E    D/E    A/E]auty
+[E]  He came to d[D/E   A/E]well  [ ]with the l[E    D    A]owly
+[E]Man of sorrows, des[D/E]pised, re[A/E]jected
+As [E]one from whom men [D/E]hide their f[A/E]aces
+Des[E]pised and we est[D/E]eemed [A/E] [ ]Him n[E    D   A]ot
+
+CHORUS: 
+[G#m]Oh He has [E]come, [A] [ ]look upon the O[E]ne
+[A]Jesus, Son of G[E]od, l[F#m]ifted [A]up for [E]us [| D   A   | E   | D   A   |] 
+
+VERSE 2: 
+[E]  He bore our gr[D/E   A/E]iefs [ ]and affl[E]ictions [D/E    A/E] 
+[E]  Pierced for [D/E   A/E]our [ ]transgr[E]essions [D    A] 
+[E]We like sheep have g[D]one astr[A]ay
+[E]Each of us to h[D]is own w[A]ay
+His [E]punishment has br[D/E]ought [A/E] [ ]us p[E]eace [D     A] 
+
+{new_page}
+CHORUS: 
+[G#m]Oh, He has [E]come, [A] [ ]look upon the [E]One
+[A]Jesus, Son of G[E]od, l[F#m]ifted [A]up for [E]us
+[G#m]Oh, see His [E]love, [A]Jesus, Heaven’s l[E]ight
+No [A]longer to be desp[E]ised,
+[F#m]Glorious [A]in our [E]eyes [| F#m/E    | F#m/E    | E] 
+
+VERSE 3: 
+[E]  Unto d[F#m/E]eath [ ]He was s[F#m/E]tricken [E] 
+[E]  Assigned a [F#m/E]grave [ ]with the [F#m/E]wicked [E] 
+[E]Raised to life and [D/E]seated gl[A/E]orious
+[E]Savior King our [D/E]God vict[A/E]orious
+[E]Never more to d[D/E]ie [A/E] [ ]He l[E]ives [D   A] 
+
+TAG: 
+[E]Oh, [A] [ ]He has [E]come! [E]Oh, [A] [ ]see His [E]love!
+[C#m]Oh, [A] [ ]He has [E]come! [C#m]Oh, [A] [ ]see His [E]love!</text>
+		<searchtext>intro verse 1 no majesty or beauty he came to dwell with the lowly man of sorrows despised rejected as one from whom men hide their faces despised and we esteemed him not chorus oh he has come look upon the one jesus son of god lifted up for us verse 2 he bore our griefs and afflictions pierced for our transgressions we like sheep have gone astray each of us to his own way his punishment has brought us peace chorus oh he has come look upon the one jesus son of god lifted up for us oh see his love jesus heavens light no longer to be despised glorious in our eyes verse 3 unto death he was stricken assigned a grave with the wicked raised to life and seated glorious savior king our god victorious never more to die he lives tag oh he has come oh see his love oh he has come oh see his love</searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>110</bpm>
+		<tempo>Medium</tempo>
+		<created>2011-11-27 00:55:55</created>
+		<modified>2017-03-08 20:25:53</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>The Gathering</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>2355</id>
+		<songbook_id>21</songbook_id>
+		<text>Good Friday</text>
+	</Keyword>
+</data>
+

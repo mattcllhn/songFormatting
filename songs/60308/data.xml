@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>60308</id>
+		<songbook_id>21</songbook_id>
+		<title>Burning Ones (Just Bridge)</title>
+		<copyright>Chris Quilala &amp; Jeffrey Kunde</copyright>
+		<created>2014-09-30 21:41:47</created>
+		<modified>2016-01-14 20:29:22</modified>
+		<creator>7317</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>65922</id>
+		<song_id>60308</song_id>
+		<description>Initial arrangement</description>
+		<text>[A]So let this love be like a [B]fire
+Let our life be like a [C#m]flame
+Fill our souls with Your [B]desire
+
+Let our passion bring You [A]fame
+
+</text>
+		<searchtext>so let this love be like a fire let our life be like a flame fill our souls with your desire let our passion bring you fame </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2014-09-30 21:41:47</created>
+		<modified>2016-01-14 20:29:22</modified>
+		<creator>7317</creator>
+		<ccli>5752001</ccli>
+		<album>Responding (Christ For The Nations)</album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

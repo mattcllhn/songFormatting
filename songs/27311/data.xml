@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>27311</id>
+		<songbook_id>21</songbook_id>
+		<title>Undying Love</title>
+		<copyright>Words &amp; Music by Rich Gunderlock, Jonathan Baird, and Ryan Baird     © 2009 Sovereign Grace Worship</copyright>
+		<created>2009-08-24 22:06:00</created>
+		<modified>2009-08-24 22:06:00</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>29085</id>
+		<song_id>27311</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[A    E    | A    E    | A    E    | A    E]
+
+Verse 1:
+[A]    My ears had [E]heard of You, [A]now I have seen
+[A]    This bit[E]ter sweetness in [A]Your agon[E]y
+[A]    My heart [E]was far from You, but [A]You drew me [E]near
+[G#m]    With loving [C#m]kindne[2/4 A]ss dried eve[4/4 E]ry tear
+
+Chorus:
+But I can [B]see You
+Bearing all my [C#m]shame on the c[A2]ross
+I can [B]hear You cry out, “It [G#]is d[C#m]one” [A2]
+O [B]Jesus, Your sacrifice was [C#m]more then enough
+In Your [Amaj7]death I see [A]undying [E]love [| A    E]
+
+Verse 2:
+[A]    My heart [E]is broken, I’m [A]down on my [E]knees
+[A]    To see [E]my Savior [A]suffering for [E]me
+[A]    But You [E]descended, [A]lifting me [E]up
+[G#m]    Washing my [C#m]feet[2/4 A], filling [4/4 E]my cup</text>
+		<searchtext>intro verse 1 my ears had heard of you now i have seen this bitter sweetness in your agony my heart was far from you but you drew me near with loving kindness dried every tear chorus but i can see you bearing all my shame on the cross i can hear you cry out it is done o jesus your sacrifice was more then enough in your death i see undying love verse 2 my heart is broken im down on my knees to see my savior suffering for me but you descended lifting me up washing my feet filling my cup</searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>67</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-08-24 22:06:00</created>
+		<modified>2009-08-24 22:06:00</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>Sons &amp; Daughters</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

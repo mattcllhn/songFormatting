@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14887</id>
+		<songbook_id>21</songbook_id>
+		<title>We Will Seek You</title>
+		<copyright>Words and Music by Mark Altrogge     © 2006 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:56</created>
+		<modified>2009-03-20 09:14:56</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0012AHCTY&quot;,&quot;title&quot;:&quot;We Will Seek You&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61AitRsTtfL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16015</id>
+		<song_id>14887</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[A     | E7/A     | E7/A     | A     |]
+
+Verse 1:
+[A]Wise men [E7]saw a starry sign
+And [E7]left their homes behind for [A]You
+[A]We too have [E7]seen the Morning Star
+And [E7]hope has filled our hearts a[A]new
+[F#m] [ ]So like the [C#m]wise men [Dmaj7]we will [| 2/4 Dmaj9 | 4/4]come
+
+Chorus:
+And [A]we will seek [Dmaj7]You
+[A/E]We will seek [A  E/G#]You
+[A]We will seek [Dmaj7]You
+Who sought us [F#m]out to [C#m]make us [Dmaj7]new
+We will seek [A    | Dmaj7    | A/E    | Dmaj7]You
+
+Verse 2:
+[A]Wise men [E7]traveled long and far
+[E7]Following the star of [A]God
+But [A]You’ve come [E7]closer than the air
+You [E7]brought us near by Your own [A]blood
+[F#m] [ ]So like the [C#m]wise men [Dmaj7]we will [| 2/4 Dmaj9 | 4/4]come
+
+Verse 3:
+[A]Wise men [E7]came with gifts of gold
+[E7]Frankincense and myrrh for [A]You
+[A]We’ll bring [E7]hearts aflame with love
+[E7]Gratefulness and praise to [A]You
+[F#m] [ ]So like the [C#m]wise men [Dmaj7]we will [Dmaj9    | Dmaj9    |]come</text>
+		<searchtext>intro verse 1 wise men saw a starry sign and left their homes behind for you we too have seen the morning star and hope has filled our hearts anew so like the wise men we will come chorus and we will seek you we will seek you we will seek you who sought us out to make us new we will seek you verse 2 wise men traveled long and far following the star of god but youve come closer than the air you brought us near by your own blood so like the wise men we will come verse 3 wise men came with gifts of gold frankincense and myrrh for you well bring hearts aflame with love gratefulness and praise to you so like the wise men we will come</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>80</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:14:56</created>
+		<modified>2009-03-20 09:14:56</modified>
+		<creator>1543</creator>
+		<ccli>4866266</ccli>
+		<album>Savior</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

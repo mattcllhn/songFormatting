@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14921</id>
+		<songbook_id>21</songbook_id>
+		<title>Before The Cross</title>
+		<copyright>Words &amp; Music by Jon Payne     © 2003 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:00</created>
+		<modified>2009-03-20 09:15:00</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B000YZQ80C&quot;,&quot;title&quot;:&quot;Before the Cross&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/516fS-1BfuL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16053</id>
+		<song_id>14921</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[C2     | G     | Dm9     | G/B     | C2     | G/B     | F2     | Fmaj9]
+
+Verse 1:
+[C2]My Savior’s [G2]sacri[Dm9]fice paid for [G/B]all my [C]sin 
+So in my [G]suffer[Dm7]ing I look [G/B#]to the cross ag[Dm9]ain 
+No [F2]need, no want, no [G]trial nor [Am]pain 
+[Em7]Can compare to [F2]this 
+The [F2]wrath of God, once [G]meant for [Am]me 
+Was [Bb]all spent on [Gsus4     | G]Him 
+ 
+Chorus:
+Before the [G]Cross,[F] [ ]I humbly [C]bow
+I place my [G]trust[F] [ ]in the [F/C]Sav[C]ior  [Dm/C  C]
+Your finished [G]work[F] [ ]captures my [C/E]gaze [F]
+[F] [ ]You bore the [Am7]wrath,[G] [ ]I know the [C2    | G    | Dm9    | F2]grace 
+
+Verse 2:
+[C]In my [G]darkest [Dm9]hour, Your presence [G/B]is my [C]peace
+In my [G]days of [Dm9]joy, Your grace [G/B]carries [Am7]me 
+[F]Jesus, my [G]Great High [Am]Priest 
+The [Em7]One who pleads for [F2]me 
+My [F]heart is filled with [G]faith in [Am]You 
+Here at [Bb]Calvary, on my [Gsus4    | G]knees</text>
+		<searchtext>intro verse 1 my saviors sacrifice paid for all my sin so in my suffering i look to the cross again no need no want no trial nor pain can compare to this the wrath of god once meant for me was all spent on him chorus before the cross i humbly bow i place my trust in the savior your finished work captures my gaze you bore the wrath i know the grace verse 2 in my darkest hour your presence is my peace in my days of joy your grace carries me jesus my great high priest the one who pleads for me my heart is filled with faith in you here at calvary on my knees</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>125</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:00</created>
+		<modified>2009-03-20 09:15:00</modified>
+		<creator>1543</creator>
+		<ccli>4523815</ccli>
+		<album>Songs For The Cross-Centered Life</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

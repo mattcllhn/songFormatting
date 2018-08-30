@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>61182</id>
+		<songbook_id>21</songbook_id>
+		<title>He Who Is Mighty</title>
+		<copyright>Words and Music by Rebecca Elliott and Kate DeGraide © 2014 Sovereign Grace Praise (BMI)/Sovereign Grace Worship (ASCAP)</copyright>
+		<created>2014-11-17 20:53:33</created>
+		<modified>2014-11-17 20:54:41</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00NLNRZ74&quot;,&quot;title&quot;:&quot;He Who Is Mighty&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/5145fGL8PNL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>66921</id>
+		<song_id>61182</song_id>
+		<description>Initial arrangement</description>
+		<text>VERSE 1: 
+[C#m]  Oh, the [E2]mercy our [B]God has shown 
+To [C#m]those who [E2]sit in death’s [B]shadow 
+[C#m]  The sun on [B/D#]high [E/G#]pierced the [A2]night 
+[C#m]Born was the [Bsus  B]  Corner[E/G#] - st[F#m]one   [E] 
+
+PRE-CHORUS: 
+[A]  Unto [B]us a [C#m7]Son is [B]given, [A]  unto [B]us a [A/C#]Child is [B/D#]born 
+
+CHORUS: 
+[E]He Who is mighty has [Esus]done a great [E]thing 
+[C#m]Taken on flesh, [F#m/C#]conquered death’s [C#m]sting 
+[B]Shattered the darkness and l[A]ifted our shame 
+[C#m]Holy [A]is His[Bsus  B]  name 
+
+VERSE 2: 
+[C#m]  Oh, the fr[E2]eedom our [B]Savior won 
+The [C#m]yoke of [E2]sin has been [B]broken 
+[C3m]  Once a [B/D#]slave, [E/G#]now by [A2]grace 
+[C#m]No more [Bsus  B]con - dem[E/G#]na [F#m]- [E]tion 
+
+BRIDGE: 
+Now my [E]soul magni[Esus]fies the [E]Lord 
+I re[A2]joice in the [Bsus]God Who [B]saves 
+I will [E]trust His un[Esus]failing [E]love 
+I will [A2]sing His praises [Bsus]all my d[A]ays </text>
+		<searchtext>verse 1 oh the mercy our god has shown to those who sit in deaths shadow the sun on high pierced the night born was the corner stone prechorus unto us a son is given unto us a child is born chorus he who is mighty has done a great thing taken on flesh conquered deaths sting shattered the darkness and lifted our shame holy is his name verse 2 oh the freedom our savior won the yoke of sin has been broken once a slave now by grace no more con demna tion bridge now my soul magnifies the lord i rejoice in the god who saves i will trust his unfailing love i will sing his praises all my days </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>6/8</time_signature>
+		<bpm>51</bpm>
+		<tempo>Medium</tempo>
+		<created>2014-11-17 20:53:33</created>
+		<modified>2014-11-17 20:53:33</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>Prepare Him Room</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

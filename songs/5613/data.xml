@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5613</id>
+		<songbook_id>21</songbook_id>
+		<title>Go, Tell It On The Mountain</title>
+		<copyright>Words by John Work     Music traditional     Public domain</copyright>
+		<created>2008-10-24 23:47:49</created>
+		<modified>2010-12-02 11:03:17</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6344</id>
+		<song_id>5613</song_id>
+		<description>Initial arrangement</description>
+		<text>Chorus:
+[D]Go, [G]tell it on the [D]moun[Bm]tain,
+[A]Over the hills and [D]every[G]where
+[D]Go, [G]tell it on the [D]moun[Bm7]tain,
+That [Em]Jesus [A7]Christ is [D]born.
+
+Verse 1:
+While [D]shepherds [G]kept their [D/F#]watching [Bm7]
+Over [Em]silent [Asus]flocks by [D]night [G]
+Be[D]hold through[G]out the [D/F#]heavens [Bm7]
+There [Em]shone a [G]holy [A  A7]light.
+
+Verse 2:
+The [D]shepherds [G]feared and [D/F#]trembled, [Bm7]
+When [Em]lo! a[Asus]bove the [D]earth, [G]
+Rang [D]out the [G]angels’ [D/F#]chorus [Bm7]
+That [Em]hailed the [G]Savior’s [A  A7]birth.
+
+Verse 3:
+Down [D]in a [G]lowly [D/F#]manger [Bm7]
+The [Em]humble [Asus]Christ was [D]born [G]
+And [D]God sent [G]us sal[D/F#]vation [Bm7]
+That [Em]blessèd [G]Christmas [A  A7]morn.</text>
+		<searchtext>chorus go tell it on the mountain over the hills and everywhere go tell it on the mountain that jesus christ is born verse 1 while shepherds kept their watching over silent flocks by night behold throughout the heavens there shone a holy light verse 2 the shepherds feared and trembled when lo above the earth rang out the angels chorus that hailed the saviors birth verse 3 down in a lowly manger the humble christ was born and god sent us salvation that blessèd christmas morn</searchtext>
+		<primary>0</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>100</bpm>
+		<tempo>Medium</tempo>
+		<created>2008-10-24 23:47:49</created>
+		<modified>2008-10-24 23:47:49</modified>
+		<creator>1543</creator>
+		<ccli>29080</ccli>
+		<album></album>
+		<font_size></font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>39567</id>
+		<song_id>5613</song_id>
+		<description>Kids Choir Arrangement</description>
+		<text>Chorus:
+[E]Go, [A]tell it on the [E]moun[C#m]tain,
+[B]Over the hills and [E]every[A]where
+[E]Go, [A]tell it on the [E]moun[C#m7]tain,
+That [F#m]Jesus [B7]Christ is [E]born.
+
+{key:E}
+Verse 1:
+While [E]shepherds [A]kept their [E/G#]watching [C#m7]
+Over [F#m]silent [Bsus]flocks by [E]night [A]
+Be[E]hold through[A]out the [E/G#]heavens [C#m7]
+There [F#m]shone a [A]holy [B  B7]light.   [(To Chorus)]
+
+Verse 2:
+The [E]shepherds [A]feared and [E/G#]trembled, [C#m7]
+When [F#m]lo! a[Bsus]bove the [E]earth, [A]
+Rang [E]out the [A]angels’ [E/G#]chorus [C#m7]
+That [F#m]hailed the [A]Savior’s [B  B7]birth. [(To Chorus)]
+
+{key:F}
+Verse 3:
+Down [F]in a [Bb]lowly [F/A]manger [Dm7]
+The [Gm]humble [Csus]Christ was [F]born [Bb]
+And [F]God sent [Bb]us sal[F/A]vation [Dm7]
+That [Gm]blessèd [Bb]Christmas [C  C7]morn.
+
+{key:F}
+Chorus:
+[F]Go, [Bb]tell it on the [F]moun[Dm]tain,
+[C]Over the hills and [F]every[Bb]where
+[F]Go, [Bb]tell it on the [F]moun[Dm7]tain,
+That [Gm]Jesus [C7]Christ is [F]born.
+</text>
+		<searchtext>chorus go tell it on the mountain over the hills and everywhere go tell it on the mountain that jesus christ is born verse 1 while shepherds kept their watching over silent flocks by night behold throughout the heavens there shone a holy light verse 2 the shepherds feared and trembled when lo above the earth rang out the angels chorus that hailed the saviors birth verse 3 down in a lowly manger the humble christ was born and god sent us salvation that blessèd christmas morn chorus go tell it on the mountain over the hills and everywhere go tell it on the mountain that jesus christ is born </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>100</bpm>
+		<tempo>Medium</tempo>
+		<created>2010-11-29 23:21:10</created>
+		<modified>2010-12-02 11:03:17</modified>
+		<creator>1546</creator>
+		<ccli>29080</ccli>
+		<album></album>
+		<font_size>15</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

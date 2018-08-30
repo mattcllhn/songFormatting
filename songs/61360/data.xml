@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>61360</id>
+		<songbook_id>21</songbook_id>
+		<title>O Holy Night! (Hear The Gospel Story)</title>
+		<copyright>v. 1 by Placide Cappeau     Music by Adolphe C. Adams     vv. 2-3 by Kevin Hartnett     © 2014 Sovereign Grace Worship</copyright>
+		<created>2014-11-29 12:14:18</created>
+		<modified>2014-12-16 14:04:20</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00NLNSDKM&quot;,&quot;title&quot;:&quot;O Holy Night (Hear the Gospel Story)&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/5145fGL8PNL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>67135</id>
+		<song_id>61360</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO: 
+[||: Bb     Eb/Bb     | Bb       | Bb     Eb/Bb     | Bb      :||]
+
+VERSE 1: 
+[Bb]O holy [Bbmaj7]night, the [Eb/Bb]stars are brightly [Bb]shining,
+It is the [Bb]night of the [F/Bb]dear Savior’s [Eb/Bb]birth.
+[Bb]Long lay the [Bbmaj7]world in [Eb/Bb]sin and error [Bb]pining,
+Till He ap[Dm]peared and the [Am]soul felt its [Dm]worth.
+A [F]thrill of [F/Eb]hope, the [Bb/D]weary world rejoices,
+For [Cm7]yonder breaks a [Bb]new and glorious [F/A]morn.
+[Ebmaj7]Fall on your [Dm7/F]knees, O [Cm]hear the angel [Gm7]voi[C7]ces!
+O [Bb/F  F]night di[Gm  Gm/F  C7/E]vine, [ ]O [Bb/F]night[F] when Christ was [Bb]born! [(intro)] 
+
+VERSE 2: 
+[Bb]Humbly He [Bbmaj7]lay, Crea[Eb/Bb]tor come as cre[Bb]ature,
+Born on the f[Bb]loor of a [F/Bb]hay-scattered [Eb/Bb]stall.
+[Bb]True Son of [Bbmaj7]God,{,} yet [Eb/Bb]bearing human [Bb]feature,
+He entered [Dm]earth to re[Am]verse Adam’s [Dm]fall.
+In [F]towering g[F/Eb]race, He [Bb/D]laid aside His glory,
+And [Cm7]in our place, was [Bb]sacrificed for [F/A]sin.
+[Ebmaj7]Fall on your kne[Dm7/F]es! O [Cm]hear the gospel [Gm7]sto[C7]ry!
+O [Bb/F  F]night di[Gm  Gm/F  C7/E]vine, [ ]O [Bb/F]night[F7] when Christ was [Bb]born! [F/A] 
+
+INSTR: 
+[Gm   | Gm   | Dm/F   | Dm/F   | Cm   | Cm   | Gm   | Gm   | ]
+[Bb/F   | F   | Gm   | C7  | Bb/F   | F]
+
+{new_page}
+VERSE 3: 
+[Bb]Come, then, to H[Bbmaj7]im{,} Who [Eb/Bb]lies within the ma[Bb]nger,
+With joyful sh[Bb]epherds, pro[F/Bb]claim Him as L[Eb/Bb]ord.
+[Bb]Let not the Pr[Bbmaj7]omised [Eb/Bb]Son remain a [Bb]stranger;
+In reverent w[Dm]orship, make [Am]Christ your A[Dm]dored.
+E[F]ternal l[F/Eb]ife is [Bb/D]theirs who would receive Him;
+With [Cm7]grace and peace, their [Bb]lives He will [F/A]adorn.
+[Ebmaj7]Fall on your kn[Dm7/F]ees! Re[Cm]ceive the Gift of [Bb]hea[Gm]v[C7]en!
+O [Bb/F  F]night di[Gm  Gm/F  C7/E]vine, [ ]O [Bb/F]night[F7] when Christ was [Gm]born [C] 
+O [Fsus  F]night, O [Gm]ho[Gm/F]-[C7/E]ly [Bb/F]  nigh[F]t when Christ was [Bb]born [(intro)] </text>
+		<searchtext>intro verse 1 o holy night the stars are brightly shining it is the night of the dear saviors birth long lay the world in sin and error pining till he appeared and the soul felt its worth a thrill of hope the weary world rejoices for yonder breaks a new and glorious morn fall on your knees o hear the angel voices o night divine o night when christ was born verse 2 humbly he lay creator come as creature born on the floor of a hayscattered stall true son of god yet bearing human feature he entered earth to reverse adams fall in towering grace he laid aside his glory and in our place was sacrificed for sin fall on your knees o hear the gospel story o night divine o night when christ was born instr verse 3 come then to him who lies within the manger with joyful shepherds proclaim him as lord let not the promised son remain a stranger in reverent worship make christ your adored eternal life is theirs who would receive him with grace and peace their lives he will adorn fall on your knees receive the gift of heaven o night divine o night when christ was born o night o holy night when christ was born </searchtext>
+		<primary>1</primary>
+		<key>Bb</key>
+		<time_signature>4/4</time_signature>
+		<bpm>150</bpm>
+		<tempo>Medium</tempo>
+		<created>2014-11-29 12:14:18</created>
+		<modified>2014-12-16 14:04:20</modified>
+		<creator>1546</creator>
+		<ccli>7031877</ccli>
+		<album>Prepare Him Room</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

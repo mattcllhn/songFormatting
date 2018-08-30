@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14946</id>
+		<songbook_id>21</songbook_id>
+		<title>Your Beauty And Your Majesty</title>
+		<copyright>Words &amp; Music by Jonathan and Ryan Baird     © 2002 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:04</created>
+		<modified>2009-03-20 09:15:04</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0010VLK7A&quot;,&quot;title&quot;:&quot;Your Beauty and Your Majesty&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/519CuW9nbdL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16082</id>
+		<song_id>14946</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[| Dm    F2    | C2    Gsus4    | Dm    F2    | C       |]
+
+Verse 1:
+Your [C]beauty and Your [G]majesty
+Are a [Am]wonder to be[F]hold
+[C] [ ]I [G]stand in awe of [Am    F]You
+Your [C]wisdom is to [G]me
+Worth more than [Am]silver or [F]gold
+[C] [ ]I [G]seek after [Am    F]You
+There can [Dm]be no [C/E]greater [F]love
+Than the [Dm]one shown to [C/E]us by Your [F]Son
+
+Chorus:
+And I[Dm] will al[F]ways b[C    G]e
+In l[Dm  G]ove [ ]with [C    G]You
+And I[Dm] will al[F]ways b[C    G]e
+In l[Dm  F]ove with [C]You
+
+Verse 2:
+Your [C]grace is sweeter
+[G]Than the sweetest [Am]tastes of this [F]world
+[C] [ ]I [G]thirst after [| Am   C/E   F   |]You
+Your [C]gospel is the [G]truth
+‘Round which my [Am]life re[F]volves
+[C] [ ]My [G]hope is in [Am   C/E   F]You
+There can [Dm]be no [C/E]greater [F]love
+Than the [Dm]one shown to [C/E]us by Your [F]Son</text>
+		<searchtext>intro verse 1 your beauty and your majesty are a wonder to behold i stand in awe of you your wisdom is to me worth more than silver or gold i seek after you there can be no greater love than the one shown to us by your son chorus and i will always be in love with you and i will always be in love with you verse 2 your grace is sweeter than the sweetest tastes of this world i thirst after you your gospel is the truth round which my life revolves my hope is in you there can be no greater love than the one shown to us by your son</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>79</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:15:04</created>
+		<modified>2009-03-20 09:15:04</modified>
+		<creator>1543</creator>
+		<ccli>4129903</ccli>
+		<album>All We Long To See</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>43777</id>
+		<songbook_id>21</songbook_id>
+		<title>Have Mercy On Me</title>
+		<copyright>Words &amp; Music by Pat Sczebel and Dale Bischof     (C) 2011 Sovereign Grace Worship</copyright>
+		<created>2011-11-27 00:55:55</created>
+		<modified>2011-11-27 00:55:55</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0064Y2HES&quot;,&quot;title&quot;:&quot;Have Mercy on Me&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/515a-gIbevL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>47139</id>
+		<song_id>43777</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[Bm    D    | A    E]
+
+VERSE 1:
+[A]  I am a sinner, [C#m]  You’re blameless, Lord
+[D]  My sins against You [A]can’t be ign[E]ored
+[A]  They will be punished, [C#m]   I know they must
+[D]  Your laws demands it, [A]for You are [E]just
+
+PRE-CHORUS:
+If [D]You would count{,} everyth[A]ing that I’ve done wr[E]ong
+[D]Who could stand?
+But there’s forg[A]iveness with You, G[E]od
+
+CHORUS:
+Have [Bm7]mercy on m[D]e, have [A]mercy on [E]me
+A [Bm7]broken and a contrite h[D]eart
+You won’t turn aw[A]ay [E]
+Have [Bm7]mercy on m[D]e, have [A]mercy on m[Bsus]e
+Be[D]cause of Your [E]stead[A]fast l[Bm]ove [D   | A    E]
+
+VERSE 2:
+[A]  Father of mercy, [C#m]   You gave Your Son
+[D]  To make atonement for [A]wrongs I have [E]done
+[A]  What You required [C#m]   Jesus fulfilled
+[D]  I don’t deserve it, [A]I never w[E]ill
+
+</text>
+		<searchtext>intro verse 1 i am a sinner youre blameless lord my sins against you cant be ignored they will be punished i know they must your laws demands it for you are just prechorus if you would count everything that ive done wrong who could stand but theres forgiveness with you god chorus have mercy on me have mercy on me a broken and a contrite heart you wont turn away have mercy on me have mercy on me because of your steadfast love verse 2 father of mercy you gave your son to make atonement for wrongs i have done what you required jesus fulfilled i dont deserve it i never will </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>60</bpm>
+		<tempo>Slow</tempo>
+		<created>2011-11-27 00:55:55</created>
+		<modified>2011-11-27 00:55:55</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>The Gathering</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

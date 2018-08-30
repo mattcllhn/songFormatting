@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>15011</id>
+		<songbook_id>21</songbook_id>
+		<title>At The Cross</title>
+		<copyright>Words &amp; Music by Stephen Altrogge     © 2007 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:14</created>
+		<modified>2010-04-29 22:54:15</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0019IVBKU&quot;,&quot;title&quot;:&quot;At the Cross&quot;,&quot;artist&quot;:&quot;Mark &amp; Stephen Altrogge&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/517j98UaeeL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16153</id>
+		<song_id>15011</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[Eb     | Eb     | Eb     | Eb     | Eb     | Eb     |]
+
+Verse 1:
+[Eb]At the cross we see Your mercy, [Eb]pouring forth in streams of blood
+[Ab2]At the cross we see compassion, [Ab2]flowing like a crimson flood
+[Cm]At the cross we see our Savior, [Bb/D]and the beauty of His love
+At the [Eb     | Eb     | Eb     | Eb]cross
+
+Verse 2:
+[Eb]At the cross we find forgiveness, [Eb]making foul sinners clean
+[Ab2]At the cross we find Your power, [Ab2]setting captive prisoners free
+[Cm]At the cross we find our Savior, [Bb/D]who secured our victory
+At the [Eb     | Eb     | Eb     | Eb]cross
+
+Chorus:
+We must [Ab2]sing Your [Cm]praise, O [Eb2]God
+We must [Ab2]sing Your [Cm]praise, O [Bbsus4]God  
+We have [Cm]met Your [Bb/D]mercy 
+And [Db2]seen Your [Ab/C]beauty
+How [Ab2]great Your gl[Bbsus4]ory at the cr[Eb]oss
+
+Verse 3:
+[Eb]At the cross our debt is cancelled,
+[Eb]Paid in full when Jesus died
+[Ab2]At the cross our souls are ransomed,
+[Ab2]Purchased with the blood of Christ
+[Cm]At the cross our sin is conquered,
+[Bb/D]Heaven's gates are opened wide
+At the [Eb     | Eb     | Eb     | Eb]cross</text>
+		<searchtext>intro verse 1 at the cross we see your mercy pouring forth in streams of blood at the cross we see compassion flowing like a crimson flood at the cross we see our savior and the beauty of his love at the cross verse 2 at the cross we find forgiveness making foul sinners clean at the cross we find your power setting captive prisoners free at the cross we find our savior who secured our victory at the cross chorus we must sing your praise o god we must sing your praise o god we have met your mercy and seen your beauty how great your glory at the cross verse 3 at the cross our debt is cancelled paid in full when jesus died at the cross our souls are ransomed purchased with the blood of christ at the cross our sin is conquered heavens gates are opened wide at the cross</searchtext>
+		<primary>1</primary>
+		<key>Eb</key>
+		<time_signature>4/4</time_signature>
+		<bpm>150</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:14</created>
+		<modified>2010-04-29 22:54:15</modified>
+		<creator>1543</creator>
+		<ccli>5023572</ccli>
+		<album>In A Little While</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

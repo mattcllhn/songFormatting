@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14863</id>
+		<songbook_id>21</songbook_id>
+		<title>Wonderful Counselor</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2006 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2009-03-20 09:14:54</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0012AH6OK&quot;,&quot;title&quot;:&quot;Wonderful Counselor&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61AitRsTtfL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>15991</id>
+		<song_id>14863</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[D    | A/C#    | D/C    | G/B    |]
+Verse 1:
+The [D]people who walked in the [A/C#]darkness
+Have [D/C]seen a great light [G/B]come
+The [Gm/Bb]people who dwelled in the [D/A]shadows
+Have [Em7]seen a new day [A]dawn
+For to [D]us a son is [A/C#]given
+And to [D/C]us a child is [G/B]born
+And the [Gm/Bb]kingdom of the [D/A]heavens
+[Em7] [ ]Is on His [A]shoulde[|  Asus4]rs
+
+Chorus:
+And His [D]name shall be{,} [A/C#]Wonderful [Em7]Counselor [Bm]
+[G] [ ]Mighty [A]God, [G] [ ]Prince of [A]Peace
+His [D]name shall be [A/C#]Wonderful [Em7]Counselor [Bm]
+[G] [ ]Mighty [A]God, [G] [ ]Prince of [A]Peace
+Savior of the [D]world[| G/B   | D   | G/B]
+
+Verse 2:
+The [D]gloom of the slave and the [A/C#]prisoner
+Has [D/C]lifted like a [G/B]cloud
+The [Gm/Bb]ones who were crushed{,} by their [D/A]burdens
+Re[Em7]joice and laugh out [A]loud
+And His [D]kingdom will keep on in[A/C#]creasing
+His [D/C]peace will have no [G/B]end
+He’ll bring [Gm/Bb]mercy, truth, and [D/A]justice
+[Em7] [ ]By His own [A]power[| Asus4]</text>
+		<searchtext>intro verse 1 the people who walked in the darkness have seen a great light come the people who dwelled in the shadows have seen a new day dawn for to us a son is given and to us a child is born and the kingdom of the heavens is on his shoulders chorus and his name shall be wonderful counselor mighty god prince of peace his name shall be wonderful counselor mighty god prince of peace savior of the world verse 2 the gloom of the slave and the prisoner has lifted like a cloud the ones who were crushed by their burdens rejoice and laugh out loud and his kingdom will keep on increasing his peace will have no end hell bring mercy truth and justice by his own power</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>108</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2009-03-20 09:14:54</modified>
+		<creator>1543</creator>
+		<ccli>4866273</ccli>
+		<album>Savior</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

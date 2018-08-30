@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>66002</id>
+		<songbook_id>21</songbook_id>
+		<title>Z - Luke 2:1-7</title>
+		<copyright></copyright>
+		<created>2015-12-17 05:26:01</created>
+		<modified>2015-12-17 05:27:41</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>72466</id>
+		<song_id>66002</song_id>
+		<description>Initial arrangement</description>
+		<text>In those days a decree went out from Caesar Augustus 
+that all the world should be registered. 
+This was the first registration when 
+Quirinius as governor of Syria. 
+And all went to be registered, each to his own town. 
+And Joseph also went up from Galilee, 
+from the town of Nazareth, to Judea, 
+to the city of David, which is called Bethlehem, 
+because he was of the house and lineage of David, 
+to be registered with Mary, his betrothed, who was with child. 
+And while they were there, the time came for her to give birth. 
+And she gave birth to her firstborn son 
+and wrapped him in swaddling cloths and laid him in a manger, 
+because there was no place for them in the inn.
+
+(Luke 2:1-7 ESV)</text>
+		<searchtext>in those days a decree went out from caesar augustus that all the world should be registered this was the first registration when quirinius as governor of syria and all went to be registered each to his own town and joseph also went up from galilee from the town of nazareth to judea to the city of david which is called bethlehem because he was of the house and lineage of david to be registered with mary his betrothed who was with child and while they were there the time came for her to give birth and she gave birth to her firstborn son and wrapped him in swaddling cloths and laid him in a manger because there was no place for them in the inn luke 217 esv</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2015-12-17 05:26:02</created>
+		<modified>2015-12-17 05:27:41</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

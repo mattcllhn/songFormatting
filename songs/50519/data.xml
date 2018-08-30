@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>50519</id>
+		<songbook_id>21</songbook_id>
+		<title>Angels We Have Heard On High</title>
+		<copyright>Traditional French Carol</copyright>
+		<created>2012-12-04 23:01:10</created>
+		<modified>2015-11-23 20:47:07</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>54670</id>
+		<song_id>50519</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[F]Angels [F/D]we have [F/Bb]heard [Bb]on h[F]igh	      
+[F]Sweet[C]ly s[F]ing[Dm/G]ing o[C]’re the pl[F]ains
+[F]And the [F/D]mountains [F/Bb]in      [Bb]   rep[F]ly
+[F]Ech[C]o b[F]ack [Dm/G]their   j[C]oyous str[F]ains
+
+                                      
+Refrain:
+Gl[F]o—[Dm]— —[Bb/G]— —[C]— —[F]— —[Bb]— —[Csus]— —[C]ria 
+[F]In [C]ex[F]cel[Bb]sis [F]De—[C]o  (repeat)
+
+    	             			      
+VERSE 2:
+[F]Shepherds [F/D]why this [F/Bb]jub—[Bb]i—l[F]ee                   	
+[F]Why y[C]our j[F]oyous st[Dm/G]rains p[C]rol[F]ong   
+[F]Say what [F/D]may the [F/Bb]tid—[Bb]ings [F]be 
+[F]Which [C]insp[F]ire your [Dm/G]heaven[C]ly s[F]ong
+
+
+VERSE 3:
+[F]Come to [F/D]Bethle[F/Bb]hem [Bb]and s[F]ee 
+[F]Him [C]Whose b[F]irth the [Dm/G]ang[C]els s[F]ing
+[F]Come ad[F/D]ore on [F/Bb]bend[Bb]ed kn[F]ee    	    
+[F]Christ [C]the L[F]ord the [Dm/G]newb[C]orn K[F]ing
+
+
+(18th Century French Carol)
+</text>
+		<searchtext>verse 1 angels we have heard on high sweetly singing ore the plains and the mountains in reply echo back their joyous strains refrain glo ria in excelsis deo repeat verse 2 shepherds why this jubilee why your joyous strains prolong say what may the tidings be which inspire your heavenly song verse 3 come to bethlehem and see him whose birth the angels sing come adore on bended knee christ the lord the newborn king 18th century french carol </searchtext>
+		<primary>1</primary>
+		<key>F</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2012-12-04 23:01:10</created>
+		<modified>2015-11-23 20:47:07</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

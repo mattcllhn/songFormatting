@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>57666</id>
+		<songbook_id>21</songbook_id>
+		<title>Lord, I Need You</title>
+		<copyright>Matt Maher</copyright>
+		<created>2014-03-26 22:37:52</created>
+		<modified>2015-01-18 00:08:14</modified>
+		<creator>1547</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>62917</id>
+		<song_id>57666</song_id>
+		<description>Initial arrangement</description>
+		<text>VERSE 1:
+Lord I [A]come, [Dsus2]I   con[A]fess
+[E4/G#]Bowing [F#m7]here [E/G#]  I find my [Dadd9]rest
+Without [A]You, [Dsus2]I fall  [A]apart
+You're the [A]one [E/G#]  that guides my[Dadd9] heart [Dadd9]
+
+CHORUS1:
+Lord, I [A]need You, [Dsus2]oh I  [A]need [E/G#]You
+[F#m7]Every [Dsus2]hour I [A]need [E/G#]You
+My [A5/C#]one  [A5/D]defense, my [A]righteous[Dsus2]ness
+Oh [A]God, how I [E/G#]need  [A]You [Dsus2]
+
+VERSE 2:
+Where sin runs [A]deep, Your [Dsus2]grace is [A]more
+Where grace is [F#m7]found is [E4/G#]where You [Dadd9]are
+And where You [A]are Lord [Dsus2]I am  [A]free
+Holi[E4/G#]ness  [E/G#] is Christ in m[A]e [Dsus2]
+
+BRIDGE:
+So [A5/D]teach my [A5/C#]song to [E5/G#]rise to [F#m7]You
+When temptation [E/G#]comes my [Dadd9]way
+And when I [A5/D]cannot [A5/C#]stand I'll [E5/G#]fall on [F#m7]You
+Jesus You're my [E/G#]hope and [A]stay [Dsus2]
+
+Outro:
+You are my [A5/C#]one  [A5/D]defense, my [A]righteous[Dsus2]ness
+Oh [A]God, how I [E/G#]need  [A]You
+My [A5/C#]one  [A5/D]defense, my [A]righteous[Dsus2]ness
+Oh [A]God, how I [E/G#]need  [A]You
+
+</text>
+		<searchtext>verse 1 lord i come i confess bowing here i find my rest without you i fall apart youre the one that guides my heart chorus1 lord i need you oh i need you every hour i need you my one defense my righteousness oh god how i need you verse 2 where sin runs deep your grace is more where grace is found is where you are and where you are lord i am free holiness is christ in me bridge so teach my song to rise to you when temptation comes my way and when i cannot stand ill fall on you jesus youre my hope and stay outro you are my one defense my righteousness oh god how i need you my one defense my righteousness oh god how i need you </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2014-03-26 22:37:52</created>
+		<modified>2014-03-26 22:37:52</modified>
+		<creator>1547</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>68825</id>
+		<song_id>57666</song_id>
+		<description>Original</description>
+		<text>VERSE 1:
+Lord I [A]come, [D2]I   con[A]fess
+[E/G#]Bowing [F#m7]here [E]  I find my [D]rest
+Without [A]You, [D2]I fall  [A]apart
+You're the [A/E]one [E]  that guides my [D2]heart      [D2]
+
+CHORUS1:
+Lord, I [A]need You, [D2]oh I  [A]need [E/G#]You
+[F#m]Every [D2]hour I [A]need [E]You
+My [A/C#]one  [D2add6]defense, my [A/E]righteous[D/F#]ness
+Oh [A/E]God, how I [E]need  [A]You              [D2]
+
+VERSE 2:
+Where sin runs [A]deep, Your [D2]grace is [A]more
+Where [E/G#]grace is [F#m7]found is [E]where You [D2]are
+And where You [A]are Lord [D2]I am  [A]free
+Holi[A/E]ness  [E] is Christ in m[D2]e           [D2]
+
+BRIDGE:
+So [D]teach my [A/C#]song to [E/B]rise to [F#m7]You
+[D]When temptation [E]comes my [D2]way
+And when I [D]cannot [A/C#]stand I'll [E/B]fall on [F#m7]You
+[D]Jesus You're my [E]hope and [A]stay      [D2]
+
+Outro:
+You are my [A/C#]one  [D2add6]defense, my [A/E]righteous[D/F#]ness
+Oh [A/E]God, how I [E]need  [A]You
+You are my [A/C#]one  [D2add6]defense, my [A/E]righteous[D/F#]ness
+Oh [A/E]God, how I [E]need  [A]You</text>
+		<searchtext>verse 1 lord i come i confess bowing here i find my rest without you i fall apart youre the one that guides my heart chorus1 lord i need you oh i need you every hour i need you my one defense my righteousness oh god how i need you verse 2 where sin runs deep your grace is more where grace is found is where you are and where you are lord i am free holiness is christ in me bridge so teach my song to rise to you when temptation comes my way and when i cannot stand ill fall on you jesus youre my hope and stay outro you are my one defense my righteousness oh god how i need you you are my one defense my righteousness oh god how i need you</searchtext>
+		<primary>0</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>70</bpm>
+		<tempo>Slow</tempo>
+		<created>2015-01-17 23:51:13</created>
+		<modified>2015-01-18 00:08:14</modified>
+		<creator>13337</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

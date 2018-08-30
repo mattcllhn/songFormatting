@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5588</id>
+		<songbook_id>21</songbook_id>
+		<title>Away In A Manger</title>
+		<copyright>Words by Martin Luther     Music by James Murray and John McFarland     Public domain</copyright>
+		<created>2008-09-24 16:45:01</created>
+		<modified>2014-12-16 13:57:32</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6319</id>
+		<song_id>5588</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+A[F]way in a manger, no [Bb]crib for a [F]bed,
+The [C]little Lord Jesus lay [Bb]down His sweet [F]head;
+The [F]stars in the sky look [Bb]down where He [F]lay;
+The [C]little Lord [F]Jesus, a[Bb]sleep on [C]the [F]hay.
+
+Verse 2:
+The [F]cattle are lowing, the [Bb]baby a[F]wakes.
+But [C]little Lord Jesus, no [Bb]crying He [F]makes;
+I [F]love Thee, Lord Jesus!  Look [Bb]down from the [F]sky,
+And [C]stay by my [F]cradle 'til [Bb]morning is [F]nigh.
+</text>
+		<searchtext>verse 1 away in a manger no crib for a bed the little lord jesus lay down his sweet head the stars in the sky look down where he lay the little lord jesus asleep on the hay verse 2 the cattle are lowing the baby awakes but little lord jesus no crying he makes i love thee lord jesus look down from the sky and stay by my cradle til morning is nigh </searchtext>
+		<primary>1</primary>
+		<key>F</key>
+		<time_signature>6/8</time_signature>
+		<bpm>92</bpm>
+		<tempo>Slow</tempo>
+		<created>2008-09-24 16:45:01</created>
+		<modified>2014-12-16 13:57:32</modified>
+		<creator>1543</creator>
+		<ccli>38583</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

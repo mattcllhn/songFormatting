@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>15001</id>
+		<songbook_id>21</songbook_id>
+		<title>Almighty Creator</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2004 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:12</created>
+		<modified>2009-03-20 09:15:12</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00104FMYO&quot;,&quot;title&quot;:&quot;Almighty Creator&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61uXihJYOlL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16142</id>
+		<song_id>15001</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[C     | G/B     | Am7     | C/G     | F2     | G     | C     | C]
+
+Verse 1:
+[C]   Almighty [C/B] [ ]Creator,
+[Am]   You spoke and [C/G] [ ]there was [F]light,{,} [G] [ ]there was [C]light [| C]
+[C]   And by Your [G/B] [ ]great power,
+[Am]   You spoke and [C/G] [ ]there was [F]day, [G] [ ]and there was [C]night [| C]
+[Am]   And You made [G] [ ]all things to,{,} [F] [ ]show Your [C]glory
+[Am]   Formed all things [G] [ ]to bring You [F]praise
+
+Chorus:
+[Fmaj7]And You’ve cre[G]ated me to w[C]orship You [| C]
+[Fmaj7]And You’ve cre[G]ated me to l[C]ove You [| C]
+[Fmaj7]And You have m[G]ade me to del[C]ight in [D7]You
+[F]All gl[G]ory to Your n[C]ame! [| C]
+
+Verse 2:
+[C]   The mountains, [C/B] [ ]the ocean
+[Am]   All creatures [C/G] [ ]great and small, [G][ ]in the [C]earth [| C]
+[C]   All nations, [G/B] [ ]all peoples
+[Am]   Of all colors [C/G] [ ]came to [F]be, [G] [ ]by Your W[C     | C]ord
+[Am]   And You shed [G] [ ]Your blood for{,} [F] [ ]our sal[C]vation
+[Am]   So You could [G] [ ]make us a[F (to chorus)]new
+
+Ending:
+[C     | G/B     | Am     | C/G     | F2     | G     | Cmaj7     | C]</text>
+		<searchtext>intro verse 1 almighty creator you spoke and there was light there was light and by your great power you spoke and there was day and there was night and you made all things to show your glory formed all things to bring you praise chorus and youve created me to worship you and youve created me to love you and you have made me to delight in you all glory to your name verse 2 the mountains the ocean all creatures great and small in the earth all nations all peoples of all colors came to be by your word and you shed your blood for our salvation so you could make us anew ending </searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>130</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:12</created>
+		<modified>2009-03-20 09:15:12</modified>
+		<creator>1543</creator>
+		<ccli>4519032</ccli>
+		<album>Awesome God</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

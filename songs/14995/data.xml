@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14995</id>
+		<songbook_id>21</songbook_id>
+		<title>As Long As I Have Breath</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 1998 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:11</created>
+		<modified>2009-03-20 09:15:11</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BVHJOW&quot;,&quot;title&quot;:&quot;As Long As I Have Breath&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51FHJmKXExL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16136</id>
+		<song_id>14995</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[| C2    Dsus4   | C2      | C2    Dsus4   | C2      |]
+
+Verse 1:
+[C2]How do I [Dsus4]thank You, oh [C2]Lord
+For [C2]taking my [Dsus4]place on the [Em]cross?
+And [C2]how do I [Dsus4]thank You, oh [C2]Lord
+For [C2]all of Your [Dsus4]mercy and [Em]kindness?
+For [Bm]calling me to [C2]You
+For [Bm]letting me hear [C2]You
+For [Bm]opening my [Am7sus4]heart to the [Dsus4]Gospel  [| Dsus4]
+
+Chorus:
+As [G]long as I have [D]breath I will praise You
+As [Amsus4]long as my heart [C2]beats I will sing
+As [Em]long as life [C2]flows in my veins
+[Amsus4]I will [D2]bless Your [C2      | Em    Dsus4  | C2     | C2]name.
+
+Verse 2:
+[C2]How do I [Dsus4]thank You, O [C2]Lord
+For [C2]all of the [Dsus4]love in Your [Em]eyes?
+And [C2]how do I [Dsus4]thank You, O [C2]Lord
+For [C2]how You have [Dsus4]changed me for[Em]ever?
+For [Bm]giving me po[C2]wer
+A [Bm]hope and a fu[C2]ture
+With [Bm]favor and glad[Am7sus4]ness,
+And every [Dsus4]good thing. [| Dsus4]</text>
+		<searchtext>intro verse 1 how do i thank you oh lord for taking my place on the cross and how do i thank you oh lord for all of your mercy and kindness for calling me to you for letting me hear you for opening my heart to the gospel chorus as long as i have breath i will praise you as long as my heart beats i will sing as long as life flows in my veins i will bless your name verse 2 how do i thank you o lord for all of the love in your eyes and how do i thank you o lord for how you have changed me forever for giving me power a hope and a future with favor and gladness and every good thing </searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>6/8</time_signature>
+		<bpm>140</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:15:12</created>
+		<modified>2009-03-20 09:15:12</modified>
+		<creator>1543</creator>
+		<ccli>2473503</ccli>
+		<album>I Stand In Awe</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

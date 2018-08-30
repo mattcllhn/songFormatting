@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14931</id>
+		<songbook_id>21</songbook_id>
+		<title>O God, Our Help In Ages Past</title>
+		<copyright>Original words by Isaac Watts     Alt. words, chorus &amp; music by Mark Altrogge     © 2004 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:01</created>
+		<modified>2009-03-20 09:15:01</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B000ZJKY5W&quot;,&quot;title&quot;:&quot;O God, Our Help in Ages Past&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51CotfwF8BL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16066</id>
+		<song_id>14931</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[D     | D     | D     | D]
+
+Verse 1:
+O [D]God, our help in [G]ages past, our [Bm]hope for years to [F#m]come
+Our [Em]shelter from the [G]stormy blast, and [G]our e[A]ternal [Bm]home
+
+Verse 2:
+Un[D]der the shadow [G]of Your throne, Your [Bm]saints have dwelt se[F#m]cure
+Suf[Em]ficient is Your [G]arm alone, and [G]our de[A]fense is [Bm]sure
+And [G]our de[A]fense is [D]sure
+
+Chorus:
+Lord, [D -  Em -  D/F# -]You{,} [ ]have [A]been my dwelling [D]place
+In [G]every gener[Bm]ation, You’re our [A   A/G | A/F#   A/E]King
+Lord, [D -  Em -  D/F# -]You{,} [ ]have [A]crowned our lives with [D]grace
+Our [G]humble ador[Bm]ation we will [A   A/G | A/F#   A/E]bring
+And we [Em7]sing to You, we [Cmaj9]sing to You
+[G] [ ]Beneath the [Gm]shelter of Your [D | A | Em | G | D | A | Em | G]wings
+
+Verse 3:
+Be[D]fore the towering [G]mountains stood
+‘Fore the [Bm]oceans, fields, and [F#m]plains
+From [Em]everlasting, [G]You are God
+To [G]endless [A]years the [Bm]same
+
+Verse 4:
+Oh, a [D]thousand ages [G]in Your sight
+Are a [Bm]fleeting moment [F#m]gone
+One [Em]day is like a [G]thousand years
+To [G]You, E[A]ternal [Bm]One
+To [G]You, E[A]ternal [D]One</text>
+		<searchtext>intro verse 1 o god our help in ages past our hope for years to come our shelter from the stormy blast and our eternal home verse 2 under the shadow of your throne your saints have dwelt secure sufficient is your arm alone and our defense is sure and our defense is sure chorus lord you have been my dwelling place in every generation youre our king lord you have crowned our lives with grace our humble adoration we will bring and we sing to you we sing to you beneath the shelter of your wings verse 3 before the towering mountains stood fore the oceans fields and plains from everlasting you are god to endless years the same verse 4 oh a thousand ages in your sight are a fleeting moment gone one day is like a thousand years to you eternal one to you eternal one</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>135</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:01</created>
+		<modified>2009-03-20 09:15:01</modified>
+		<creator>1543</creator>
+		<ccli>4662776</ccli>
+		<album>Worship God Live</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

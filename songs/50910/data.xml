@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>50910</id>
+		<songbook_id>21</songbook_id>
+		<title>One Thing Remains</title>
+		<copyright>Brian Johnson | Christa Black | Jeremy Riddle © 2010 Bethel Music (Admin. by Bethel Music Publishing) Mercy / Vineyard Publishing (Admin. by Music Services, Inc.)</copyright>
+		<created>2013-01-05 16:04:51</created>
+		<modified>2013-05-30 23:54:54</modified>
+		<creator>7317</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>55171</id>
+		<song_id>50910</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1: 
+H[Cmaj7]igher than the m[G]ountains that I f[D]ace
+S[Cmaj7]tronger than the p[G]ower of the g[D]rave
+C[Cmaj7]onstant in the t[G]rial and the c[D]hange
+O[Cmaj7]ne[G]thing r[D]emains
+O[C]ne [G]thing r[D]emains
+(Y[D]our love Your love Your l[C]ove w[G]ill never c[D]hange)
+
+Chorus: 
+Y[Em]our love never fails
+It n[C]ever gives up
+N[G]ever runs out on m[D]e 
+(3X)
+
+Verse 2: 
+O[C]n and on and o[G]n and on it g[D]oes
+It o[C]verwhelms a[G]nd satisfies m[D]y soul
+And I n[C]ever ever h[G]ave to be a[D]fraid
+O[C]ne [G] thing r[D]emains
+O[C]ne [G] thing r[D]emains
+
+BRIDGE 1: 
+In [C]death in [G]life I'm [D]confident and
+[Em]Cover'd by the [C]power of [G]Your great [D]love
+My [C]debt is [G]paid there's [D]nothing that
+Can [Em]separate my [C]heart from [G]Your great [D]love
+(REPEAT)</text>
+		<searchtext>verse 1 higher than the mountains that i face stronger than the power of the grave constant in the trial and the change onething remains one thing remains your love your love your love will never change chorus your love never fails it never gives up never runs out on me 3x verse 2 on and on and on and on it goes it overwhelms and satisfies my soul and i never ever have to be afraid one thing remains one thing remains bridge 1 in death in life im confident and coverd by the power of your great love my debt is paid theres nothing that can separate my heart from your great love repeat</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2013-01-05 16:04:51</created>
+		<modified>2013-05-30 23:54:54</modified>
+		<creator>7317</creator>
+		<ccli>5508444</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

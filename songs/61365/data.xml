@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>61365</id>
+		<songbook_id>21</songbook_id>
+		<title>Joy To The World (Our God Reigns)</title>
+		<copyright>Words by Isaac Watts     Additional words and music by David LaChance, Jr.     © 2014 Sovereign Grace Music</copyright>
+		<created>2014-11-29 12:14:18</created>
+		<modified>2014-11-29 12:14:18</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00NLNSHJE&quot;,&quot;title&quot;:&quot;Joy to the World (Our God Reigns)&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/5145fGL8PNL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>67140</id>
+		<song_id>61365</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: G     | A     | D/F#     | Bm     :||]
+
+Verse 1:
+[G]Joy to the [A]world! The [D/F#]Lord is c[G]ome,
+Let [G]earth re[A]ceive her [Em]King [D/F#]
+Let [G]every [D]heart pre[G]pare Him [A]room
+And [G]heaven and [A]nature s[Bm]ing, [D]
+And [G]heaven and [A]nature s[G]ing [(intro)]
+
+Verse 2:
+[G]Joy to the [A]world! The [D/F#]Savior r[G]eigns,
+Let [G]men their [A]songs emp[Em]loy [D/F#]
+While [G]fields and [D]floods,
+Rocks, [G]hills, and [A]plains
+Re[G]peat the [A]sounding [Bm]joy, [D]
+Re[G]peat the [A]sounding [G]joy [(intro)]
+
+Verse 3:
+[Em]No more let [D/F#]sins and [G]sorrows grow,
+Nor [Em]thorns in[D/F#]fest the [G]ground
+He [Em]comes to [D/F#]make His [G]blessings [A]flow
+Far [Em]as the [A]curse is [Bm]found, [D]
+Far [G]as the [A]curse is f[D]ound
+
+Verse 4:
+[D]He rules the world with truth and grace
+And makes the nations prove
+The [G]glories [D]of His r[G]ighteous[D]ness
+And [G]wonders [A]of His l[Bm]ove, [D]
+And w[G]onders [A]of His l[D]ove
+
+Tag:
+Let [D]heaven and nature sing, let [Am]heaven and nature sing
+                                       Our God reigns!
+Let [Em]heaven and nature sing, let [G]heaven and nature sing
+                                                He reigns!</text>
+		<searchtext>intro verse 1 joy to the world the lord is come let earth receive her king let every heart prepare him room and heaven and nature sing and heaven and nature sing verse 2 joy to the world the savior reigns let men their songs employ while fields and floods rocks hills and plains repeat the sounding joy repeat the sounding joy verse 3 no more let sins and sorrows grow nor thorns infest the ground he comes to make his blessings flow far as the curse is found far as the curse is found verse 4 he rules the world with truth and grace and makes the nations prove the glories of his righteousness and wonders of his love and wonders of his love tag let heaven and nature sing let heaven and nature sing our god reigns let heaven and nature sing let heaven and nature sing he reigns</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>135</bpm>
+		<tempo>Medium</tempo>
+		<created>2014-11-29 12:14:18</created>
+		<modified>2014-11-29 12:14:18</modified>
+		<creator>1546</creator>
+		<ccli>7031882</ccli>
+		<album>Prepare Him Room</album>
+		<font_size>12</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

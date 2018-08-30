@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>40416</id>
+		<songbook_id>21</songbook_id>
+		<title>Absent From Flesh</title>
+		<copyright>Isaac Watts / Jamie Barnes © Sojourn Community Church</copyright>
+		<created>2011-05-03 22:31:35</created>
+		<modified>2013-05-13 21:21:09</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>43426</id>
+		<song_id>40416</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1: 
+[A]Absent from [Aadd7]flesh, O b[C]lissful th[D]ought
+What [G]joy this [D]moment br[A]ings
+[A]Freed from the [Aadd7]blame my [C]sin has br[D]ought,
+From [G]pain and d[D]eath and its st[A]ing.  [Aadd7] 
+
+Verse 2: 
+[A]Absent from [Aadd7]flesh, O Gl[C]orious d[D]ay!
+In [G]one tri[D]umphant str[A]oke
+My [A]reckoning [Aadd7]paid, my ch[C]arges dr[D]opped
+and the [G]bonds 'round my [D]hands are [A]broke. [Aadd7] 
+
+CHORUS: 
+I [G]go where [D]God and g[A]lory shine,
+To [G]one et[D]ernal [A]day
+This f[G]ailing b[D]ody I [A]now resign,
+For the [G]angels p[D]oint my [A]way.
+For the [G]angels p[D]oint my [A]way.
+
+Verse 3: 
+[A]Absent from [Aadd7]flesh! then [C]rise, my s[D]oul,
+Where [G]feet nor w[D]ings could [A]climb,
+Bey[A]ond the [Aadd7]sky, where p[C]lanets r[D]oll,
+And be[G]yond all [D]keep of [A]time.  [Aadd7] </text>
+		<searchtext>verse 1 absent from flesh o blissful thought what joy this moment brings freed from the blame my sin has brought from pain and death and its sting verse 2 absent from flesh o glorious day in one triumphant stroke my reckoning paid my charges dropped and the bonds round my hands are broke chorus i go where god and glory shine to one eternal day this failing body i now resign for the angels point my way for the angels point my way verse 3 absent from flesh then rise my soul where feet nor wings could climb beyond the sky where planets roll and beyond all keep of time </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>81</bpm>
+		<tempo>Medium</tempo>
+		<created>2011-05-03 22:31:35</created>
+		<modified>2013-05-13 21:21:09</modified>
+		<creator>1546</creator>
+		<ccli>5918890</ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

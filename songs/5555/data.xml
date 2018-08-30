@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5555</id>
+		<songbook_id>21</songbook_id>
+		<title>Doxology</title>
+		<copyright>Words &amp; Music by Thomas Ken     Public domain</copyright>
+		<created>2008-09-24 20:24:45</created>
+		<modified>2014-03-13 20:43:12</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>41338</id>
+		<song_id>5555</song_id>
+		<description>Bloom arrangement</description>
+		<text>Praise [E]God, from whom all [A]bles[B]sings [E/G#]flow; [ | E/G# |]
+Praise [C#m]Him, all creatures [A]here [E]be[Bsus4]low;  [| Bsus4 |]
+Praise [E]Him above, ye [A/C#]heaven[B/D#]ly [C#m]host;  [|  C#m |]
+Praise [E/G#]Father, [F#m7]Son, and [Bsus]Ho[B]ly [E]Ghost. [|  E  | A  |  A  |]
+
+Ending:
+[A |  A  |]A[E   |  E  |]men  (repeat)
+
+</text>
+		<searchtext>praise god from whom all blessings flow praise him all creatures here below praise him above ye heavenly host praise father son and holy ghost ending amen repeat </searchtext>
+		<primary>0</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>76</bpm>
+		<tempo>Slow</tempo>
+		<created>2011-02-12 23:39:32</created>
+		<modified>2011-02-12 23:39:32</modified>
+		<creator>1546</creator>
+		<ccli>2730466</ccli>
+		<album></album>
+		<font_size>19</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>6286</id>
+		<song_id>5555</song_id>
+		<description>Initial arrangement</description>
+		<text>Praise [D]God, from whom all [G]bles[A]sings [D/F#]flow;
+Praise [Bm]Him, all creatures [G]here [D]be[Asus4]low;
+Praise [D]Him above, ye [G/B]heaven[A/C#]ly [Bm]host;
+Praise [D/F#]Father, [Em7]Son, and [Asus]Ho[A]ly [D]Ghost.
+
+</text>
+		<searchtext>praise god from whom all blessings flow praise him all creatures here below praise him above ye heavenly host praise father son and holy ghost </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>76</bpm>
+		<tempo>Slow</tempo>
+		<created>2008-09-24 20:24:45</created>
+		<modified>2014-03-10 12:45:41</modified>
+		<creator>1543</creator>
+		<ccli>2730466</ccli>
+		<album></album>
+		<font_size>20</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>62767</id>
+		<song_id>5555</song_id>
+		<description>Tim's Arrangement</description>
+		<text>Praise [D]God, from whom all [G]bles[A]sings [D] flow;
+Praise [D]Him, all creatures [G]here [D]be[A]low;
+Praise [A]Him above, ye [G]heaven[A]ly [Bm]host;
+Praise [D/F#]Father, [Em7]Son, and [Asus]Ho[A]ly [D]Ghost.  3X
+
+</text>
+		<searchtext>praise god from whom all blessings flow praise him all creatures here below praise him above ye heavenly host praise father son and holy ghost 3x </searchtext>
+		<primary>0</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>76</bpm>
+		<tempo>Slow</tempo>
+		<created>2014-03-13 20:43:12</created>
+		<modified>2014-03-13 20:43:12</modified>
+		<creator>1547</creator>
+		<ccli>2730466</ccli>
+		<album></album>
+		<font_size>20</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

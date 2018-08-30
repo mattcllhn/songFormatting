@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>53300</id>
+		<songbook_id>21</songbook_id>
+		<title>Beautiful One</title>
+		<copyright>Tim Hughes © 2002 Thankyou Music (Admin. by EMI Christian Music Publishing)</copyright>
+		<created>2013-05-15 21:46:40</created>
+		<modified>2013-05-15 21:46:40</modified>
+		<creator>1547</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>57905</id>
+		<song_id>53300</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO: 
+[F   G   Am7   G   F   G   C]
+
+VERSE 1: 
+[F]Wonderful, so w[G]onderful is [C]Your unfailing love
+Your [F]cross has spoken [G]mercy over [C]me
+No [F]eye has seen no [G]ear has heard
+No [C]heart can fully know
+How [F]glorious how [G]beautiful You [C]are
+
+
+CHORUS: 
+Beautiful [F]One I [G]love
+Beautiful [F]One I a[G]dore
+Beautiful [F]One my [G]soul must [C]sing
+
+
+VERSE 2: 
+[F]Powerful, so [G]powerful
+Your [C]glory fills the sky
+Your [F]mighty works dis[G]played for all to [C]see
+The [F]beauty of your [G]majesty a[C]wakes my heart to sing
+How [F]marvelous how [G]wonderful You [C]are
+
+{new_page}
+VERSE 3: 
+[F]Wonderful, so [G]wonderful
+You [C]left Your throne of grace
+To [F]give Your life and [G]set the guilty [Am]free 
+Lord [F]who am I that [G]You would shed Your [C]blood and pardon me
+How a[F]mazing how [G]beautiful You [C]are
+
+CHORUS: 
+Beautiful [F]One I [G]love
+Beautiful [F]One I a[G]dore
+Beautiful [F]One my [G]soul must [C]sing
+
+BRIDGE: 
+And You [F]opened my eyes to Your [G]wonders anew
+You [F]captured my heart with this [G]love
+‘Cause [F]nothing on earth is as [G]beautiful as [C]You</text>
+		<searchtext>intro verse 1 wonderful so wonderful is your unfailing love your cross has spoken mercy over me no eye has seen no ear has heard no heart can fully know how glorious how beautiful you are chorus beautiful one i love beautiful one i adore beautiful one my soul must sing verse 2 powerful so powerful your glory fills the sky your mighty works displayed for all to see the beauty of your majesty awakes my heart to sing how marvelous how wonderful you are verse 3 wonderful so wonderful you left your throne of grace to give your life and set the guilty free lord who am i that you would shed your blood and pardon me how amazing how beautiful you are chorus beautiful one i love beautiful one i adore beautiful one my soul must sing bridge and you opened my eyes to your wonders anew you captured my heart with this love cause nothing on earth is as beautiful as you</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Fast</tempo>
+		<created>2013-05-15 21:46:40</created>
+		<modified>2013-05-15 21:46:40</modified>
+		<creator>1547</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

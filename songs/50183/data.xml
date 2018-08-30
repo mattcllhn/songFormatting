@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>50183</id>
+		<songbook_id>21</songbook_id>
+		<title>There is None Like You</title>
+		<copyright>Lenny LeBlanc © 1991 Integrity's Hosanna! Music</copyright>
+		<created>2012-10-24 16:41:41</created>
+		<modified>2012-10-24 16:41:41</modified>
+		<creator>2868</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>54239</id>
+		<song_id>50183</song_id>
+		<description>Initial arrangement</description>
+		<text>Chorus 1:
+[G]There is [D/F#]none like [C/E]You[G/D]
+[C]No one [G/B]else can touch
+My [Am7]heart like You [D]do
+[G]I could [D/F#]search
+For all eter[Dm/F]nity long[C] and [G/D]find
+There is [D]none like [G]You
+
+Interlude:
+[Em][C2][G/D][Dsus][D]
+
+Verse 1:
+Your [Cmaj7]mercy [C/D]flows like a [G]river [Em7]wide
+And [Am7]healing [D2/F#]comes from Your [G]hands [D/F#]
+[Cmaj7]Suffering [C/D]children are safe[G] in Your arms[Em7]
+[Am]There is [C/G]none like [D/F#]You [C2/E] [D]</text>
+		<searchtext>chorus 1 there is none like you no one else can touch my heart like you do i could search for all eternity long and find there is none like you interlude verse 1 your mercy flows like a river wide and healing comes from your hands suffering children are safe in your arms there is none like you </searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>69</bpm>
+		<tempo>Slow</tempo>
+		<created>2012-10-24 16:41:41</created>
+		<modified>2012-10-24 16:41:41</modified>
+		<creator>2868</creator>
+		<ccli>674545</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

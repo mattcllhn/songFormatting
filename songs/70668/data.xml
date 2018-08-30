@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>70668</id>
+		<songbook_id>21</songbook_id>
+		<title>We Will Worship The Lamb Of Glory</title>
+		<copyright>Dennis Jernigan © 1989 Shepherd's Heart Music, Inc. (Admin. by PraiseCharts Publishing, Inc.)</copyright>
+		<created>2017-05-08 15:05:13</created>
+		<modified>2017-05-11 20:50:35</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>78041</id>
+		<song_id>70668</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[D]       We will worship the L[A/D]amb of Glory  [G/D]
+[D]       We will worship the K[A]ing of kings  [F#7/A#]
+[Bm9]       We will w[D/A]orship the L[E]amb   of Glory
+[G2]       We will [Em7/A]worship the K[D]ing     [(when into V. 2: G/A)]
+
+
+Verse 2:
+[D]       We bless the name of the L[A/D]amb of Glory  [G/D]
+[D]       We bless the name of the K[A]ing of kings  [F#7/A#]
+[Bm9]       We bless the [D/A]name of the L[E]amb   of Glory
+[G2]       We bless the [Em7/A]name of the K[D]ing
+
+
+Chorus:
+And with our hands lifted h[A]igh
+We will w[G/A]orship and s[D]ing
+And with our hands lift[D/F#]ed     h[A]igh
+We come be[G/A]fore You rejoi[D]cing
+With [Dsus/E]our h[D/F#]ands lifted h[G]igh to the [D/F#]sky
+When the [A#7]world wonders [Bm9]why
+We'll just [Em7]tell them we're [Em7/A]loving our K[D]ing
+[D2/F#]         We'll just [Em7]tell them we're [Em7/A]loving our K[D]ing</text>
+		<searchtext>verse 1 we will worship the lamb of glory we will worship the king of kings we will worship the lamb of glory we will worship the king verse 2 we bless the name of the lamb of glory we bless the name of the king of kings we bless the name of the lamb of glory we bless the name of the king chorus and with our hands lifted high we will worship and sing and with our hands lifted high we come before you rejoicing with our hands lifted high to the sky when the world wonders why well just tell them were loving our king well just tell them were loving our king</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>75</bpm>
+		<tempo>Slow</tempo>
+		<created>2017-05-08 15:05:13</created>
+		<modified>2017-05-11 20:50:35</modified>
+		<creator>1546</creator>
+		<ccli>208409</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

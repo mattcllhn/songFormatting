@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>15016</id>
+		<songbook_id>21</songbook_id>
+		<title>Only One Thing</title>
+		<copyright>Words &amp; Music by Mark Altrogge      © 2005 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:14</created>
+		<modified>2009-03-20 09:15:14</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0019IQTUC&quot;,&quot;title&quot;:&quot;Only One Thing&quot;,&quot;artist&quot;:&quot;Mark &amp; Stephen Altrogge&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/517j98UaeeL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16158</id>
+		<song_id>15016</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1: 
+[D] [ ]Shut out the world [A] [ ]with all its distractions
+[A7] [ ]All of its noise [G] [ ]and empty attractions
+[Bm] [ ]And shut me i[D]n, Lord
+[G] [ ]To the pr[A]esence of Your gl[D     | D]ory
+
+Verse 2:
+[D] [ ]Shut out my cares [A] [ ]and all of my worries
+[A7] [ ]All of my fears [G]and all of my hurries
+[Bm] [ ]And shut me i[D]n, Lord
+[G] [ ]To the pr[A]esence of Your gl[D     | D]ory
+
+Chorus:
+[A]Only one thing is necessar[Em]y
+[A]Only one thing is necessar[Em]y
+[G]To sit at Your f[D/F#]eet, to [Em]sit at Your f[D/F#]eet
+[G] [ ]And gaze upon Your be[Gm6     | G/A]auty
+
+Verse 3:
+[D] [ ]Shut out the lie{,} [A] [ ]that I can't come near You
+[A7] [ ]You bought me with blood, [G] [ ]and taught me to fear You
+[Bm] [ ]So shut me i[D]n, Lord
+[G] [ ]To the pr[A]esence of Your gl[D (to chorus)]ory
+
+{key:Bb}
+Bridge:
+For [Bb2]here in Your presence,{,} my [F]soul is [C]satisfied
+[Bb  Bb/A]Here in Your [Bb/A]presence,{,}[Bb/F] [ ]my [F]soul finds [C]all delight
+[Bb2]Here in Your presence,{,} my [F/A]soul is [Em7]thirsting for [A7sus   A7]You
+[Em7] [ ]Yes I'm thirsting for [A7sus4   | A7 (to verse 1)]You</text>
+		<searchtext>verse 1 shut out the world with all its distractions all of its noise and empty attractions and shut me in lord to the presence of your glory verse 2 shut out my cares and all of my worries all of my fears and all of my hurries and shut me in lord to the presence of your glory chorus only one thing is necessary only one thing is necessary to sit at your feet to sit at your feet and gaze upon your beauty verse 3 shut out the lie that i cant come near you you bought me with blood and taught me to fear you so shut me in lord to the presence of your glory bridge for here in your presence my soul is satisfied here in your presence my soul finds all delight here in your presence my soul is thirsting for you yes im thirsting for you</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>3/4</time_signature>
+		<bpm>130</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:14</created>
+		<modified>2009-03-20 09:15:14</modified>
+		<creator>1543</creator>
+		<ccli>5023747</ccli>
+		<album>In A Little While</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

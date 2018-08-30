@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14924</id>
+		<songbook_id>21</songbook_id>
+		<title>Surrender All</title>
+		<copyright>Words &amp; Music by Rich Dalmas     © 2004 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:01</created>
+		<modified>2009-03-20 09:15:01</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B000ZJSFHQ&quot;,&quot;title&quot;:&quot;Surrender All&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51CotfwF8BL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16058</id>
+		<song_id>14924</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[F/A  G  F  C/E  Dm  C  | G    Am    | F/A  G  F  C/E  Dm  C  | Em      | F2]
+
+Verse 1: 
+[C]Take all I [G]am, Lord,{,} and [Am]all that I [F2]cling to
+[C]You are my [G]Savior{,} I [Am]owe every[F2]thing to
+[F]Take all the [C/E]treasures{,} that [F]lie in my [Gsus]storehouse
+[F]They cannot [C/E]follow{,} when [Dm7]I enter [Gsus]Your hou[3/8]se[G]
+
+Chorus: 
+So [F2    C/E    G/B]I [ ]sur[C]render [F2   C/E]all [ ]to [G/B]You[C]
+[F2    C/E    G/B]I [ ]sur[C]render [F2   C/E    | G2]all
+
+Verse 2: 
+[C]Take all my [G]cravings{,} for [Am]vain recog[F2]nition
+[C]Fleshly in[G]dulgence{,} and [Am]worldly amb[F2]ition
+[F]I want so [C]much, Lord,{,} to [F]make You the [G]focus
+To [F]serve You in [C/E]secret,{,} and [Dm7]never be [Gsus]noticed[3/8 G]
+
+Verse 3: 
+[C]Take all my [G/C]hunger,{,} for [F/C]all that’s [G/C]forbidden
+[F/C]Every des[C]ire{,} and [Dm/C]sin I keep [C]hidden
+[F]Search me and [C/E]know me,{,} I [F]want to bring [G]to You
+A [F]life that is [C/E]holy,{,} and [Dm]sanctified [Gsus]through You[3/8 G]</text>
+		<searchtext>intro verse 1 take all i am lord and all that i cling to you are my savior i owe everything to take all the treasures that lie in my storehouse they cannot follow when i enter your house chorus so i surrender all to you i surrender all verse 2 take all my cravings for vain recognition fleshly indulgence and worldly ambition i want so much lord to make you the focus to serve you in secret and never be noticed verse 3 take all my hunger for all thats forbidden every desire and sin i keep hidden search me and know me i want to bring to you a life that is holy and sanctified through you</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>6/8</time_signature>
+		<bpm>120</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:15:01</created>
+		<modified>2009-03-20 09:15:01</modified>
+		<creator>1543</creator>
+		<ccli>4708362</ccli>
+		<album>Worship God Live</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

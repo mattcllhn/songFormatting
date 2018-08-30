@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>38858</id>
+		<songbook_id>21</songbook_id>
+		<title>We Are Hungry For You</title>
+		<copyright>Words &amp; Music by Jon Bloom. © 2011 Jon Bloom. All rights reserved.</copyright>
+		<created>2011-03-12 13:41:04</created>
+		<modified>2015-10-14 09:45:49</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>41705</id>
+		<song_id>38858</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[ G  |  D/F#  |  F  |  C  |  Cm  |  G  | Am7  | Dsus  D]
+
+Verse 1:
+We are [G]hungry for You
+So [D/F#]hungry for You
+In a [F]dry and weary land we are so [C]thirsty for You
+There’s [Cm]nothing in this world that satisf[G]ies us, oh Lord
+But [Am7]you, but [Dsus   D]you
+
+Verse 2:
+We are [G]hungry for You
+So [D/F#]hungry for You
+In this [F]dry and weary land we are so [C]thirsty for You
+We [Cm]long for you to fill us with your S[G]pirit again
+O [Am7]Lord, O [Dsus   D]Lord
+
+Chorus:
+O [Cmaj7]Lord, 
+[Dsus]Come [D]and [Dsus]fill [D4]us, [Cmaj7]Lord
+[Dsus]Come [D]and [Dsus]fill [D4]us, [Cmaj7]Lord
+[Dsus]Come [D]and [Dsus]fill [D4]us, [G]Lord  [(to Intro)]
+</text>
+		<searchtext>intro verse 1 we are hungry for you so hungry for you in a dry and weary land we are so thirsty for you theres nothing in this world that satisfies us oh lord but you but you verse 2 we are hungry for you so hungry for you in this dry and weary land we are so thirsty for you we long for you to fill us with your spirit again o lord o lord chorus o lord come and fill us lord come and fill us lord come and fill us lord </searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2011-03-12 13:41:04</created>
+		<modified>2015-10-14 09:45:49</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>17</font_size>
+	</Arrangement>
+</data>
+

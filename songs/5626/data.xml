@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5626</id>
+		<songbook_id>21</songbook_id>
+		<title>We Gather Together</title>
+		<copyright>Words by Theodore Baker     Music by Edward Kremser     Public domain</copyright>
+		<created>2008-10-27 22:15:43</created>
+		<modified>2008-10-27 22:15:43</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6357</id>
+		<song_id>5626</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1: 
+We [D]gather togeth[Em]er, [D/F#]to [G]ask the [A]Lord’s [D]blessing;
+[D]He [A/C#  A]chastens [F#m]and [D E]hastens, [A]His [Bm E]will [ ]to [E/G#]make [A]known.
+[A]The [A7/G]wicked op[D/F#]pressing, now [Em]cease [A]from dis[D]tressing.
+[D/C#]Sing [G/B]praises to His [A/C#]Name, He [D/F#]for[Em]gets [A]not His [D]own.
+
+Verse 2: 
+Be[D]side us to guide [Em]us, [D/F#]our [G]God with [A]us [D]joining,
+[D]Or[A/C#  A]daining, [F#m]main[D  E]taining{,} [A]His [Bm  E]kingdom [E/G#]di[A]vine;
+[A]So [A7/G]from the be[D/F#]ginning, the [Em]fight [A]we were [D]winning;
+[D/C#]Thou, [G/B]Lord, were at our [A/C#]side, [D/F#]all [Em]glor[A]y be [D]Thine!
+
+Verse 3: 
+We [D]all do extol [Em]Thee, [D/F#]Thou [G]Leader [A]tri[D]umphant,
+[D]And [A/C#  A]pray [ ]that [F#m]Thou [D  E]still{,} our [A]De[Bm  E]fender [E/G#]will [A]be.
+[A]Let [A7/G]Thy congre[D/F#]gation{,} e[Em]scape [A]tribu[D]lation;
+[D/C#]Thy [G/B]Name be ever [A/C#]praised! [D/F#]O [Em]Lord, [A]make us [D]free!</text>
+		<searchtext>verse 1 we gather together to ask the lords blessing he chastens and hastens his will to make known the wicked oppressing now cease from distressing sing praises to his name he forgets not his own verse 2 beside us to guide us our god with us joining ordaining maintaining his kingdom divine so from the beginning the fight we were winning thou lord were at our side all glory be thine verse 3 we all do extol thee thou leader triumphant and pray that thou still our defender will be let thy congregation escape tribulation thy name be ever praised o lord make us free</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>3/4</time_signature>
+		<bpm>96</bpm>
+		<tempo>Slow</tempo>
+		<created>2008-10-27 22:15:43</created>
+		<modified>2008-10-27 22:15:43</modified>
+		<creator>1543</creator>
+		<ccli>91678</ccli>
+		<album></album>
+		<font_size></font_size>
+	</Arrangement>
+</data>
+

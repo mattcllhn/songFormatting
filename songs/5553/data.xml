@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5553</id>
+		<songbook_id>21</songbook_id>
+		<title>How Great Our Joy</title>
+		<copyright>Words &amp; Music by Theodore Baker     Public domain</copyright>
+		<created>2008-10-25 17:41:36</created>
+		<modified>2008-10-25 17:41:36</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6284</id>
+		<song_id>5553</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[C]While shepherds watched{,} [C/E]their [F]flocks [G7/D]by [C]night,
+[Am]Glad [Em]ti[F]dings [C]brought{,} an [F]an[G7]gel [C]bright.
+
+Chorus:
+[Am]How [E]great [E7]our [Am]joy! [E7]Great our [Am]joy!
+[Am]Joy, [G]joy, [C]joy! [Am]Joy, [G]joy, [C]joy!
+[C]Praise [G7/B]we [Am]the [E7]Lord [F]in [Bdim/D]heaven [E7]on [Am]high!
+[C]Praise [G7/B]we [Am]the [E7]Lord [F]in [Bdim/D]heaven [E7]on [Am]high!
+
+Verse 2:
+[C]There shall be born, [C/E]so [F]He [G7/D]did [C]say,
+[Am]In [Em]Beth[F]le[C]hem{,} a [F]Child [G7]to[C]day.
+
+Verse 3:
+[C]There shall the Child{,} [C/E]lie [F]in [G7/D]a [C]stall,
+[Am]This [Em]Child [F]who [C]shall{,} re[F]deem [G7]us [C]all.
+
+Verse 4:
+[C]This gift of God{,} [C/E]we’ll [F]che[G7/D]rish [C]well,
+[Am]That [Em]ev[F]er [C]joy{,} our [F]hearts [G7]shall [C]fill.</text>
+		<searchtext>verse 1 while shepherds watched their flocks by night glad tidings brought an angel bright chorus how great our joy great our joy joy joy joy joy joy joy praise we the lord in heaven on high praise we the lord in heaven on high verse 2 there shall be born so he did say in bethlehem a child today verse 3 there shall the child lie in a stall this child who shall redeem us all verse 4 this gift of god well cherish well that ever joy our hearts shall fill</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>108</bpm>
+		<tempo>Medium</tempo>
+		<created>2008-10-25 17:41:36</created>
+		<modified>2008-10-25 17:41:36</modified>
+		<creator>1543</creator>
+		<ccli>124071</ccli>
+		<album></album>
+		<font_size></font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

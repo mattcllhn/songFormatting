@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14950</id>
+		<songbook_id>21</songbook_id>
+		<title>Mercies Anew</title>
+		<copyright>Words &amp; Music by Mark Altrogge and Bob Kauflin     © 2002 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:04</created>
+		<modified>2009-03-20 09:15:04</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BOW56Q&quot;,&quot;title&quot;:&quot;Mercies Anew&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51kpGaYi7nL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16086</id>
+		<song_id>14950</song_id>
+		<description>Arrangement from Upward</description>
+		<text>Intro: 
+[| B     | B     | G#m7     | B/F#     | Emaj9     | Emaj9]
+
+Verse 1: 
+Every [B]morning that breaks, there are [E/B]mercies a[B]new 
+Every [E/B]breath that I [B]take, is your [C#/G#]faithfulness [F#]proved 
+And at the [B]end of each [G#m]day, when my [E]labors are [A]through 
+I will [B/C#]sing [C#m]of Your [F#sus]merc[F#]ies a[B    | B    | E/G#    | F#sus]new 
+
+Verse 2: 
+When I’ve [B]fallen and [G#m]strayed, there were [E]mercies a[B]new 
+For you [E]sought [F#]me in [G#m]love, and my [C#/E#]heart you purs[F#sus]ued 
+In the [B]face [F#/A#]of my [G#m]sin,{,} Lord, You [E]never withd[A]rew 
+So I [B/C#]sing [C#m]of Your [F#sus]merc[F#]ies a[B    |]new
+
+Chorus: 
+And [F#/A#]Your [G#m]mer[F#]cies, they will [E]never [B]end 
+For ten [G#m]thousand [F#]years they’ll rem[E]ain 
+[F#]And when [G#m]this world’s [F#]beauty{,} has [E]passed a[D#m]way 
+Your [D]mer[E]cies will [A]be unch[C#m7]anged [| F#sus] 
+
+Verse 3: 
+And when the [B]storms [F#/A#]swirl and [G#m]rage, there are [E]mercies a[B]new 
+In af[E]flic[F#]tion and [G#m]pain,{,} You will [C#/E#]carry me [F#sus]through 
+And at the [B]end [F#/A#]of my [G#m]days, when Your [E]throne fills my [A]view 
+I will [B/C#]sing [C#m]of Your [F#sus]mer[F#]cies a[C#m]new  [| B/D#] 
+I will [E]sing of Your [F#7sus]mercies a[B    |]new</text>
+		<searchtext>intro verse 1 every morning that breaks there are mercies anew every breath that i take is your faithfulness proved and at the end of each day when my labors are through i will sing of your mercies anew verse 2 when ive fallen and strayed there were mercies anew for you sought me in love and my heart you pursued in the face of my sin lord you never withdrew so i sing of your mercies anew chorus and your mercies they will never end for ten thousand years theyll remain and when this worlds beauty has passed away your mercies will be unchanged verse 3 and when the storms swirl and rage there are mercies anew in affliction and pain you will carry me through and at the end of my days when your throne fills my view i will sing of your mercies anew i will sing of your mercies anew</searchtext>
+		<primary>1</primary>
+		<key>B</key>
+		<time_signature>3/4</time_signature>
+		<bpm>100</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:04</created>
+		<modified>2009-03-20 09:15:04</modified>
+		<creator>1543</creator>
+		<ccli>4088989</ccli>
+		<album>Upward: The Bob Kauflin Hymns Project</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

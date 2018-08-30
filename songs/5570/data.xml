@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5570</id>
+		<songbook_id>21</songbook_id>
+		<title>Angels We Have Heard On High (Tomlin)</title>
+		<copyright>Chris Tomlin/© 2009 worshiptogether.com songs (Admin. by EMI Christian Music Publishing)</copyright>
+		<created>2008-09-25 20:12:31</created>
+		<modified>2015-11-23 20:47:27</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6301</id>
+		<song_id>5570</song_id>
+		<description>Default arrangement</description>
+		<text>Intro:
+[E  A2  C#m7  A2]
+VERSE 1:
+[E]Angels we have heard on high,
+[E]Sweetly singing o'er the plains
+[E]And the mountains in reply,
+[E]Echoing their joy-ous strains
+
+CHORUS:
+[E]Glo[C#m]-[F#m7]-[B]-[E]-[A2]-[B]-ria
+[E]In ex-cel-sis De-o[B]
+[E]Glo[C#M]-[F#m7]-[B]-[E]-[A2]-[B]-ria
+[E]In [B]ex-[E]cel-[A]sis [E]De[B]-[E]o
+
+[E  A2  C#m  A2]
+VERSE 2:
+[E]Shepherds why this jub-i-lee?
+[E]Why your joyous strains prolong?
+[E]What the glad-some ti-dings be,
+[E]Which in-spire your heav'nly song?
+
+
+Chorus:
+
+
+
+[E     Esus    E   Esus   E]
+
+VERSE 3:
+[E]Come to Bethlehem and see,
+[E]Him whose birth the an-gels sing
+[E]Come adore on ben-ded knee,
+[E]Christ the Lord, the new-born King
+
+
+Chorus:
+
+
+
+Ending:
+[E  A2  C#m7  A2  E  A2  C#m7  A2]</text>
+		<searchtext>intro verse 1 angels we have heard on high sweetly singing oer the plains and the mountains in reply echoing their joyous strains chorus gloria in excelsis deo gloria in excelsis deo verse 2 shepherds why this jubilee why your joyous strains prolong what the gladsome tidings be which inspire your heavnly song chorus verse 3 come to bethlehem and see him whose birth the angels sing come adore on bended knee christ the lord the newborn king chorus ending </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>120</bpm>
+		<tempo>Medium</tempo>
+		<created>2008-09-25 20:12:31</created>
+		<modified>2015-11-23 20:47:27</modified>
+		<creator>1543</creator>
+		<ccli>27721</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>54630</id>
+		<song_id>5570</song_id>
+		<description>Tomlin version</description>
+		<text>VERSE 1:
+[E]Angels we have [Bsus]he[B]ard on [E]high,
+Sweet[B]ly [E]singing [E/B]o'er [B7] the [E]plains
+[E]And the mountains [Bsus]in [B] re[E]ply,
+[E]E[B]cho[E]ing their [E/B]joy-[B7]ous [E]strains
+
+CHORUS:
+[E]Glo[Db]-[Gbm]-[B]-[Emaj7]-[A]-[B]-ria[B7]
+[E]In [B]ex-[E]cel-[A]sis [E/B]De-o[B]
+[E]Glo[Db]-[Gbm]-[B]-[Emaj7]-[A]-[B]-ria[B7]
+[E]In [B]ex-[E]cel-[A]sis [E/B]De[B]-[E]o
+
+VERSE 2:
+[E]Shepherds why this [Bsus]ju[B]b-i-[E]lee?
+Why [B]your [E]joyous [E/B]strains[B7] pro[E]long?
+[E]What the glad-some [Bsus]ti[B]-dings [E]be,
+Which [B]in-[E]spire your [E/B]heav[B7]'nly [E]song?
+
+VERSE 3:
+[E]Come to Bethle[Bsus]hem [B]and [E]see,
+Him [B]whose [E]birth the [E/B]an[B7]-gels [E]sing
+[E]Come adore on [Bsus]ben[B]-ded [E]knee,
+Christ [B]the [E]Lord, the [E/B]new[B7]-born [E]King</text>
+		<searchtext>verse 1 angels we have heard on high sweetly singing oer the plains and the mountains in reply echoing their joyous strains chorus gloria in excelsis deo gloria in excelsis deo verse 2 shepherds why this jubilee why your joyous strains prolong what the gladsome tidings be which inspire your heavnly song verse 3 come to bethlehem and see him whose birth the angels sing come adore on bended knee christ the lord the newborn king</searchtext>
+		<primary>0</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>120</bpm>
+		<tempo>Medium</tempo>
+		<created>2012-11-30 13:22:51</created>
+		<modified>2012-11-30 13:22:51</modified>
+		<creator>1543</creator>
+		<ccli>5606951</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

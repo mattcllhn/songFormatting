@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>15013</id>
+		<songbook_id>21</songbook_id>
+		<title>I Will Cast My Cares</title>
+		<copyright>Words &amp; Music by Stephen Altrogge     © 2007 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:14</created>
+		<modified>2009-03-20 09:15:14</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0019IVBP0&quot;,&quot;title&quot;:&quot;I Will Cast My Cares&quot;,&quot;artist&quot;:&quot;Mark &amp; Stephen Altrogge&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/517j98UaeeL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16155</id>
+		<song_id>15013</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[G2     | G2     | Am2     | Am2     | D     | D     | C     | C]
+	  	 
+Verse 1:  
+Jesus, I’[G2]m frail, I’m so very[Am] weak   	 
+My faithfulness[D] fails,{,} my courage will[C2] flee
+But You are my[G2] rock,{,} my shelter and[Am] shade
+When I’m burdened[D] down, You’ll carry the[C2] weight
+
+Chorus:
+So I will [G2]cast my [D/F#]cares on [C]You 
+Yes, I will [Em7]cast my [D/F#]cares on [C]You  [| D]
+I will [Em]rest within Your [D/F#]arms 	 	 
+Knowing [G]I am safe from [Am7]harm 
+[Bm7]I will cast my [C]cares on [G2 (to intro)]You
+
+Verse 2:
+When I’m over[G2]whelmed{,} and I cannot[Am] stand 	 
+You hear every[D] cry and You lift my[C2] head   	 
+I’m desperate for[G2] grace and mercy a[Am]new  	 
+I must have Your[D] strength,{,} oh I must have[C2] You</text>
+		<searchtext>intro verse 1 jesus im frail im so very weak my faithfulness fails my courage will flee but you are my rock my shelter and shade when im burdened down youll carry the weight chorus so i will cast my cares on you yes i will cast my cares on you i will rest within your arms knowing i am safe from harm i will cast my cares on you verse 2 when im overwhelmed and i cannot stand you hear every cry and you lift my head im desperate for grace and mercy anew i must have your strength oh i must have you</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>6/8</time_signature>
+		<bpm>86</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:15:14</created>
+		<modified>2009-03-20 09:15:14</modified>
+		<creator>1543</creator>
+		<ccli>5023699</ccli>
+		<album>In A Little While</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

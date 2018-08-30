@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>38270</id>
+		<songbook_id>21</songbook_id>
+		<title>More Love, More Power</title>
+		<copyright>Words and music by Jude Del Hierd © 1987 Mercy/Vineyard Publishing Company All rights reserved. Used by permission.</copyright>
+		<created>2011-01-20 22:45:49</created>
+		<modified>2017-02-17 10:14:31</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>41034</id>
+		<song_id>38270</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[Em    |   Cmaj7   |   D   Bm7  |  Em  ]
+
+
+VERSE:
+[Em]      More love,  [Cmaj7]       more power
+[D]     More of [Bm7]You in my[Em]   life.   [D]
+[Em]      More love,  [Cmaj7]       more power
+[D]     More of [Bm7]You in my[Em]   life.  
+
+
+CHORUS:
+I will worship [Am7]You with all of my [Em]heart,
+I will worship [Am7]You with all of my [Em]mind,
+I will worship [Am7]You with all of my st[Em]rength,
+For you are my [Cmaj7]Lord.  [Bm7]
+
+
+ENDING:
+You are my [Cmaj7]Lord   [D]
+You are my [Em]Lord. [Cmaj7   |   D   Bm7  |  Em  ]
+
+</text>
+		<searchtext>intro verse more love more power more of you in my life more love more power more of you in my life chorus i will worship you with all of my heart i will worship you with all of my mind i will worship you with all of my strength for you are my lord ending you are my lord you are my lord </searchtext>
+		<primary>1</primary>
+		<key>Em</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2011-01-20 22:45:49</created>
+		<modified>2012-12-29 15:39:38</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>18</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>77037</id>
+		<song_id>38270</song_id>
+		<description>Medley with &quot;Love Knows No End&quot;</description>
+		<text>Chorus: 
+Now my s[G]oul sings
+Your love it knows no e[D]nd  
+Your love it knows no e[C]nd  
+Your love it knows no e[G]nd  [D  (Last time into Intro below)] 
+
+Intro:
+[Em    |   Cmaj7   |   D   Bm7  |  Em  ]
+
+
+VERSE:
+[Em]      More love,  [Cmaj7]       more power
+[D]     More of [Bm7]You in my[Em]   life.   [C  D]
+[Em]      More love,  [Cmaj7]       more power
+[D]     More of [Bm7]You in my[Em]   life.  
+
+
+CHORUS:
+I will worship [Am7]You with all of my [Em]heart,
+I will worship [Am7]You with all of my [Em]mind,
+I will worship [Am7]You with all of my st[Em]rength,
+For you are my [Cmaj7]Lord.  [Bm7]
+
+
+ENDING:
+You are my [Cmaj7]Lord   [D]
+You are my [Em]Lord. [Cmaj7   |   D   Bm7  |  Em  ]</text>
+		<searchtext>chorus now my soul sings your love it knows no end your love it knows no end your love it knows no end intro verse more love more power more of you in my life more love more power more of you in my life chorus i will worship you with all of my heart i will worship you with all of my mind i will worship you with all of my strength for you are my lord ending you are my lord you are my lord </searchtext>
+		<primary>0</primary>
+		<key>Em</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2017-02-17 10:10:24</created>
+		<modified>2017-02-17 10:14:31</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

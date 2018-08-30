@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14894</id>
+		<songbook_id>21</songbook_id>
+		<title>Out Of The Depths</title>
+		<copyright>Words and music by Bob Kauflin      © 2008 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:57</created>
+		<modified>2009-03-20 09:14:57</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001EUMNP0&quot;,&quot;title&quot;:&quot;Out of the Depths&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51CGlRp8SUL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16022</id>
+		<song_id>14894</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[Am7     | Dm7     | Am7     | Dm7]
+
+Verse 1:
+[Am]   Out of the depths, O Lord, I [Fmaj7]cry to You
+[Am]   When I am tempted to des[Fmaj7]pair
+[Dm7]   Though I might fail to trust Your [C/E]promises
+[Fmaj7]   You never fail to hear my [Gsus]prayer [G]
+[Dm]   And if You [Am]judged my sin, [G] [ ]I’d never [Fmaj7]stand again
+[Dm]   But I see [C/E]mercy in Your [F]hands
+
+Chorus:
+So [G]more than [Am]watchmen for the [F2]morning
+I will [C]wait for You, my [G]God
+When my [Am]fears come with no [F2]warning
+In Your [C]Word I’ll put my [G]trust
+When the [Am]harvest time is [G]over{,} and I [F2]still see no fruit
+I will [Dm7]wait, I will [Gsus]wait [G] [ ]for [Am]You [| Dm7]
+
+VERSE 2:
+[Am]   The secret mysteries be[Fmaj7]long to You
+[Am]   We only know what You re[Fmaj7]veal
+[Dm7]   And all my questions that are [C/E]unresolved
+[Fmaj7]   Don't change the wisdom of Your [Gsus]will [G]
+[Dm]   In every [Am]trial and loss, [G] my hope is [Fmaj7]in the cross
+[Dm]   Where Your com[C/E]passions never [F]fail</text>
+		<searchtext>intro verse 1 out of the depths o lord i cry to you when i am tempted to despair though i might fail to trust your promises you never fail to hear my prayer and if you judged my sin id never stand again but i see mercy in your hands chorus so more than watchmen for the morning i will wait for you my god when my fears come with no warning in your word ill put my trust when the harvest time is over and i still see no fruit i will wait i will wait for you verse 2 the secret mysteries belong to you we only know what you reveal and all my questions that are unresolved dont change the wisdom of your will in every trial and loss my hope is in the cross where your compassions never fail</searchtext>
+		<primary>1</primary>
+		<key>Am</key>
+		<time_signature>4/4</time_signature>
+		<bpm>69</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:14:57</created>
+		<modified>2009-03-20 09:14:57</modified>
+		<creator>1543</creator>
+		<ccli>5260988</ccli>
+		<album>Psalms</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

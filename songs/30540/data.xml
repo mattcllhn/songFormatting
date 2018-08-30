@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>30540</id>
+		<songbook_id>21</songbook_id>
+		<title>Z - The Apostle's Creed</title>
+		<copyright></copyright>
+		<created>2009-11-26 12:12:10</created>
+		<modified>2009-11-29 01:09:03</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>32572</id>
+		<song_id>30540</song_id>
+		<description>Initial arrangement</description>
+		<text>
+I believe in God the Father Almighty,
+Maker of heaven and earth;
+And in Jesus Christ his only Son our Lord:
+Who was conceived by the Holy Spirit,
+Born of the Virgin Mary,
+Suffered under Pontius Pilate,
+Was crucified, dead and buried;
+The third day he rose from the dead;
+He ascended into heaven 
+And sits at the right hand 
+Of God the Father Almighty;
+From there he shall come 
+To judge the living and the dead.
+I believe in the Holy Spirit, 
+The holy catholic church, 
+The communion of saints, 
+The forgiveness of sins, 
+The resurrection of the body, 
+And the life everlasting.  
+
+Amen.
+</text>
+		<searchtext> i believe in god the father almighty maker of heaven and earth and in jesus christ his only son our lord who was conceived by the holy spirit born of the virgin mary suffered under pontius pilate was crucified dead and buried the third day he rose from the dead he ascended into heaven and sits at the right hand of god the father almighty from there he shall come to judge the living and the dead i believe in the holy spirit the holy catholic church the communion of saints the forgiveness of sins the resurrection of the body and the life everlasting amen </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2009-11-26 12:12:10</created>
+		<modified>2009-11-29 01:09:03</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>19</font_size>
+	</Arrangement>
+</data>
+

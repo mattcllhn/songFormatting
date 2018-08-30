@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14895</id>
+		<songbook_id>21</songbook_id>
+		<title>Glorious And Mighty</title>
+		<copyright>Music by Joel Sczebel and Todd Twining     Words by Joel Sczebel, Todd Twining and Bob Kauflin     © 2008 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:14:57</created>
+		<modified>2010-03-21 07:24:33</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001EUQEPA&quot;,&quot;title&quot;:&quot;Glorious and Mighty&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51CGlRp8SUL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16023</id>
+		<song_id>14895</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[C     | Am   F   | C     | Am   F]
+
+Verse 1:
+[C]Majesty, Your [Am]glory is shi[F]ning
+[C]Brighter than the [Am]moon and the s[F]tars
+[C]Marveling, we [Am]honor and f[F]ear You
+A[G]bove all [Dm]gods
+
+Chorus:
+[F]Glorious and [Csus]migh[C]ty, [Gsus]   You're awesome in [F]beauty
+[Am]Joyful [G]songs we [F]raise
+[F]Glorious and [Csus]migh[C]ty, [Gsus]   You're awesome in [F]beauty
+[Am]Greatly [G]to be [F]praised
+
+Verse 2:
+[C]Majesty, You [Am]fashioned the h[F]eavens
+[C]Your decrees can [Am]never be ch[F]anged
+[C]Over all the [Am]plans of the n[F]ations
+Your [G]judgments [Dm]reign
+
+Verse 3:
+[C]Majesty, we'll [Am]sing with cre[F]ation
+[C]When You come a[Am]gain in the [F]clouds
+[C]Every knee will [Am]bow down and [F]worship
+The [G]one true [Dm]God</text>
+		<searchtext>intro verse 1 majesty your glory is shining brighter than the moon and the stars marveling we honor and fear you above all gods chorus glorious and mighty youre awesome in beauty joyful songs we raise glorious and mighty youre awesome in beauty greatly to be praised verse 2 majesty you fashioned the heavens your decrees can never be changed over all the plans of the nations your judgments reign verse 3 majesty well sing with creation when you come again in the clouds every knee will bow down and worship the one true god</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>6/8</time_signature>
+		<bpm>152</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:14:57</created>
+		<modified>2010-03-21 07:24:33</modified>
+		<creator>1543</creator>
+		<ccli>5261097</ccli>
+		<album>Psalms</album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

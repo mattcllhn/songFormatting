@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>73367</id>
+		<songbook_id>21</songbook_id>
+		<title>Just As I Am (I Come)</title>
+		<copyright>Charlotte Elliott, David Moffitt, Sue C. Smith, Travis Cottrell, William Bradbury</copyright>
+		<created>2018-03-24 22:37:23</created>
+		<modified>2018-03-24 23:11:31</modified>
+		<creator>24706</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>81247</id>
+		<song_id>73367</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+Just [A]as I am, with[E/A]out one pl[A]ea
+But t[E/A]hat Thy b[E7/A]lood was s[D/A]hed for [A]me
+And t[A]hat Thou bidst me c[D/A]ome to Thee
+O L[A]amb of God, I c[E/A]ome, I c[A]ome   [D/A]              [A]            [D/A]
+
+Verse 2:
+Just [A]as I am, and [E/A]waiting n[A]ot
+To [E/A]rid my [E7/A]soul of [D/A]one dark b[A]lot
+To T[A]hee whose blood can cl[D/A]eanse each spot
+O L[A]amb of God, I c[E/A]ome, I c[A]ome   [D/A]              [A]            [D/A]
+
+Chorus:
+I come b[F#m]roken to be me[D]nded, I come wo[A]unded to be h[E]ealed
+I come de[F#m]sperate to be re[D]scued, I come e[A]mpty to be f[E]illed
+I come g[F#m]uilty to be pa[D]rdoned by the b[A]lood of Christ the L[D]amb
+And I'm we[D]lcomed with [F#m]open arms
+Praise G[D]od, just [E]as I a[A]m      [D/A]              [A]            [D/A]
+
+Verse 3:
+Just [A]as I am, I w[E/A]ould be l[A]ost
+But m[E/A]ercy and [E7/A]grace my f[D/A]reedom bo[A]ught
+And n[A]ow to glory [D/A]in Your cross
+O L[A]amb of God, I c[E/A]ome, I c[A]ome   [D/A]              [A]            [D/A]</text>
+		<searchtext>verse 1 just as i am without one plea but that thy blood was shed for me and that thou bidst me come to thee o lamb of god i come i come verse 2 just as i am and waiting not to rid my soul of one dark blot to thee whose blood can cleanse each spot o lamb of god i come i come chorus i come broken to be mended i come wounded to be healed i come desperate to be rescued i come empty to be filled i come guilty to be pardoned by the blood of christ the lamb and im welcomed with open arms praise god just as i am verse 3 just as i am i would be lost but mercy and grace my freedom bought and now to glory in your cross o lamb of god i come i come </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>3/4</time_signature>
+		<bpm>72</bpm>
+		<tempo>Medium</tempo>
+		<created>2018-03-24 22:37:23</created>
+		<modified>2018-03-24 23:11:31</modified>
+		<creator>24706</creator>
+		<ccli>5635850</ccli>
+		<album>Travis Cottrell: When The Stars Burn Down</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

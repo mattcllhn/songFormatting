@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>50518</id>
+		<songbook_id>21</songbook_id>
+		<title>On this Day Earth Shall Ring (Personet Hodie)</title>
+		<copyright>Author Unknown. Medieval Christmas hymn; from Piæ Cantiones 1582; trans. Jane M. Joseph (1894-1929)</copyright>
+		<created>2012-12-04 21:26:19</created>
+		<modified>2012-12-17 15:55:48</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>54669</id>
+		<song_id>50518</song_id>
+		<description>Initial arrangement</description>
+		<text>
+Latin 1:
+Personent hodie
+Voces puerulae,
+Laudantes iocunde
+Qui nobis est natus,
+Summo Deo datus,
+
+Refrain:
+Id-e-o-o-o, id-e-o-o-o, (I sing out, I sing out)
+Id-e-o gloria in excelsis Deo! (I sing out, glory to God in the highest)
+
+Verse 1: 
+On this day earth shall ring
+With the song children sing
+To the Lord, Christ our King,
+Born on earth to save us;
+Him the Father gave us.
+
+Refrain:
+Id-e-o-o-o, id-e-o-o-o, (I sing out, I sing out)
+Id-e-o gloria in excelsis Deo! (I sing out, glory to God in the highest)
+
+Verse 2: 
+On this day angels sing;
+with their song earth shall ring,
+praising Christ, heaven's King,
+born on earth to save us;
+peace and love he gave us.
+
+
+
+(15th Century)</text>
+		<searchtext> latin 1 personent hodie voces puerulae laudantes iocunde qui nobis est natus summo deo datus refrain ideooo ideooo i sing out i sing out ideo gloria in excelsis deo i sing out glory to god in the highest verse 1 on this day earth shall ring with the song children sing to the lord christ our king born on earth to save us him the father gave us refrain ideooo ideooo i sing out i sing out ideo gloria in excelsis deo i sing out glory to god in the highest verse 2 on this day angels sing with their song earth shall ring praising christ heavens king born on earth to save us peace and love he gave us 15th century</searchtext>
+		<primary>1</primary>
+		<key>Em</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2012-12-04 21:26:19</created>
+		<modified>2012-12-17 15:55:48</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

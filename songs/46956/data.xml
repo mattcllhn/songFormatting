@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>46956</id>
+		<songbook_id>21</songbook_id>
+		<title>How Great You Are</title>
+		<copyright>© 2012 Sovereign Grace Worship     Inspired by How Great Thou Art by Stuart Hine     Music &amp; Words by Joel Sczebel &amp; Pat Sczebel</copyright>
+		<created>2012-04-28 15:14:25</created>
+		<modified>2012-04-28 15:14:25</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B007O3RITM&quot;,&quot;title&quot;:&quot;How Great You Are&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51QAAIRaApL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>50625</id>
+		<song_id>46956</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[E    B    |      G#m   F#   | E    B    |     G#m   F#]
+
+VERSE 1:
+Our [B]God is[E] great, the [B]Father of cre[F#]ation
+His [G#m]splendor fills[E] the earth[F#sus  F#]
+The [B]lightning [E]crash, the [B]thunder sings His prai[F#]ses
+The [G#m]galaxies can’t hel[E]p but shout His worth[F#]
+
+CHORUS:
+My [B]soul must [E]sing to [B]You an offerin[F#]g
+[E]How gr[G#m]eat You are[F#]
+My [B]soul must [E]sing, oh, [B]let the heavens rin[F#]g
+[E]How gr[G#m]eat You are[F#]
+Oh, how great You are[B]
+
+VERSE 2:
+The [B]Word made [E]flesh, God’s [B]promise to the fal[F#]len
+He [G#m]came with pow’[E]r to save[F#sus  F#]
+The [B]light of [E]life{,} was [B]crushed for our rebel[F#]lion
+He [G#m]died our death{,} and ros[E]e up from the grave[F#]
+
+VERSE 3:
+Our [B]King will [E]come, with [B]trumpet blasts res[F#]ounding
+To [G#m]claim His blood[E]-washed bride[F#sus  F#]
+He’ll [B]rend the [E]skies, desc[B]ending in His gl[F#]ory
+And [G#m]in an instant fait[E]h will turn to sigh[F#]t</text>
+		<searchtext>intro verse 1 our god is great the father of creation his splendor fills the earth the lightning crash the thunder sings his praises the galaxies cant help but shout his worth chorus my soul must sing to you an offering how great you are my soul must sing oh let the heavens ring how great you are oh how great you are verse 2 the word made flesh gods promise to the fallen he came with powr to save the light of life was crushed for our rebellion he died our death and rose up from the grave verse 3 our king will come with trumpet blasts resounding to claim his bloodwashed bride hell rend the skies descending in his glory and in an instant faith will turn to sight</searchtext>
+		<primary>1</primary>
+		<key>B</key>
+		<time_signature>4/4</time_signature>
+		<bpm>83</bpm>
+		<tempo>Medium</tempo>
+		<created>2012-04-28 15:14:25</created>
+		<modified>2012-04-28 15:14:25</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>From Age To Age</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

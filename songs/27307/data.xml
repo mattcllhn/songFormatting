@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>27307</id>
+		<songbook_id>21</songbook_id>
+		<title>The Greatest Of All</title>
+		<copyright>Chorus by Fanny J. Crosby     Music and additional words by Pat Sczebel     © 2007 Sovereign Grace Worship</copyright>
+		<created>2009-08-24 22:05:59</created>
+		<modified>2012-10-21 00:13:13</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>29081</id>
+		<song_id>27307</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[D     Em     | D/F#     G     | D     Em     | G]
+
+Verse 1:
+The [D]greatest of all trans[G]actions
+The [D]costliest purchase [Asus]price
+[D]Father, Your [D/F#]Son’s a[G]toning death
+Was [D]given in payment for [Asus]mine
+To [G]buy me [D/F#]back from [Em]slavery
+To [G]set me [D/F#]free from my [G]chains
+
+Chorus:
+Re[A]deemed, how I [D/F#]love to pro[G]claim it
+Re[A]deemed by the [Bm7]blood of the [G]Lamb
+Re[A]deemed through Your [D/F#]infinite [G]mercy
+Your [A]child for[Em]ever I [G]am
+
+Verse 2:
+[D]Now I’ll never know [G]Your judgment
+You [D]ransomed and saved my [Asus]soul
+[D]Jesus, Your [D/F#]death and [G]Yours alone
+Has [D]canceled the debt that I [Asus]owed
+You [G]satis[D/F#]fied the [Gm]law’s demand
+And [G]new life’s been [D/F#]given to [Asus]me
+
+Bridge:
+[D  Em | D/F#  G | D  Em | Bm  A | D  Em | A  G | F#m  Bm7 | G  (to chorus)]</text>
+		<searchtext>intro verse 1 the greatest of all transactions the costliest purchase price father your sons atoning death was given in payment for mine to buy me back from slavery to set me free from my chains chorus redeemed how i love to proclaim it redeemed by the blood of the lamb redeemed through your infinite mercy your child forever i am verse 2 now ill never know your judgment you ransomed and saved my soul jesus your death and yours alone has canceled the debt that i owed you satisfied the laws demand and new lifes been given to me bridge </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>6/8</time_signature>
+		<bpm>137</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-08-24 22:05:59</created>
+		<modified>2012-10-21 00:13:13</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>Sons &amp; Daughters</album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

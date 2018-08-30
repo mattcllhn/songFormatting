@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>43776</id>
+		<songbook_id>21</songbook_id>
+		<title>Shine Into Our Night</title>
+		<copyright>Words &amp; Music by Joel Sczebel     (C) 2011 Sovereign Grace Worship</copyright>
+		<created>2011-11-27 00:55:55</created>
+		<modified>2011-11-27 00:55:55</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0064Y2H16&quot;,&quot;title&quot;:&quot;Shine into Our Night&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/515a-gIbevL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>47138</id>
+		<song_id>43776</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[E     | E    | F#m     | F#m     (2X)]
+
+VERSE 1:
+[E]We are not what we should be
+We [F#m7]haven’t sought what we should seek
+We’ve [A]seen Your glory [F#m]Lord, but looked away[E     | E]
+Our [E]hearts are bent our eyes are dim
+Our [F#m7]finest works are stained with sin
+And [A]emptiness has [F#m]shadowed all our ways [E     | E]
+
+CHORUS:
+[A]Jesus Chr[E]ist, shine in[Amaj7/C#]to our ni[A]ght
+Drive our [E]dark away [Amaj7]
+‘Til Your [C#m]glory fills our [A]eyes
+[A]Jesus Chr[E]ist, shine in[Amaj7/C#]to our ni[A]ght
+Bind us t[E]o Your cross, [Amaj7][ ]where we find l[E]ife
+
+VERSE 2:
+[E]Still we often go astray
+We [F#m7]chase the world, forget Your grace
+But [A]You have never [F#m]failed to bring us back [E      | E]
+Re[E]veal the depths of what You’ve done
+The [F#m7]death You died, the vic’try won
+You [A]made a way for [F#m]us to know Your love [E      | E]
+
+</text>
+		<searchtext>intro verse 1 we are not what we should be we havent sought what we should seek weve seen your glory lord but looked away our hearts are bent our eyes are dim our finest works are stained with sin and emptiness has shadowed all our ways chorus jesus christ shine into our night drive our dark away til your glory fills our eyes jesus christ shine into our night bind us to your cross where we find life verse 2 still we often go astray we chase the world forget your grace but you have never failed to bring us back reveal the depths of what youve done the death you died the victry won you made a way for us to know your love </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>104</bpm>
+		<tempo>Slow</tempo>
+		<created>2011-11-27 00:55:55</created>
+		<modified>2011-11-27 00:55:55</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>The Gathering</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

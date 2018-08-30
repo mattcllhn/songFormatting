@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14949</id>
+		<songbook_id>21</songbook_id>
+		<title>The Audience Of One</title>
+		<copyright>Words &amp; Music by Steve &amp; Vikki Cook     © 2002 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:04</created>
+		<modified>2009-03-20 09:15:04</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0010VL2IC&quot;,&quot;title&quot;:&quot;The Audience of One&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/519CuW9nbdL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16085</id>
+		<song_id>14949</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[E]I have one [E/D]passion,{,} [C#m]one great delig[E/D]ht
+[E]One center [E/D]of my [A2     G6]life
+[E]To glori[E/D]fy Him{,} who [C#m7]bears the scars of gra[E/D]ce
+[E]And to walk wor[E/D]thy of His [A]name
+[G]For all my d[Bsus4    | Bsus4    |]ays
+
+Chorus:
+With all my [A]heart and soul and [C#m]strength
+In ev’ry [A]word and thought and [E]deed
+I’ll live for [F#m]Him who died for [C#m]me
+To please the [A]Audience of [E]One
+How can I [A]not pledge all my [C#m]love
+In light of [A]all that He has [E]done?
+There is one [F#m]glory that I [C#m]seek
+To please the [A]Audience of [E     | D     | C#m     | D     |]One
+
+Verse 2:
+[E]Let me seek on[E/D]e prize,{,} [C#m7]one great rewar[E/D]d
+[E]One hope I [E/D]treasure [A2    | G6    |]most
+[E]To hear the Fa[E/D]ther say,{,} [C#m7]“My child, well do[E/D]ne
+[E]Come enter in[E/D]to all the jo[A]y
+[G]Found in my [Bsus4    | Bsus4    |]Son”</text>
+		<searchtext>verse 1 i have one passion one great delight one center of my life to glorify him who bears the scars of grace and to walk worthy of his name for all my days chorus with all my heart and soul and strength in evry word and thought and deed ill live for him who died for me to please the audience of one how can i not pledge all my love in light of all that he has done there is one glory that i seek to please the audience of one verse 2 let me seek one prize one great reward one hope i treasure most to hear the father say my child well done come enter into all the joy found in my son</searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>125</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:04</created>
+		<modified>2009-03-20 09:15:04</modified>
+		<creator>1543</creator>
+		<ccli>4126614</ccli>
+		<album>All We Long To See</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

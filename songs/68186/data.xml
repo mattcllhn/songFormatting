@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>68186</id>
+		<songbook_id>21</songbook_id>
+		<title>Hallowed Be Your Name</title>
+		<copyright>© 2015 Sovereign Grace Worship     Music &amp; Words by Doug Plank</copyright>
+		<created>2016-09-01 11:09:19</created>
+		<modified>2016-09-01 11:09:19</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B017NAHZKW&quot;,&quot;title&quot;:&quot;Hallowed Be Your Name&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51yvAN834IL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>75106</id>
+		<song_id>68186</song_id>
+		<description>Initial arrangement</description>
+		<text>VERSE 1:
+[Db]Who is like You, [Ab/Db]Father,{,} the [Gb/Db]Source of life and [Ab/Db]love?
+[Db]An overflowing [Ab/Db]fountain{,} in [Gb]Spirit [Ab]and the [Db]Son
+[Bbm]Abba! Our [Db]Father,{,} [Gb]hallowed be Your [Ebm]name
+[Db]Reigning high in [Ab/Db]heaven,{,} re[Gb]ceive our [Ab]grateful pr[Bbm]aise [| Gb]
+
+VERSE 2:
+[Db]Who is like You, [Ab/Db]Jesus,{,} the [Gb/Db]Son most glori[Ab/Db]ous?
+[Db]The fullness of the [Ab/Db]Godhead{,} Who [Gb]came in [Ab]flesh for [Db]us
+[Bbm]Savior, Lord [Db]Jesus,{,} [Gb]hallowed be Your [Ebm]name
+[Db]Risen now in [Ab/Db]power,{,} the [Gb]Lamb for [Ab]sinners [Bbm]slain [| Gb]
+
+VERSE 3:
+[Db]Who is like You, [Ab/Db]Spirit,{,} our [Gb/Db]Comfort from a[Ab/Db]bove?
+You [Db]draw us to the [Ab/Db]Savior,{,} re[Gb]veal the [Ab]Father’s [Db]love
+[Bbm]Spirit, O [Db]Spirit,{,} [Gb]hallowed be Your [Ebm]name [Ab]
+[Db]Fount of living [Ab/Db]water,{,} come, [Gb]fill our [Ab]hearts a[Bbm]gain [| Gb]
+
+VERSE 4:
+[Db]God, there’s no one [Ab/Db]like You;{,} for [Gb/Db]who can bear the [Ab/Db]sight?
+[Db]Clothed in glorious [Ab/Db]splendor,{,} in [Gb]holy, [Ab]burning [Db]light
+[Bbm]O God, [Db]our God,{,} Who [Gb]was and is to [Ebm]come [Ab]
+[Db]Father, Son, and [Ab/Db]Spirit,{,} most [Gb]holy [Ab]Three–in–[Bbm]One
+Most [Gb]holy [Ab]Three–in–[Bbm]One,{,} most [Gb]holy [Ab]Three–in–[Db]One.</text>
+		<searchtext>verse 1 who is like you father the source of life and love an overflowing fountain in spirit and the son abba our father hallowed be your name reigning high in heaven receive our grateful praise verse 2 who is like you jesus the son most glorious the fullness of the godhead who came in flesh for us savior lord jesus hallowed be your name risen now in power the lamb for sinners slain verse 3 who is like you spirit our comfort from above you draw us to the savior reveal the fathers love spirit o spirit hallowed be your name fount of living water come fill our hearts again verse 4 god theres no one like you for who can bear the sight clothed in glorious splendor in holy burning light o god our god who was and is to come father son and spirit most holy threeinone most holy threeinone most holy threeinone</searchtext>
+		<primary>1</primary>
+		<key>Db</key>
+		<time_signature>4/4</time_signature>
+		<bpm>80</bpm>
+		<tempo>Slow</tempo>
+		<created>2016-09-01 11:09:19</created>
+		<modified>2016-09-01 11:09:19</modified>
+		<creator>1546</creator>
+		<ccli>7052256</ccli>
+		<album>Sooner Count The Stars</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

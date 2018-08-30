@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>55761</id>
+		<songbook_id>21</songbook_id>
+		<title>It's Your Grace</title>
+		<copyright>© 2013 Sovereign Grace Praise     Words &amp; Music by Bob Kauflin &amp; Doug Plank</copyright>
+		<created>2013-11-05 13:01:51</created>
+		<modified>2013-11-05 13:01:51</modified>
+		<creator>1548</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00DZ6QRW6&quot;,&quot;title&quot;:&quot;It's Your Grace&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51gxHYF1DlL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>60671</id>
+		<song_id>55761</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro: 
+[||: G/D    | D    |     |     :||]
+VERSE 1: 
+[C] You will save whom Y[Csus]ou will save[C];{,} we're the lost and[Csus] helpless ones
+[F] The rebels and the renegades{,} who spurned Your holy [G]love
+[C] You will save whom Y[Csus]ou will save,[C] mercy will be [Csus]magnified
+[F] Everyone has gone astray{,} and followed after [G]lies
+ But You have [Dm]loved us and opened our [Gsus   G]eyes 
+
+CHORUS: 
+It's Your [F]grace [C] [ ]from begi[G]nning to the [Am]end
+It's Your [F]grace;[C] [ ]we [G]will never co[Am]mprehend 
+Why You [F]drew the ones who r[Am]an from You
+What [Dm]can we do but [G]offer You praise?
+
+VERSE 2: 
+[C] You will save whom Y[Csus]ou will save;{,}[C] we were captive t[Csus]o our wills
+[Dm] And if our hearts had [Am]not been changed{,} we'd [F]flee Your mercy [G]still
+[C] You will save whom Y[Csus]ou will save;{,}[C] who can question w[Csus]hat You do?
+[Dm] You're the potter, [Am]we're the clay;{,} You can [F]make us as You c[G]hoose
+ And there is [Dm]no one who boasts before Y[Gsus]ou [G] 
+
+Instr.: 
+[||: F   | Am   | G   |   :|| Dm   | C   | G/B   | Am   G | F   | C   | G   |     |]
+
+VERSE 3: 
+[C] You will save whom Y[Csus]ou will save,[C] [ ]yet the promised [Csus]hope remains
+[F] You will rescue anyone{,} who calls upon Your n[G]ame
+[C] You will save whom Y[Csus]ou will save;{,}[C] [ ]faithful love won't b[Csus]e denied
+[Dm] Christ has ov[Am]ercome the grave{,} and [F]for our sins He d[G]ied
+ And when He [Dm]comes back{,} His glory will s[Gsus]hine [G] 
+
+Outro:
+[||: F    | Am    | G    |    :|| Dm    | C    | G    |    | F/C    | C]</text>
+		<searchtext>intro verse 1 you will save whom you will save were the lost and helpless ones the rebels and the renegades who spurned your holy love you will save whom you will save mercy will be magnified everyone has gone astray and followed after lies but you have loved us and opened our eyes chorus its your grace from beginning to the end its your grace we will never comprehend why you drew the ones who ran from you what can we do but offer you praise verse 2 you will save whom you will save we were captive to our wills and if our hearts had not been changed wed flee your mercy still you will save whom you will save who can question what you do youre the potter were the clay you can make us as you choose and there is no one who boasts before you instr verse 3 you will save whom you will save yet the promised hope remains you will rescue anyone who calls upon your name you will save whom you will save faithful love wont be denied christ has overcome the grave and for our sins he died and when he comes back his glory will shine outro </searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>132</bpm>
+		<tempo>Medium</tempo>
+		<created>2013-11-05 13:01:51</created>
+		<modified>2013-11-05 13:01:51</modified>
+		<creator>1548</creator>
+		<ccli></ccli>
+		<album>Grace Has Come</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

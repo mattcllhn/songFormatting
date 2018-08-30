@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14990</id>
+		<songbook_id>21</songbook_id>
+		<title>For Me</title>
+		<copyright>Words &amp; Music by Mark Altrogge     @ 1999 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:11</created>
+		<modified>2009-03-20 09:15:11</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001122T1Y&quot;,&quot;title&quot;:&quot;For Me&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51772JOjBtL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16131</id>
+		<song_id>14990</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[Am     | F   C   | Am     | F   C]
+
+Verse:
+[Am]For a good [F]man some[C]one might [Am     | F   C]die
+[Am]But for an e[F]nemy[C] Lord, [G]why?
+[Am]When I loved [F]only self[C] and [Am     | F   C]sin
+[Am]You gave Your l[F]ife to c[C]all me fr[G]iend
+
+Chorus:
+[Am]Every lash of the [F]whip
+Every stroke of the [C]hammer{,} upon every [G]nail
+[Am]Every insult You [F]bore
+Every minute You [C]hung{,} between heaven and [G]hell
+[Am]Every thorn in Your [F]crown, every tear on Your [Dm7]back
+Every drop of Your [G]blood was...
+
+Chorus 2:
+[G]For m[Am]e, [G]oh, it was [C]all for m[F]e
+[G]For m[C]e, [G]oh, it was [Am]all for m[F]e [(to end: C)]
+
+Bridge:
+[Dm7]It was for me[C], [ ]oh Lord
+[F]Such grace un[Am  G]known
+[Dm7]I pour out my l[C]ove to You
+And [G]praise Your holy name
+For [F]all the things You’ve done [(to chorus 2)]</text>
+		<searchtext>intro verse for a good man someone might die but for an enemy lord why when i loved only self and sin you gave your life to call me friend chorus every lash of the whip every stroke of the hammer upon every nail every insult you bore every minute you hung between heaven and hell every thorn in your crown every tear on your back every drop of your blood was chorus 2 for me oh it was all for me for me oh it was all for me bridge it was for me oh lord such grace unknown i pour out my love to you and praise your holy name for all the things youve done </searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>128</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:11</created>
+		<modified>2009-03-20 09:15:11</modified>
+		<creator>1543</creator>
+		<ccli>2847627</ccli>
+		<album>Everlasting</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>34960</id>
+		<songbook_id>21</songbook_id>
+		<title>You Opened Up My Eyes</title>
+		<copyright>Martin Layzell</copyright>
+		<created>2010-07-03 01:24:45</created>
+		<modified>2014-02-15 21:47:08</modified>
+		<creator>1547</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>37360</id>
+		<song_id>34960</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:    
+[|  F#m      D  | F#m     D  |  F#m     D  |  E       D  |]
+
+VERSE 1:
+Not by [F#m]words and not by [D]deeds
+But by [F#m]grace we have been [D]saved
+And it [F#m]is the gift of [D]God, the faith we [Esus   D]need
+Not by [F#m]strength and not by [D]might
+But with [F#m]power from on [D]high
+So that [F#m]we can only [D]boast, boast in [Esus   D]You
+
+CHORUS:
+[A]For once I w[D2]as dead, but now I’m a[Esus]live               
+For [D2]freedom I’m set [A]free
+And in your g[D2]reat love, I have f[Esus]ound      life
+You [D]opened up my eyes  [A]
+
+VERSE 2:
+Not with [F#m]eloquence or [D]fame  
+But in [F#m]weakness and in [D]shame
+For the [F#m]power of your [D]strength, is then re[Esus   D]vealed
+And the [F#m]message of Your [D]cross
+Seems  like [F#m]foolishness to [D]some
+But the [F#m]mercy of Your [D]grace is hidden [Esus   D]there
+
+BRIDGE:
+[F#m7]  What mercy,[E/G#] what mercy 
+[A]  What mercy bene[D]ath the cross (2x)
+[F#m7]   Your mercy,   [E/G#]    Your mercy 
+[A]   Your mercy ben[D2]eath the cross (2x)
+
+</text>
+		<searchtext>intro verse 1 not by words and not by deeds but by grace we have been saved and it is the gift of god the faith we need not by strength and not by might but with power from on high so that we can only boast boast in you chorus for once i was dead but now im alive for freedom im set free and in your great love i have found life you opened up my eyes verse 2 not with eloquence or fame but in weakness and in shame for the power of your strength is then revealed and the message of your cross seems like foolishness to some but the mercy of your grace is hidden there bridge what mercy what mercy what mercy beneath the cross 2x your mercy your mercy your mercy beneath the cross 2x </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Fast</tempo>
+		<created>2010-07-03 01:24:45</created>
+		<modified>2014-02-15 21:47:08</modified>
+		<creator>1547</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

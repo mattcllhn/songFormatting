@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>72322</id>
+		<songbook_id>21</songbook_id>
+		<title>Faithfulness</title>
+		<copyright>Stephen McWhirter | Matt Maher | Jacob Sooter © Be Essential Songs | I Am A Pilgrim Songs | Iron Bell Music | Not Just Another Song Publishing </copyright>
+		<created>2017-11-14 11:05:42</created>
+		<modified>2017-11-14 11:05:42</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>79973</id>
+		<song_id>72322</song_id>
+		<description>Initial arrangement</description>
+		<text>VERSE 1:
+In the [A]breakers that storm my faith
+[E/G#]God my [F#m]Rock and God my Hope You [E]will pre - [D]vail
+You’re the [A]constant in a sea of change
+[E/G#]What You’ve [F#m]done and what You’ve said will [E]never [D]fade
+
+
+CHORUS:
+[D]Great is Your [E]Faithfulness
+[F#m]Great is [E]Your [D]Faithfulness
+Al - [A/C#]ways   [D]and for - [E]ev - [F#m]er 
+Al - [A/C#]ways   [D]and for - [E]ev - [A]er
+
+
+VERSE 2:
+There are [A]memories that seize my heart
+But [E/G#]they will [F#m]never steal or tear our [E]love a - [D]part
+There are [A]victories yet to come
+[E/G#]They are [F#m]certain as the rising [E]of the [D]sun
+
+
+BRIDGE:
+From [F#m]age to age [E]the   [D]same
+Your [D]mercy [A]never [F#m]chang - [E]es
+Your [F#m]joy it is [E]my [D]strength
+Your [D]goodness [A]never [F#m]chang - [E]es
+
+</text>
+		<searchtext>verse 1 in the breakers that storm my faith god my rock and god my hope you will pre vail youre the constant in a sea of change what youve done and what youve said will never fade chorus great is your faithfulness great is your faithfulness al ways and for ev er al ways and for ev er verse 2 there are memories that seize my heart but they will never steal or tear our love a part there are victories yet to come they are certain as the rising of the sun bridge from age to age the same your mercy never chang es your joy it is my strength your goodness never chang es </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>65</bpm>
+		<tempo>Slow</tempo>
+		<created>2017-11-14 11:05:42</created>
+		<modified>2017-11-14 11:05:42</modified>
+		<creator>1546</creator>
+		<ccli>7071170</ccli>
+		<album>Echoes</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

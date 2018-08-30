@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>61240</id>
+		<songbook_id>21</songbook_id>
+		<title>God Made Low</title>
+		<copyright>Words &amp; Music by Jason Hansen and Bob Kauflin © 2014 Sovereign Grace Praise (BMI)</copyright>
+		<created>2014-11-25 21:16:20</created>
+		<modified>2014-11-25 21:44:10</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>67013</id>
+		<song_id>61240</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[||: F     |F     |Am     |Am     :||]
+
+
+VERSE 1:
+[C]Prophets promised [F/C]long ago a [C]King would come to [G/C]bring us hope 
+And [C]now a virgin [F/C]bears a son; the [C]time to save the [G/C]world has [C       |C]come 
+
+
+VERSE 2:
+[C]Humble shepherds run in haste to [C]see the One the [G/C]angels praised 
+In [C]cattle stall they find a girl who [C]holds the hope of [G/C]all the [C]world 
+
+
+CHORUS:
+Em[G]manu[Am]el has [F]come to [Am]us 
+The [G]Christ is [Am]born, Hal[F]lelu[G]jah! 
+Our [G]God made [Am]low to r[C/E]aise us [F]up 
+Em[Dm]manu[Am]el, has [G]come to [C]us 
+
+
+VERSE 3:
+[C]As He sleeps [F/C]upon the hay He [C]holds the moon and [G/C]stars in place 
+Though [C]born an infant [F/C]He remains the [C]sovereign God of [G/C]endless [C    |C]days 
+
+
+[(before vs. 4)]
+
+INST:
+[F     | Fmaj7    | Am    | Am7    | G     |F]
+
+
+VERSE 4:
+For [C]all our sins one [F/C]day He’ll die to [C]make us sons of [G/C]God on high 
+Let [C]every heart pre[F/C]pare Him room, the [C]promises have [G/C]all come [C]true  
+</text>
+		<searchtext>intro verse 1 prophets promised long ago a king would come to bring us hope and now a virgin bears a son the time to save the world has come verse 2 humble shepherds run in haste to see the one the angels praised in cattle stall they find a girl who holds the hope of all the world chorus emmanuel has come to us the christ is born hallelujah our god made low to raise us up emmanuel has come to us verse 3 as he sleeps upon the hay he holds the moon and stars in place though born an infant he remains the sovereign god of endless days inst verse 4 for all our sins one day hell die to make us sons of god on high let every heart prepare him room the promises have all come true </searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>3/4</time_signature>
+		<bpm>63</bpm>
+		<tempo>Medium</tempo>
+		<created>2014-11-25 21:16:20</created>
+		<modified>2014-11-25 21:44:10</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>Prepare Him Room</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

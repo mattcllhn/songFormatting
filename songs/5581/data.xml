@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5581</id>
+		<songbook_id>21</songbook_id>
+		<title>O For A Thousand Tongues To Sing</title>
+		<copyright>Words by Charles Wesley      Music by Carl Glaser     Public domain</copyright>
+		<created>2008-09-25 14:06:46</created>
+		<modified>2011-11-05 17:12:04</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6312</id>
+		<song_id>5581</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+O [G]for a [D]thousand [G]tongues [D]to [Em]sing,
+My [G]great Re[C]deemer’s [D]praise,
+The [G]glories of my [C]God and King,
+The [G/D]triumphs of [D]His [G]grace
+
+Verse 2:
+My [G]gracious [D]Master [G]and [D]my [Em]God,
+As[G]sist me [C]to pro[D]claim,
+To [G]spread through all the [C]earth abroad,
+The [G/D]honors of [D]Thy [G]name
+
+Verse 3:
+Je[G]sus, the [D]name that [G]charms [D]our [Em]fears,
+That [G]bids our [C]sorrows [D]cease,
+‘Tis [G]music in the [C]sinner’s ears,
+‘Tis [G/D]life and health [D]and [G]peace
+
+Verse 4:
+He [G]breaks the [D]power of [G]can[D]celed [Em]sin,
+He [G]sets the [C]pris’ner [D]free,
+His [G]blood can make the [C]foulest clean,
+His [G/D]blood availed [D]for [G]me
+
+Verse 5:
+Hear [G]Him, ye [D]deaf, His [G]praise, [D]ye [Em]dumb,
+Your [G]loosened [C]tongues em[D]ploy,
+Ye [G]blind behold your [C]Savior come,
+And [G/D]leap ye lame, [D]for [G]joy</text>
+		<searchtext>verse 1 o for a thousand tongues to sing my great redeemers praise the glories of my god and king the triumphs of his grace verse 2 my gracious master and my god assist me to proclaim to spread through all the earth abroad the honors of thy name verse 3 jesus the name that charms our fears that bids our sorrows cease tis music in the sinners ears tis life and health and peace verse 4 he breaks the power of canceled sin he sets the prisner free his blood can make the foulest clean his blood availed for me verse 5 hear him ye deaf his praise ye dumb your loosened tongues employ ye blind behold your savior come and leap ye lame for joy</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>3/4</time_signature>
+		<bpm>92</bpm>
+		<tempo>Medium</tempo>
+		<created>2008-09-25 14:06:46</created>
+		<modified>2011-11-05 17:12:04</modified>
+		<creator>1543</creator>
+		<ccli>1369</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

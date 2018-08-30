@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5587</id>
+		<songbook_id>21</songbook_id>
+		<title>The First Noel</title>
+		<copyright>Words &amp; Music by Johann Pachelbel     Public domain</copyright>
+		<created>2008-09-25 21:00:49</created>
+		<modified>2008-09-25 21:00:49</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6318</id>
+		<song_id>5587</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1: 
+[A]The [D]first No[F#m]el the [G]angel did [D]say
+Was to [G]certain poor [D]shepherds, in [A]fields as they [D]lay;
+[A]In [D]fields where [F#m]they lay [G]keeping their [D]sheep,
+On a [G]cold winter's [D]night that [A]was so [D]deep.
+[A]No[D]el, No[F#m]el, No[G]el, No[D]el, [Bm]born is the [F#m G]King [Em]of [D/F#]Is[A]ra[D]el.
+
+Verse 2:
+[A]They [D]looked [F#m]up and [G]saw a [D]star
+Shining [G]in the [D]East be[A]yond them [D]far
+[A]And [D]to the [F#m]earth it [G]gave great [D]light
+And [G]so it con[D]tinued both [A]day and [D]night.
+[A]No[D]el, No[F#m]el, No[G]el, No[D]el, [Bm]born is the [F#m G]King [Em]of [D/F#]Is[A]ra[D]el.
+
+Verse 3: 
+[A]And [D]by the [F#m]light of [G]that same [D]star,
+Three [G]wise men [D]came from [A]country [D]far;
+[A]To [D]seek for a [F#m]King was [G]their in[D]tent,
+And to [G]follow the [D]star wher[A]ever it [D]went.
+[A]No[D]el, No[F#m]el, No[G]el, No[D]el, [Bm]born is the [F#m G]King [Em]of [D/F#]Is[A]ra[D]el.
+
+Verse 4: 
+[A]Then [D]let us [F#m]all with [G]one ac[D]cord
+Sing [G]praises [D]to our [A]heavenly [D]Lord
+[A]That [D]hath made [F#m]Heaven and [G]earth of [D]nought
+And [G]with his [D]blood man[A]kind has [D]bought.
+[A]No[D]el, No[F#m]el, No[G]el, No[D]el, [Bm]born is the [F#m G]King [Em]of [D/F#]Is[A]ra[D]el.</text>
+		<searchtext>verse 1 the first noel the angel did say was to certain poor shepherds in fields as they lay in fields where they lay keeping their sheep on a cold winters night that was so deep noel noel noel noel born is the king of israel verse 2 they looked up and saw a star shining in the east beyond them far and to the earth it gave great light and so it continued both day and night noel noel noel noel born is the king of israel verse 3 and by the light of that same star three wise men came from country far to seek for a king was their intent and to follow the star wherever it went noel noel noel noel born is the king of israel verse 4 then let us all with one accord sing praises to our heavenly lord that hath made heaven and earth of nought and with his blood mankind has bought noel noel noel noel born is the king of israel</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>6/8</time_signature>
+		<bpm>92</bpm>
+		<tempo>Medium</tempo>
+		<created>2008-09-25 21:00:49</created>
+		<modified>2008-09-25 21:00:49</modified>
+		<creator>1543</creator>
+		<ccli>1614872</ccli>
+		<album></album>
+		<font_size></font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

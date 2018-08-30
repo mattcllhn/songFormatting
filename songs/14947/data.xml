@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14947</id>
+		<songbook_id>21</songbook_id>
+		<title>Be Praised In All The Earth</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2002 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:04</created>
+		<modified>2009-03-20 09:15:04</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0010VIVW2&quot;,&quot;title&quot;:&quot;Be Praised in All the Earth&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/519CuW9nbdL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16083</id>
+		<song_id>14947</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: Em   D   | Cmaj7   D6   | Em   D6   | Cmaj7       :||]
+
+Verse 1:
+[Em]You are the [Bm/D]One who spoke{,} and [Cmaj7]worlds be[G]came
+[Em]You are our [Bm/D]maker and sus[Cmaj7]tainer
+[Em]And Jesus, [Bm/D]You alone are [Cmaj7]King of [G]Kings
+The [Am7]Christ of God, our [B]Savior
+And our on[Cmaj7]ly hope, our [Bsus4]only [B]love
+
+Chorus:
+And we [E]want to see Your name
+Be [Cmaj7]praised in all the [D2]Earth
+O [Am]God of endless [G/B]glory,{,} G[C]od of endless [D] worth
+And we [E]want to see Your name
+Be [Cmaj7]praised in all the [D2]Earth
+For [Am]You alone have [G/B]conquered
+[C]You alone are [D]worthy of p[E]raise
+[C]You alone are [D]worthy of p[E]raise [| 2/4 C     | 4/4 D     |]
+
+Verse 2:
+[Em]You are the [Bm/D]One{,} who fills our [Cmaj7]hearts with [G]joy
+[Em]You are our [Bm/D]light and our salv[Cmaj7]ation
+[Em]You are our [Bm/D]fullness, You are [Cmaj7]all we n[G]eed
+The [Am7]first and last, our [B]ransom
+And our right[Cmaj7]eousness, our [Bsus4]only l[B]ove</text>
+		<searchtext>intro verse 1 you are the one who spoke and worlds became you are our maker and sustainer and jesus you alone are king of kings the christ of god our savior and our only hope our only love chorus and we want to see your name be praised in all the earth o god of endless glory god of endless worth and we want to see your name be praised in all the earth for you alone have conquered you alone are worthy of praise you alone are worthy of praise verse 2 you are the one who fills our hearts with joy you are our light and our salvation you are our fullness you are all we need the first and last our ransom and our righteousness our only love</searchtext>
+		<primary>1</primary>
+		<key>Em</key>
+		<time_signature>4/4</time_signature>
+		<bpm>80</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:04</created>
+		<modified>2009-03-20 09:15:04</modified>
+		<creator>1543</creator>
+		<ccli>4125213</ccli>
+		<album>All We Long To See</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

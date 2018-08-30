@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14878</id>
+		<songbook_id>21</songbook_id>
+		<title>All I Have Is Christ</title>
+		<copyright>Words &amp; Music by Jordan Kauflin     © 2008 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:55</created>
+		<modified>2017-10-07 01:02:14</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BVM0EQ&quot;,&quot;title&quot;:&quot;All I Have Is Christ&quot;,&quot;artist&quot;:&quot;Na Band&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51pvb6KwaZL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>79740</id>
+		<song_id>14878</song_id>
+		<description>Chords from The Gathering</description>
+		<text>Intro:
+| = add one beat to chord
+
+[Bm  |  D/F#  G  |  D/F#  G  |  A  D  |  |     Bm  |  D/F#  G  |  D/F#  G  |  A  D  |  |  |  | ]
+
+Verse 1: 
+I once was [A]lost in darkest [Bm]night, yet thought I [G2]knew the [Bm]way:
+The sin that [Em]promised joy and [G]life had led me [A]to the [D]grave.
+I had no [D/F#]hope that You would [G]own a rebel [Em]to Your [Bm]will,
+And if You [D/F#]had not loved me [G]first, I would re[Bm]fuse You [A]still
+
+Verse 2: 
+But as I [A]ran my hell-bound [Bm]race, indifferent [G]to the [Bm]cost,
+You looked u[Em7]pon my helpless [G]state and led me [A]to the [D]cross.
+And I be[D/F#]held God’s love disp[G]layed: You suffered [Em]in my [Bm]place,
+You bore the [D/F#]wrath reserved for [G]me; now all I [Bm]know is [A]grace!
+
+Chorus:
+Halle[G]lu[D]jah! All I [A]have is [Bm]Christ!
+Halle[G]lu[Bm]jah! Jesus [A]is my [D]life!
+
+Verse 3: 
+Now, Lord, I [A]would be Yours a[Bm]lone and live so [G]all might [D]see
+The strength to [Em]follow Your com[Gmaj7]mands
+Could never [A]come from [D]me
+Oh Father, [D]use my ransomed [Dadd6]life in any way You [Dmaj7]choose,
+And let my [Bm]song forever [G]be &quot;My[G/A] only b[Bm]oast is [A]You!&quot;</text>
+		<searchtext>intro add one beat to chord verse 1 i once was lost in darkest night yet thought i knew the way the sin that promised joy and life had led me to the grave i had no hope that you would own a rebel to your will and if you had not loved me first i would refuse you still verse 2 but as i ran my hellbound race indifferent to the cost you looked upon my helpless state and led me to the cross and i beheld gods love displayed you suffered in my place you bore the wrath reserved for me now all i know is grace chorus hallelujah all i have is christ hallelujah jesus is my life verse 3 now lord i would be yours alone and live so all might see the strength to follow your commands could never come from me oh father use my ransomed life in any way you choose and let my song forever be my only boast is you</searchtext>
+		<primary>0</primary>
+		<key>D</key>
+		<time_signature>3/4</time_signature>
+		<bpm>76</bpm>
+		<tempo>Slow</tempo>
+		<created>2017-10-07 01:02:15</created>
+		<modified>2017-10-07 01:02:15</modified>
+		<creator>13337</creator>
+		<ccli>5174122</ccli>
+		<album>The Gathering</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>16006</id>
+		<song_id>14878</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1: 
+I once was [A]lost in darkest [Bm]night, yet thought I [G]knew the [D]way
+The sin that [Em]promised joy and [G]life had led me [A]to the [D]grave
+I had no [D]hope that You would own a rebel [Dmaj7]to Your [Bm/D]will
+And if You [Bm]had not loved me first, I would re[G]fuse You [A]still
+
+Verse 2: 
+But as I [A]ran my hell-bound [Bm]race, indifferent [G]to the [D]cost
+You looked u[Em7]pon my helpless [G]state and led me [A]to the [D]cross
+And I be[D]held God’s love displayed: You suffered in my [Dmaj7]place
+You bore the [Bm7]wrath reserved for me, now all I [G]know is [A]grace!
+
+Chorus:
+Halle[G]lu[D]jah! All I [A]have is [Bm]Christ
+Halle[G]lu[Bm]jah! Jesus [A]is my [D]life
+
+Verse 3: 
+Now, Lord, I [A]would be Yours a[Bm]lone and live so [G]all might [D]see
+The strength to [Em]follow Your com[Gmaj7]mands
+Could never [A]come from [D]me
+Oh Father, [D]use my ransomed life in any way You [Dmaj7]choose
+And let my [Bm]song forever [Bm7]be &quot;My only [G]boast is [A]You!&quot;</text>
+		<searchtext>verse 1 i once was lost in darkest night yet thought i knew the way the sin that promised joy and life had led me to the grave i had no hope that you would own a rebel to your will and if you had not loved me first i would refuse you still verse 2 but as i ran my hellbound race indifferent to the cost you looked upon my helpless state and led me to the cross and i beheld gods love displayed you suffered in my place you bore the wrath reserved for me now all i know is grace chorus hallelujah all i have is christ hallelujah jesus is my life verse 3 now lord i would be yours alone and live so all might see the strength to follow your commands could never come from me oh father use my ransomed life in any way you choose and let my song forever be my only boast is you</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>3/4</time_signature>
+		<bpm>76</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:14:55</created>
+		<modified>2014-11-08 22:24:44</modified>
+		<creator>1543</creator>
+		<ccli>5174122</ccli>
+		<album>Looked Upon</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>73119</id>
+		<song_id>14878</song_id>
+		<description>Simplified</description>
+		<text>Verse 1: 
+I once was [A]lost in darkest [Bm]night, yet thought I [G]knew the [D]way
+The sin that [A]promised joy and [Bm]life had led me [G]to the [D]grave
+I had no [D]hope that You would [Bm]own a rebel [G]to Your [D]will
+And if You [Bm]had not loved me [Bm]first, I would re[G]fuse You [A]still
+
+Verse 2: 
+But as I [A]ran my hell-bound [Bm]race, indifferent [G]to the [D]cost
+You looked u[A]pon my helpless [Bm]state and led me [G]to the [D]cross
+And I be[D]held God’s love [Bm]displayed: You suffered [G]in my [Dmaj7]place
+You bore the [Bm]wrath reserved for [Bm]me, now all I [G]know is [A]grace!
+
+Chorus: 
+Halle[G]lu[D]jah! All I [A]have is [Bm]Christ
+Halle[G]lu[Bm]jah! Jesus [A]is my [D]life
+
+Verse 3: 
+Now, Lord, I [A]would be Yours a[Bm]lone and live so [G]all might [D]see
+The strength to [A]follow Your com[Bm]mands
+Could never [G]come from [D]me
+Oh Father, [D]use my ransomed [Bm]life in any [G]way You [Dmaj7]choose
+And let my [Bm]song forever be &quot;My only [G]boast is [A]You!&quot;</text>
+		<searchtext>verse 1 i once was lost in darkest night yet thought i knew the way the sin that promised joy and life had led me to the grave i had no hope that you would own a rebel to your will and if you had not loved me first i would refuse you still verse 2 but as i ran my hellbound race indifferent to the cost you looked upon my helpless state and led me to the cross and i beheld gods love displayed you suffered in my place you bore the wrath reserved for me now all i know is grace chorus hallelujah all i have is christ hallelujah jesus is my life verse 3 now lord i would be yours alone and live so all might see the strength to follow your commands could never come from me oh father use my ransomed life in any way you choose and let my song forever be my only boast is you</searchtext>
+		<primary>0</primary>
+		<key>D</key>
+		<time_signature>3/4</time_signature>
+		<bpm>76</bpm>
+		<tempo>Slow</tempo>
+		<created>2016-02-16 21:35:22</created>
+		<modified>2016-02-23 22:24:31</modified>
+		<creator>5114</creator>
+		<ccli>5174122</ccli>
+		<album>Looked Upon</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

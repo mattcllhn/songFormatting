@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>69824</id>
+		<songbook_id>21</songbook_id>
+		<title>Z - Psalm 66:16-20 (ESV)</title>
+		<copyright></copyright>
+		<created>2017-02-17 10:02:17</created>
+		<modified>2017-02-17 10:02:17</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>77036</id>
+		<song_id>69824</song_id>
+		<description>Initial arrangement</description>
+		<text>
+	Come and hear, all you who fear God,
+		   and I will tell what he has done for my soul.
+	I cried to him with my mouth,
+		   and high praise was on my tongue.
+	If I had cherished iniquity in my heart,
+		   the Lord would not have listened.
+	But truly God has listened;
+		   he has attended to the voice of my prayer.
+	Blessed be God,
+		   because he has not rejected my prayer
+		   or removed his steadfast love from me! </text>
+		<searchtext> come and hear all you who fear god and i will tell what he has done for my soul i cried to him with my mouth and high praise was on my tongue if i had cherished iniquity in my heart the lord would not have listened but truly god has listened he has attended to the voice of my prayer blessed be god because he has not rejected my prayer or removed his steadfast love from me </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2017-02-17 10:02:17</created>
+		<modified>2017-02-17 10:02:17</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>18</font_size>
+	</Arrangement>
+</data>
+

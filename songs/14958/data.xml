@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14958</id>
+		<songbook_id>21</songbook_id>
+		<title>High Above All Things</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2001 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:06</created>
+		<modified>2009-03-20 09:15:06</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0010V3654&quot;,&quot;title&quot;:&quot;High Above All Things&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/41het-XU6lL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16099</id>
+		<song_id>14958</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[C]   Give me a passion [Am]   to see Your glory
+[F]   A heart that worships [Gsus]You alone
+[C]   Cleanse me, forgive me, [Am]   for my self-seeking
+[F]   That I might seek to [Gsus]make You [G]known
+[Am]   I want to serve You, [F]   I want to please You
+[D/F#]   My one de[F]sire is to...
+
+Chorus:
+[G]See the name of [Am]Jesus lifted 
+[F]High above all th[C]ings
+And the [G]knowledge of Your [Am]glory{,} fill the [F]earth
+To [G]see the name of [Am]Jesus lifted 
+[F]High above all th[C]ings
+And a [Dm7]fragrant offeri[C/E]ng{,} as[F]cending to the [G]King
+In every [C]place [| F     | Am     | F] 
+
+Verse 2:
+[C]   Your heart, Your passion [Am]   to give all nations
+[F]   Gladness and joy in [Gsus]Jesus Christ
+[C]   Rivers of blessing, [Am]   mercy and kindness
+[F]   Purchased by Your great [Gsus]sacri[G]fice
+[Am]   So we join our voices [F]   to sing Your praises
+[D/F#]   Our one de[F]sire is to...</text>
+		<searchtext>verse 1 give me a passion to see your glory a heart that worships you alone cleanse me forgive me for my selfseeking that i might seek to make you known i want to serve you i want to please you my one desire is to chorus see the name of jesus lifted high above all things and the knowledge of your glory fill the earth to see the name of jesus lifted high above all things and a fragrant offering ascending to the king in every place verse 2 your heart your passion to give all nations gladness and joy in jesus christ rivers of blessing mercy and kindness purchased by your great sacrifice so we join our voices to sing your praises our one desire is to</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>138</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:06</created>
+		<modified>2009-03-20 09:15:06</modified>
+		<creator>1543</creator>
+		<ccli>3337624</ccli>
+		<album>No Greater Love</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

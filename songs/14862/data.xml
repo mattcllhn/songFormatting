@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14862</id>
+		<songbook_id>21</songbook_id>
+		<title>You Have Always Been Faithful</title>
+		<copyright>Words &amp; Music by Stephen Altrogge     © 2008 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:53</created>
+		<modified>2009-03-20 09:14:53</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BQQFXI&quot;,&quot;title&quot;:&quot;You Have Always Been Faithful&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/519kK7bceBL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>15990</id>
+		<song_id>14862</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: A     | Bm     | F#m     | D     :||]
+
+Verse 1:
+[A] [ ]There is a rock{,} that's w[C#m]eathered every st[F#m]orm
+[A] [ ]Standing firm through the ag[E]es
+[A] [ ]A shelter for{,} the bat[C#m]tered, bruised, and w[F#m]orn
+[A] [ ]You're our help and our S[E]avior
+
+Chorus:
+[A]You have [Bm]always been [F#m]faithful       [D]
+And [A]You will [Bm]always be [F#m]good         [E]
+You'll [D]never let us [E]go, I'll [Bm]never be al[F#m]one
+[D]You have [Bm]always been [A]faithful[| Bm    | F#m    | D]
+
+Verse 2:
+[A] [ ]Every day Your g[C#m]race has carried [F#m]me
+[A] [ ]Through the joy and sor[E]row
+[A] [ ]You hold us tight through [C#m]all eterni[F#m]ty
+[A] [ ]You're our hope for tomor[E]row
+
+Tag:
+[A] [ ]There is a rock{,} that's we[C#m]athered every st[F#m]orm 
+[A] [ ]Standing firm through the a[E]ges</text>
+		<searchtext>intro verse 1 there is a rock thats weathered every storm standing firm through the ages a shelter for the battered bruised and worn youre our help and our savior chorus you have always been faithful and you will always be good youll never let us go ill never be alone you have always been faithful verse 2 every day your grace has carried me through the joy and sorrow you hold us tight through all eternity youre our hope for tomorrow tag there is a rock thats weathered every storm standing firm through the ages</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>142</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:14:53</created>
+		<modified>2009-03-20 09:14:53</modified>
+		<creator>1543</creator>
+		<ccli>5171637</ccli>
+		<album>Come Weary Saints</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

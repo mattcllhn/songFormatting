@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14865</id>
+		<songbook_id>21</songbook_id>
+		<title>Sleep, Jesus, Sleep</title>
+		<copyright>Words &amp; Music by Rich Dalmas     © 2006 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2009-03-20 09:14:54</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0012ACHJO&quot;,&quot;title&quot;:&quot;Sleep, Jesus, Sleep&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61AitRsTtfL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>15993</id>
+		<song_id>14865</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: C      | C      | Fmaj7      | Fmaj7      :||]
+
+Verse 1:
+[C]Sleep, Jesus, sleep, [Fmaj7]we’ve come to [C]see
+[G/B]You who [C]never closed Your [F2]eyes
+[G/B]Watching [C]over earth and [Fmaj7]skies
+[Fmaj7]Now in [C/E]frail humani[Dm9   | G/B]ty [ ]must [C]sleep
+
+Verse 2:
+[C]Sleep, newborn King, [Fmaj7]we’ll gently [C]sing
+[G/B]You who [C]reigns forever[F2]more
+[G/B]Ruling [C]as the Lord of [Fmaj7]lords
+[Fmaj7]You who [C/E]never had a [Dm9    | G/B]need [ ]must [C]sleep
+
+Bridge:
+[Fmaj7]Sovereign One, born as [C]Mary’s son
+[Fmaj7]Prince of Peace
+[G/B]One day [C]You’ll deliver [F2]me, de[C/E]liver [Dm9    | G/B]me
+
+Verse 3:
+But now [C]sleep, Son of God, [Fmaj7]we’ll watch in [C]awe
+[G/B]You’ll ful[C]fill the Father’s [F2]plan
+[G/B]Recon[C]ciling God and [Fmaj7]man
+[F2]Now Your [C/E]promises to [Dm9    | G/B]keep [ ]must [C]sleep</text>
+		<searchtext>intro verse 1 sleep jesus sleep weve come to see you who never closed your eyes watching over earth and skies now in frail humanity must sleep verse 2 sleep newborn king well gently sing you who reigns forevermore ruling as the lord of lords you who never had a need must sleep bridge sovereign one born as marys son prince of peace one day youll deliver me deliver me verse 3 but now sleep son of god well watch in awe youll fulfill the fathers plan reconciling god and man now your promises to keep must sleep</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>116</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2009-03-20 09:14:54</modified>
+		<creator>1543</creator>
+		<ccli>4866242</ccli>
+		<album>Savior</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

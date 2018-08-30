@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5571</id>
+		<songbook_id>21</songbook_id>
+		<title>Were You There</title>
+		<copyright>Words &amp; Music by Frederick Work and John Work     Public domain</copyright>
+		<created>2008-09-25 22:49:07</created>
+		<modified>2017-03-08 20:40:57</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6302</id>
+		<song_id>5571</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+Were you [C]there, when they [G/B]crucified my [C]Lord?
+Were you [Am7]there, when they [Dm7]crucified my [G]Lord?
+[C]Oh[F]-[C]-! [Am7]Sometimes it [C/G]causes me{,} to [F]tremble, [Dm7]tremble, [G]tremble.
+Were you [C]there, when they [G/B]crucified my [C]Lord?
+
+
+Verse 2:
+Were you [C]there, when they [G/B]nailed Him to the [C]tree?
+Were you [Am7]there, when they [Dm7]nailed Him to the [G]tree?
+[C]Oh[F]-[C]-! [Am7]Sometimes it [C/G]causes me{,} to [F]tremble, [Dm7]tremble, [G]tremble.
+Were you [C]there, when they [G/B]nailed Him to the [C]tree?
+
+
+Verse 3:
+Were you [C]there, when they [G/B]laid Him in the [C]tomb?
+Were you [Am7]there, when they [Dm7]laid Him in the [G]tomb?
+[C]Oh[F]-[C]-! [Am7]Sometimes it [C/G]causes me{,} to [F]tremble, [Dm7]tremble, [G]tremble.
+Were you [C]there, when they [G/B]laid Him in the [C]tomb?</text>
+		<searchtext>verse 1 were you there when they crucified my lord were you there when they crucified my lord oh sometimes it causes me to tremble tremble tremble were you there when they crucified my lord verse 2 were you there when they nailed him to the tree were you there when they nailed him to the tree oh sometimes it causes me to tremble tremble tremble were you there when they nailed him to the tree verse 3 were you there when they laid him in the tomb were you there when they laid him in the tomb oh sometimes it causes me to tremble tremble tremble were you there when they laid him in the tomb</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>60</bpm>
+		<tempo>Slow</tempo>
+		<created>2008-09-25 22:49:07</created>
+		<modified>2017-03-08 20:40:57</modified>
+		<creator>1543</creator>
+		<ccli>29516</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>257</id>
+		<songbook_id>21</songbook_id>
+		<text>Easter</text>
+	</Keyword>
+	<Keyword>
+		<id>2355</id>
+		<songbook_id>21</songbook_id>
+		<text>Good Friday</text>
+	</Keyword>
+</data>
+

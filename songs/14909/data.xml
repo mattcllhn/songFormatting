@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14909</id>
+		<songbook_id>21</songbook_id>
+		<title>How Deep</title>
+		<copyright>Words and Music by Stephen Altrogge     © 2006 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:58</created>
+		<modified>2009-03-20 09:14:58</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BORTG2&quot;,&quot;title&quot;:&quot;How Deep&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51ASvkc53%2BL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16037</id>
+		<song_id>14909</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[| D    G2/B    | G2/B    A    | D    G2/B    | Bm    A    |]
+
+Verse 1:
+[D]You were [G2]broken that [Bm]I might be [A]healed
+[D]You were [G2]cast off that [Bm]I might draw [A]near
+[D]You were [G2]thirsty that [Bm]I might come [A]drink
+[D/F#]Cried out in [G2]angui[2/4]sh [Bm7]that I mig[4/4]ht [Asus4  A]sing
+
+
+Chorus:
+How [Em7  G2]deep is Your [D   A/C#]love
+How [Em7]high and how [G2]wide is Your [D]mer[A]cy
+How [Em7  G2]deep is Your [D   A/C#]grace
+Our [Em7]hearts over[Bm]flow with [Asus4]praise
+To [D   G2/B   | Bm   A]You
+
+
+Verse 2:
+[D]You knew [G2]darkness that [Bm]I might know [A]light
+[D]Wept great [G2]tears that [Bm]mine might be [A]dried
+[D]Stripped of [G]glory that [Bm]I might be [A]clothed
+[D/F#]Crushed by Your [G2]Father [2/4]to [Bm7]call me Yo[4/4]ur [Asus4  A]own</text>
+		<searchtext>intro verse 1 you were broken that i might be healed you were cast off that i might draw near you were thirsty that i might come drink cried out in anguish that i might sing chorus how deep is your love how high and how wide is your mercy how deep is your grace our hearts overflow with praise to you verse 2 you knew darkness that i might know light wept great tears that mine might be dried stripped of glory that i might be clothed crushed by your father to call me your own</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>72</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:14:58</created>
+		<modified>2009-03-20 09:14:58</modified>
+		<creator>1543</creator>
+		<ccli>4803944</ccli>
+		<album>Valley Of Vision</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

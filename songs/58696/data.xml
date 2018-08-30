@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>58696</id>
+		<songbook_id>21</songbook_id>
+		<title>Great is Thy Faithfulness</title>
+		<copyright></copyright>
+		<created>2014-06-21 22:05:00</created>
+		<modified>2015-11-23 22:44:38</modified>
+		<creator>5114</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>72346</id>
+		<song_id>58696</song_id>
+		<description>Bloom arrangement (more chords)</description>
+		<text>VERSE 1: 
+Gr[D]eat is thy f[Dmaj7]aithfulness, [G]O God [G/A]my [G/DFat[D]her,
+T[G]here is no sh[D/F#]adow of t[E]urning [E/G#]with Th[A]ee;
+T[A7]hou changest n[D]ot, Thy comp[Dmaj7]assions they [Bm/G]fail [Em/G]not
+[Em]As Thou [G/A]has b[D]een Thou for[Bm/E]ev[G/E]er w[A7]ilt [D]be.
+
+CHORUS: 
+G[A]reat is Thy f[Dsus]aith[D]fulness!
+G[B]reat is [B7]Thy fa[Emsus]ith[Em]fulness!
+M[A]orning by m[D]orning new m[E7]ercies [E/G#]I s[A]ee.
+[A7]All I have n[D]eeded Thy h[D]and hath pro[Em7]vided
+[G]Great is Thy f[D]aithfulness, [A]Lord u[A7]nto [D]me.
+
+VERSE 2: 
+[D]Summer and [G]winter, and [A7]springtime and [D]harvest,
+[G]Sun, moon, and [D]stars in their [Em]courses [A]above
+[A7]Join with all [D]nature in [D]manifold [Em7]witness
+[G]To Thy great [D]faithfulness, [A]mercy [A7]and [D]love.
+
+VERSE 3: 
+[D]Pardon for [G]sin and a [A7]peace that [D]endureth,
+[G]Thy own dear [D]presence to [Em]cheer and to [A]guide. 
+[A7]Strength for [D]today and bright [D]hope for [Em7]tomorrow
+[G]Blessings all [D]mine, with ten [A]thousand [A7 D]beside.
+</text>
+		<searchtext>verse 1 great is thy faithfulness o god my gdfather there is no shadow of turning with thee thou changest not thy compassions they fail not as thou has been thou forever wilt be chorus great is thy faithfulness great is thy faithfulness morning by morning new mercies i see all i have needed thy hand hath provided great is thy faithfulness lord unto me verse 2 summer and winter and springtime and harvest sun moon and stars in their courses above join with all nature in manifold witness to thy great faithfulness mercy and love verse 3 pardon for sin and a peace that endureth thy own dear presence to cheer and to guide strength for today and bright hope for tomorrow blessings all mine with ten thousand beside </searchtext>
+		<primary>0</primary>
+		<key>D</key>
+		<time_signature>3/4</time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2015-11-23 22:44:38</created>
+		<modified>2015-11-23 22:44:38</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>64126</id>
+		<song_id>58696</song_id>
+		<description>Initial arrangement</description>
+		<text>VERSE 1: 
+Gr[D]eat is thy f[G]aithfulness,[A7] O God my F[D]ather,
+T[G]here is no sh[D]adow of t[Em]urning with Th[A]ee;
+T[A7]hou changest n[D]ot, Thy comp[D]assions they [Em7]fail not
+[G]As Thou has b[D]een Thou f[A]orever w[A7]ilt [D]be.
+
+CHORUS: 
+G[A]reat is Thy f[D]aithfulness!
+G[Bm]reat is Thy fa[Em]ithfulness!
+M[A7]orning by m[D]orning new mer[Em]cies I s[A]ee.
+[A7]All I have n[D]eeded Thy h[D]and hath pro[Em7]vided
+[G]Great is Thy f[D]aithfulness, [A]Lord u[A7]nto [D]me.
+
+VERSE 2: 
+[D]Summer and [G]winter, and [A7]springtime and [D]harvest,
+[G]Sun, moon, and [D]stars in their [Em]courses [A]above
+[A7]Join with all [D]nature in [D]manifold [Em7]witness
+[G]To Thy great [D]faithfulness, [A]mercy [A7]and [D]love.
+
+VERSE 3: 
+[D]Pardon for [G]sin and a [A7]peace that [D]endureth,
+[G]Thy own dear [D]presence to [Em]cheer and to [A]guide. 
+[A7]Strength for [D]today and bright [D]hope for [Em7]tomorrow
+[G]Blessings all [D]mine, with ten [A]thousand [A7 D]beside.
+
+</text>
+		<searchtext>verse 1 great is thy faithfulness o god my father there is no shadow of turning with thee thou changest not thy compassions they fail not as thou has been thou forever wilt be chorus great is thy faithfulness great is thy faithfulness morning by morning new mercies i see all i have needed thy hand hath provided great is thy faithfulness lord unto me verse 2 summer and winter and springtime and harvest sun moon and stars in their courses above join with all nature in manifold witness to thy great faithfulness mercy and love verse 3 pardon for sin and a peace that endureth thy own dear presence to cheer and to guide strength for today and bright hope for tomorrow blessings all mine with ten thousand beside </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>3/4</time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2014-06-21 22:05:00</created>
+		<modified>2014-06-21 22:05:00</modified>
+		<creator>5114</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

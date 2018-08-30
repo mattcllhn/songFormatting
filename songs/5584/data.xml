@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5584</id>
+		<songbook_id>21</songbook_id>
+		<title>Angels From The Realms Of Glory</title>
+		<copyright>Words by James Montgomery     Music by Henry Smart     Public domain</copyright>
+		<created>2008-09-24 03:07:05</created>
+		<modified>2015-11-23 20:46:45</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6315</id>
+		<song_id>5584</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[G]Angels, from the realms of glory,
+[C]Wing your [G]flight o'er [D7]all the [G]earth
+[G]Ye who sang creation's [B7]story,
+[Em]Now [B7]pro[Em]claim the Mes[D]si[A]ah's [D]birth
+
+Chorus:
+[D]Come and worship, [G]Come and [C]worship,
+[Am]Worship [Em]Christ the [Dsus]new[D]born [G]King!
+
+Verse 2:
+[G]Shepherds, in the fields abiding,
+[C]Watching [G]o'er your [D7]flocks by [G]night,
+[G]God with us is now re[B7]siding,
+[Em]Yon[B7]der [Em]shines the [D]in[A]fant [D]Light
+
+Verse 3:
+[G]Sages, leave your contemplations,
+[C]Brighter [G]visions [D7]beam a[G]far
+[G]Seek the great Desire of [B7]Nations
+[Em]Ye [B7]have [Em]seen His [D]na[A]tal [D]star
+
+Verse 4:
+[G]Saints, before the altar bending,
+[C]Watching [G]long in [D7]hope and [G]fear,
+[G]Suddenly the Lord, des[B7]cending,
+[Em]In [B7]His [Em]temple [D]shall [A]ap[D]pear</text>
+		<searchtext>verse 1 angels from the realms of glory wing your flight oer all the earth ye who sang creations story now proclaim the messiahs birth chorus come and worship come and worship worship christ the newborn king verse 2 shepherds in the fields abiding watching oer your flocks by night god with us is now residing yonder shines the infant light verse 3 sages leave your contemplations brighter visions beam afar seek the great desire of nations ye have seen his natal star verse 4 saints before the altar bending watching long in hope and fear suddenly the lord descending in his temple shall appear</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>112</bpm>
+		<tempo>Medium</tempo>
+		<created>2008-09-24 03:07:05</created>
+		<modified>2015-11-23 20:46:45</modified>
+		<creator>1543</creator>
+		<ccli>31669</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

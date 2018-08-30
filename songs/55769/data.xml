@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>55769</id>
+		<songbook_id>21</songbook_id>
+		<title>Almighty Maker</title>
+		<copyright>© 2013 Sovereign Grace Worship     Words &amp; Music by Steve &amp; Vikki Cook</copyright>
+		<created>2013-11-05 13:01:57</created>
+		<modified>2013-11-05 13:01:57</modified>
+		<creator>1548</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00DZ6QE8I&quot;,&quot;title&quot;:&quot;Almighty Maker&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51gxHYF1DlL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>60679</id>
+		<song_id>55769</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[D      | F#m      | A      | C#m]
+
+VERSE 1:
+[F#m]Who but the Lord set the bound'ries of light
+[A]   Hung the stars in the night?
+[F#m]Who but the Lord{,} drew the face on the moon
+[A]   Made the planets to move?
+[E]Who but the Lord{,} tells the [Bm]clouds when to pour,{,} thunder to roar?
+[E]   Amazing are Your[Bm] works
+
+CHORUS:
+Almighty M[D]aker, You com[A]mand heaven [E]and earth
+By the [F#m]power of Your [D]Word, be [A]praised for[C#m]ever [| E]
+Almighty M[D]aker, all cre[A]ation sings of Y[E]ou
+Glory [F#m]fills all that You [D]do, be [A]praised for[C#m]ever, [E]ever, and ever[D]more
+
+VERSE 2:
+[F#m]Who but the Lord{,} could have dreamed of the plan
+[A]   That would save fallen man?
+[F#m]Who but the Lord washes rebels with blood
+[A]   Making mercy a flood?
+[E]Who but the Lord{,} could give l[Bm]ife through a cross,{,} rescuing us?
+[E]   Amazing are Your w[Bm]ays
+
+BRIDGE:
+[D]All things are [F#m]from You,{,} [E]all things are [A]through You
+O [D]God, the [F#m]great I [E]AM
+[D]All things are [F#m]for You,{,} [E]all things are [A]to You
+O [D]God, the [F#m]great I [E]AM</text>
+		<searchtext>intro verse 1 who but the lord set the boundries of light hung the stars in the night who but the lord drew the face on the moon made the planets to move who but the lord tells the clouds when to pour thunder to roar amazing are your works chorus almighty maker you command heaven and earth by the power of your word be praised forever almighty maker all creation sings of you glory fills all that you do be praised forever ever and evermore verse 2 who but the lord could have dreamed of the plan that would save fallen man who but the lord washes rebels with blood making mercy a flood who but the lord could give life through a cross rescuing us amazing are your ways bridge all things are from you all things are through you o god the great i am all things are for you all things are to you o god the great i am</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>128</bpm>
+		<tempo>Fast</tempo>
+		<created>2013-11-05 13:01:57</created>
+		<modified>2013-11-05 13:01:57</modified>
+		<creator>1548</creator>
+		<ccli></ccli>
+		<album>Grace Has Come</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

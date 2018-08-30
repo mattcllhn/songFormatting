@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14914</id>
+		<songbook_id>21</songbook_id>
+		<title>In The Valley</title>
+		<copyright>Words and Music by Bob Kauflin     © 2006 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:59</created>
+		<modified>2009-03-20 09:14:59</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BOZQFI&quot;,&quot;title&quot;:&quot;In the Valley&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51ASvkc53%2BL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16042</id>
+		<song_id>14914</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[Fmaj7     | Fmaj7     | Am9     | Am9     | F2     | F2     | C     | C]
+
+Verse 1:
+[F2] [ ]When You lead me to the v[Am9]alley of vision
+[F2] [ ]I can see You in the h[Am7     | G  Gsus4  G  |]eights
+[F2] [ ]And though my humbling{,} wouldn’t [Am9]be my decision
+[Dm7] [ ]It’s here Your [C/E]glory shines so b[F2]right
+So let me [Em]learn{,} that the cross precedes the c[F2]rown
+To be low is to be h[Em]igh
+That the v[Am7]alley’s where{,} You m[Dm7]ake me more like Christ
+
+Chorus:
+Let me [F/G]find [G]Your [Am7]grace [F2] [ ]in the [C]valley
+[G] [ ]Let me find Your [Am7]life [F2] [ ]in my [C]death
+[G] [ ]Let me find Your [Am7]joy in my s[F2]orrow
+Your [C]wealth in my [G]need
+That You’re [Dm]near with e[Am/C]very b[Dm/B]reath
+[E7] [ ]In the [Fmaj7    | Fmaj7    | Am9    | Am9    | F2    | F2    | C    | C]valley
+
+Verse 2:
+[F2] [ ]In the daytime there are [Am9]stars in the heavens
+[F2] [ ]But they only shine at [Am7   | G  Gsus4  G  |]night
+[F2] [ ]And the deeper that I [Am9]go into darkness
+[Dm7] [ ]The more I [C/E]see their radiant l[F2]ight
+So let me [Em]learn that my losses are my g[F2]ain
+To be broken is to h[Em]eal
+That the v[Am7]alley’s where{,} Your p[Dm7]ower is revealed</text>
+		<searchtext>intro verse 1 when you lead me to the valley of vision i can see you in the heights and though my humbling wouldnt be my decision its here your glory shines so bright so let me learn that the cross precedes the crown to be low is to be high that the valleys where you make me more like christ chorus let me find your grace in the valley let me find your life in my death let me find your joy in my sorrow your wealth in my need that youre near with every breath in the valley verse 2 in the daytime there are stars in the heavens but they only shine at night and the deeper that i go into darkness the more i see their radiant light so let me learn that my losses are my gain to be broken is to heal that the valleys where your power is revealed</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>112</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:14:59</created>
+		<modified>2009-03-20 09:14:59</modified>
+		<creator>1543</creator>
+		<ccli>4803975</ccli>
+		<album>Valley Of Vision</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14874</id>
+		<songbook_id>21</songbook_id>
+		<title>Heavenly Father, Beautiful Son</title>
+		<copyright>Words and Music by Mark Altrogge     © 2005 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:55</created>
+		<modified>2009-03-20 09:14:55</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BOXT0M&quot;,&quot;title&quot;:&quot;Heavenly Father, Beautiful Son&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51ASvkc53%2BL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16002</id>
+		<song_id>14874</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: A      | E      | Bm      | D      :||]
+
+Verse 1:
+[F#m]Father, You loved me,{,} sent Your [C#]Son to redeem
+[F#m]Jesus, You washed me,{,} by Your [D2]blood I am clean
+[D2]Spir[E]it, You’ve [C#m]o[D]pened{,} [D]these [E]blinded [C#m]eyes
+And brought me to [D]Christ
+
+Chorus:
+[A]Heavenly Father, [E]beautiful Son
+Sp[Bm7]irit of light and [D]truth
+[A]Thank You for bringing [E]sinners
+To come to [Bm7    | D (repeat chorus)]You
+
+Verse 2:
+[F#m]Father, You gave me to [C#]Jesus to keep
+And [F#m]Jesus, You love me,{,} as a [D2]shepherd, his sheep
+[D]Spir[E]it, You’ve [C#m]giv[D]en me{,} [D]faith [E]in the [C#m]Son
+And made our hearts [D]one
+
+Verse 3:
+[F#m]Father, You’re waiting{,} to [C#]hear my requests
+[F#m]Jesus, Your loving open h[D2]and{,} is outstretched
+[D]Spir[E]it, You’re [C#m]in [D]me,{,} [D]You [E]inter[C#m]cede
+And help in my [D]need</text>
+		<searchtext>intro verse 1 father you loved me sent your son to redeem jesus you washed me by your blood i am clean spirit youve opened these blinded eyes and brought me to christ chorus heavenly father beautiful son spirit of light and truth thank you for bringing sinners to come to you verse 2 father you gave me to jesus to keep and jesus you love me as a shepherd his sheep spirit youve given me faith in the son and made our hearts one verse 3 father youre waiting to hear my requests jesus your loving open hand is outstretched spirit youre in me you intercede and help in my need</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>116</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:14:55</created>
+		<modified>2009-03-20 09:14:55</modified>
+		<creator>1543</creator>
+		<ccli>4803755</ccli>
+		<album>Valley Of Vision</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5574</id>
+		<songbook_id>21</songbook_id>
+		<title>The Old Rugged Cross</title>
+		<copyright>Words by George Bennard     Public domain</copyright>
+		<created>2008-09-25 21:01:29</created>
+		<modified>2017-03-08 20:38:22</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>55620</id>
+		<song_id>5574</song_id>
+		<description>Alternative Melody</description>
+		<text>Verse 1:
+On a [G]hill far a[D/F#]way stood an [C]old rugged c[G/B]ross,
+The [C]emblem of [G/B]suffering and [D]shame;
+And I [G]love that old [D/F#]cross, where the [C]dearest and [G/B]best
+For a [C]world of lost s[G/B]inners was [D]slain.
+
+Chorus:
+So I'll [C]cherish the [G/B]old rugged [D]cross,
+Till my [C]trophies at [G/B]last I lay [D]down;
+I will [C]cling to the [G/B]old rugged [D]cross,
+And [C]exchange it some [G/B]day for a [D]crown.
+
+Verse 2:
+O that [G]old rugged c[D/F#]ross, so [C]despised by the w[G/B]orld,
+Has a [C]wondrous at[G/B]traction for [D]me;
+For the [G]dear Lamb of G[D/F#]od{,} left His [C]glory ab[G/B]ove
+To [C]bear it to d[G/B]ark Calva[D]ry.
+
+Verse 3:
+In that [G]old rugged c[D/F#]ross, stained with [C]blood so div[G/B]ine,
+A [C]wondrous b[G/B]eauty I [D]see,
+It was [G]on that old c[D/F#]ross, Jesus [C]suffered and d[G/B]ied,
+To [C]pardon and s[G/B]anctify [D]me.
+
+Ending:
+And [C]exchange it some [D]day for a [C]crown. [G/B | D | G]
+
+
+</text>
+		<searchtext>verse 1 on a hill far away stood an old rugged cross the emblem of suffering and shame and i love that old cross where the dearest and best for a world of lost sinners was slain chorus so ill cherish the old rugged cross till my trophies at last i lay down i will cling to the old rugged cross and exchange it some day for a crown verse 2 o that old rugged cross so despised by the world has a wondrous attraction for me for the dear lamb of god left his glory above to bear it to dark calvary verse 3 in that old rugged cross stained with blood so divine a wondrous beauty i see it was on that old cross jesus suffered and died to pardon and sanctify me ending and exchange it some day for a crown </searchtext>
+		<primary>0</primary>
+		<key>G</key>
+		<time_signature>3/4</time_signature>
+		<bpm>96</bpm>
+		<tempo>Slow</tempo>
+		<created>2013-02-03 00:01:24</created>
+		<modified>2013-02-03 00:03:50</modified>
+		<creator>1547</creator>
+		<ccli>19722</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>6305</id>
+		<song_id>5574</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+On a [G]hill far away stood an [C]old rugged cross,
+The [D7]emblem of suffering and [G]shame;
+And I [G]love that old cross, where the [C]dearest and best
+For a [D7]world of lost sinners was [G]slain.
+
+Chorus:
+So I'll [D]cherish the old rugged [G]cross,
+Till my [C]trophies at last I lay [G]down;
+I will [G]cling to the old rugged [Am7]cross,
+And [G]exchange it some [D]day for a crown.
+
+Verse 2:
+O that [G]old rugged cross, so [C]despised by the world,
+Has a [D]wondrous attraction for [G]me;
+For the [G]dear Lamb of God{,} left His [C]glory above
+To [D]bear it to dark Calva[G]ry.
+
+Verse 3:
+In that [G]old rugged cross, stained with [C]blood so divine,
+A [D]wondrous beauty I [G]see,
+For 'twas [G]on that old cross, Jesus [C]suffered and died,
+To [D]pardon and sanctify [G]me.
+
+Verse 4:
+To that [G]old rugged cross I will [C]ever be true,
+Its [D]shame and reproach gladly [G]bear;
+Then He'll [G]call me some day, to my [C]home far away,
+Where His [D]glory forever I'll [G]share.</text>
+		<searchtext>verse 1 on a hill far away stood an old rugged cross the emblem of suffering and shame and i love that old cross where the dearest and best for a world of lost sinners was slain chorus so ill cherish the old rugged cross till my trophies at last i lay down i will cling to the old rugged cross and exchange it some day for a crown verse 2 o that old rugged cross so despised by the world has a wondrous attraction for me for the dear lamb of god left his glory above to bear it to dark calvary verse 3 in that old rugged cross stained with blood so divine a wondrous beauty i see for twas on that old cross jesus suffered and died to pardon and sanctify me verse 4 to that old rugged cross i will ever be true its shame and reproach gladly bear then hell call me some day to my home far away where his glory forever ill share</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>3/4</time_signature>
+		<bpm>96</bpm>
+		<tempo>Slow</tempo>
+		<created>2008-09-25 21:01:29</created>
+		<modified>2017-03-08 20:38:22</modified>
+		<creator>1543</creator>
+		<ccli>19722</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>2355</id>
+		<songbook_id>21</songbook_id>
+		<text>Good Friday</text>
+	</Keyword>
+</data>
+

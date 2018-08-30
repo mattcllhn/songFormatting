@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>50543</id>
+		<songbook_id>21</songbook_id>
+		<title>Z - Psalm 40:16 (ESV)</title>
+		<copyright></copyright>
+		<created>2012-12-08 19:22:15</created>
+		<modified>2012-12-17 15:34:36</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>54714</id>
+		<song_id>50543</song_id>
+		<description>Initial arrangement</description>
+		<text>Congregation:
+May all who seek you
+     Rejoice and be glad in you;
+May those who love your salvation
+     Say continually, “Great is the LORD!”
+
+(Psalm 40:16 ESV)</text>
+		<searchtext>congregation may all who seek you rejoice and be glad in you may those who love your salvation say continually great is the lord psalm 4016 esv</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2012-12-08 19:22:15</created>
+		<modified>2012-12-17 15:34:36</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5563</id>
+		<songbook_id>21</songbook_id>
+		<title>Christ The Lord Is Risen Today</title>
+		<copyright>Words &amp; Music by Charles Wesley     Public domain</copyright>
+		<created>2008-09-24 17:13:04</created>
+		<modified>2008-09-24 17:13:04</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6294</id>
+		<song_id>5563</song_id>
+		<description>Initial arrangement</description>
+		<text>VERSE 1:
+[C]Christ the [G/B]Lord [Am]is [F]ris'n to[C]day, [C]A[Dm7]-lle[   ]-[C/G]lu[G]-[C]ia!
+[Dm7]Sons [C/E]of [F]men [C/E]and [Dm7]an[C/F]gels say[G], [C]A[Dm7]-lle[   ]-[C/G]lu[G]-[C]ia!
+[G]Raise [G/A]your [G/B]joys [G]and [C]tri[G/B]umphs [C/E]high, [G]A[Am7]-lle[   ]-[G]lu[D7]-[G]ia!
+[G/F]Sing ye [C/E]heavens and [F]earth re[C]ply, [C/E]A[Dm7]-lle[   ]-[Gsus]lu[G]-[C]ia!
+
+VERSE 2:
+[C]Lives a[G/B]gain [Am]our [F]glorious [C]King, [C]A[Dm7]-lle[   ]-[C/G]lu[G]-[C]ia!
+[Dm7]Where, [C/E]O [F]Death, [C/E]is [Dm7]now [C/F]thy sting[G]? [C]A[Dm7]-lle[   ]-[C/G]lu[G]-[C]ia!
+[G]Dy[G/A]ing [G/B]once [G]He [C]all [G/B]doth [C/E]save, [G]A[Am7]-lle[   ]-[G]lu[D7]-[G]ia!
+[G/F]Where thy [C/E]victor[F]y, O [C]Grave? [C/E]A[Dm7]-lle[   ]-[Gsus]lu[G]-[C]ia!
+
+VERSE 3:
+[C]Love's re[G/B]deem[Am]ing [F]work is [C]done, [C]A[Dm7]-lle[   ]-[C/G]lu[G]-[C]ia!
+[Dm7]Fought [C/E]the [F]fight [C/E]the [Dm7]battle wo[G]n, [C]A[Dm7]-lle[   ]-[C/G]lu[G]-[C]ia!
+[G]Death [G/A]in [G/B]vain [G]for[C]bids [G/B]Him [C/E]rise, [G]A[Am7]-lle[   ]-[G]lu[D7]-[G]ia!
+[G/F]Christ hath [C/E]opened [F]para[C]dise, [C/E]A[Dm7]-lle[   ]-[Gsus]lu[G]-[C]ia!
+
+VERSE 4:
+[C]Soar we [G/B]now [Am]where [F]Christ has [C]led, [C]A[Dm7]-lle[   ]-[C/G]lu[G]-[C]ia!
+[Dm7]Follow[C/E]ing [F]our [C/E]exa[Dm7]lted hea[G]d, [C]A[Dm7]-lle[   ]-[C/G]lu[G]-[C]ia!
+[G]Made [G/A]like [G/B]Him, [G]like [C]Him [G/B]we [C/E]rise, [G]A[Am7]-lle[   ]-[G]lu[D7]-[G]ia!
+[G/F]Ours the [C/E]cross, the [F]grave, the [C]skies, [C/E]A[Dm7]-lle[   ]-[Gsus]lu[G]-[C]ia!</text>
+		<searchtext>verse 1 christ the lord is risn today alleluia sons of men and angels say alleluia raise your joys and triumphs high alleluia sing ye heavens and earth reply alleluia verse 2 lives again our glorious king alleluia where o death is now thy sting alleluia dying once he all doth save alleluia where thy victory o grave alleluia verse 3 loves redeeming work is done alleluia fought the fight the battle won alleluia death in vain forbids him rise alleluia christ hath opened paradise alleluia verse 4 soar we now where christ has led alleluia following our exalted head alleluia made like him like him we rise alleluia ours the cross the grave the skies alleluia</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>98</bpm>
+		<tempo>Medium</tempo>
+		<created>2008-09-24 17:13:04</created>
+		<modified>2008-09-24 17:13:04</modified>
+		<creator>1543</creator>
+		<ccli>27965</ccli>
+		<album></album>
+		<font_size></font_size>
+	</Arrangement>
+	<Keyword>
+		<id>257</id>
+		<songbook_id>21</songbook_id>
+		<text>Easter</text>
+	</Keyword>
+</data>
+

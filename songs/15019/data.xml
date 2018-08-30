@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>15019</id>
+		<songbook_id>21</songbook_id>
+		<title>Hail The Risen King</title>
+		<copyright>Words &amp; Music by Stephen Altrogge     © 2005 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:14</created>
+		<modified>2009-03-20 09:15:14</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0019IQTRK&quot;,&quot;title&quot;:&quot;Hail the Risen King&quot;,&quot;artist&quot;:&quot;Mark &amp; Stephen Altrogge&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/517j98UaeeL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16161</id>
+		<song_id>15019</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: C       | Dm   Bb     | C        | C       :|| Gm       | Gm]
+
+Verse 1:
+[F]   You met God’s[C] [ ]great fury,[Gm] [ ]in death You h[Bb]id Your glory
+[F]   Source of l[C]ife, You chose to d[Gm    | Gm]ie
+[F]   But death could[C]   not keep You,[Gm]   its power could n[Bb]ot defeat You
+[F]   You’re our K[C]ing and You’re al[Gm    | Gm]ive
+
+Chorus:
+[C]Hail the r[Dm]isen [Bb]King J[C    | C]esus, 
+[C]Hail H[Dm]im who [Bb]reigns on h[C]igh
+[C]Hail the C[Dm]onque[Bb]ror and V[C    | C]ictor
+[Bb]Hail our God who l[F]ives that death may [C]die
+Hail the ris[Bb]en King, [C] [ ]hail the ris[Bb]en King
+[C] [ ]Jesus [F]Christ [| C    | Gm]
+
+Verse 2:
+[F]   Death’s broken,[C] [ ]sin’s beaten,[Gm] [ ]the powers of h[Bb]ell defeated
+[F]   The Father’s w[C]rath is satisf[Gm    | Gm]ied
+[C]   Now Your might[C] [ ]and power,[Gm] [ ]give strength for [Bb]every hour
+[F]   You’re at w[C]ork to change our h[Gm    | Gm]earts
+
+Verse 3:
+[F]     You’re coming, [C/F] [ ]returning, 
+[Bb/F]     For those whose hearts are yearning
+[F]     For a gl[C/F]impse of Your f[Bb/F    | Bb/F]ace
+[F]     We’ll join with[C/F] [ ]all races,[Bb/F] [ ]our hearts will lift Your praises
+[F]    We will s[C/E]ing of all You’ve d[Gm    | Bb]one</text>
+		<searchtext>intro verse 1 you met gods great fury in death you hid your glory source of life you chose to die but death could not keep you its power could not defeat you youre our king and youre alive chorus hail the risen king jesus hail him who reigns on high hail the conqueror and victor hail our god who lives that death may die hail the risen king hail the risen king jesus christ verse 2 deaths broken sins beaten the powers of hell defeated the fathers wrath is satisfied now your might and power give strength for every hour youre at work to change our hearts verse 3 youre coming returning for those whose hearts are yearning for a glimpse of your face well join with all races our hearts will lift your praises we will sing of all youve done</searchtext>
+		<primary>1</primary>
+		<key>F</key>
+		<time_signature>4/4</time_signature>
+		<bpm>142</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:14</created>
+		<modified>2009-03-20 09:15:14</modified>
+		<creator>1543</creator>
+		<ccli>5023644</ccli>
+		<album>In A Little While</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

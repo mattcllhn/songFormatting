@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14963</id>
+		<songbook_id>21</songbook_id>
+		<title>Your Mercy And Kindness</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2001 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:07</created>
+		<modified>2009-03-20 09:15:07</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0010V5KTY&quot;,&quot;title&quot;:&quot;Your Mercy and Kindness&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/41het-XU6lL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16104</id>
+		<song_id>14963</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[G   D   | Em7   C   | G   D   | Em7   C   | G   D   | Em7   C   | G    | D]
+
+
+Verse 1:
+[Em]O Lord, You are my shepherd, [C2]in You I have no needs
+[D2]You make me rest in green fields, [C2]and walk by quiet streams
+[Em]O Lord You are my shepherd, [C2]Your love restores my soul
+[D2]And for Your name and glory, [C2]You show me the way to [Dsus     | Dsus]go
+
+
+Chorus:
+[G]Your [D]mercy [Em7]   and [C]kindness 
+[G]Pur[D]sue me[Em7]   for[C]ever
+[G]My [D]cup runs [Em7]over [C]with Your [G    | D]grace
+[G]Your [D]mercy [Em7]   and [C]kindness 
+[G]Pur[D]sue me[Em7]   for[C]ever
+[G]And [D]I’ll be [Em7]with You [C]all my [G     | A      | C2      | C2]days
+
+
+Verse 2:
+[Em]O Lord, You are my shepherd
+[C2]Though I walk through death’s dark shade
+[D2]Your rod and staff give comfort, [C2]I will not be afraid
+[Em]O Lord, You are my shepherd, [C2]a table You have spread 
+[D2]In sight of all my foes, Lord, [C2]and You anoint my [Dsus     | Dsus]head</text>
+		<searchtext>intro verse 1 o lord you are my shepherd in you i have no needs you make me rest in green fields and walk by quiet streams o lord you are my shepherd your love restores my soul and for your name and glory you show me the way to go chorus your mercy and kindness pursue me forever my cup runs over with your grace your mercy and kindness pursue me forever and ill be with you all my days verse 2 o lord you are my shepherd though i walk through deaths dark shade your rod and staff give comfort i will not be afraid o lord you are my shepherd a table you have spread in sight of all my foes lord and you anoint my head</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>150</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:07</created>
+		<modified>2009-03-20 09:15:07</modified>
+		<creator>1543</creator>
+		<ccli>3337576</ccli>
+		<album>No Greater Love</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

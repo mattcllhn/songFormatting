@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>40421</id>
+		<songbook_id>21</songbook_id>
+		<title>Psalm 103</title>
+		<copyright>© 2005 Sovereign Grace Worship (ASCAP). Sovereign Grace Music, a division of Sovereign Grace Ministries. From FUSE. All rights reserved. International copyright secured.</copyright>
+		<created>2011-05-04 00:25:20</created>
+		<modified>2011-05-18 00:00:21</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0012ARLYU&quot;,&quot;title&quot;:&quot;Psalm 103&quot;,&quot;artist&quot;:&quot;Zach Jones&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51pPEzs2ONL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>43431</id>
+		<song_id>40421</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: D   Dsus |  G2   | D/F#   | G2   :||]
+
+VERSE 1:
+Bless the [D]Lord, Oh [Dsus]my s[G2]oul
+And [D/F#]all that’s within me pr[G2]aise Him
+Bless the [D]Lord, Oh [Dsus]my s[G2]oul
+And for[D/F#]get not all He’s d[G2]one
+He for[D/F#]gives all your in[G2]iquities
+And He [D/F#]heals all your in[G2]firmities
+He re[Em7]deems your [D/F#]life from the [G2]pit
+And crowns you with [Em7]mercy  [Asus A]
+
+CHORUS: 
+As f[G]ar as the e[D]ast is f[A]rom the [Bm7]west
+So f[G]ar have You t[D]aken our s[A]ins from [Bm7]us
+And as h[Em7]igh as the h[D/F#]eavens are o[G]ver the e[Bm]arth
+So g[Cmaj7]reat is Your steadfast l[G/B]ove toward us
+
+TURN:
+[D    Dsus | G2   | D    Dsus |  G2]
+
+VERSE 2:
+Bless the [D]Lord, Oh [Dsus]my s[G2]oul
+And [D/F#]all that’s within me pr[G2]aise Him
+Bless the [D]Lord, Oh [Dsus]my s[G2]oul
+And for[D/F#]get not who He [G2]is
+As a [D/F#]father shows comp[G2]assion
+To [D/F#]his beloved ch[G2]ildren
+So the [Em7]Lord shows com[D/F#]passion to [G2]us
+To those who [Em7]fear Him [Asus  A]</text>
+		<searchtext>intro verse 1 bless the lord oh my soul and all thats within me praise him bless the lord oh my soul and forget not all hes done he forgives all your iniquities and he heals all your infirmities he redeems your life from the pit and crowns you with mercy chorus as far as the east is from the west so far have you taken our sins from us and as high as the heavens are over the earth so great is your steadfast love toward us turn verse 2 bless the lord oh my soul and all thats within me praise him bless the lord oh my soul and forget not who he is as a father shows compassion to his beloved children so the lord shows compassion to us to those who fear him </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>72</bpm>
+		<tempo>Slow</tempo>
+		<created>2011-05-04 00:25:20</created>
+		<modified>2011-05-04 00:32:14</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>Fuse</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

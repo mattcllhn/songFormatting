@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14971</id>
+		<songbook_id>21</songbook_id>
+		<title>King Of Grace</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2000 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:08</created>
+		<modified>2011-09-10 12:07:02</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00104FMEY&quot;,&quot;title&quot;:&quot;King of Grace&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/614mSX3tPCL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16112</id>
+		<song_id>14971</song_id>
+		<description>Initial arrangement</description>
+		<text>
+Intro:
+[G    D   | Am    C   | G    D   | Am    C ]
+
+
+Verse 1:
+[G]We have come to a [C2]throne of grace
+Where our [G]mighty Savior{,} per[C2]fects our praise
+Where [D]wrath and judgment{,} have been [G]put aw[C2]ay
+Where [D]not a trace{,} of all our [G]sin rem[C2   | Dsus   D]ains
+
+
+Chorus:
+You’re the [G]King of [Am7]Grace un[Dsus]end[C]ing
+To Your [G]open [Am7]arms we [Dsus   D]run
+You’re the [Em]King of [Am7]Grace un[Dsus]end[G]ing
+And we [Em]rest in [C]Your unf[Dsus]ailing [G]love
+And we [Em]rest in [C]Your unf[Dsus]ail[D]ing [G    D   | Am7    C   | G    D   | Am7    C]love    
+
+
+Verse 2:
+[G]We have come to a [C2]throne of grace
+Where our [G]Prince of Peace{,} ever [C2]lives to pray
+For [D]those His sacrifice{,} has [G]bought and [C2]saved
+Where [D]saints and angels{,} sing et[G]ernal [C2   | Dsus   D]praise</text>
+		<searchtext> intro verse 1 we have come to a throne of grace where our mighty savior perfects our praise where wrath and judgment have been put away where not a trace of all our sin remains chorus youre the king of grace unending to your open arms we run youre the king of grace unending and we rest in your unfailing love and we rest in your unfailing love verse 2 we have come to a throne of grace where our prince of peace ever lives to pray for those his sacrifice has bought and saved where saints and angels sing eternal praise</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>88</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:15:08</created>
+		<modified>2011-09-10 12:07:02</modified>
+		<creator>1543</creator>
+		<ccli>2986564</ccli>
+		<album>King Of Grace</album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

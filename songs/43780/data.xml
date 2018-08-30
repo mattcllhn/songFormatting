@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>43780</id>
+		<songbook_id>21</songbook_id>
+		<title>Generous King</title>
+		<copyright>Words &amp; Music by Joel Sczebel and Pat Sczebel     (C) 2011 Sovereign Grace Worship</copyright>
+		<created>2011-11-27 00:55:55</created>
+		<modified>2011-11-27 00:55:55</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0064Y2SY2&quot;,&quot;title&quot;:&quot;Generous King&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/515a-gIbevL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>47142</id>
+		<song_id>43780</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[A    | D    | F#m7    | E    (2X)]
+VERSE 1:
+You spoke and our [A]hearts began to beat
+You gave us [F#m7]breath and air to breathe
+It’s all from [D2]You, Lord, it’s all from [A]You
+You give the m[A]orning sun its light
+All that we [Bm]need Your [F#m7]hand provides
+It’s all from [D2]You, Lord, it’s all from [A]You
+With humble [D2]hearts we thank You, 
+With grateful [Esus]hearts we sing out
+CHORUS:
+Generous [A]King, You [D2]give
+Out of Your [A/C#]fullness,{,} showering [E]kindness
+You give,[A]  generous [D2]King,{,} mercies un[A/C#]ending
+Love never [E]failing, You [A]give [| D    | F#m7    | E    | A]
+VERSE 2:
+The wrath we de[F#m7]served was furious
+The cup that we [E]drink is full of love
+It’s all from [D2]You, Lord, it’s all from [A]You
+Your Spirit You’ve fr[A]eely given us
+Now we see [Bm]Jesus glo[F#m7]rious
+It’s all from [D2]You, Lord, it’s all from [A]You
+With humble [D2]hearts we thank You
+With grateful [Esus]hearts we sing out
+BRIDGE:
+[A]Thank You for Your goodness, [D2] 
+[A]Poured on us through Jesus [D2 (repeat bridge)]</text>
+		<searchtext>intro verse 1 you spoke and our hearts began to beat you gave us breath and air to breathe its all from you lord its all from you you give the morning sun its light all that we need your hand provides its all from you lord its all from you with humble hearts we thank you with grateful hearts we sing out chorus generous king you give out of your fullness showering kindness you give generous king mercies unending love never failing you give verse 2 the wrath we deserved was furious the cup that we drink is full of love its all from you lord its all from you your spirit youve freely given us now we see jesus glorious its all from you lord its all from you with humble hearts we thank you with grateful hearts we sing out bridge thank you for your goodness poured on us through jesus </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>136</bpm>
+		<tempo>Fast</tempo>
+		<created>2011-11-27 00:55:55</created>
+		<modified>2011-11-27 00:55:55</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>The Gathering</album>
+		<font_size>13</font_size>
+	</Arrangement>
+</data>
+

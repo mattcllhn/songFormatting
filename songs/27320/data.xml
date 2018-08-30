@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>27320</id>
+		<songbook_id>21</songbook_id>
+		<title>Joy</title>
+		<copyright>Music by Rich Gunderlock     Words by Rich Gunderlock &amp; Bob Kauflin     © 2009 Sovereign Grace Worship/Sovereign Grace Praise</copyright>
+		<created>2009-08-24 22:06:16</created>
+		<modified>2009-08-24 22:06:16</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B002E8BOC4&quot;,&quot;title&quot;:&quot;Joy&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51Q5lGu9tJL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>29094</id>
+		<song_id>27320</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[G      D | D      | G      D | D]
+
+Verse 1:
+[G]   When [D]I am lonely [G] [ ]or [D]feeling bad
+[Em7]   When things don’t go my [D]wa[G]y
+[G]   When [D]my heart’s broken [G] [ ]and [D]I am sad
+[Em7]   And tears won’t go a[D]wa[G]y
+That’s [F#m7]when I [G]turn my [E]eyes to [A]You, Jesus
+
+Chorus:
+[D]   Joy, You fill me with
+[G2]   Joy, You fill me with [Bm7]joy, J[A]esus
+[D]   Joy, You fill me with
+[G2]   Joy, You fill me with [Bm7]joy, J[A]esus
+[G]You [D/F#]are [G]al[D/F#]ways [G]with [D/F#]me
+[G]You [D/F#]a[G]lone [D/F#]can [G]give [A]me [G]joy [D | D     | G     D | D]
+
+Verse 2:
+[G]   When [D]my heart’s happy,{,} [G] [ ]my [D]face is too
+[Em7]   And I have joy to [D]sha[G]re
+[G]   It [D]comes from knowing{,} [G] [ ]Your [D]words are true
+[Em7]   And I am in Your [D]car[G]e
+And [F#m7]when I [G]turn my [E]eyes to [A]You, Jesus</text>
+		<searchtext>intro verse 1 when i am lonely or feeling bad when things dont go my way when my hearts broken and i am sad and tears wont go away thats when i turn my eyes to you jesus chorus joy you fill me with joy you fill me with joy jesus joy you fill me with joy you fill me with joy jesus you are always with me you alone can give me joy verse 2 when my hearts happy my face is too and i have joy to share it comes from knowing your words are true and i am in your care and when i turn my eyes to you jesus</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>135</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-08-24 22:06:16</created>
+		<modified>2009-08-24 22:06:16</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>To Be Like Jesus</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

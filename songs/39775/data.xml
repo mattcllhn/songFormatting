@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>39775</id>
+		<songbook_id>21</songbook_id>
+		<title>Z - Palm Sunday Reading (Zech 9:9-10, Ps. 118:26-29)</title>
+		<copyright></copyright>
+		<created>2011-04-16 14:28:04</created>
+		<modified>2011-04-16 14:28:04</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>42725</id>
+		<song_id>39775</song_id>
+		<description>Initial arrangement</description>
+		<text>
+LEADER 
+(Zechariah 9:9-10 ESV)
+
+Rejoice greatly, O daughter of Zion!
+	      Shout aloud, O daughter of Jerusalem!
+Behold, your king is coming to you;
+	      righteous and having salvation is he,
+humble and mounted on a donkey,
+	      on a colt, the foal of a donkey.
+I will cut off the chariot from Ephraim
+	      and the war horse from Jerusalem;
+and the battle bow shall be cut off,
+	      and he shall speak peace to the nations;
+his rule shall be from sea to sea,
+	      and from the River to the ends of the earth.
+
+
+EVERYONE 
+(Psalm 118:26-29 ESV)
+
+Blessed is he who comes in the name of the LORD!
+	      We bless you from the house of the LORD.
+The LORD is God,
+	      and he has made his light to shine upon us.
+Bind the festal sacrifice with cords,
+	      up to the horns of the altar!
+You are my God, and I will give thanks to you;
+	      you are my God; I will extol you.
+Oh give thanks to the LORD, for he is good;
+	      for his steadfast love endures forever!
+</text>
+		<searchtext> leader zechariah 9910 esv rejoice greatly o daughter of zion shout aloud o daughter of jerusalem behold your king is coming to you righteous and having salvation is he humble and mounted on a donkey on a colt the foal of a donkey i will cut off the chariot from ephraim and the war horse from jerusalem and the battle bow shall be cut off and he shall speak peace to the nations his rule shall be from sea to sea and from the river to the ends of the earth everyone psalm 1182629 esv blessed is he who comes in the name of the lord we bless you from the house of the lord the lord is god and he has made his light to shine upon us bind the festal sacrifice with cords up to the horns of the altar you are my god and i will give thanks to you you are my god i will extol you oh give thanks to the lord for he is good for his steadfast love endures forever </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2011-04-16 14:28:04</created>
+		<modified>2011-04-16 14:28:04</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>18</font_size>
+	</Arrangement>
+</data>
+

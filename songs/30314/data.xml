@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>30314</id>
+		<songbook_id>21</songbook_id>
+		<title>Whom Have I In Heaven</title>
+		<copyright>© 1997 Jon Bloom  All rights reserved. Used by permission</copyright>
+		<created>2009-11-07 17:12:07</created>
+		<modified>2013-05-03 09:08:44</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>32295</id>
+		<song_id>30314</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[D   A/C#    F#/A#   Bm   Bm7   G   Asus   A    D    G/A   A]
+
+VERSE:
+[D]Whom have I in [A/C#]heaven  [F#/A#]but    [Bm]you, O Lo[D/A]rd
+And [G]earth has nothing
+[D/F#]That I des[Em11]ire bes[G/A]ides [A]you 
+My [D]flesh and my [A/C#]heart    [F#/A#]may     [Bm]fail, O Lo[D/A]rd
+But [G]you are the s[G/A]trength of [A]my h[D]eart   [(repeat G/A  A)]
+
+CHORUS:
+[Em7]And   [D/F#]my    [G9]portion
+My [F#m7]portion
+[Em7]You are my [Asus4]portion [A]for--[Dsus-D]ever 
+[Em7]You’re   [D/F#]my      p[G9]ortion
+My [F#m7]portion 
+[Em7]You are my [Asus4]portion [A]for--[D]ever [(to intro)]
+</text>
+		<searchtext>intro verse whom have i in heaven but you o lord and earth has nothing that i desire besides you my flesh and my heart may fail o lord but you are the strength of my heart chorus and my portion my portion you are my portion forever youre my portion my portion you are my portion forever </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2009-11-07 17:12:07</created>
+		<modified>2013-05-03 09:08:44</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

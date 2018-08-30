@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>66056</id>
+		<songbook_id>21</songbook_id>
+		<title>This Glorious Grace</title>
+		<copyright>Aaron Ivey, Brett Land, Kyle Lent</copyright>
+		<created>2015-12-31 21:26:08</created>
+		<modified>2016-01-19 20:56:23</modified>
+		<creator>5114</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>72564</id>
+		<song_id>66056</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO: 
+[C Em D]
+
+VERSE 1: 
+God I [G]need You, I [C]need You, I [Em]need You
+Every [G]breath, every [C]pulse of my [D]heart
+Christ have [C]mercy, have [G/B]mercy, let [D]mercy [Em]abound
+I [C]need You, I [D]need You [G]now
+
+CHORUS: 
+God pour out Your [C]grace, glori[Em]ous [D]grace
+That I would [G/B]be [C]held by Your perfect [G D]embrace
+I am unde[Am]serving, You are high and [Em]worthy
+All of my [C]praise for this [D]glorious [G]grace
+
+TURN: 
+[C Em D C Em D]
+
+VERSE 2: 
+God I’m [G]longing, I’m [C]longing to [Em]see You
+In Your [G]presence all [C]darkness will [D]fade
+Shine Your [C]glory, Your [G/B]glory, let [D]glory [Em]surround
+I’m [C]longing to [D]see You [G]now
+
+TURN: 
+[C D Em G C D G]
+
+{new_page}
+BRIDGE: 
+[C]God [D]Your [Em]grace [G]like [C D]rising [G]seas
+Has [C   D]swallowed [Em]death [G]and [C]sin [D]in [G]me
+[C D]Glory [Em]to [G]my [C]God [D]who [G]saves
+[C D]Jesus [Em]Christ, [G]my [C   D]glorious [G]grace
+
+
+VERSE 3: 
+God I [G]worship, I [C]worship, I [Em]worship You
+For Your [G]glory, my [C]all in [D]all
+You are [C]worthy, You’re [G/B]worthy, You’re [D Em]worthy
+I [C]worship, I [D]worship [Em]You
+God I [C]need You, I [D]need You [G]now</text>
+		<searchtext>intro verse 1 god i need you i need you i need you every breath every pulse of my heart christ have mercy have mercy let mercy abound i need you i need you now chorus god pour out your grace glorious grace that i would be held by your perfect embrace i am undeserving you are high and worthy all of my praise for this glorious grace turn verse 2 god im longing im longing to see you in your presence all darkness will fade shine your glory your glory let glory surround im longing to see you now turn bridge god your grace like rising seas has swallowed death and sin in me glory to my god who saves jesus christ my glorious grace verse 3 god i worship i worship i worship you for your glory my all in all you are worthy youre worthy youre worthy i worship i worship you god i need you i need you now</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>75</bpm>
+		<tempo>Medium</tempo>
+		<created>2015-12-31 21:26:08</created>
+		<modified>2016-01-19 20:56:23</modified>
+		<creator>5114</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

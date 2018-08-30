@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14942</id>
+		<songbook_id>21</songbook_id>
+		<title>What A Glorious Mystery</title>
+		<copyright>Words &amp; Music by Steven Altrogge     © 2002 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:03</created>
+		<modified>2009-03-20 09:15:03</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0010VNGEK&quot;,&quot;title&quot;:&quot;What a Glorious Mystery&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/519CuW9nbdL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16077</id>
+		<song_id>14942</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: D     | Dsus4   D   | Bbmaj7     | C   Am7   :|| D     | D     |]
+
+Verse 1:
+[Bm]Who can [D]comprehend   
+Your [G]holy ways O [Bm]Lord 
+Your [Bm]glorious power [D]without end 
+From [G]which the [A]stars were [D]born 
+How [A2]could we ever [G]under[D]stand 
+The [A]moving of Your [G  D]hand? 
+How [A]could we ever [G]come to [D]grasp 
+The [G]One who [A]never be[D]gan? [| Asus4     |]
+ 
+Chorus:
+[D]Oh, what a [D2/C#]glorious [G]mystery You [Asus4]are 
+[D]Oh, what a [D2/C#]glorious [G]mystery You [Asus4]are 
+[Bm]Though we only [G]see in part 
+[Bm]You’ve completely [G]won our hearts 
+[G]Oh, what a [Asus4]glorious mystery You [D   | G/D  D  | F/Bb   | C  Am7  |]are 
+ 
+Verse 2:
+[Bm]Who can [D]comprehend
+Your [G2]gracious mercy [Bm]Lord 
+Great [Bm]loving kindness [D]that would send 
+A [G]Savior [A]to be [D]born? 
+Why [A2]would you, Jesus, [G]die for [D]us 
+Who [A2]cursed Your perfect [G  D]name? 
+Why [A]would You come to [G]recon[D]cile 
+[G]Those who [A]caused Your [D]shame? [| Asus4    |]</text>
+		<searchtext>intro verse 1 who can comprehend your holy ways o lord your glorious power without end from which the stars were born how could we ever understand the moving of your hand how could we ever come to grasp the one who never began chorus oh what a glorious mystery you are oh what a glorious mystery you are though we only see in part youve completely won our hearts oh what a glorious mystery you are verse 2 who can comprehend your gracious mercy lord great loving kindness that would send a savior to be born why would you jesus die for us who cursed your perfect name why would you come to reconcile those who caused your shame </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>6/8</time_signature>
+		<bpm>160</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:15:03</created>
+		<modified>2009-03-20 09:15:03</modified>
+		<creator>1543</creator>
+		<ccli>4126487</ccli>
+		<album>All We Long To See</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

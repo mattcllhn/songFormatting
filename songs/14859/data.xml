@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14859</id>
+		<songbook_id>21</songbook_id>
+		<title>It Was Your Grace</title>
+		<copyright>Words and Music by Mark Altrogge     © 2005 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:52</created>
+		<modified>2009-03-20 09:14:52</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BOXT9I&quot;,&quot;title&quot;:&quot;It Was Your Grace&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51ASvkc53%2BL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>15987</id>
+		<song_id>14859</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: F#m      | A      | Dmaj7      | Dmaj7      :||]
+Verse 1:
+[F#m] [ ]It was Your g[A]race{,} that drew me [Dmaj7]to the cross[| Bm9]
+[F#m] [ ]It was Your g[A]race{,} that gave me [Dmaj7   | Bm9]faith
+[F#m] [ ]It was Your g[A]race{,} that reconc[Dmaj7]iled me to Your[Bm9]self
+[F#m] [ ]Though I had s[A]inned in every [Dmaj7   | Bm9]way
+[D] [ ]You disarmed me of [Bm7] [ ]everything{,} that I would [A]lean on
+So [F#m]I would lean on [E]You
+[D] [ ]And You stripped me of [Bm7] [ ]everything{,} I would de[A]pend on
+So [F#m]I’d depend on [E]You
+
+Chorus:
+In [Dmaj9]You al[F#m7]one my [E]strength is [Bm7]found, in [Dmaj9]You al[F#m7]one my [E]hope a[B]bounds
+In [D]You al[F#m7]one my [E]strength is [Bm7]found, my [A]life is [E/G#]bound [E] [ ]up in Y[| D]ou
+
+Turn:
+[| E | D/F# | E/G# | D/A | E/B | D/A  E/G#  | D/F#  E  |]
+
+Verse 2:
+[F#m] [ ]And in my w[A]eakness{,} give me s[Dmaj7]till more grace[| Bm9]
+[F#m] [ ]Grace to c[A]ast myself on Y[Dmaj7   | Bm9]ou
+[F#m] [ ]In every t[A]rial{,} let me f[Dmaj7]ind Your peace and j[Bm9]oy
+[F#m] [ ]And grace to h[A]umbly walk with Y[Dmaj7   | Bm9]ou
+[D] O disarm me of [Bm7] [ ]everything{,} that I would l[A]ean on
+So [F#m]I will lean on Y[E]ou
+[D] [ ]Jesus, strip me of [Bm7] [ ]everything{,} I would dep[A]end on
+So [F#m]I’ll depend on Y[E (to chorus)]ou
+
+Bridge:
+[E]Give me [F#m7]more [D]grace, [Dmaj7]  give me [F#m7]more [D]grace
+[Dmaj7]  And [Bm Bm/A]new [E/G#]mercies every m[E]orning, give me [Bm Bm/A]new [E/G#]mercies [E]</text>
+		<searchtext>intro verse 1 it was your grace that drew me to the cross it was your grace that gave me faith it was your grace that reconciled me to yourself though i had sinned in every way you disarmed me of everything that i would lean on so i would lean on you and you stripped me of everything i would depend on so id depend on you chorus in you alone my strength is found in you alone my hope abounds in you alone my strength is found my life is bound up in you turn verse 2 and in my weakness give me still more grace grace to cast myself on you in every trial let me find your peace and joy and grace to humbly walk with you o disarm me of everything that i would lean on so i will lean on you jesus strip me of everything i would depend on so ill depend on you bridge give me more grace give me more grace and new mercies every morning give me new mercies </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>144</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:14:52</created>
+		<modified>2009-03-20 09:14:52</modified>
+		<creator>1543</creator>
+		<ccli>4803731</ccli>
+		<album>Valley Of Vision</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

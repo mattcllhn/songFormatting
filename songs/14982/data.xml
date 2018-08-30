@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14982</id>
+		<songbook_id>21</songbook_id>
+		<title>I Love The Cross</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 1999 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:10</created>
+		<modified>2017-03-08 20:25:06</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00111ZE9E&quot;,&quot;title&quot;:&quot;I Love the Cross&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51772JOjBtL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16123</id>
+		<song_id>14982</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[Dm]All my [Bb]sins for[F]given  [C]
+[Dm]Far re[Bb]moved as [F]east from [G]west
+[Dm]Cast in[Bb]to the [F]depths of the [Am]ocean
+Of [Dm]grace and re[Bb]deeming [Csus   C]love
+
+Bridge:
+I love the [Bb   F]place{,} [ ]where my [Gm7]  Savior d[Dm]ied
+I [C]love the [Bb   F]place{,} [ ]where I was [Gm7]  justif[Dm]ied
+I [C]love the [Bb   F]place{,} [ ]where Your [Gm]blood [F]flowed [Bb]down
+To give me [Csus     | C]life
+
+Chorus:
+I love the [F    Bb   | Dm    C]cross
+I love the [F    Bb   | Dm    G7]cross
+I love the [F    Bb   | Dm    C]cross
+The cross of [Dm   Bb   | F   G7   | Dm   Bb   | Csus   C]Christ.
+
+Verse 2:
+[Dm]All my [Bb]guilt at[F]oned for [C]
+[Dm]Every [Bb]debt is [F]paid in [G]full
+[Dm]Though my [Bb]sins were [F]scarlet{,} now [Am]I’m clean
+[Dm]As a fresh [Bb]fallen [Csus    C (to bridge)]snow</text>
+		<searchtext>verse 1 all my sins forgiven far removed as east from west cast into the depths of the ocean of grace and redeeming love bridge i love the place where my savior died i love the place where i was justified i love the place where your blood flowed down to give me life chorus i love the cross i love the cross i love the cross the cross of christ verse 2 all my guilt atoned for every debt is paid in full though my sins were scarlet now im clean as a fresh fallen snow</searchtext>
+		<primary>1</primary>
+		<key>F</key>
+		<time_signature>4/4</time_signature>
+		<bpm>78</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:10</created>
+		<modified>2017-03-08 20:25:06</modified>
+		<creator>1543</creator>
+		<ccli>2943143</ccli>
+		<album>Everlasting</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>2355</id>
+		<songbook_id>21</songbook_id>
+		<text>Good Friday</text>
+	</Keyword>
+</data>
+

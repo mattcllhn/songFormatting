@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14881</id>
+		<songbook_id>21</songbook_id>
+		<title>Taste And See</title>
+		<copyright>Words &amp; Music by Stephen Altrogge     © 2008 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:55</created>
+		<modified>2009-04-25 23:04:09</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001EUMNPU&quot;,&quot;title&quot;:&quot;Taste and See&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51CGlRp8SUL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16009</id>
+		<song_id>14881</song_id>
+		<description>Initial arrangement</description>
+		<text>
+Intro:
+[F   C/E   | Dm7   Bb2]
+
+Verse 1:
+When [Dm7]I was [C/E]poor and [Bb2]helpless
+The [Dm7]Lord, He [C/E]heard my [F]cry
+He [Dm7]saved this [C/E]wicked [Bb2]sinner
+The [Dm7]King re[C/E]deemed my [Bb2]life  [| Bb2]
+
+Chorus:
+Oh [F]taste and [C]see that [Dm]God is [Bb]good to [F   C  | Dm  Bb2]us
+[F]Taste and [C]see His [Dm]never-[Bb2]failing [F   C]love
+[Dm  Bb2]     Our God is go[F   C/E  | Dm   Bb2  | F   C/E  | Bbmaj7]od
+
+Verse 2:
+You’re [Dm7]near me [C/E]when I’m [Bb2]broken
+My [Dm7]comfort [C/E]when I’m [F]crushed
+My [Dm7]hope in [C/E]all af[Bb2]flictions
+My [Dm7]God in [C/E]whom I [Bb2]trust [| Bb2]
+
+Verse 3:
+I’ll [Dm7]make my [C/E]boast in [Bb2]Jesus
+The [Dm7]One who [C/E]is my [F]life
+His [Dm7]glory [C/E]is my [Bb2]gladness
+In [Dm7]Him I’m [C/E]satis[Bb2]fied [| Bb2]</text>
+		<searchtext> intro verse 1 when i was poor and helpless the lord he heard my cry he saved this wicked sinner the king redeemed my life chorus oh taste and see that god is good to us taste and see his neverfailing love our god is good verse 2 youre near me when im broken my comfort when im crushed my hope in all afflictions my god in whom i trust verse 3 ill make my boast in jesus the one who is my life his glory is my gladness in him im satisfied </searchtext>
+		<primary>1</primary>
+		<key>F</key>
+		<time_signature>4/4</time_signature>
+		<bpm>110</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:14:55</created>
+		<modified>2009-04-25 23:04:09</modified>
+		<creator>1543</creator>
+		<ccli>5260926</ccli>
+		<album>Psalms</album>
+		<font_size>17</font_size>
+	</Arrangement>
+</data>
+

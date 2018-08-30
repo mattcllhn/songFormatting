@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>61355</id>
+		<songbook_id>21</songbook_id>
+		<title>God Made Low</title>
+		<copyright>Words and Music by Jason Hansen and Bob Kauflin     © 2014 Sovereign Grace Praise</copyright>
+		<created>2014-11-29 12:14:17</created>
+		<modified>2015-12-21 18:39:29</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00NLNS37A&quot;,&quot;title&quot;:&quot;God Made Low&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/5145fGL8PNL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>67130</id>
+		<song_id>61355</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[||: F     | F     | Am     | Am     :||]
+
+Verse 1:
+[C]Prophets promised [F/C]long ago
+A [C]King would come to [G/C]bring us hope
+And [C]now a virgin [F/C]bears a son
+The [C]time to save the [G/C]world has [C]come [| C]
+
+Verse 2:
+[C]Humble shepherds [F/C]run in haste
+To [C]see the One the [G/C]angels praised
+In [C]cattle stall they [F/C]find a girl
+Who [C]holds the hope of [G/C]all the [C]world
+
+Chorus:
+Em[G]manu[Am]el has [F]come to [Am]us
+The [G]Christ is [Am]born, Hal[F]lelu[G]jah!
+Our [G]God made [Am]low to [C/E]raise us [F]up
+Em[Dm]manu[Am]el, has c[G]ome to [C]us
+
+VERSE 3:
+[C]As He sleeps up[F/C]on the hay
+He [C]holds the moon and [G/C]stars in place
+Though [C]born an infant [F/C]He remains
+The [C]sovereign God of [G/C]endless [C]days [| C]
+
+VERSE 4:
+For [C]all our sins one [F/C]day He’ll die
+To [C]make us sons of [G/C]God on high
+Let [C]every heart pre[F/C]pare Him room
+The [C]promises have [G/C]all come [C]true</text>
+		<searchtext>intro verse 1 prophets promised long ago a king would come to bring us hope and now a virgin bears a son the time to save the world has come verse 2 humble shepherds run in haste to see the one the angels praised in cattle stall they find a girl who holds the hope of all the world chorus emmanuel has come to us the christ is born hallelujah our god made low to raise us up emmanuel has come to us verse 3 as he sleeps upon the hay he holds the moon and stars in place though born an infant he remains the sovereign god of endless days verse 4 for all our sins one day hell die to make us sons of god on high let every heart prepare him room the promises have all come true</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>6/8</time_signature>
+		<bpm>190</bpm>
+		<tempo>Medium</tempo>
+		<created>2014-11-29 12:14:17</created>
+		<modified>2015-12-21 18:39:29</modified>
+		<creator>1546</creator>
+		<ccli>7031872</ccli>
+		<album>Prepare Him Room</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

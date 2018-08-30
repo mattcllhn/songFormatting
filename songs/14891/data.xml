@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14891</id>
+		<songbook_id>21</songbook_id>
+		<title>I Want To Be Where You Are</title>
+		<copyright>Words &amp; Music by Stephen Altrogge     © 2008 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:56</created>
+		<modified>2009-03-20 09:14:56</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001EUQESM&quot;,&quot;title&quot;:&quot;I Want to Be Where You Are&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51UvWo97kuL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16019</id>
+		<song_id>14891</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: A     | F#m7     | Dmaj7     | Dmaj7     :||]
+
+Verse 1:
+How [A]sweet the [Bm7sus]place{,} where [A/C#]You dwell, O [D2]Lord
+My [A]soul [Bm7sus]longs and faints for [F#m7    | Dmaj7]You
+My [A]heart sings [Bm7sus]out a [A/C#]loud song of [D2]joy
+For [A2]I have [Bm7sus]known the living [F#m7    | E]God
+
+Chorus:
+[A]I want to be where [Asus]You [A]are, [ E]O [ ]Lord [| Esus   E]
+[F#m]I want to be where [D]You [F#m]are, [ Esus]O Lord
+[E]     I’d rather have [F#m7]just one [C#m]day with [Bm]You
+[Bm]     Than be anywhere [A     | F#m7     | A/D     | A/D]else
+
+
+Verse 2:
+There’s [A]no good [Bm7sus]thing{,} that [A/C#]You will with[D2]hold
+From [A]those who [Bm7sus]live to follow [F#m7]You
+I’d [A]rather [Bm7sus]be Your [A/C#]servant, O [D2]God
+Than [A2]have the [Bm7sus]riches of this [F#m7    | E]world
+
+
+Bridge:
+[C#m]Those who follow [D]You{,} go from [A]strength to [E]strength
+[C#m]Those who follow [D]You{,} are filled with [A    | A]joy
+[C#m]Those who follow [D]You{,} go from [A]strength to [E]strength
+[C#m]Those who follow [D]You{,} are filled with [Esus    | Esus]joy
+</text>
+		<searchtext>intro verse 1 how sweet the place where you dwell o lord my soul longs and faints for you my heart sings out a loud song of joy for i have known the living god chorus i want to be where you are o lord i want to be where you are o lord id rather have just one day with you than be anywhere else verse 2 theres no good thing that you will withhold from those who live to follow you id rather be your servant o god than have the riches of this world bridge those who follow you go from strength to strength those who follow you are filled with joy those who follow you go from strength to strength those who follow you are filled with joy </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>6/8</time_signature>
+		<bpm>185</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:14:56</created>
+		<modified>2009-03-20 09:14:56</modified>
+		<creator>1543</creator>
+		<ccli>5261035</ccli>
+		<album>Psalms</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

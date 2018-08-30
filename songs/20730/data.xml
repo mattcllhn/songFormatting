@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>20730</id>
+		<songbook_id>21</songbook_id>
+		<title>Jesus Messiah</title>
+		<copyright>Words and Music by Daniel Carlson, Chris Tomlin, Ed Cash, and Jesse Reeves. (c) 2008 Vamos Publishing /worshiptogether.com songs / sixsteps Music / Alletrop Music  </copyright>
+		<created>2009-04-17 00:44:45</created>
+		<modified>2017-03-08 20:26:33</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>54695</id>
+		<song_id>20730</song_id>
+		<description>Christmas Medley Version</description>
+		<text>Verse 1: 
+[E]He heard our cry, left His [F#m7]throne of grace
+Came in [E/G#]human form, as a [A2(no3)]helpless babe
+Born to[E] bear our sins, up[F#m7]on the cross
+[E/G#]   Our God is [A2(no3)]with us [E/G#]    our God is [A2(no3)]with us
+
+Chorus: 
+Jesus Mess[E]iah Name above [A2(no3)]all names
+Blessed Red[E]emer Emmanu[Bsus]el
+The Rescue for s[E]inners
+The Ransom from [A2(no3)]heaven
+Jesus Mess[E/G#]iah [Bsus]    Lord of [E]all
+
+BRIDGE: 
+All our [F3m11]hope is in Y[E/G#]ou
+All our [A2(no3)]hope is in [Bsus]You
+All the [F3m11]glory to [E/G#]You God
+[A2(no3)]     The Light of the w[Bsus]orld
+
+CHORUS: 
+[E]Glo[C#m]-[F#m]-[B]-[E]-[A]-[B]-ria[B7] 
+[E]In [B]ex-[E]cel-[A]sis [E  B]De-[E]o  
+
+Chorus: 
+O [E]come [B]let [E]us [B]a[E]dore Him
+O [E]come [B]let [E]us [A]a[E]dore [B]Him
+[E/G#]O [A]come [E/G#]let [F#m]us [E]a-[B]dore [A   F#m]Him
+[E    B]Christ the [E]Lord</text>
+		<searchtext>verse 1 he heard our cry left his throne of grace came in human form as a helpless babe born to bear our sins upon the cross our god is with us our god is with us chorus jesus messiah name above all names blessed redemer emmanuel the rescue for sinners the ransom from heaven jesus messiah lord of all bridge all our hope is in you all our hope is in you all the glory to you god the light of the world chorus gloria in excelsis deo chorus o come let us adore him o come let us adore him o come let us adore him christ the lord</searchtext>
+		<primary>0</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>86</bpm>
+		<tempo>Medium</tempo>
+		<created>2012-12-07 00:21:06</created>
+		<modified>2012-12-09 01:23:43</modified>
+		<creator>1547</creator>
+		<ccli>5183443</ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>22181</id>
+		<song_id>20730</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[E]He became sin who [F#m7]knew no sin
+That [E/G#]we might become His [A2(no3)]righteousness
+He h[E]umbled Himself and c[F#m7]arried the cross
+[E/B]   Love so a[A2(no3)]mazing [E/B]    love so a[A2(no3)]mazing
+
+Chorus:
+Jesus Mess[E]iah Name above [A2(no3)]all names
+Blessed Red[E]emer Emmanu[Bsus]el
+The Rescue for s[E]inners
+The Ransom from [A2(no3)]heaven
+Jesus Mess[E/G#]iah [Bsus]    Lord of [E]all
+
+Verse 2:
+His [E]body the bread His [F#m7]blood the wine
+B[E/G#]roken and poured out [A2(no3)]all for love
+The [E]whole earth trembled and the [F#m7]veil was torn
+[E/B]   Love so a[A2(no3)]mazing [E/B]    love so a[A2(no3)]mazing
+
+BRIDGE:
+All our [F#m]hope is in Y[E/G#]ou
+All our [A2(no3)]hope is in [Bsus]You
+All the [F#m]glory to [E/G#]You God
+[A2(no3)]     The Light of the w[Bsus]orld</text>
+		<searchtext>verse 1 he became sin who knew no sin that we might become his righteousness he humbled himself and carried the cross love so amazing love so amazing chorus jesus messiah name above all names blessed redemer emmanuel the rescue for sinners the ransom from heaven jesus messiah lord of all verse 2 his body the bread his blood the wine broken and poured out all for love the whole earth trembled and the veil was torn love so amazing love so amazing bridge all our hope is in you all our hope is in you all the glory to you god the light of the world</searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>86</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-04-17 00:44:45</created>
+		<modified>2017-03-08 20:26:33</modified>
+		<creator>1546</creator>
+		<ccli>5183443</ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>2355</id>
+		<songbook_id>21</songbook_id>
+		<text>Good Friday</text>
+	</Keyword>
+</data>
+

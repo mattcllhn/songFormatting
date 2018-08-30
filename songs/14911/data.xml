@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14911</id>
+		<songbook_id>21</songbook_id>
+		<title>It Was Love</title>
+		<copyright>Words and Music by Mark Altrogge     © 2005 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:58</created>
+		<modified>2009-03-20 09:14:58</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BOTX66&quot;,&quot;title&quot;:&quot;It Was Love&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51ASvkc53%2BL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16039</id>
+		<song_id>14911</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[C2      | G      | C2      | G]
+Verse 1:
+It was [C2]love that brought You [G]from above
+To [C2]walk upon the [G]earth
+And [C2]love that caused Your [G]weariness
+Your [Em]hunger and Your [D]thirst
+It was [C2]love that caused You [G]to be tried
+And [C2]tempted by the [G]foe
+And [C2]love that brought the [G]nails and cross
+And [Em]love that bought my [D]soul
+
+Chorus:
+How wonderful Your [C2]love, the mystery of [Em7]mysteries
+Filling up my [C2]heart,{,} more glorious than I[D] [ ]know
+How wonderful Your [C2]love, there’s nothing else so[Em7] sweet to me
+I’ll never be a[C2]part,{,} from the [G/B]Lover of my [D]soul
+From the Lover [Dsus4]of [D]my [C2]soul[| G   D   | C2     | C2]
+
+Verse 2:
+Your [C2]love is filled with [G]holiness
+O [C2]Spirit, fan this [G]flame
+Your [C2]love will never [G]cease or cool
+Your [Em]love will never [D]change
+O [C2]let me see Your [G]love for me
+A[C2]round me every[G]where
+The [C2]shining sun, a [G]gentle rain
+Re[Em]mind me of Your [D]care</text>
+		<searchtext>intro verse 1 it was love that brought you from above to walk upon the earth and love that caused your weariness your hunger and your thirst it was love that caused you to be tried and tempted by the foe and love that brought the nails and cross and love that bought my soul chorus how wonderful your love the mystery of mysteries filling up my heart more glorious than i know how wonderful your love theres nothing else so sweet to me ill never be apart from the lover of my soul from the lover of my soul verse 2 your love is filled with holiness o spirit fan this flame your love will never cease or cool your love will never change o let me see your love for me around me everywhere the shining sun a gentle rain remind me of your care</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>112</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:14:58</created>
+		<modified>2009-03-20 09:14:58</modified>
+		<creator>1543</creator>
+		<ccli>4803690</ccli>
+		<album>Valley Of Vision</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

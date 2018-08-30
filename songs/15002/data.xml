@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>15002</id>
+		<songbook_id>21</songbook_id>
+		<title>For You Are Holy</title>
+		<copyright>Words &amp; Music by Zach Jones     © 2004 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:12</created>
+		<modified>2009-03-20 09:15:12</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00104FMZ8&quot;,&quot;title&quot;:&quot;For You Are Holy&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61uXihJYOlL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16143</id>
+		<song_id>15002</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[D2    | G2    | D2/F#    | G2    | G2    |]
+
+Verse 1:
+O [D2]God, there’s none like [G2]You
+In all the [D/F#]earth, in all the [G2]earth
+O [D2]God, who can com[G2]pare
+To [D/F#]You, to [G2]You
+[G]Only You have no beginning, [D/F#]only You could make the skies
+[G]Only You are truth unending, [D/F#]only You are [Asus]always [A]wise
+[Em7]Lord, there is [D/F#]none like [G2     | G2]You
+
+Chorus:
+[G2]For You are [G2]ho[A]-[Bm]ly
+You are [G]ho[A]-[D2]ly
+For You are [G2]ho[A]-[Bm]ly [Dmaj7/A]
+[Em7]Lord You are [Asus]ho[D    | G2    | D2    | G2    | D]ly
+
+Verse 2:
+O [D]God, there’s none like [G2]You
+In all the [D/F#]earth, in all the [G2]earth
+O [D]God, who can com[G2]pare
+To [D/F#]You, to [G2]You
+[G]Only You are never sinning, [D/F#]only You have never lied
+[G]Only You cannot be tempted, [D/F#]only You can [Asus]never [A]die
+[Em7]Lord, there is [D/F#]none like [G2     | G2]You</text>
+		<searchtext>intro verse 1 o god theres none like you in all the earth in all the earth o god who can compare to you to you only you have no beginning only you could make the skies only you are truth unending only you are always wise lord there is none like you chorus for you are holy you are holy for you are holy lord you are holy verse 2 o god theres none like you in all the earth in all the earth o god who can compare to you to you only you are never sinning only you have never lied only you cannot be tempted only you can never die lord there is none like you</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>80</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:12</created>
+		<modified>2009-03-20 09:15:12</modified>
+		<creator>1543</creator>
+		<ccli>4520430</ccli>
+		<album>Awesome God</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

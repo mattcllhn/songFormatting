@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>39570</id>
+		<songbook_id>21</songbook_id>
+		<title>He Has Risen</title>
+		<copyright>Music by Joel Sczebel     Words by Joel Sczebel &amp; Bob Kauflin     © 2011 Sovereign Grace Worship / Sovereign Grace Praise</copyright>
+		<created>2011-03-30 21:49:36</created>
+		<modified>2011-03-30 21:49:36</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B004RR8UKE&quot;,&quot;title&quot;:&quot;He Has Risen&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/41QLoqrrewL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>42479</id>
+		<song_id>39570</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[Amaj9      | F#m7      | E      | E/D#]
+
+Verse 1:
+[A2]Come see the mournful grave, [F#m7]where once a body lay
+[E]Our God in human form, [B/D#]by wrath and judgment torn
+[A2]But He’s no longer here, [F#m7]His death has conquered death
+[E]Our guilt has disapp[B/D#]eared,
+In His for[A]giveness
+
+Chorus:
+[B]Jesus, [C#m]He has risen, [B]Jesus, He’s [C#m]alive
+[B]Opened the [C#m]gates of [E]heaven
+[A]His death has [Bsus]brought us life [Amaj9    | F#m7    | E    | E/D#]
+
+Verse 2:
+[A2]Come see what God has done, [F#m]for vile and wicked ones
+[E]The Innocent is judged, [B/D#]unlovely ones are loved
+[A2]Our joy is now complete, [F#m]for death has lost its sting
+[E]And we are called to [B/D#]live
+Life in His [A]victory
+
+Bridge:
+[C#m]Jesus, has [E]done enough
+[F#m]Our hope can[A]not be shaken
+[C#m]Because God [E]raised Him up
+[F#m]We cannot [A]be forsaken
+[C#m]Jesus, has [E]done enough
+[F#m]Our hope can[A]not be shaken
+[C#m]Because God [E]raised Him up
+[F#m]We cannot [A]be forsaken</text>
+		<searchtext>intro verse 1 come see the mournful grave where once a body lay our god in human form by wrath and judgment torn but hes no longer here his death has conquered death our guilt has disappeared in his forgiveness chorus jesus he has risen jesus hes alive opened the gates of heaven his death has brought us life verse 2 come see what god has done for vile and wicked ones the innocent is judged unlovely ones are loved our joy is now complete for death has lost its sting and we are called to live life in his victory bridge jesus has done enough our hope cannot be shaken because god raised him up we cannot be forsaken jesus has done enough our hope cannot be shaken because god raised him up we cannot be forsaken</searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>164</bpm>
+		<tempo>Fast</tempo>
+		<created>2011-03-30 21:49:36</created>
+		<modified>2011-03-30 21:49:36</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>Risen</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

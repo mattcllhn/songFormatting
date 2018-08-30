@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14883</id>
+		<songbook_id>21</songbook_id>
+		<title>Blessed Is The One</title>
+		<copyright>Words &amp; Music by Doug Plank     © 2008 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:14:55</created>
+		<modified>2009-04-25 23:07:30</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001EUS8ZO&quot;,&quot;title&quot;:&quot;Blessed Is the One&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51CGlRp8SUL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16011</id>
+		<song_id>14883</song_id>
+		<description>Initial arrangement</description>
+		<text>
+Intro:
+[||: A   | A   | D   | D   :||]
+
+Verse 1:
+[A]   Blessed is the one [| A]
+[F#m7]   Whose sins are overcome[| F#m7]
+Whom [E]God has sheltered{,} [D]deep within His [A]grace  [| A]
+[A]   Blessed is the one [| A]
+[F#m7]   Who trusts in God the Son[| F#m7]
+His [E]steadfast love{,} the [D]sinner’s hiding [A]place [| E]
+
+Chorus:
+[Bm]Jesus, [D]Your blood [A]covers all my [E]sin
+[Bm]Jesus, [D]Your love [A]draws my heart to [E]sing
+What a [D]Savior,[|E] [ ]Jesus[|A   |A   |D   |D   (To end: A)]
+
+Verse 2:
+[A]   I will always hide[| A]
+[F#m7]   At my Savior’s side[| F#m7]
+I [E]find my refuge{,} [D]in His sovereign [A]care [| A]
+[A]   When the waters rise[| A]
+[F#m7]   God will hear my cries[| F#m7]
+His [E]steadfast love{,} will [D]hold me safely [A]there [| E]</text>
+		<searchtext> intro verse 1 blessed is the one whose sins are overcome whom god has sheltered deep within his grace blessed is the one who trusts in god the son his steadfast love the sinners hiding place chorus jesus your blood covers all my sin jesus your love draws my heart to sing what a savior jesus verse 2 i will always hide at my saviors side i find my refuge in his sovereign care when the waters rise god will hear my cries his steadfast love will hold me safely there </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>82</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:14:55</created>
+		<modified>2009-04-25 23:07:30</modified>
+		<creator>1543</creator>
+		<ccli>5261145</ccli>
+		<album>Psalms</album>
+		<font_size>18</font_size>
+	</Arrangement>
+</data>
+

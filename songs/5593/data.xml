@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5593</id>
+		<songbook_id>21</songbook_id>
+		<title>God Is So Good</title>
+		<copyright>Words &amp; Music by Daniel Towner and Julia Johnston     Public domain</copyright>
+		<created>2008-09-24 20:35:17</created>
+		<modified>2008-09-24 20:35:17</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6324</id>
+		<song_id>5593</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[D]God is so [A]good, [A]God is so [D]good;
+[D]God is so [G]good, [Em]He's so [A]good to [D]me.
+
+Verse 2:
+[D]He cares for [A]me, [A]He cares for [D]me;
+[D]He cares for [G]me, [Em]He's so [A]good to [D]me.
+
+Verse 3:
+[D]I'll do His [A]will, [A]I'll do His [D]will;
+[D]I'll do His [G]will, [Em]He's so [A]good to [D]me.
+
+Verse 4:
+[D]He loves me [A]so, [A]He loves me [D]so;
+[D]He loves me [G]so, [Em]He's so [A]good to [D]me.
+
+Verse 5:
+[D]He answers [A]prayer, [A]He answers [D]prayer;
+[D]He answers [G]prayer, [Em]He's so [A]good to [D]me.
+</text>
+		<searchtext>verse 1 god is so good god is so good god is so good hes so good to me verse 2 he cares for me he cares for me he cares for me hes so good to me verse 3 ill do his will ill do his will ill do his will hes so good to me verse 4 he loves me so he loves me so he loves me so hes so good to me verse 5 he answers prayer he answers prayer he answers prayer hes so good to me </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>84</bpm>
+		<tempo>Slow</tempo>
+		<created>2008-09-24 20:35:17</created>
+		<modified>2008-09-24 20:35:17</modified>
+		<creator>1543</creator>
+		<ccli>1919972</ccli>
+		<album></album>
+		<font_size></font_size>
+	</Arrangement>
+</data>
+

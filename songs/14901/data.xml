@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14901</id>
+		<songbook_id>21</songbook_id>
+		<title>What Mystery</title>
+		<copyright>Words &amp; Music by Devon Kauflin     © 2008 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:58</created>
+		<modified>2009-03-20 09:14:58</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001VMMLSU&quot;,&quot;title&quot;:&quot;What Mystery&quot;,&quot;artist&quot;:&quot;Na Band&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51L7I-9GeSL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16029</id>
+		<song_id>14901</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[Bm     | G     | D     | Em (2x)]
+
+Verse 1:
+Here [Bm]I am, [G]praising Your great na[D]me
+I’ll [Em]never be the s[Bm]ame [G]because of You [D     Em]
+Holy [Bm]God, [G]right in all Your wa[D]ys
+The [Em]blameless took on b[Bm]lame    [G]
+What mystery [D     Em]
+
+Chorus 1:
+[G] [ ]Oh what m[D]ercy, You have [Bm] [ ]pardoned m[A]e
+[G] [ ]Oh what l[D]ove, You have [Bm] [ ]set me fr[A]ee
+[G] [ ]Oh what g[D]race, You are [Bm] [ ]changing m[A]e
+[G] [ ]Now I m[D]arvel at this [Bm] [ ]mystery [A]
+[(First time, to intro)]
+[(Second time) A   Bm   D   D/F#   A   D]
+
+Verse 2:
+Just one [Bm] sin [G]left me on my [D]own
+De[Em]serving wrath unkn[Bm]own, [G] [ ]but still I li[D     Em]ve
+On the [Bm] cross, [G]cursed You were for [D]me
+Be[Em]came God’s ene[Bm     G]my
+What mystery[D     Em]
+
+Chorus 2:
+[G] [ ]Oh what m[D]ercy, You have [D/F#] [ ]pardoned m[A]e
+[Bm] [ ]Oh what l[D]ove, You have [D/F#] [ ]set me fr[A]ee
+[G] [ ]Oh what g[D]race, You are [Bm] [ ]changing m[A]e
+[G] [ ]Now I m[D]arvel at this [Bm] [ ]mystery [A (to chorus 1)]</text>
+		<searchtext>intro verse 1 here i am praising your great name ill never be the same because of you holy god right in all your ways the blameless took on blame what mystery chorus 1 oh what mercy you have pardoned me oh what love you have set me free oh what grace you are changing me now i marvel at this mystery verse 2 just one sin left me on my own deserving wrath unknown but still i live on the cross cursed you were for me became gods enemy what mystery chorus 2 oh what mercy you have pardoned me oh what love you have set me free oh what grace you are changing me now i marvel at this mystery </searchtext>
+		<primary>1</primary>
+		<key>Bm</key>
+		<time_signature>4/4</time_signature>
+		<bpm>112</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:14:58</created>
+		<modified>2009-03-20 09:14:58</modified>
+		<creator>1543</creator>
+		<ccli>5173460</ccli>
+		<album>Looked Upon</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5566</id>
+		<songbook_id>21</songbook_id>
+		<title>It Is Well With My Soul</title>
+		<copyright>Words by Horatio Spafford     Music by Philip Bliss     Public domain</copyright>
+		<created>2008-09-25 20:59:00</created>
+		<modified>2015-03-25 13:54:18</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>69669</id>
+		<song_id>5566</song_id>
+		<description>Chorus Only</description>
+		<text>
+
+CHORUS:
+[C]It is well (It is [G]well),
+
+With my [Dm7]soul ([G]With my [C]soul)
+
+[C/E]It is [F]well, [Dm7]it is [C/G]well [G]with my [C]soul
+
+</text>
+		<searchtext> chorus it is well it is well with my soul with my soul it is well it is well with my soul </searchtext>
+		<primary>0</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>60</bpm>
+		<tempo>Medium</tempo>
+		<created>2015-03-25 13:54:18</created>
+		<modified>2015-03-25 13:54:18</modified>
+		<creator>1546</creator>
+		<ccli>25376</ccli>
+		<album></album>
+		<font_size>18</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>44592</id>
+		<song_id>5566</song_id>
+		<description>Last verse up 1 step</description>
+		<text>VERSE 1:
+When [C]peace like a [Am7]river a[Dm7]tten[G7]deth my [C]way  [G/B]     
+When [Am7]sorrows like [D7sus]sea billows [G]roll  [G/F]     
+What[C/E]ever my [F]lot, [F/E]thou hast [D]taught me [D/C]to [G/B]say
+[F]It is [C/E]well, [F]it is [C/G]well [G]with my [C]soul
+
+CHORUS:
+[C]It is well (It is [G]well),
+With my [Dm7]soul ([G]With my [C]soul)
+[C/E]It is [F]well, [Dm7]it is [C/G]well [G]with my [C]soul
+
+VERSE 2:
+Though [C]Satan would [Am7]buffet, tho' [Dm7]tria[G7]ls should [C]come [G/B]
+Let [Am7]this blessed as[D7sus]surance con[G]trol [G/F]
+That [C/E]Christ has re[F]gar[F/E]ded my [D]help[D/C]less es[G/B]tate
+[F]And hath [C/E]shed [F]His own [C/G]blood [G]for my [C]soul
+
+VERSE 3:
+My [C]sin, O the [Am7]bliss of this [Dm7]gl[G7]orious [C]thought, [G/B]
+My [Am7]sin, not in [D7sus]part, but the [G]whole [G/F]
+Is [C/E]nailed to the [F]cross [F/E]and I [D]bear [D/C]it no [G/B]more
+[F]Praise the [C/E]Lord, [F]Praise the [C/G]Lord, [G]O my [C]soul
+
+{key:D}
+VERSE 4:
+And [D]Lord, haste the [Bm7]day{,} when my [Em7]faith [A7]shall be [D]sight [A/C#]
+The [Bm7]clouds be rolled [E7sus]back as a [A]scroll [A/G]     
+The [D/F#]trump shall re[G]sound, [G/F#]and the [E]Lord [E/D]shall de[A/C#]scend
+[G]Even [D/F#]so, [G]it is [D/A]well [A]with my [D]soul</text>
+		<searchtext>verse 1 when peace like a river attendeth my way when sorrows like sea billows roll whatever my lot thou hast taught me to say it is well it is well with my soul chorus it is well it is well with my soul with my soul it is well it is well with my soul verse 2 though satan would buffet tho trials should come let this blessed assurance control that christ has regarded my helpless estate and hath shed his own blood for my soul verse 3 my sin o the bliss of this glorious thought my sin not in part but the whole is nailed to the cross and i bear it no more praise the lord praise the lord o my soul verse 4 and lord haste the day when my faith shall be sight the clouds be rolled back as a scroll the trump shall resound and the lord shall descend even so it is well with my soul</searchtext>
+		<primary>0</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>60</bpm>
+		<tempo>Medium</tempo>
+		<created>2011-06-30 10:45:02</created>
+		<modified>2011-06-30 10:45:25</modified>
+		<creator>1546</creator>
+		<ccli>25376</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>6297</id>
+		<song_id>5566</song_id>
+		<description>Ryan Arrangement</description>
+		<text>VERSE 1:
+When [A]peace like a [A/E]ri[E]ver a[Bm7]tten[E7]deth my [A]way [A/G#]     
+When [F#m7]sorrows like [B7sus]sea billows [E]roll  [E/D]     
+What[A/C#]ever my [D]lot, thou [D/C#]hast [B]taught [B/D#]me [B7/D#]to [E]say
+[D/E]It [E/D]is [A/C#]well, [D]it is [A/E]well [E]with my [A]soul
+
+CHORUS:
+[A]It is well (It is [E]well),
+With my [E7]soul ([E]With my [A]soul)
+[A/C#]It is [D]well, [Bm7]it is [A/E]well [E]with my [A]soul
+
+VERSE 2:
+Though [A]Satan would [A/E]buf[E]fet, tho' [Bm7]tria[E7]ls should [A]come [A/G#]
+Let [F#m7]this blessed as[B7sus]surance con[E]trol [E/D]
+That [A/C#]Christ has re[D]garded [D/C#]my [B]help [B/D#]less [B7/D#]es[E]tate
+[D/E]And [E/D]hath [A/C#]shed [D]His own [A/E]blood [E]for my [A]soul
+
+VERSE 3:
+My [A]sin, O the [A/E]bliss [E]of this [Bm7]gl[E7]orious [A]thought, [A/G#]
+My [F#m7]sin, not in [B7sus]part, but the [E]whole [E/D]
+Is [A/C#]nailed to the [D]cross and [D/C#]I [B]bear [B/D#]it [B7/D#]no [E]more
+[D/E]Praise [E/D]the [A/C#]Lord, [D]Praise the [A/E]Lord, [E]O my [A]soul
+
+VERSE 4:
+And [A]Lord, haste the [A/E]day{,} [E]when my [Bm7]faith [E7]shall be [A]sight [A/G#]
+The [F#m7]clouds be rolled [B7sus]back as a [E]scroll [E/D]     
+The [A/C#]trump shall re[D]sound, and [D/C#]the [B]Lord [B/D#]shall [B7/D#]de[E]scend
+[D/E]Ev[E/D]en [A/C#]so, [D]it is [A/E]well [E]with my [A]soul</text>
+		<searchtext>verse 1 when peace like a river attendeth my way when sorrows like sea billows roll whatever my lot thou hast taught me to say it is well it is well with my soul chorus it is well it is well with my soul with my soul it is well it is well with my soul verse 2 though satan would buffet tho trials should come let this blessed assurance control that christ has regarded my help less estate and hath shed his own blood for my soul verse 3 my sin o the bliss of this glorious thought my sin not in part but the whole is nailed to the cross and i bear it no more praise the lord praise the lord o my soul verse 4 and lord haste the day when my faith shall be sight the clouds be rolled back as a scroll the trump shall resound and the lord shall descend even so it is well with my soul</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>60</bpm>
+		<tempo>Medium</tempo>
+		<created>2008-09-25 20:59:00</created>
+		<modified>2013-08-03 19:57:51</modified>
+		<creator>1543</creator>
+		<ccli>25376</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>64958</id>
+		<song_id>5566</song_id>
+		<description>Tim Arrangement for guitar with Key Change</description>
+		<text>VERSE 1:
+When [A]peace like a [A]ri[E]ver a[Bm7]tten[E7]deth my [A]way [A/G#]     
+When [F#m7]sorrows like [B7sus]sea billows [E]roll      
+What[A]ever my [D]lot, thou [D]hast [B]taught me to [E]say
+[D]It [E]is [A]well, [D]it is [A]well [E]with my [A]soul
+
+CHORUS:
+[A]It is well (It is [E]well),
+With my [E7]soul ([E]With my [A]soul)
+[A]It is [D]well, [B]it is [A]well [E]with my [A]soul
+
+VERSE 2:
+Though [A]Satan would [A]buf[E]fet, tho' [Bm7]tria[E7]ls should [A]come [A/G#]
+Let [F#m7]this blessed as[B7sus]surance con[E]trol 
+That [A]Christ has re[D]garded [D]my [B]help less es[E]tate
+[D]And [E]hath [A]shed [D]His own [A]blood [E]for my [A]soul
+
+{key:A}
+VERSE 3:
+My [A]sin, O the [A]bliss [E]of this [Bm7]gl[E7]orious [A]thought, [A/G#]
+My [F#m7]sin, not in [B7sus]part, but the [E]whole 
+Is [A]nailed to the [D]cross and [D]I [B]bear it no [E]more
+[D]Praise [E]the [A]Lord, [D]Praise the [A]Lord, [E]O my [A]soul
+
+VERSE 4:
+And [A]Lord, haste the [A]day{,} [E]when my [Bm7]faith [E7]shall be [A]sight [A/G#]
+The [F#m7]clouds be rolled [B7sus]back as a [E]scroll      
+The [A]trump shall re[D]sound, and [D]the [B]Lord shall de[E]scend
+[D]Ev[E]en [A]so, [D]it is [A]well [E]with my [A]soul</text>
+		<searchtext>verse 1 when peace like a river attendeth my way when sorrows like sea billows roll whatever my lot thou hast taught me to say it is well it is well with my soul chorus it is well it is well with my soul with my soul it is well it is well with my soul verse 2 though satan would buffet tho trials should come let this blessed assurance control that christ has regarded my help less estate and hath shed his own blood for my soul verse 3 my sin o the bliss of this glorious thought my sin not in part but the whole is nailed to the cross and i bear it no more praise the lord praise the lord o my soul verse 4 and lord haste the day when my faith shall be sight the clouds be rolled back as a scroll the trump shall resound and the lord shall descend even so it is well with my soul</searchtext>
+		<primary>0</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>60</bpm>
+		<tempo>Medium</tempo>
+		<created>2014-08-17 00:39:37</created>
+		<modified>2014-08-17 00:40:04</modified>
+		<creator>1547</creator>
+		<ccli>25376</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

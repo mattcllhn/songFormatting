@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5617</id>
+		<songbook_id>21</songbook_id>
+		<title>Come, Thou Almighty King</title>
+		<copyright>Words by Charles Wesley     Music by Fe­lice Gi­ar­di­ni     Public domain</copyright>
+		<created>2008-10-24 02:08:17</created>
+		<modified>2014-04-10 23:02:55</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>62921</id>
+		<song_id>5617</song_id>
+		<description>Arrangement and alternative verse by Tim Schmidt</description>
+		<text>Verse 1: 
+[E]Come, Thou Al[B]mighty [E]King, [E/G#]help us Thy [A]Name to [B]sing,
+[E/G#]Help us to [Bsus]praise!
+[B]Father all [E]glorious, [B]o’er all vic[E]torious,
+[E]Come and reign [C#m]over us, [B]Ancient of [E]Days!
+
+Verse 2: 
+[E]Come, Thou in[B]carnate [E]Word, [E/G#]gird on Thy [A]mighty [B]sword,
+[E/G#]Our prayer at[Bsus]tend!
+[B]Come, and Thy [E]people bless, [B]and give Thy [E]Word success,
+[E]Spirit of [C#m]holiness, [B]on us des[E]cend!
+
+VERSE 3: 
+[E2]Come Holy [B]Spirit [E]come, [E/G#]fix our eyes [A]on the [B]Son
+[E/G#]Show us Your [Bsus]might
+[B]Help us to [E]run the race, [B]by Your great [E]sovereign grace
+[E]Till we see [C#m]Jesus face, [B]He is our [E]Prize!</text>
+		<searchtext>verse 1 come thou almighty king help us thy name to sing help us to praise father all glorious oer all victorious come and reign over us ancient of days verse 2 come thou incarnate word gird on thy mighty sword our prayer attend come and thy people bless and give thy word success spirit of holiness on us descend verse 3 come holy spirit come fix our eyes on the son show us your might help us to run the race by your great sovereign grace till we see jesus face he is our prize</searchtext>
+		<primary>0</primary>
+		<key>E</key>
+		<time_signature>3/4</time_signature>
+		<bpm>112</bpm>
+		<tempo>Slow</tempo>
+		<created>2014-03-27 18:25:48</created>
+		<modified>2014-04-10 23:02:55</modified>
+		<creator>1547</creator>
+		<ccli>29073</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>6348</id>
+		<song_id>5617</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1: 
+[D]Come, Thou Al[A]mighty [D]King, [D/F#]help us Thy [G]Name to [A]sing,
+[D/F#]Help us to [Asus]praise!
+[A]Father all [D]glorious, [A]o’er all vic[D]torious,
+[D]Come and [A]reign [Bm]over [D/F#]us, [G]Anc[Asus]ient [A]of [D]Days!
+
+Verse 2: 
+[D]Jesus, our [A]Lord, a[D]rise,{,} [D/F#]scatter our [G]ene[A]mies,
+[D/F#]And make them [Asus]fall;
+[A]Let Thine al[D]mighty aid, [A]our sure de[D]fense be made,
+[D]Souls [A]on [Bm]Thee be [D/F#]stayed, [G]Lord, [Asus]hear [A]our [D]call.
+
+Verse 3: 
+[D]Come, Thou in[A]carnate [D]Word, [D/F#]gird on Thy [G]mighty [A]sword,
+[D/F#]Our prayer at[Asus]tend!
+[A]Come, and Thy [D]people bless, [A]and give Thy [D]Word success,
+[D]Spirit [A]of [Bm]holi[D/F#]ness, [G]on [Asus]us [A]des[D]cend!
+
+Verse 4: 
+[D]Come, Holy [A]Comfor[D]ter, [D/F#]Thy sacred [G]witness [A]bear,
+[D/F#]In this glad [Asus]hour.
+[A]Thou Who al[D]mighty art, [A]now rule in [D]every heart,
+[D]And ne’er [A]from [Bm]us de[D/F#]part, [G]Spir[Asus]it [A]of [D]power!
+
+Verse 5: 
+[E]To Thee, great [B]One in [E]Three,{,} [E/G#]eternal [A]praises [B]be,
+[E/G#]Hence, [Bsus]evermore.
+[B]Thy sovereign [E]majesty,{,} [B]may we in [E]glory see,
+[E]And to [B]e[C#m]terni[E/G#]ty, [A]love [Bsus]and [B]a[E]dore!</text>
+		<searchtext>verse 1 come thou almighty king help us thy name to sing help us to praise father all glorious oer all victorious come and reign over us ancient of days verse 2 jesus our lord arise scatter our enemies and make them fall let thine almighty aid our sure defense be made souls on thee be stayed lord hear our call verse 3 come thou incarnate word gird on thy mighty sword our prayer attend come and thy people bless and give thy word success spirit of holiness on us descend verse 4 come holy comforter thy sacred witness bear in this glad hour thou who almighty art now rule in every heart and neer from us depart spirit of power verse 5 to thee great one in three eternal praises be hence evermore thy sovereign majesty may we in glory see and to eternity love and adore</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>3/4</time_signature>
+		<bpm>112</bpm>
+		<tempo>Slow</tempo>
+		<created>2008-10-24 02:08:17</created>
+		<modified>2010-04-24 22:25:07</modified>
+		<creator>1543</creator>
+		<ccli>29073</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>62922</id>
+		<song_id>5617</song_id>
+		<description>Praise to the Lord the Almighty/Come,Thou Almighty King</description>
+		<text>Verse 1: 
+[E]Praise to the [C#m]Lord, the Al[B]mighty, the [A]King of cre[B]a[E      | E |]tion!
+[E]O my soul, [C#m]praise Him, for [B]He is thy [A]health and sal[B]va[E      | E |]tion!
+[E]All ye who [A]hear, [E]now to His [C#m]temple draw [B      | B |]near;
+[F#m]Praise Him in [E/G#]glad ador[A | Adim]a[  E] tion.   [INTRO] 
+
+
+Verse 2: 
+[E]Praise to the [C#m]Lord, who doth [B]prosper thy [A]work and de[B]fend [E      | E |]thee;
+[E]Surely His [C#m]goodness and [B]mercy{,} here [A]daily at[B]tend [E      | E |]thee.
+[E]Ponder a[A]new [E]what the Al[C#m]mighty can [B      | B |]do,
+[F#m]If with His [E/G#]love He be[A | Adim]friend [E]thee.  [INTRO] 
+
+
+Verse 3: 
+[E]Praise to the [C#m]Lord, O let [B]all that is [A]in me a[B]dore [E      | E |]Him!
+[E]All that hath [C#m]life and breath, [B]come now with [A]praises be[B]fore [E      | E |]Him.
+[E]Let the A[A]men [E]sound from His [C#m]people a[B      | B |]gain,
+[F#m]Gladly, for[E/G#]ever, we a[A | Adim]dore [E]Him.  [INTRO] 
+
+
+{new_page}
+Verse 4: 
+[E]Come, Thou Al[B]mighty [E]King, [E/G#]help us Thy [A]Name to [B]sing,
+[E/G#]Help us to [Bsus]praise!
+[B]Father all [E]glorious, [B]o’er all vic[E]torious,
+[E]Come and reign [C#m]over us, [B]Ancient of [E]Days!
+
+Verse 5: 
+[E]Come, Thou in[B]carnate [E]Word, [E/G#]gird on Thy [A]mighty [B]sword,
+[E/G#]Our prayer at[Bsus]tend!
+[B]Come, and Thy [E]people bless, [B]and give Thy [E]Word success,
+[E]Spirit of [C#m]holiness, [B]on us des[E]cend!
+
+VERSE 6: 
+[E2]Come Holy [B]Spirit [E]come, [E/G#]fix our eyes [A]on the [B]Son
+[E/G#]Show us Your [Bsus]might
+[B]Help us to [E]run the race, [B]by Your great [E]sovereign grace
+[E]Till we see [C#m]Jesus face, [B]He is our [E]Prize!</text>
+		<searchtext>verse 1 praise to the lord the almighty the king of creation o my soul praise him for he is thy health and salvation all ye who hear now to his temple draw near praise him in glad adora tion verse 2 praise to the lord who doth prosper thy work and defend thee surely his goodness and mercy here daily attend thee ponder anew what the almighty can do if with his love he befriend thee verse 3 praise to the lord o let all that is in me adore him all that hath life and breath come now with praises before him let the amen sound from his people again gladly forever we adore him verse 4 come thou almighty king help us thy name to sing help us to praise father all glorious oer all victorious come and reign over us ancient of days verse 5 come thou incarnate word gird on thy mighty sword our prayer attend come and thy people bless and give thy word success spirit of holiness on us descend verse 6 come holy spirit come fix our eyes on the son show us your might help us to run the race by your great sovereign grace till we see jesus face he is our prize</searchtext>
+		<primary>0</primary>
+		<key>E</key>
+		<time_signature>3/4</time_signature>
+		<bpm>112</bpm>
+		<tempo>Slow</tempo>
+		<created>2014-03-27 18:30:17</created>
+		<modified>2014-03-27 19:47:17</modified>
+		<creator>1547</creator>
+		<ccli>29073</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14939</id>
+		<songbook_id>21</songbook_id>
+		<title>The Glory Of The Lamb</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2002 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:03</created>
+		<modified>2009-03-20 09:15:03</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0010VLK9I&quot;,&quot;title&quot;:&quot;The Glory of the Lamb&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/519CuW9nbdL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16074</id>
+		<song_id>14939</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[F#m]  A day is coming, [D2]coming soon, when [E2]we shall see Your [Bm]face
+[F#m]  And how our hearts are [D2]yearning for{,} that [E2]outpouring of [Bm7]grace
+[F#m]  When You take all the [D2]galaxies, and [E2]roll them up like a [Bm]scroll
+[F#m]  When You make Heav’n and [D2]Earth anew, and e[E2]ternity unfol[Bm]ds
+
+
+Chorus:
+Then the [A]glory of the [A/D]Lamb will be
+[F#m]All that we have [Bm9]longed to see
+And we’ll [Dmaj7]praise Your splendor, [Esus4]majesty and mig[A]ht
+There will [A]be no darkness, [A/D]be no night
+We won’t [F#m]need the sun or [Bm9]moon to shine
+For the [Dmaj7]glory of the La[Esus4]mb will be[E] our lig[A    | A    |]ht
+
+
+Verse 2:
+[F#m]  Although we see but [D2]dimly now, our [E2]hearts are filled with lo[Bm]ve
+[F#m]  For we have tasted [D2]and have seen{,} how [E2]good You are, O Go[Bm7]d
+[F#m]  We know that our Re[D2]deemer lives, and [E2]someday You’ll retu[Bm]rn
+[F#m]  And we shall see You [D2]with our eyes, oh [E2]how our hearts will bu[Bm]rn</text>
+		<searchtext>verse 1 a day is coming coming soon when we shall see your face and how our hearts are yearning for that outpouring of grace when you take all the galaxies and roll them up like a scroll when you make heavn and earth anew and eternity unfolds chorus then the glory of the lamb will be all that we have longed to see and well praise your splendor majesty and might there will be no darkness be no night we wont need the sun or moon to shine for the glory of the lamb will be our light verse 2 although we see but dimly now our hearts are filled with love for we have tasted and have seen how good you are o god we know that our redeemer lives and someday youll return and we shall see you with our eyes oh how our hearts will burn</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>105</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:03</created>
+		<modified>2009-03-20 09:15:03</modified>
+		<creator>1543</creator>
+		<ccli>4126683</ccli>
+		<album>All We Long To See</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

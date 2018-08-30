@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>68166</id>
+		<songbook_id>21</songbook_id>
+		<title>My One Comfort</title>
+		<copyright>Dustin Kensrue</copyright>
+		<created>2016-08-30 21:30:38</created>
+		<modified>2016-08-30 21:30:38</modified>
+		<creator>5114</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>75078</id>
+		<song_id>68166</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse: 
+[G]My one comfort both in life and death
+Is that [C]I am not my [G]own
+I was [G]bought with blood and I confess
+I [C]belong to you [G]alone
+
+Chorus: 
+By the [Em]Father’s [C]good [G]decree
+Jesus [Em]you’ve [C]delivered [G]me
+By your [Em]spirit [C]set me [G]free
+To [D]follow [G]you
+
+Bridge: 
+[C]Jesus you have taken hold of [G]me
+And [C]in your grip of grace I’m finally [G]free
+
+</text>
+		<searchtext>verse my one comfort both in life and death is that i am not my own i was bought with blood and i confess i belong to you alone chorus by the fathers good decree jesus youve delivered me by your spirit set me free to follow you bridge jesus you have taken hold of me and in your grip of grace im finally free </searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2016-08-30 21:30:38</created>
+		<modified>2016-08-30 21:30:38</modified>
+		<creator>5114</creator>
+		<ccli></ccli>
+		<album>The Water and the Blood</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>15005</id>
+		<songbook_id>21</songbook_id>
+		<title>Jesus Came To Earth</title>
+		<copyright>Words &amp; Music by Solomon Campbell, Dave Campbell, and Bob Kauflin     © 2004 Sovereign Grace Worship (ASCAP) and Sovereign Grace Praise (BMI)</copyright>
+		<created>2009-03-20 09:15:12</created>
+		<modified>2014-09-15 19:47:16</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00104J6IM&quot;,&quot;title&quot;:&quot;Jesus Came to Earth&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61uXihJYOlL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16147</id>
+		<song_id>15005</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[D2     | D2     | D2     | D2     | G2     | G2     | Asus    A    | A     |]
+
+Verse:
+[D2]Jesus came to earth
+He [D2]lived a perfect life
+He [D2]died upon the cross
+Then He [A7]rose from the dead
+[G]Now He is in heaven
+[D]Seated on His throne
+At the [A7sus]right hand of the Father [| A]
+Where [A7sus]heaven is His home [| A]
+
+Chorus:
+We [D/F#]praise You, [G]Je[D]sus, Son of [Asus     | A]God
+We [D/F#]praise You, [G]Je[D]sus, Son of [Asus     | A]Man
+You [D/F#]left Your [G]throne of [D/F#]grace
+To suffer [C6]in our [G/B]place
+So we [Em7]praise You, [A7sus]Jesus [D2     | D2     | G2     | G2     | D]Christ</text>
+		<searchtext>intro verse jesus came to earth he lived a perfect life he died upon the cross then he rose from the dead now he is in heaven seated on his throne at the right hand of the father where heaven is his home chorus we praise you jesus son of god we praise you jesus son of man you left your throne of grace to suffer in our place so we praise you jesus christ</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>100</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:12</created>
+		<modified>2014-09-15 19:47:16</modified>
+		<creator>1543</creator>
+		<ccli>4520021</ccli>
+		<album>Awesome God</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

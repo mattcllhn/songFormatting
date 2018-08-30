@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>68737</id>
+		<songbook_id>21</songbook_id>
+		<title>Fix My Eyes</title>
+		<copyright>Kings Kaleidoscope</copyright>
+		<created>2016-10-03 14:21:27</created>
+		<modified>2016-10-04 17:08:37</modified>
+		<creator>5114</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>75722</id>
+		<song_id>68737</song_id>
+		<description>Initial arrangement</description>
+		<text>
+Verse 1:
+When my [A]heart is weary, when my [F#m]soul is weak
+When it [D]seems I can’t [E]traverse the trail [F#m]before me
+I [A]survey the glory of your [F#m]agony
+And I [D]find the will to [E]fight for what’s [F#m]before me
+ ‘Cause you [D]ran the race, [E]enduring for your [F#m]glory
+
+Chorus:
+I [A]fix my [Amaj7/C#]eyes on [F#m  Dsus2]you, 
+the [A]founder and the [Amaj7/C#]finisher of our [F#m  D]faith
+I [A]fix my [Amaj7/C#]eyes on [F#m  D]you, 
+the [A]solace in your [Amaj7/C#]suffering is my [F#m  D]strength
+
+Verse 2:
+As I [A]fight to follow, you’re my [F#m]righteous guide
+And you [D]train me to [E]delight in all that’s [F#m]holy
+Heal my [A]broken body, cure my [F#m]crooked stride
+Throw off [D]every weight and [E]sin that clings so [F#m]closely
+I will [D]run the race, [E]enduring for your [F#m]glory
+
+Bridge:
+You [A]help me [Amaj7/C#]breathe, you’re the only [F#m]life I [D]need
+You [A]died for [Amaj7/C#]me, you’re the only [F#m]life I [D]need</text>
+		<searchtext> verse 1 when my heart is weary when my soul is weak when it seems i cant traverse the trail before me i survey the glory of your agony and i find the will to fight for whats before me cause you ran the race enduring for your glory chorus i fix my eyes on you the founder and the finisher of our faith i fix my eyes on you the solace in your suffering is my strength verse 2 as i fight to follow youre my righteous guide and you train me to delight in all thats holy heal my broken body cure my crooked stride throw off every weight and sin that clings so closely i will run the race enduring for your glory bridge you help me breathe youre the only life i need you died for me youre the only life i need</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2016-10-03 14:21:27</created>
+		<modified>2016-10-04 17:08:37</modified>
+		<creator>5114</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

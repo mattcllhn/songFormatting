@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14999</id>
+		<songbook_id>21</songbook_id>
+		<title>Make His Praise</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 1986 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:12</created>
+		<modified>2009-03-20 09:15:12</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BVDPJA&quot;,&quot;title&quot;:&quot;Make His Praise&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51FHJmKXExL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16140</id>
+		<song_id>14999</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[| G     | G/F#     | Em     | Dsus    D    |]
+
+Verse 1:
+[G]Make His praise [G/F#]great and glorious
+[Em7]Jesus reigns [G/D]all victorious
+[F2]Gracious God, r[F2/E]uling over us
+[Bb/D]There is no one [F/C]like Yo[| C2]u
+
+Verse 2:
+[G]King of Kings, [G/F#]Lord of righteousness
+[Em7]We shall bring [G/D]You the very best
+[F2]Jesus come, [F2/E]be our honored guest
+[Bb/D]There is no one [F/C]like Yo[| C2]u
+
+Chorus:
+As[G]cribe [C2]to the L[D     C2]ord
+The [G]glory [C2]due His n[D     C2]ame
+We [Em7]worship You{,} in the ma[D]jesty of Your [Cmaj7]holiness [D]
+As[G]cribe [C2]to the L[D     C2]ord
+[G]Beau[C2]ty and st[D]rength [C2]
+We [Em7]worship You{,} in the ma[D]jesty of Your [Cmaj7]holiness [D]
+And we [Em]make Your praise [D6]
+We [C]make Your praise [D]
+We [Am9]make Your praise [C2]glorious[| G    | G/F#    | Em7    | C2    | G]</text>
+		<searchtext>intro verse 1 make his praise great and glorious jesus reigns all victorious gracious god ruling over us there is no one like you verse 2 king of kings lord of righteousness we shall bring you the very best jesus come be our honored guest there is no one like you chorus ascribe to the lord the glory due his name we worship you in the majesty of your holiness ascribe to the lord beauty and strength we worship you in the majesty of your holiness and we make your praise we make your praise we make your praise glorious</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>125</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:12</created>
+		<modified>2009-03-20 09:15:12</modified>
+		<creator>1543</creator>
+		<ccli>30000</ccli>
+		<album>I Stand In Awe</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

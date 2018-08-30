@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5577</id>
+		<songbook_id>21</songbook_id>
+		<title> The Wonderful Cross</title>
+		<copyright>Words &amp; Music by Isaac Watts; chorus words and music by Chris Tomlin</copyright>
+		<created>2008-09-25 19:45:52</created>
+		<modified>2017-03-08 20:35:41</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6308</id>
+		<song_id>5577</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[D]When I survey the [G/D]wondrous [D]cross
+[D]On which the [G/D]Prince of [D]Glory [A]died
+[D]My richest gain I [G/D]count but [D]loss
+[D]And pour con[Bm]tempt on [G]all [A]my [D]pride
+
+Verse 2:
+[D]Forbid it, Lord, that [G/D]I should boast,
+[D]Save in the [G/D]death of Christ my [A]God!
+[D]All the vain things that [G/D]charm me most,
+[D]I sacri[Bm]fice them [G]to [A]His [D]blood.
+
+Verse 3:
+[D]See from His head, His [G/D]hands, His [D]feet
+[D]Sorrow and [G/D]love flow [D]mingled [A]down
+[D]Did ever such love and [G/D]sorrow [D]meet
+[D]Or thorns com[Bm]pose so [G]rich [A]a [D]crown
+
+Verse 4:
+[D]Were the whole realm of [G/D]nature [D]mine
+[D]That were an [G/D]offering [D]far too [A]small
+[D]Love so amazing, [G/D]so di[D]vine
+[D]Demands my [Bm]soul, my [G]life, [A]my [D]all</text>
+		<searchtext>verse 1 when i survey the wondrous cross on which the prince of glory died my richest gain i count but loss and pour contempt on all my pride verse 2 forbid it lord that i should boast save in the death of christ my god all the vain things that charm me most i sacrifice them to his blood verse 3 see from his head his hands his feet sorrow and love flow mingled down did ever such love and sorrow meet or thorns compose so rich a crown verse 4 were the whole realm of nature mine that were an offering far too small love so amazing so divine demands my soul my life my all</searchtext>
+		<primary>0</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>80</bpm>
+		<tempo>Medium</tempo>
+		<created>2008-09-25 19:45:52</created>
+		<modified>2008-09-25 19:45:52</modified>
+		<creator>1543</creator>
+		<ccli>1652212</ccli>
+		<album></album>
+		<font_size></font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>54346</id>
+		<song_id>5577</song_id>
+		<description>When I Survey with The Wonderful Cross</description>
+		<text>Verse 1: 
+[D2]When I survey the [G/D]wondrous [D]cross
+[D2]On which the [G/D]Prince of [Em]Glory [Asus]died
+[D2]My richest gain I [G/D]count but [D]loss
+[D2]And pour con[Em]tempt on [Asus]all my [D2]pride
+
+Verse 2: 
+[D2]See from His head, His [G/D]hands, His [D]feet
+[D2]Sorrow and [G/D]love flow [Em]mingled [Asus]down
+[D2]Did ever such love and [G/D]sorrow [D]meet
+[D2]Or thorns com[Em]pose so [Asus]rich a [D]crown
+
+Chorus: 
+[D2]Oh the [G]wonderful [D/F#] cross,
+Oh the [G]wonderful [D/F#]cross!
+Bids me [G]come and die and [D/F#]find that I may [Asus]truly live [A] 
+Oh the [G]wonderful [D/F#]cross,
+Oh the [G]wonderful [D/F#]cross!
+All who [G]gather here by [D/F#]grace draw near and [Asus]bless your name [A].
+
+{new_page}
+Verse 3: 
+[D2]Were the whole realm of [G/D]nature [D]mine
+[D2]That were an [G/D]offering [Em]far too [Asus]small
+[D2]Love so amazing, [G/D]so di[D]vine
+[D2]Demands my [Em]soul, my [Asus]life, my [D]all.
+
+Chorus: 
+[D] Oh the [G]wonderful [D/F#]cross,
+Oh the [G]wonderful [D/F#]cross!
+Bids me [G]come and die and [D/F#]find that I may [Asus]truly live [A].
+Oh the [G]wonderful [D/F#]cross,
+Oh the [G]wonderful [D/F#]cross!
+All who [G]gather here by [D/F#]grace draw near and [Asus]bless your name [A].
+
+End: 
+[D2]Love so amazing, [G/D]so di[D]vine,
+Demands my [Em]soul, my [Asus]life, my [D]all.</text>
+		<searchtext>verse 1 when i survey the wondrous cross on which the prince of glory died my richest gain i count but loss and pour contempt on all my pride verse 2 see from his head his hands his feet sorrow and love flow mingled down did ever such love and sorrow meet or thorns compose so rich a crown chorus oh the wonderful cross oh the wonderful cross bids me come and die and find that i may truly live oh the wonderful cross oh the wonderful cross all who gather here by grace draw near and bless your name verse 3 were the whole realm of nature mine that were an offering far too small love so amazing so divine demands my soul my life my all chorus oh the wonderful cross oh the wonderful cross bids me come and die and find that i may truly live oh the wonderful cross oh the wonderful cross all who gather here by grace draw near and bless your name end love so amazing so divine demands my soul my life my all</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>60</bpm>
+		<tempo>Medium</tempo>
+		<created>2012-10-29 13:31:21</created>
+		<modified>2017-03-08 20:35:41</modified>
+		<creator>9262</creator>
+		<ccli>1652212</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>2355</id>
+		<songbook_id>21</songbook_id>
+		<text>Good Friday</text>
+	</Keyword>
+</data>
+

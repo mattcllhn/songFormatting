@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5612</id>
+		<songbook_id>21</songbook_id>
+		<title>Come, Ye Thankful People, Come</title>
+		<copyright>Words by Henry Alford     Music by George El­vey     Public domain</copyright>
+		<created>2008-10-24 21:45:50</created>
+		<modified>2008-10-24 21:45:50</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6343</id>
+		<song_id>5612</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[F]Come, ye [Am7]thank[F]ful [Bb]peo[C]ple, [F]come,{,} [F]raise the [Am7]song [F]of [Dm7]har[Bb]vest [A]home
+[Dm7]All is [Gm7]safely [C]gathered [F]in, [F]ere [Dm6]the [C]win[F]ter [C/G]storms [G]be[C]gin.
+[C]God our Maker [F/A]doth [Gm]pro[F]vide{,} [F]for our wants [F7/Eb]to [Bb/D]be [F7/C]sup[Bb]plied
+[D/F#]Come to [Gm]God’s own [C]temple, [F]come,{,} [Bb/D]raise [Bb]the [F/A]song [Dm7]of [F/C]har[C]vest [F]home.
+
+
+Verse 2:
+[F]All the [Am7]world [F]is [Bb]God’s [C]own [F]field, [F]fruit un[Am7]to [F]His [Dm7]praise [Bb]to [A]yield
+[Dm7]Wheat and [Gm7]tares to[C]gether [F]sown{,} [F]un[Dm6]to [C]joy [F]or [C/G]sor[G]row [C]grown.
+[C]First the blade and [F/A]then [Gm]the [F]ear, [F]then the full [F7/Eb]corn [Bb/D]shall [F7/C]ap[Bb]pear
+[D/F#]Lord of [Gm]harvest, [C]grant that [F]we{,} [Bb/D]whole[Bb]some [F/A]grain [Dm7]and [F/C]pure [C]may [F]be.
+
+
+Verse 3:
+[F]For the [Am7]Lord [F]our [Bb]God [C]shall [F]come, [F]and shall [Am7]take [F]His [Dm7]har[Bb]vest [A]home
+[Dm7]From His [Gm7]field shall [C]in that [F]day{,} [F]all [Dm6]of[C]fen[F]ses [C/G]purge [G]a[C]way,
+[C]Giving angels [F/A]charge [Gm]at [F]last{,} [F]in the fire [F7/Eb]the [Bb/D]tares [F7/C]to [Bb]cast
+[D/F#]But the [Gm]fruitful [C]ears to [F]store{,} [Bb/D]in [Bb]His [F/A]gar[Dm7]ner [F/C]e[C]ver[F]more.
+
+
+Verse 4:
+[F]Even [Am7]so, [F]Lord, [Bb]quick[C]ly [F]come, [F]bring Thy [Am7]fi[F]nal [Dm7]har[Bb]vest [A]home
+[Dm7]Gather [Gm7]Thou Thy [C]people [F]in, [F]free [Dm6]from [C]sor[F]row, [C/G]free [G]from [C]sin,
+[C]There, forever [F/A]pur[Gm]i[F]fied,{,} [F]in Thy gar[F7/Eb]ner [Bb/D]to [F7/C]a[Bb]bide
+[D/F#]Come, with [Gm]all Thine [C]angels [F]come, [Bb/D]raise [Bb]the [F/A]glor[Dm7]ious [F/C]har[C]vest [F]home.</text>
+		<searchtext>verse 1 come ye thankful people come raise the song of harvest home all is safely gathered in ere the winter storms begin god our maker doth provide for our wants to be supplied come to gods own temple come raise the song of harvest home verse 2 all the world is gods own field fruit unto his praise to yield wheat and tares together sown unto joy or sorrow grown first the blade and then the ear then the full corn shall appear lord of harvest grant that we wholesome grain and pure may be verse 3 for the lord our god shall come and shall take his harvest home from his field shall in that day all offenses purge away giving angels charge at last in the fire the tares to cast but the fruitful ears to store in his garner evermore verse 4 even so lord quickly come bring thy final harvest home gather thou thy people in free from sorrow free from sin there forever purified in thy garner to abide come with all thine angels come raise the glorious harvest home</searchtext>
+		<primary>1</primary>
+		<key>F</key>
+		<time_signature>4/4</time_signature>
+		<bpm>54</bpm>
+		<tempo>Slow</tempo>
+		<created>2008-10-24 21:45:50</created>
+		<modified>2008-10-24 21:45:50</modified>
+		<creator>1543</creator>
+		<ccli>50200</ccli>
+		<album></album>
+		<font_size></font_size>
+	</Arrangement>
+	<Keyword>
+		<id>258</id>
+		<songbook_id>21</songbook_id>
+		<text>Thanksgiving</text>
+	</Keyword>
+</data>
+

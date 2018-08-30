@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5616</id>
+		<songbook_id>21</songbook_id>
+		<title>I Stand Amazed In The Presence</title>
+		<copyright>Words by Charles Gab­ri­el     Music by Ed­win Ex­cell</copyright>
+		<created>2008-10-25 18:30:50</created>
+		<modified>2015-02-12 15:55:18</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>61511</id>
+		<song_id>5616</song_id>
+		<description>Arranged by Timmy Schmidt - Alternate wording</description>
+		<text>Verse 1:
+I [E]stand amazed in the presence,
+Of [B]Jesus the Naza[E]rene,
+And [A]wonder how He could [E]love me
+a [E/G#]sinner, con[B7]demned, un[E]clean.
+
+
+Chorus:
+[E]How marvelous! How wonderful
+[B]And my song shall ever be
+[E]How marvelous! [E/G#]How wondeful
+[F#m7]Is my [E]Savior’s [B]love for [E]me!
+
+
+Verse 2:
+For [E]me it was in the garden,
+He [B]prayed: Not My will, but [E]Thine
+He [A]did shed tears for His [E]own griefs
+but [E/G#]sweat drops of [B7]blood for [E]mine
+
+Verse 4:
+He [E]took my sins and my sorrows
+He [B]made them His very own
+He [A]bore the burden to [E]Calvary
+And [E/G#]suffered and [B7]died a[E]lone
+
+
+Verse 5:
+When [E]with the ransomed in glory
+His [B]face I at last shall [E]see,
+’Twill [A]be my joy through the [E]ages
+To [E/G#]sing of His [B7]love for [E]me.</text>
+		<searchtext>verse 1 i stand amazed in the presence of jesus the nazarene and wonder how he could love me a sinner condemned unclean chorus how marvelous how wonderful and my song shall ever be how marvelous how wondeful is my saviors love for me verse 2 for me it was in the garden he prayed not my will but thine he did shed tears for his own griefs but sweat drops of blood for mine verse 4 he took my sins and my sorrows he made them his very own he bore the burden to calvary and suffered and died alone verse 5 when with the ransomed in glory his face i at last shall see twill be my joy through the ages to sing of his love for me</searchtext>
+		<primary>0</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>48</bpm>
+		<tempo>Medium</tempo>
+		<created>2013-12-28 12:52:36</created>
+		<modified>2013-12-28 13:10:05</modified>
+		<creator>1547</creator>
+		<ccli>25297</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>6347</id>
+		<song_id>5616</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+I [G]stand amazed in [Am7]the [G]presence,
+Of [D]Jesus the [G/D]Na[D7]za[G]rene,
+And [C]wonder how [C9]He [C]could [G]love me,
+[C6]A [G/B]sinner, con[D7]demned, un[G]clean.
+
+
+Chorus:
+[G]How mar[Am7/G]ve[G]lous! How won[Am7/G]der[G]ful!
+[D]And my song [G/B]shall [D7]e[G/B]ver [D]be:
+[G]How mar[Am7/G]ve[G]lous! [Em]How [G]won[Am7/G]der[G]ful!
+[C6]Is [CM7 C]my [G5/B]Sa[Am7]vior’s [G/B]love [D7]for [G]me!
+
+
+Verse 2:
+For [G]me it was in [Am7]the [G]garden,
+He [D]prayed: Not My [G/D]will, [D7]but [G]Thine
+He [C]had no tears [C9]for [C]His [G]own griefs,
+[C6]but [G/B]sweat drops of [D7]blood for [G]mine
+
+
+{new_page}
+Verse 3:
+In [G]pity angels [Am7]be[G]held Him,
+And [D]came from the [G/D]world [D7]of [G]light
+To [C]comfort Him [C9]in [C]the [G]sorrows
+[C6]He [G/B]bore for my [D7]soul that [G]night.
+
+
+Verse 4:
+He [G]took my sins and [Am7]my [G]sorrows,
+He [D]made them His [G/D]ve[D7]ry [G]own;
+He [C]bore the bur[C9]den [C]to [G]Calvary,
+[C6]And [G/B]suffered and [D7]died a[G]lone.
+
+
+Verse 5:
+When [G]with the ransomed [Am7]in [G]glory
+His [D]face I at [G/D]last [D7]shall [G]see,
+’Twill [C]be my joy [C9]through [C]the [G]ages
+[C6]To [G/B]sing of His [D7]love for [G]me.</text>
+		<searchtext>verse 1 i stand amazed in the presence of jesus the nazarene and wonder how he could love me a sinner condemned unclean chorus how marvelous how wonderful and my song shall ever be how marvelous how wonderful is my saviors love for me verse 2 for me it was in the garden he prayed not my will but thine he had no tears for his own griefs but sweat drops of blood for mine verse 3 in pity angels beheld him and came from the world of light to comfort him in the sorrows he bore for my soul that night verse 4 he took my sins and my sorrows he made them his very own he bore the burden to calvary and suffered and died alone verse 5 when with the ransomed in glory his face i at last shall see twill be my joy through the ages to sing of his love for me</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>48</bpm>
+		<tempo>Medium</tempo>
+		<created>2008-10-25 18:30:50</created>
+		<modified>2008-10-25 18:30:50</modified>
+		<creator>1543</creator>
+		<ccli>25297</ccli>
+		<album></album>
+		<font_size></font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>69243</id>
+		<song_id>5616</song_id>
+		<description>Shane and Shane Version</description>
+		<text>INTRO: 
+[G]  [C]  [G]  [C] 
+
+Verse 1: 
+I [G]stand amazed in the presence,
+Of [D]Jesus the Naza[G]rene,
+And [C]wonder how He could [G]love me,
+A sinner, con[D]demned, un[G]clean.
+
+
+Chorus: 
+[G]How marvelous! How wonderful!
+[D]And my song shall ever be:
+[G]How marvelous! [Em]How wonderful!
+[C]Is my Savior’s [G]love [D]for [G]me!
+
+
+Verse 4: 
+He [G]took my sins and my sorrows,
+He [D]made them His very [G]own;
+He [C]bore the burden to [G]Calvary,
+And suffered and [D]died a[G]lone.
+
+
+{new_page}
+Verse 5: 
+When [G]with the ransomed in glory
+His [D]face I at last shall [G]see,
+’Twill [C]be my joy through the [G]ages
+To sing of His [D7]love for [G]me.
+
+Bridge: 
+[C]Forever I will [G]sing your praise,
+[C]Jesus, risen [G]king.
+[C]Oh, my God I [G]stand amazed,
+that you [G]love [D]me.</text>
+		<searchtext>intro verse 1 i stand amazed in the presence of jesus the nazarene and wonder how he could love me a sinner condemned unclean chorus how marvelous how wonderful and my song shall ever be how marvelous how wonderful is my saviors love for me verse 4 he took my sins and my sorrows he made them his very own he bore the burden to calvary and suffered and died alone verse 5 when with the ransomed in glory his face i at last shall see twill be my joy through the ages to sing of his love for me bridge forever i will sing your praise jesus risen king oh my god i stand amazed that you love me</searchtext>
+		<primary>0</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>48</bpm>
+		<tempo>Medium</tempo>
+		<created>2015-02-12 15:55:18</created>
+		<modified>2015-02-12 15:55:18</modified>
+		<creator>5114</creator>
+		<ccli>25297</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14965</id>
+		<songbook_id>21</songbook_id>
+		<title>Greater Love</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2001 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:07</created>
+		<modified>2009-03-20 09:15:07</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0010V7AVU&quot;,&quot;title&quot;:&quot;Greater Love&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/41het-XU6lL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16106</id>
+		<song_id>14965</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[D     | D     | G      D/F# | G     A (repeat)]
+
+Verse 1:
+[Bm]You are the mighty [A/C#]Warrior, Lord
+Who [Esus4]broke the [E]back of he[D]ll
+[Bm]Yet not without great [A/C#]loss of blood
+And [Esus4]even [E]death it[D]self
+[G]You stripped Yourself of gl[Bm]ory
+[E]To lift me from the [G]mire of [Asus4     A]sin
+
+{key:F}
+Chorus:
+Greater [F]love has [C]never been [F]seen   [C/F]
+You [Bb]paid the greatest [F/A]price
+To [Bb]make us Your re[C]deemed
+Greater [F]love has [C]never been [F]known   [C/F]
+No [Bb]other love’s so deep[F/A]
+No [Bb]other love’s so [C]sweet as Your [D]love [(to intro)]
+
+{key:D}
+Verse 2:
+[Bm]You are the Prince of Gl[A/C#]ory, Lord
+Ma[Esus]jestic [E]holy Kin[D]g
+[Bm]The fairest of ten th[A/C#]ousand Oh
+Why [Esus]should You [E]notice m[D]e
+[G]Yet so much tender m[Bm]ercy
+[E]For helpless sinners f[G]ills Your hea[Asus    A]rt</text>
+		<searchtext>intro verse 1 you are the mighty warrior lord who broke the back of hell yet not without great loss of blood and even death itself you stripped yourself of glory to lift me from the mire of sin chorus greater love has never been seen you paid the greatest price to make us your redeemed greater love has never been known no other loves so deep no other loves so sweet as your love verse 2 you are the prince of glory lord majestic holy king the fairest of ten thousand oh why should you notice me yet so much tender mercy for helpless sinners fills your heart</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>94</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:15:07</created>
+		<modified>2009-03-20 09:15:07</modified>
+		<creator>1543</creator>
+		<ccli>3337552</ccli>
+		<album>No Greater Love</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

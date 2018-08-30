@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5586</id>
+		<songbook_id>21</songbook_id>
+		<title>Silent Night</title>
+		<copyright>Words and Music by Franz Gruber     Public domain</copyright>
+		<created>2008-09-25 21:00:29</created>
+		<modified>2016-11-27 16:30:40</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>72465</id>
+		<song_id>5586</song_id>
+		<description>3 Verses, End with chorus of &quot;O Come Let Us Adore Him&quot;</description>
+		<text>Verse 1:
+[A]Silent night, holy night,
+[E]All is calm, [A]all is bright,
+[D]Round yon virgin, [A]mother and child;
+[D]Holy Infant so [A]tender and mild,
+[E]Sleep in heavenly [A]peace, [A]sleep in [E]heavenly [A]peace.
+
+Verse 2:
+[A]Silent night, holy night,
+[E]Shepherds quake [A]at the sight,
+[D]Glories stream from [A]heaven afar,
+[D]Heavenly hosts sing: &quot;[A]Alleluia,
+[E]Christ the Savior is [A]born! [A]Christ the [E]Savior is [A]born.
+
+Verse 3:
+[A]Silent night, holy night,
+[E]Son of God, [A]love's pure light;
+[D]Radiant beams from [A]Thy holy face,
+[D]With the dawn of re[A]deeming grace;
+[E]Jesus, Lord at Thy [A]birth,{,} [A]Jesus, [E]Lord at Thy [A]birth.
+
+{key:E}
+Chorus:
+O [A]come, [E]let [A]us  [E]a[A]dore Him,
+O [A]come, [E]let [A]us [D]a[A]dore [E]Him,
+O [Bm]come, [A/C#]let [D]us [B]a[E]dore [A  D]Him, [A]Chri[E]st, the [A]Lord.</text>
+		<searchtext>verse 1 silent night holy night all is calm all is bright round yon virgin mother and child holy infant so tender and mild sleep in heavenly peace sleep in heavenly peace verse 2 silent night holy night shepherds quake at the sight glories stream from heaven afar heavenly hosts sing alleluia christ the savior is born christ the savior is born verse 3 silent night holy night son of god loves pure light radiant beams from thy holy face with the dawn of redeeming grace jesus lord at thy birth jesus lord at thy birth chorus o come let us adore him o come let us adore him o come let us adore him christ the lord</searchtext>
+		<primary>0</primary>
+		<key>A</key>
+		<time_signature>6/8</time_signature>
+		<bpm>86</bpm>
+		<tempo>Slow</tempo>
+		<created>2015-12-17 05:21:37</created>
+		<modified>2015-12-17 05:21:37</modified>
+		<creator>1546</creator>
+		<ccli>27862</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>6317</id>
+		<song_id>5586</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[A]Silent night, holy night,
+[E]All is calm, [A]all is bright,
+[D]Round yon virgin, [A]mother and child;
+[D]Holy Infant so [A]tender and mild,
+[E]Sleep in heavenly [A]peace, [A]sleep in [E]heavenly [A]peace.
+
+Verse 2:
+[A]Silent night, holy night,
+[E]Shepherds quake [A]at the sight,
+[D]Glories stream from [A]heaven afar,
+[D]Heavenly hosts sing: &quot;[A]Alleluia,
+[E]Christ the Savior is [A]born! [A]Christ the [E]Savior is [A]born.
+
+Verse 3:
+[A]Silent night, holy night,
+[E]Wondrous star, [A]lend thy light;
+[D]With the angels [A]let us sing:
+[D]&quot;Alleluia [A]to our King&quot;
+[E]Christ the Savior is [A]born! [A]Christ the [E]Savior is [A]born.
+
+Verse 3:
+[A]Silent night, holy night,
+[E]Son of God, [A]love's pure light;
+[D]Radiant beams from [A]Thy holy face,
+[D]With the dawn of re[A]deeming grace;
+[E]Jesus, Lord at Thy [A]birth,{,} [A]Jesus, [E]Lord at Thy [A]birth.
+</text>
+		<searchtext>verse 1 silent night holy night all is calm all is bright round yon virgin mother and child holy infant so tender and mild sleep in heavenly peace sleep in heavenly peace verse 2 silent night holy night shepherds quake at the sight glories stream from heaven afar heavenly hosts sing alleluia christ the savior is born christ the savior is born verse 3 silent night holy night wondrous star lend thy light with the angels let us sing alleluia to our king christ the savior is born christ the savior is born verse 3 silent night holy night son of god loves pure light radiant beams from thy holy face with the dawn of redeeming grace jesus lord at thy birth jesus lord at thy birth </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>6/8</time_signature>
+		<bpm>86</bpm>
+		<tempo>Slow</tempo>
+		<created>2008-09-25 21:00:29</created>
+		<modified>2016-11-27 16:30:40</modified>
+		<creator>1543</creator>
+		<ccli>27862</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

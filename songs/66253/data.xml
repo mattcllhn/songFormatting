@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>66253</id>
+		<songbook_id>21</songbook_id>
+		<title>Undone</title>
+		<copyright>Music by Pat Sczebel, Words by Pat Sczebel, Kate DeGraide, and Nathan Stiff © 2015 Sovereign Grace Worship (ASCAP). </copyright>
+		<created>2016-01-12 22:03:16</created>
+		<modified>2016-01-12 22:03:56</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>72782</id>
+		<song_id>66253</song_id>
+		<description>Initial arrangement</description>
+		<text>
+
+INTRO: 
+[C6 Em | D Bm | C6 G | D Bm7 | C6 Em | D Bm | C G | D]
+VERSE1:
+Your [G]Spirit had awakened our li[Gmaj7]feless hearts to see
+The [G6]King in brilliant glory, rev[C/G]ealed in majesty
+We were [G]ruined in Your p[D]resence and [Em]tearing at the s[C]eams
+Our [G]eyes had gazed upon the King of k[D]ings
+
+CHORUS:
+We [C6]fall [Em]down in [D]awe of You [Bm7]
+We [C6]fall [G]down un[D]done   [Bm7]
+We [C]fall [Em]down be[D]fore you, Lord, [Bm7]      u[C]ndone[G]      [| D]
+
+VERSE 2:
+Our [G]hands had crafted idols, our [Gmaj7]lips had spoken lies
+[G6]Every wayward thought we had a[C/G]gainst us testified
+But [G]You were rich in [D]mercy
+To prov[Em]ide what You de[C]mand
+And [G]now on Christ, the solid rock, we s[D]tand
+       
+BRIDGE:
+[C]Ho - [G]ly, [Em]Ho - [D]ly, [C]Ho - [G]ly O[D]ne    [Bm]
+[C]Ho - [G]ly, [Em]Ho - [D]ly, [C]Ho - [G]ly O[D]ne, You [Bm]are
+[C]Ho - [G]ly, [Em]Ho - [D]ly, [C]Ho - [G]ly O[D]ne, You [Bm]are
+[C]Ho - [G]ly, [Em]Ho - [D]ly, [C]Ho - [G]ly O[D]ne</text>
+		<searchtext> intro verse1 your spirit had awakened our lifeless hearts to see the king in brilliant glory revealed in majesty we were ruined in your presence and tearing at the seams our eyes had gazed upon the king of kings chorus we fall down in awe of you we fall down undone we fall down before you lord undone verse 2 our hands had crafted idols our lips had spoken lies every wayward thought we had against us testified but you were rich in mercy to provide what you demand and now on christ the solid rock we stand bridge ho ly ho ly ho ly one ho ly ho ly ho ly one you are ho ly ho ly ho ly one you are ho ly ho ly ho ly one</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>62</bpm>
+		<tempo>Slow</tempo>
+		<created>2016-01-12 22:03:16</created>
+		<modified>2016-01-12 22:03:56</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>Sooner Count the Stars</album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

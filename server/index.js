@@ -23,7 +23,7 @@ app.get('/', (req, res) => {
 
 app.get('/songs', function (req, res) {
   console.log('get called in /songs');
-  const rootPath = '../../Downloads/songs';
+  const rootPath = '../songs';
   const folders = fs.getDirectories(rootPath);
   let songArr = [];
   for (let i = 0; i < folders.length; i++) {

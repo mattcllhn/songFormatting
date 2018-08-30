@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14948</id>
+		<songbook_id>21</songbook_id>
+		<title>Every Tongue</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2002 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:04</created>
+		<modified>2009-03-20 09:15:04</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0010VPHVU&quot;,&quot;title&quot;:&quot;Every Tongue&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/519CuW9nbdL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16084</id>
+		<song_id>14948</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[| G     | A/G     | C     | G     | G     | A/C#     | C     | G     |]
+
+Verse 1:
+Oh [G]gather ‘round the [A/C#]throne of grace
+And [C]sing His vict’ry [G]song
+Our [G]King rode forth to [A/C#]bloody war
+And [C]now He has come [D]home
+He [Bm]crushed the mighty d[C2]ragon
+He [Bm]broke his cruel re[C2]ign
+He [G]broke the shackles [A/C#]of our sins
+And [C]freed us [D]from our [G]chains [| G    |]
+
+Chorus:
+Let [G]every tongue and [Em]every tribe, sing [C]praises, [D/F#]praises
+Let [G]all creation{,} m[Em]agnify Your [Am7]glorious [D/F#]name
+For[Em]ever is not [D]long enough
+To [C]sing of all You’ve [A7/C#]done
+Be [C]praised by ev’ry [Eb]tribe{,} and ev’ry t[G    | G    |]ongue
+
+Verse 2:
+Oh [G]look around and [A/C#]see the saints
+All [C]trophies of His [G]grace
+And [G]to the Victor [A/C#]go the spoils
+Our h[C]earts, our lives, our [D]praise
+Take [Bm]pleasure when You [C2]look on
+The [Bm]fruit of all Your [C2]pain
+En[G]joy Your glory [A/C#]formed in us
+You s[C]uffered n[D]ot in v[G]ain [| G    | (to chorus)]</text>
+		<searchtext>intro verse 1 oh gather round the throne of grace and sing his victry song our king rode forth to bloody war and now he has come home he crushed the mighty dragon he broke his cruel reign he broke the shackles of our sins and freed us from our chains chorus let every tongue and every tribe sing praises praises let all creation magnify your glorious name forever is not long enough to sing of all youve done be praised by evry tribe and evry tongue verse 2 oh look around and see the saints all trophies of his grace and to the victor go the spoils our hearts our lives our praise take pleasure when you look on the fruit of all your pain enjoy your glory formed in us you suffered not in vain </searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>100</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:04</created>
+		<modified>2009-03-20 09:15:04</modified>
+		<creator>1543</creator>
+		<ccli>4125282</ccli>
+		<album>All We Long To See</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

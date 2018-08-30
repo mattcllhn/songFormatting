@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14882</id>
+		<songbook_id>21</songbook_id>
+		<title>Nail My Glory</title>
+		<copyright>Words by Isaac Watts     Music &amp; additional words by Devon Kauflin and Bob Kauflin     © 2008 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:55</created>
+		<modified>2009-03-20 09:14:55</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BVJZPI&quot;,&quot;title&quot;:&quot;Nail My Glory&quot;,&quot;artist&quot;:&quot;Na Band&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51pvb6KwaZL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16010</id>
+		<song_id>14882</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[E7    |      | Cmaj7     | D6 (2x)]
+
+Verse 1:
+[E7]        No more, my [Cmaj7]God, I [D6]boast no [E7]more
+Of every[Cmaj7]thing my [D6]hands have [E7]done
+I quit the [Cmaj7]hopes I [D6]held be[E7]fore
+To trust the [Cmaj7]merits [D6]of Your [A]Son
+
+Chorus:
+[E] [ ]Now for His [G]love I [D]bear His [A]name
+[E] [ ]My former [G]pride I [D]call my [A]shame
+[E] [ ]What was my [G]gain I [D]count my [A]loss
+And I [C]nail my [D6]glory to His [E7    |      | Cmaj7     | D6]cross
+
+Verse 2:
+[E7]        And by Your [Cmaj7]grace I [D6]will es[E7]teem
+All things but [Cmaj7]loss for [D6]Jesus’ [E7]sake
+Oh may my [Cmaj7]soul be [D6]found in [E7]Him
+And of His [Cmaj7]righteous[D6]ness par[A]take
+
+Verse 3:
+[E7]        All of the [Cmaj7]works of [D6]my own [E7]hands
+I dare not [Cmaj7]bring be[D6]fore Your [E7]throne
+My faith res[Cmaj7]ponds to [D6]Your de[E7]mands
+By pleading [Cmaj7]what my [D6]Lord has [A]done</text>
+		<searchtext>intro verse 1 no more my god i boast no more of everything my hands have done i quit the hopes i held before to trust the merits of your son chorus now for his love i bear his name my former pride i call my shame what was my gain i count my loss and i nail my glory to his cross verse 2 and by your grace i will esteem all things but loss for jesus sake oh may my soul be found in him and of his righteousness partake verse 3 all of the works of my own hands i dare not bring before your throne my faith responds to your demands by pleading what my lord has done</searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>3/4</time_signature>
+		<bpm>134</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:14:55</created>
+		<modified>2009-03-20 09:14:55</modified>
+		<creator>1543</creator>
+		<ccli>5173484</ccli>
+		<album>Looked Upon</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

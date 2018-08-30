@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14979</id>
+		<songbook_id>21</songbook_id>
+		<title>You Have Captured Me</title>
+		<copyright>Words &amp; Music by Steve &amp; Vikki Cook     © 2000 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:09</created>
+		<modified>2009-03-20 09:15:09</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00104H63O&quot;,&quot;title&quot;:&quot;You Have Captured Me&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/614mSX3tPCL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16120</id>
+		<song_id>14979</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+I have t[C2]asted of a l[G/B]ove,
+Sweeter th[Am7]an the honeyc[F]omb
+And I have h[C2]eard the symphon[G/B]y
+Of your wh[Am7]isper in my s[F]oul
+And I am ruined for this w[C/E]orld,
+For none comp[F]ares with You, my L[G]ord
+
+Chorus:
+For You have [Am]ca[F]-ptured m[C]e,
+Comp[G]letely [Am]ca[F]-ptured m[C]e
+And [G]I'm cons[Dm  F]umed [ ]with Y[Em]ou,
+And only Y[G]ou, J[F2]esus
+
+Verse 2:
+There's a gr[C2]ace I can't res[G/B]ist,
+Loving c[Am7]ords are drawing m[F]e
+And there's a b[C2]eauty far bey[G/B]ond
+What eyes of fl[Am7]esh could ever s[F]ee
+For I've beheld with trembling j[C/E]oy
+The sight of C[F]alv'ry's Scarlet R[G]ose</text>
+		<searchtext>verse 1 i have tasted of a love sweeter than the honeycomb and i have heard the symphony of your whisper in my soul and i am ruined for this world for none compares with you my lord chorus for you have captured me completely captured me and im consumed with you and only you jesus verse 2 theres a grace i cant resist loving cords are drawing me and theres a beauty far beyond what eyes of flesh could ever see for ive beheld with trembling joy the sight of calvrys scarlet rose</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>86</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:09</created>
+		<modified>2009-03-20 09:15:09</modified>
+		<creator>1543</creator>
+		<ccli>3071557</ccli>
+		<album>King Of Grace</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

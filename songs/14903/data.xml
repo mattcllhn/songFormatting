@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14903</id>
+		<songbook_id>21</songbook_id>
+		<title>Thy Way, Not Mine</title>
+		<copyright>Words by Horatius Bonar     Music &amp; additional words by Joel Sczebel     © 2008 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:14:58</created>
+		<modified>2009-03-20 09:14:58</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001VME0JS&quot;,&quot;title&quot;:&quot;Thy Way, Not Mine&quot;,&quot;artist&quot;:&quot;Na Band&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51L7I-9GeSL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16031</id>
+		<song_id>14903</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[G     | C     | G     | C]
+
+Verse 1:
+Thy [G]way, not [Em]mine, O [C]Lord
+How[G]ever [Em]dark it [C]be
+Lead [G]me by [Em]Thine own [C] [ ]hand
+Choose [G]out the [Em]path for [C]me, for me [G     | C     | G     | C]
+
+Verse 2:
+Smooth [G]let it [Em]be or [C]rough
+It [G]will still [Em]be the [C]best
+Wind[G]ing or [Em]straight, it [C] [ ]leads
+Right [G]onward [Em]to Thy [C]rest
+
+Chorus 1:
+[C] [ ]I dare not [Em]choose my [G]lot
+[C] [ ]I would not, [G]if I [D]might
+[C] [ ]Choose Thou for [Em]me, my [G]God
+[Am] [ ]     So [C]I can walk aright  [G     | C     | G     | C]
+
+Verse 3:
+Take [G]Thou my [Em]cup, and [C]it
+With [G]joy or [Em]sorrow [C]fill
+As [G]best to [Em]Thee may [C] [ ]seem
+Choose [G]Thou my [Em]good and [C]ill
+
+Chorus 2:
+[C] [ ]Not mine, not [Em]mine the [G]choice
+[C] [ ]In all things [G]great or [D]small
+[C] [ ]Be Thou my [Em]guide, my [G]strength
+[Am] [ ]     My [C]wisdom [D]and my [Am]all,{,} my [C]wisdom and my [G]all
+
+Tag:
+[C     | Em    Bm    | C     | G    D    | C     | Em    Bm    | Am]</text>
+		<searchtext>intro verse 1 thy way not mine o lord however dark it be lead me by thine own hand choose out the path for me for me verse 2 smooth let it be or rough it will still be the best winding or straight it leads right onward to thy rest chorus 1 i dare not choose my lot i would not if i might choose thou for me my god so i can walk aright verse 3 take thou my cup and it with joy or sorrow fill as best to thee may seem choose thou my good and ill chorus 2 not mine not mine the choice in all things great or small be thou my guide my strength my wisdom and my all my wisdom and my all tag </searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>64</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:14:58</created>
+		<modified>2009-03-20 09:14:58</modified>
+		<creator>1543</creator>
+		<ccli>5173525</ccli>
+		<album>Looked Upon</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

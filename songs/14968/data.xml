@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14968</id>
+		<songbook_id>21</songbook_id>
+		<title>Song Of The Lamb</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2001 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:07</created>
+		<modified>2009-03-20 09:15:07</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0010V1C32&quot;,&quot;title&quot;:&quot;Song of the Lamb&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/41het-XU6lL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16109</id>
+		<song_id>14968</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro: 
+[||: D     G | D     G :||]
+
+Verse 1: 
+[D]Long a[G2/D   ]go 
+[D  ] [ ]Be[G2/D]fore You made the [Bm]stars above
+[A] [ ]You set Your ever[Em]lasting love on [G]us
+And Your love en[D     G2 | D     G2]dures
+With [D]tender[G2/D] chords
+[D] [ ]You [G/D]drew us who had [Bm]strayed so far
+[A] And like a mighty warrior{,} [Em]stormed our hearts
+[G] [ ]Until we were [F]Yours [Am    C] [ ]so...
+
+Chorus: 
+[G]We will [Am7]sing this [C]song of [D]gladness
+[G]Lift our [C]hearts and [F]holy [Am]hands
+[G]We will [Am7]sing to [C]You who [D]loved us
+We’ll [Em]sing the [C]song of the [D    G]Lamb
+We’ll [Em]sing the [C]song of the [D      | D     G2 | D     G2 | D     G2 |]Lamb
+
+Verse 2: 
+[D]All our [G/D   ]sins
+[D  ] [ ]Have [G2/D]made a chasm [Bm]deep and wide
+[A] [ ]We could never reach the [Em]other side
+[G]Till You came to s[D      G2 | D      G2]ave
+O [D]glorious[G/D] God [D   ] [G2/D]emptied to be[Bm]come like us
+[A] A humble servant taking [Em]up a cross
+[G] [ ]To pour out Your gr[F]ace [Am    C] [ ]so...</text>
+		<searchtext>intro verse 1 long ago before you made the stars above you set your everlasting love on us and your love endures with tender chords you drew us who had strayed so far and like a mighty warrior stormed our hearts until we were yours so chorus we will sing this song of gladness lift our hearts and holy hands we will sing to you who loved us well sing the song of the lamb well sing the song of the lamb verse 2 all our sins have made a chasm deep and wide we could never reach the other side till you came to save o glorious god emptied to become like us a humble servant taking up a cross to pour out your grace so</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>110</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:07</created>
+		<modified>2009-03-20 09:15:07</modified>
+		<creator>1543</creator>
+		<ccli>3337538</ccli>
+		<album>No Greater Love</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

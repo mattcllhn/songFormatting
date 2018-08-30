@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14866</id>
+		<songbook_id>21</songbook_id>
+		<title>Glory To God In The Highest</title>
+		<copyright>Words and Music by Stephen Altrogge     © 2006 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2015-11-23 20:49:38</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0012AM5ZA&quot;,&quot;title&quot;:&quot;Glory to God in the Highest&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61AitRsTtfL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>15994</id>
+		<song_id>14866</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: D     | D/F#     | Gmaj7     | Gmaj7     :||]
+
+
+Verse 1:
+[D] [ ]Hear the angels [D/F#]sing{,} of the King of [Gmaj7]kings
+Who [Bm]made Himself [A]poor
+[D] [ ]See the myster[D/F#]y and the majest[Gmaj7]y
+The Cre[Bm]ator is [A]born
+Oh the [Bm]Maker be[F#m]came a [Gmaj7]man
+Let us [Bm]sing what the [F#m]angels [G2]sang
+
+
+Chorus:
+Glory to [Em7]God [A]in the [D]highest
+Glory to [Em7]God [A]in the [D]highest
+Our [Bm]hope has ap[A]peared
+[C2]God has drawn near
+[G]Glory to [A]God a[D     | D/F#     | Gmaj7     | Bm   A]lone
+
+
+Verse 2:
+[D] [ ]See the One who [D/F#]spans{,} the heavens with His [Gmaj7]hand
+With [Bm]fingers so [A]small
+[D] [ ]See this babe so [D/F#]poor{,} all of heav’n a[Gmaj7]dores
+He’s the [Bm]ruler of [A]all
+Let us [Bm]worship our [F#m]humble [Gmaj7]King
+Ador[Bm]ation we [F#m]humbly [G2]bring</text>
+		<searchtext>intro verse 1 hear the angels sing of the king of kings who made himself poor see the mystery and the majesty the creator is born oh the maker became a man let us sing what the angels sang chorus glory to god in the highest glory to god in the highest our hope has appeared god has drawn near glory to god alone verse 2 see the one who spans the heavens with his hand with fingers so small see this babe so poor all of heavn adores hes the ruler of all let us worship our humble king adoration we humbly bring</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>96</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2015-11-23 20:49:38</modified>
+		<creator>1543</creator>
+		<ccli>4866204</ccli>
+		<album>Savior</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

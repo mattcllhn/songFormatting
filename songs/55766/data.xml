@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>55766</id>
+		<songbook_id>21</songbook_id>
+		<title>A God Who Saves</title>
+		<copyright>Words &amp; Music by Joel Sczebel     © 2013 Sovereign Grace Worship</copyright>
+		<created>2013-11-05 13:01:55</created>
+		<modified>2013-11-05 13:01:55</modified>
+		<creator>1548</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00DZ6QGRC&quot;,&quot;title&quot;:&quot;A God Who Saves&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51gxHYF1DlL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>60676</id>
+		<song_id>55766</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: F#m    | A    | D    | :||]
+
+Verse 1:
+[F#m]Even when we were w[A]eak, despairing and [D]broken
+You [F#m]did not give us to our hearts' des[D]ires
+You [F#m]came as You prom[A]ised, a rescue for [D]sinners
+You [F#m]conquered death by g[A]iving up Your l[E]ife
+
+PRE-CH:
+At the r[F#m]ight time You died for the ungodly [D]
+At the r[F#m]ight time You showed Your love{,} for [D]us
+
+Chorus:
+Our [D]God [A]is a God [E]Who s[D]aves
+Our [D]God [A]is a God [E]Who s[D]aves
+Our [F#m]hearts are filled with w[E]onder
+Our [A]mouths are filled with [Bm]praise
+Our [D]God [A]is a G[E]od Who [(1x intro) (2x instrumental) (3x intro to end)]saves
+
+Verse 2:
+[F#m]If we've been reconc[A]iled{,} while we were still [D]rebels
+[F#m]How much more{,} has G[A]od made us His [D]own?
+In [F#m]mercy He gave [A]us a hope and a f[D]uture
+Be[F#m]yond this mortal l[A]ife of flesh and b[D]one
+
+INSTR.:
+[A    |    | D    |    | F#m    |    | A    |    | E    |    |]
+
+</text>
+		<searchtext>intro verse 1 even when we were weak despairing and broken you did not give us to our hearts desires you came as you promised a rescue for sinners you conquered death by giving up your life prech at the right time you died for the ungodly at the right time you showed your love for us chorus our god is a god who saves our god is a god who saves our hearts are filled with wonder our mouths are filled with praise our god is a god who saves verse 2 if weve been reconciled while we were still rebels how much more has god made us his own in mercy he gave us a hope and a future beyond this mortal life of flesh and bone instr </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>135</bpm>
+		<tempo>Fast</tempo>
+		<created>2013-11-05 13:01:55</created>
+		<modified>2013-11-05 13:01:55</modified>
+		<creator>1548</creator>
+		<ccli></ccli>
+		<album>Grace Has Come</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

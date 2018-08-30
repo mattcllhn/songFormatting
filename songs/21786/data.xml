@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>21786</id>
+		<songbook_id>21</songbook_id>
+		<title>You Are Near</title>
+		<copyright>Words and music by Zach Jones. © 2006 NAP Record</copyright>
+		<created>2009-04-25 13:51:47</created>
+		<modified>2009-04-25 23:08:47</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>23274</id>
+		<song_id>21786</song_id>
+		<description>Initial arrangement</description>
+		<text>
+Intro:
+[||: A2   | A2   | A2   | A2   :||]
+
+Verse 1:
+[A2]When the trials come and [F#m7]sorrows fall on me
+[G2]You are my strength, the [D2]ground beneath my feet
+[A2]When temptation calls to [F#m7]worry about my life
+[G2]I will place my hope in the c[D2]ross of Jesus Christ
+And [Bm7]joy will be my s[Esus]ong, [E] 
+Yes, [Bm7]joy will be my s[Esus]ong [E]
+
+Chorus:
+For You are n[A2]ear, [A2G#]  near to m[F#m2]e  [D2]
+You still my a[G2]nxious thoughts, and You br[D2]ing Your peace
+You are n[A2]ear [A2G#]  when I c[F#m2]all  [D2]
+You drive out a[G2]ll my fears and calm this troubled he[D2]art
+You’re near to m[A2  l]e   [A2  l  A2  l  A2]
+
+Verse 2:
+You [A2]told me to rejoice in [F#m7]every circumstance
+And t[G2]rust in You alone and [D2]in Your sovereign plan
+You b[A2]eckon me to come and b[F3m7]ring You my requests
+You p[G2]romised that Your peace would c[D2]ome and bring me rest
+And [Bm7]joy will be my s[Esus]ong, [E] 
+Yes, [Bm7]joy will be my s[Esus]ong [E]</text>
+		<searchtext> intro verse 1 when the trials come and sorrows fall on me you are my strength the ground beneath my feet when temptation calls to worry about my life i will place my hope in the cross of jesus christ and joy will be my song yes joy will be my song chorus for you are near near to me you still my anxious thoughts and you bring your peace you are near when i call you drive out all my fears and calm this troubled heart youre near to me verse 2 you told me to rejoice in every circumstance and trust in you alone and in your sovereign plan you beckon me to come and bring you my requests you promised that your peace would come and bring me rest and joy will be my song yes joy will be my song </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>130</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-04-25 13:51:47</created>
+		<modified>2009-04-25 23:08:47</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>Fuse</album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

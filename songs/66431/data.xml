@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>66431</id>
+		<songbook_id>21</songbook_id>
+		<title>This is Our God</title>
+		<copyright>Sovereign Grace Music</copyright>
+		<created>2016-02-03 15:02:54</created>
+		<modified>2016-02-03 15:02:54</modified>
+		<creator>5114</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>72984</id>
+		<song_id>66431</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO: 
+
+VERSE 1: 
+[G]God, our Father, full of power 
+[C]Maker of the heavens, Maker of the world 
+[G]Forming all things, seen and unseen 
+[C]Truly the Almighty beyond all measured worth
+[Am]Holy is His [D]Name 
+
+CHORUS: 
+[Em]We [D/F# G]believe the [C]Lord our God is [G]One 
+[C]Father, Spirit, [Em]Son; This is [D]our God! 
+[Em]We [D/F# G]believe [      C]forever He will [G]reign 
+[C]Let the church [       Em]proclaim: This is [D]our God! 
+
+VERSE 2: 
+[G]Our Lord Jesus sent to save us 
+[C]Born unto a virgin, lived a perfect life 
+[G]Greatly suffered, dying for us 
+[C]From the grave He’s risen, seated now on high
+[Am]Holy is His [D]Name 
+
+{new_page}
+BRIDGE: 
+[C]Jesus will come [G/B]back again
+[Am]To judge the living [Em]and the [    D]dead 
+[C]Usher in the [G/B]age to come
+Let [          A7]everyone sing [D]“Amen” 
+
+VERSE 3: 
+[G]Spirit, holy, One in glory 
+[C]Speaking through the prophets
+Empowering the Church 
+[G]Life is [G/F#]given [G/E]by and [G/D]through Him 
+[C]With the Son and Father, worshiped and adored
+[Am]Holy is His [D]Name </text>
+		<searchtext>intro verse 1 god our father full of power maker of the heavens maker of the world forming all things seen and unseen truly the almighty beyond all measured worth holy is his name chorus we believe the lord our god is one father spirit son this is our god we believe forever he will reign let the church proclaim this is our god verse 2 our lord jesus sent to save us born unto a virgin lived a perfect life greatly suffered dying for us from the grave hes risen seated now on high holy is his name bridge jesus will come back again to judge the living and the dead usher in the age to come let everyone sing amen verse 3 spirit holy one in glory speaking through the prophets empowering the church life is given by and through him with the son and father worshiped and adored holy is his name </searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>150</bpm>
+		<tempo>Fast</tempo>
+		<created>2016-02-03 15:02:54</created>
+		<modified>2016-02-03 15:02:54</modified>
+		<creator>5114</creator>
+		<ccli></ccli>
+		<album>Sooner Count the Stars</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>15008</id>
+		<songbook_id>21</songbook_id>
+		<title>Three In One</title>
+		<copyright>Words &amp; Music by Mark Altrogge      © 2004 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:13</created>
+		<modified>2009-03-20 09:15:13</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00104M9EU&quot;,&quot;title&quot;:&quot;Three in One&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61uXihJYOlL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16150</id>
+		<song_id>15008</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro: 
+[E     E/G#     | A     E/G#     | A     E/G#     | B     |]
+
+Verse 1: 
+[E]Gracious F[E/G#]ather,{,} [A]it was Your [E/G#]love for the world
+[A]That moved You [E/G#]to send your o[B]nly Son
+[E]Gracious F[E/G#]ather,{,} [A]this was Your [E/G#]plan from all time
+[A]To have a [E/G#]people to [B]call Your own
+Gracious F[G#m]ather,{,} full of m[A]ercy, I sing Your pr[B]aise
+
+Chorus: 
+[E]Fa[F#m]ther, I [D2]love You
+Praise You [E]Jesus, [F#m]only [D2]Son
+[E]Spirit, [F#m]I [ ]a[D2]dore You
+Holy [A/C#]God, Three in [E    E/G#    | A    E/G#    | A    E/G#    | B      |]One
+
+Verse 2: 
+[E]Precious J[E/G#]esus,{,} [A]though You were [E/G#]reigning on high
+[A]Humbly You [E/G#]came and were b[B]orn a man
+[E]Precious J[E/G#]esus,{,} [A]You were the [E/G#]servant of all
+[A]You gave Your [E/G#]life as the F[B]ather planned
+Precious J[G#m]esus,{,} full of k[A]indness, I sing Your pr[B]aise
+
+Verse 3: 
+[E]Holy S[E/G#]pirit,{,} [A]You bring this [E/G#]good news to men
+[A]You open [E/G#]up blinded e[B]yes to see
+[E]Holy S[E/G#]pirit,{,} [A]come now and [E/G#]open my heart
+[A]Reveal the [E/G#]Lord Jesus Ch[B]rist to me
+Holy S[G#m]pirit,{,} full of p[A]ower, I sing Your pr[B]aise</text>
+		<searchtext>intro verse 1 gracious father it was your love for the world that moved you to send your only son gracious father this was your plan from all time to have a people to call your own gracious father full of mercy i sing your praise chorus father i love you praise you jesus only son spirit i adore you holy god three in one verse 2 precious jesus though you were reigning on high humbly you came and were born a man precious jesus you were the servant of all you gave your life as the father planned precious jesus full of kindness i sing your praise verse 3 holy spirit you bring this good news to men you open up blinded eyes to see holy spirit come now and open my heart reveal the lord jesus christ to me holy spirit full of power i sing your praise</searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>85</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:15:13</created>
+		<modified>2009-03-20 09:15:13</modified>
+		<creator>1543</creator>
+		<ccli>4520117</ccli>
+		<album>Awesome God</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

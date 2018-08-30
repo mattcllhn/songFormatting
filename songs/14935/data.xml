@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14935</id>
+		<songbook_id>21</songbook_id>
+		<title>Glory Be To God</title>
+		<copyright>Original words by Charles Wesley     Music &amp; additional words by Bob Kauflin     © 2006 Sovereign Grace Praise </copyright>
+		<created>2009-03-20 09:15:02</created>
+		<modified>2009-03-20 09:15:02</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0012AKDXQ&quot;,&quot;title&quot;:&quot;Glory Be to God&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61AitRsTtfL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16070</id>
+		<song_id>14935</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[F   Bb2   | Gm7sus4   C   (x2)]
+
+Verse 1:
+[F]Glory [Bb2]be to [Gm7]God on [C]high, [Dm] [ ]let [F/A]peace on [Bb]earth de[C]scend 
+[F]God comes [Bb2]down be[Gm7]fore our [C]eyes,{,} [Bb] [ ]to [C]Bethle[F]hem
+[C]God invisi[Gm]ble appears, [C]endless ages [Fsus4]wrapped in [F]years
+[Bb]He has [F/A]come who [Gsus4]cannot [G]change
+[Gm7] [ ]And Jesus [Csus4 C]is [ ]His [F2   Bb2   | Gm7sus4   C]name
+
+Verse 2:
+[F]Emptied [Bb2]of His [Gm7]majes[C]ty, [Dm] [ ]He [F/A]comes in [Bb]human [C]form
+[F]Being’s [Bb2]source be[Gm7]gins to [C]be,{,} [Bb] [ ]And [C]God is [F]born
+[C]All our griefs He’ll [Gm]gladly share, [C]all our sins He’ll [Fsus4]fully [F]bear
+[Bb]He will [F/A]cover [Gsus4]our dis[G]grace
+[Gm7] [ ]And suffer [Csus4 C]in [ ]our [Dm    C/E (to turn)]place
+
+Turn:
+[F   F/A   | Bb   C   | Dm   C/E   | Dm   C/E   | F   F/A   | Bb   C   | Dsus4   D   |]
+
+{key:G}
+Verse 3:
+[G]Let the joyful news ring out, [Em] [ ]the [G/B]Prince of [C]Peace pro[D]claim
+[G]Lift your [C]heart and [Am7]voice to [D]shout{,} [C] [ ]Im[D]manuel’s [G]name
+[D]God has kept His [Am]promises, [D]what a work of [C/E]grace this [G]is
+[C]Son of [G/B]Mary, [Asus4]chosen [A]One
+[Am7] [ ]The Lamb of [Dsus4 D]God [ ]has [||: G   C   | Am7   D   | G   C   | Am7   D :||]come
+
+Bridge:
+[G] [ ]Ho[C]sanna, [Am7] [ ]hos[D]anna,{,} [G] [ ]the [C]Lamb of [Am7]God has [D]come
+[G] [ ]Ho[C]sanna, [Am7] [ ]hos[D]anna,{,} [G] [ ]He [C]is the [Am7]promised [D (repeat 4X)]One
+
+Tag:
+[G]Glory be to [C/G]God on [D/G]high, [Em] [ ]let [G/B]peace on [C]earth de[D]scend
+[G]God comes down be[Am7]fore our [D]eyes,{,} [C] [ ]to [D]Bethle[G]hem</text>
+		<searchtext>intro verse 1 glory be to god on high let peace on earth descend god comes down before our eyes to bethlehem god invisible appears endless ages wrapped in years he has come who cannot change and jesus is his name verse 2 emptied of his majesty he comes in human form beings source begins to be and god is born all our griefs hell gladly share all our sins hell fully bear he will cover our disgrace and suffer in our place turn verse 3 let the joyful news ring out the prince of peace proclaim lift your heart and voice to shout immanuels name god has kept his promises what a work of grace this is son of mary chosen one the lamb of god has come bridge hosanna hosanna the lamb of god has come hosanna hosanna he is the promised one tag glory be to god on high let peace on earth descend god comes down before our eyes to bethlehem</searchtext>
+		<primary>1</primary>
+		<key>F</key>
+		<time_signature>4/4</time_signature>
+		<bpm>130</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:02</created>
+		<modified>2009-03-20 09:15:02</modified>
+		<creator>1543</creator>
+		<ccli>4866170</ccli>
+		<album>Savior</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

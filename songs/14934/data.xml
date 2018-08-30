@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14934</id>
+		<songbook_id>21</songbook_id>
+		<title>You Are The Way</title>
+		<copyright>Words &amp; Music by Pat Sczebel     © 2004 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:02</created>
+		<modified>2009-03-20 09:15:02</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B000ZJKY3E&quot;,&quot;title&quot;:&quot;You Are the Way&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51CotfwF8BL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16069</id>
+		<song_id>14934</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: D    G2/B    | C2       | D    G2/B    | C2       :||]
+
+Verse 1:
+[D]Dead in trans[G]gressions and [A]sins
+Without [D]God, without [G]hope in this [Asus   A]world
+[Bm]Then, the [G]glorious [D/F#]light{,} of Your [G]gospel broke [Asus   A]in
+The [D]Father stood [G]up from His [A]throne
+Opened His [D/F#]arms{,} as He [G]called out my [Asus   A]name
+[Bm7]Grace irres[G]istible [A]drew me
+Opened my [G]eyes to [Asus]see
+
+Chorus:
+You are the [D]way, You are the [Em7]truth, You are the [Bm7]life, Je[G]sus
+The only [D]way, the only [Em7]truth, You are my [Bm7]life, Je[G]sus
+
+Turn:
+[D    G2/B    | C2       | D    G2/B    | C2]
+
+Verse 2:
+[D]You are the [G]source of new [Asus   A]life
+The [D]giver of [G]every goo[Asus]d thing
+[Bm7]Withholding [G]nothing
+You [D/F#]lavish Your [G]kindness o[Asus]n me[A]
+You [D]emptied Your[G]self, became [Asus   A]poor
+[D/F#]Humbled and [G]poured out [Asus]to death [A]
+Now [Bm7]highly ex[G]alted ab[A]ove all
+Your name a[G]lone can [Asus (to chorus)]save
+
+Bridge:
+[D] [ ]You [Em]are the [D/F#]way, the [G]truth, the life (3X)
+[D] [ ]You [Em]are the [D/F#]way, the [G]truth</text>
+		<searchtext>intro verse 1 dead in transgressions and sins without god without hope in this world then the glorious light of your gospel broke in the father stood up from his throne opened his arms as he called out my name grace irresistible drew me opened my eyes to see chorus you are the way you are the truth you are the life jesus the only way the only truth you are my life jesus turn verse 2 you are the source of new life the giver of every good thing withholding nothing you lavish your kindness on me you emptied yourself became poor humbled and poured out to death now highly exalted above all your name alone can save bridge you are the way the truth the life 3x you are the way the truth</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>6/8</time_signature>
+		<bpm>150</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:15:02</created>
+		<modified>2009-03-20 09:15:02</modified>
+		<creator>1543</creator>
+		<ccli>4475327</ccli>
+		<album>Worship God Live</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

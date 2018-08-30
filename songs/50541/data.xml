@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>50541</id>
+		<songbook_id>21</songbook_id>
+		<title>Z - Hebrews 1:1-3 (ESV)</title>
+		<copyright></copyright>
+		<created>2012-12-08 19:14:12</created>
+		<modified>2013-12-21 17:29:27</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>54712</id>
+		<song_id>50541</song_id>
+		<description>Initial arrangement</description>
+		<text>Congregation:
+Long ago, at many times and in many ways, 
+     God spoke to our fathers by the prophets,  
+But in these last days he has spoken to us by his Son, 
+     Whom he appointed the heir of all things, 
+Through whom also he created the world. 
+     He is the radiance of the glory of God 
+And the exact imprint of his nature, 
+     And he upholds the universe by the word of his power. 
+
+(Hebrews 1:1-3 ESV)</text>
+		<searchtext>congregation long ago at many times and in many ways god spoke to our fathers by the prophets but in these last days he has spoken to us by his son whom he appointed the heir of all things through whom also he created the world he is the radiance of the glory of god and the exact imprint of his nature and he upholds the universe by the word of his power hebrews 113 esv</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2012-12-08 19:14:12</created>
+		<modified>2013-12-21 17:29:27</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

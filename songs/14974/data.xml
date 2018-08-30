@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14974</id>
+		<songbook_id>21</songbook_id>
+		<title>In My Heart</title>
+		<copyright>Words &amp; Music by Eric Grover     © 2000 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:09</created>
+		<modified>2009-03-20 09:15:09</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00104J60A&quot;,&quot;title&quot;:&quot;In My Heart&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/614mSX3tPCL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16115</id>
+		<song_id>14974</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[C]In my [Dm]heart there [Bb]is a [F]stirring
+One that [Dm]did not [Bb]start with [C]me
+A love to [Dm]worship [Bb]my Cre[F]ator
+To show His [Bb]love for [C]all to [F]see
+
+Chorus:
+I will [C]worship, I will [Dm]honor
+I will ex[Bb]alt the Lord ab[C]ove
+All my [Dm]days, I’ll [Bb]sing the [C]praises
+Of His [Bb]great re[C]deeming [F    Bb | Dm    | Dm    Bb | C]love.
+
+Verse 2:
+[C]In my [Dm]heart there [Bb]is a [F]treason
+One that [Dm]poisons [Bb]all my [C]love
+Take my [Dm]heart and [Bb]conse[F]crate it
+Wash it [Bb]in Your [C]cleansing [F]blood.
+
+Verse 3:
+Tie me [Dm]to the [Bb]Rock un[F]changing
+Tie me [Dm]to His [Bb]wondrous [C]cross
+I’ll fix my [Dm]eyes up[Bb]on the [F]Savior
+All other [Bb]things I [C]count as [F]loss.</text>
+		<searchtext>verse 1 in my heart there is a stirring one that did not start with me a love to worship my creator to show his love for all to see chorus i will worship i will honor i will exalt the lord above all my days ill sing the praises of his great redeeming love verse 2 in my heart there is a treason one that poisons all my love take my heart and consecrate it wash it in your cleansing blood verse 3 tie me to the rock unchanging tie me to his wondrous cross ill fix my eyes upon the savior all other things i count as loss</searchtext>
+		<primary>1</primary>
+		<key>F</key>
+		<time_signature>3/4</time_signature>
+		<bpm>74</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:15:09</created>
+		<modified>2009-03-20 09:15:09</modified>
+		<creator>1543</creator>
+		<ccli>3071186</ccli>
+		<album>King Of Grace</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

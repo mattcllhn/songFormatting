@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>61354</id>
+		<songbook_id>21</songbook_id>
+		<title>What Child Is This</title>
+		<copyright>Words by William C. Dix     Music: Greensleeves     Public Domain</copyright>
+		<created>2014-11-29 12:14:17</created>
+		<modified>2014-11-29 12:14:17</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00NLNS01Y&quot;,&quot;title&quot;:&quot;What Child Is This&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/5145fGL8PNL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>67129</id>
+		<song_id>61354</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[||: Em     | B7     | Em     | B7     :||]
+
+VERSE 1:
+What [Em]Child is this Who, [D]laid to rest, on [C]Mary’s lap is [B]sleeping?
+Whom [Em]angels greet with [D]anthems sweet
+While [C]shepherds [B]watch are [Em]keeping?
+[G]This, this is [D]Christ the King{,} whom [Em]shepherds guard and [B]angels sing
+[G]Haste, haste, to [D]bring Him laud, the [C]Babe, the [B]Son of [Em]Mary [(intro)]
+
+Verse 2:
+Why [Em]lies He in such [D]mean estate{,} where [C]ox and lamb are [B]feeding?
+Good [Em]Christian, fear, for [D]sinners here, the [C]silent [B]Word is [Em]pleading
+[G]Nails, spear shall [D]pierce Him through
+The [Em]cross be borne for [B]me, for you
+[G]Hail, hail the [D]Word made flesh, the [C]Babe, the [B]Son of [Em]Mary
+
+Instr:
+[||: Em     | A     | C     | G    B7   :|| ]
+
+VERSE 3:
+So [Em]bring Him incense, [D]gold and myrrh
+Come [C]peasant, king to [B]own Him
+The [Em]King [D/F]of  [G]kings sal[D]vation brings;{,} let [C]loving [B]hearts en[Em]throne Him
+[G]Raise, raise a [D]song on high, the [Em]virgin sings her [B]lullaby
+[G]Joy, joy for [D]Christ is born, the [Em]Babe, the [B]Son of [Em]Mary [(intro)]
+
+</text>
+		<searchtext>intro verse 1 what child is this who laid to rest on marys lap is sleeping whom angels greet with anthems sweet while shepherds watch are keeping this this is christ the king whom shepherds guard and angels sing haste haste to bring him laud the babe the son of mary verse 2 why lies he in such mean estate where ox and lamb are feeding good christian fear for sinners here the silent word is pleading nails spear shall pierce him through the cross be borne for me for you hail hail the word made flesh the babe the son of mary instr verse 3 so bring him incense gold and myrrh come peasant king to own him the king of kings salvation brings let loving hearts enthrone him raise raise a song on high the virgin sings her lullaby joy joy for christ is born the babe the son of mary </searchtext>
+		<primary>1</primary>
+		<key>Em</key>
+		<time_signature>6/8</time_signature>
+		<bpm>150</bpm>
+		<tempo>Medium</tempo>
+		<created>2014-11-29 12:14:17</created>
+		<modified>2014-11-29 12:14:17</modified>
+		<creator>1546</creator>
+		<ccli>7031924</ccli>
+		<album>Prepare Him Room</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

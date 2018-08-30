@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>33094</id>
+		<songbook_id>21</songbook_id>
+		<title>Famous One</title>
+		<copyright>Words and music by Chris Tomlin &amp; Jesse Reeves © 2002 worshiptogether.com songs/ Six Steps Music Used by permission. All rights reserved. </copyright>
+		<created>2010-03-13 18:00:16</created>
+		<modified>2010-03-13 18:00:16</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>35327</id>
+		<song_id>33094</song_id>
+		<description>Initial arrangement</description>
+		<text>
+CHORUS:
+[E]You are the [E/G#]Lord, the f[A2]amous One, famous One
+[C#m7]Great is Your [B]name in all the [A]earth
+The [E]heavens decl[E/G#]are You’re gl[A2]orious, glorious         
+[C#m7]Great is Your f[B]ame beyond the [E]earth [E/G#    D2     A2]
+
+VERSE 1:
+And for [F#m7]all You’ve done and [E/G#]yet to do
+With [A]ev’ry breath, I’m pr[E]aising You
+Des[F#m7]ire of nations and [E/G#]ev’ry heart
+You al[A]one are God, You al[Bsus]one are God
+
+VERSE 2:
+The M[F#m7]orning Star is sh[E/G#]ining through
+And [A]ev’ry eye is w[E]atching You
+Re[F#m7]vealed by nature and m[E/G#]iracles
+You are b[A]eautiful, You are b[Bsus]eautiful
+</text>
+		<searchtext> chorus you are the lord the famous one famous one great is your name in all the earth the heavens declare youre glorious glorious great is your fame beyond the earth verse 1 and for all youve done and yet to do with evry breath im praising you desire of nations and evry heart you alone are god you alone are god verse 2 the morning star is shining through and evry eye is watching you revealed by nature and miracles you are beautiful you are beautiful </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>6/8</time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2010-03-13 18:00:16</created>
+		<modified>2010-03-13 18:00:16</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>18</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>36912</id>
+		<songbook_id>21</songbook_id>
+		<title>I Have a Shelter</title>
+		<copyright>Words and Music by Steve &amp; Vikki Cook and Bob Kauflin. © 2008 Integrity’s Hosanna! Music (ASCAP) Admin. by Integrity’s Hosanna! Music Sovereign Grace Praise (BMI) Admin. by Integrity’s Praise! Music.</copyright>
+		<created>2010-11-18 21:28:59</created>
+		<modified>2016-03-12 23:20:13</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>39504</id>
+		<song_id>36912</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO: 
+[A |Bm | A |G | A | Bm |G A | D]
+
+VERSE 1: 
+I have a sh[A]elter in the s[Bm]torm
+When troubles [G]pour upon me [D] 
+Though fears are r[A]ising like a fl[Bm]ood
+My soul can [G]rest sec[A]urely   [D] 
+O Jesus, [A]I will hide in [Bm]You
+My place of p[G]eace and solace [Em] 
+No trial is d[G]eeper th[A]an Your l[Bm]ove
+That comforts [G]all my sorrows[D]  [D/A | Bm | D/A | G] 
+
+VERSE 2: 
+I have a sh[A]elter in the st[Bm]orm
+When all my s[G]ins accuse me  [D] 
+Though justice ch[A]arges me with g[Bm]uilt
+Your grace will [G]not ref[A]use me [D] 
+O Jesus, [A]I will hide in [Bm]You
+Who bore my c[G]ondemnation [Em] 
+I find my r[G]efuge [A]in Your w[Bm]ounds
+For there I f[G]ind salvation
+
+{new_page}
+TURN: 
+key:D
+[D D/ A | Bm | D/A | G |]
+[E E/ B | C#m | E/B E/G# |G#]
+key:E
+{key:E}
+VERSE 3: 
+I have a sh[B]elter in the st[C#m]orm
+When constant w[A]inds would break me [E] 
+For in my w[B]eakness, I have l[C#m]earned
+Your strength will [A]not fors[B]ake me [E] 
+O Jesus, [B]I will hide in Y[C#m]ou
+The One who b[A]ears my burdens [F#m] 
+With faithful h[A]ands that c[B]annot f[C#m]ail
+You’ll bring me h[A]ome to h[B]eaven [E] 
+
+TAG: 
+O Jesus, [B]I will hide in Y[C#m]ou
+The One who b[A]ears my burdens [F#m] 
+With faithful h[A]ands that c[B]annot f[C#m]ail
+You’ll bring me h[A]ome to h[B]eaven
+
+END: 
+[E E/B | C#m | B | A | E E/B | C#m | E/B E/G# | A | E]</text>
+		<searchtext>intro verse 1 i have a shelter in the storm when troubles pour upon me though fears are rising like a flood my soul can rest securely o jesus i will hide in you my place of peace and solace no trial is deeper than your love that comforts all my sorrows verse 2 i have a shelter in the storm when all my sins accuse me though justice charges me with guilt your grace will not refuse me o jesus i will hide in you who bore my condemnation i find my refuge in your wounds for there i find salvation turn keyd keye verse 3 i have a shelter in the storm when constant winds would break me for in my weakness i have learned your strength will not forsake me o jesus i will hide in you the one who bears my burdens with faithful hands that cannot fail youll bring me home to heaven tag o jesus i will hide in you the one who bears my burdens with faithful hands that cannot fail youll bring me home to heaven end </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>3/4</time_signature>
+		<bpm>78</bpm>
+		<tempo>Slow</tempo>
+		<created>2010-11-18 21:28:59</created>
+		<modified>2016-03-12 23:20:13</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

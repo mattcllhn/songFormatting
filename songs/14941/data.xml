@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14941</id>
+		<songbook_id>21</songbook_id>
+		<title>Glory To</title>
+		<copyright>Words &amp; Music by Doug Plank     © 2003 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:03</created>
+		<modified>2009-03-20 09:15:03</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B000YZQ7XA&quot;,&quot;title&quot;:&quot;Glory To&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/516fS-1BfuL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16076</id>
+		<song_id>14941</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[C    | G    F  G  | C     | G   F  G  |]
+
+Verse 1:
+[C]Fa[G]ther, we [C]love Your sovereign[G]ty
+We [C]love that Your [G]wondrous grace
+[C]Ordered Calva[G]ry
+[C]Fa[G]ther, You [C]gave Your only [G]Son
+You [C]planned for His [G]sacrifice
+Be[C]fore time had be[G]gun
+[D]Hal[E]lelu[G     Gsus4 | G     |]jah
+We [D]lift up our ha[C]nds,{,} we [D]lift up our vo[C]ice
+
+Chorus:
+Glory t[G]o the Fa[C]ther, glory t[G]o the S[C]avior
+You called us{,} th[G]rough the g[C]ospel of Your g[D   C]race
+Glory t[G]o the Fa[C]ther, glory t[G]o the S[C]avior
+Forever [G]You are [C]worthy of our p[D     C]raise
+Of our p[G    C    | G  F  G | C     | G  F  G |]raise
+
+Verse 2:
+[C]Je[G]sus, we [C]love You for the [G]cross
+We [C]love that You [G]offered up
+Your [C]life to purchase [G]us
+[C]Je[G]sus, we [C]love your saving [G]death
+We [C]love that it [G]rescues us
+[C]From the Father’s [G]wrath
+[D]Hal[C]lelu[G    | G    |]jah
+We [D]lift up our [C]hands,{,} we [D]lift up our [C]voice</text>
+		<searchtext>intro verse 1 father we love your sovereignty we love that your wondrous grace ordered calvary father you gave your only son you planned for his sacrifice before time had begun hallelujah we lift up our hands we lift up our voice chorus glory to the father glory to the savior you called us through the gospel of your grace glory to the father glory to the savior forever you are worthy of our praise of our praise verse 2 jesus we love you for the cross we love that you offered up your life to purchase us jesus we love your saving death we love that it rescues us from the fathers wrath hallelujah we lift up our hands we lift up our voice</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>130</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:03</created>
+		<modified>2009-03-20 09:15:03</modified>
+		<creator>1543</creator>
+		<ccli>4523451</ccli>
+		<album>Songs For The Cross-Centered Life</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

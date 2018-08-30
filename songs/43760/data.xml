@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>43760</id>
+		<songbook_id>21</songbook_id>
+		<title>Z - Psalm 95:1-2 (ESV)</title>
+		<copyright></copyright>
+		<created>2011-11-24 10:27:44</created>
+		<modified>2011-11-26 20:14:15</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>47117</id>
+		<song_id>43760</song_id>
+		<description>Initial arrangement</description>
+		<text>Psalm 95:1-2
+
+Oh come, let us sing to the LORD;
+      let us make a joyful noise to the rock of our salvation!
+Let us come into his presence with thanksgiving;
+      let us make a joyful noise to him with songs of praise!
+
+</text>
+		<searchtext>psalm 9512 oh come let us sing to the lord let us make a joyful noise to the rock of our salvation let us come into his presence with thanksgiving let us make a joyful noise to him with songs of praise </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2011-11-24 10:27:44</created>
+		<modified>2011-11-26 20:14:15</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>18</font_size>
+	</Arrangement>
+</data>
+

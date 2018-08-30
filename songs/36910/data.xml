@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>36910</id>
+		<songbook_id>21</songbook_id>
+		<title>How Great is Your Faithfulness</title>
+		<copyright>Jonas Myrin and Matt Redman 2009 Jonas Myrin/SHOUT! Publishing/sixsteps Music/Said And Done Music/Thankyou Music</copyright>
+		<created>2010-11-18 15:37:15</created>
+		<modified>2011-12-29 12:21:24</modified>
+		<creator>2868</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>39501</id>
+		<song_id>36910</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+Now [E]unto the [B]King who [F#]reigns over [G#m]all,
+and [E]never [B]changes or [F#]turns.
+[E]Unfailing [B]justice, [F#]unfading [G#m]grace,
+Whose [E]promises re[F#]main,
+Yes, Your [E]promises re[F#]main.
+
+Chorus:
+The [B]heavens [F#/A#]ring, the [G#m]saints all [E]sing,
+[B]'Great is Your [F#]faithfulness.[G#m] [E]
+From [B]age to [F#/A#]age we [G#m]will [E]proclaim,
+[B]'Great is Your [F#]faithfulness,[G#m] [E]
+How [B]great is Your [F#]faithfulness.' [B]   [F#/A#]   [G#m]  [to Tag:B]
+
+Verse 2:
+[E]Everything [B]changes, but [F#]You stay the [G#m]same;
+Your [E]Word and [B]kingdom [F#]endure.
+We [E]lean on the [B]promise of [F#]all that You [G#m]are,
+And [E]trust forever[F#]more;
+We will [E]trust forever[F#]more.
+
+Tag:
+From [E]gener[B]ation to [F#]gener[G#m]ation,
+[E]You never [B]fail us, O [F#]God.
+[E]Yester[B]day and to[F#]day and to[G#m]morrow,
+Un[A]til the day You re[F#sus4][F#]turn.</text>
+		<searchtext>verse 1 now unto the king who reigns over all and never changes or turns unfailing justice unfading grace whose promises remain yes your promises remain chorus the heavens ring the saints all sing great is your faithfulness from age to age we will proclaim great is your faithfulness how great is your faithfulness verse 2 everything changes but you stay the same your word and kingdom endure we lean on the promise of all that you are and trust forevermore we will trust forevermore tag from generation to generation you never fail us o god yesterday and today and tomorrow until the day you return</searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2010-11-18 15:37:15</created>
+		<modified>2011-12-29 12:21:24</modified>
+		<creator>2868</creator>
+		<ccli></ccli>
+		<album>We Shall Not Be Shaken</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

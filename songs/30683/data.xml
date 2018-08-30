@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>30683</id>
+		<songbook_id>21</songbook_id>
+		<title>God Rest Ye Merry Gentlemen</title>
+		<copyright>Public Domain. Words and Music: English Traditional. Arrangement: Justin Rosolino.</copyright>
+		<created>2009-12-10 22:38:06</created>
+		<modified>2015-12-11 15:22:58</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B002VOK5LM&quot;,&quot;title&quot;:&quot;God Rest Ye Merry Gentlemen&quot;,&quot;artist&quot;:&quot;High Street Hymns&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51rQvlexXIL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>32744</id>
+		<song_id>30683</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro: 
+[Em  (8 bars)]
+
+Verse 1: 
+[Em]God rest ye merry gentlemen
+Let not[C]thingyou dis[B7]may
+Re[Em]member Christ our Savior
+Was [C]born on Christmas [B7]Day
+To [Am]save us all from [G]Satan’s power
+When [Em]we were gone a[D]stray
+
+Refrain:
+O ti[G]dings of [Am]comf[B7]ort and j[Cmaj7]oy 
+[Em]Comfort and [D] joy  
+[Em]O[D/F#] [G]    tidings of co[Am]mfo[B7]rt and j[Em]oy
+
+Verse 2: 
+[Em]From God our heavenly Father
+A ble[C]ssed angel c[B7]ame
+And [Em]unto certain shepherds
+Brought t[C]idings of the s[B7]ame 
+How [Am]that in Bethleh[G]em was born 
+The [Em]Son of God by na[D]me.
+
+Refrain: 
+O ti[G]dings of [Am]comf[B7]ort and j[Cmaj7]oy 
+[Em]Comfort and [D] joy  
+[Em]O[D/F#] [G]    tidings of co[Am]mfo[B7]rt and j[Em]oy
+
+{new_page}
+Verse 3: 
+Now [Em]to the Lord sing praises
+All [C]you within this p[B7]lace
+And [Em]with true love and charity
+Each [C]other now emb[B7]race
+This [Am]holy tide of Ch[G]ristmas
+Doth b[Em]ring redeeming gr[D]ace [to Refrain] 
+
+Refrain: 
+O ti[G]dings of [Am]comf[B7]ort and j[Cmaj7]oy 
+[Em]Comfort and [D] joy  
+[Em]O[D/F#] [G]    tidings of co[Am]mfo[B7]rt and j[Em]oy
+</text>
+		<searchtext>intro verse 1 god rest ye merry gentlemen let notthingyou dismay remember christ our savior was born on christmas day to save us all from satans power when we were gone astray refrain o tidings of comfort and joy comfort and joy o tidings of comfort and joy verse 2 from god our heavenly father a blessed angel came and unto certain shepherds brought tidings of the same how that in bethlehem was born the son of god by name refrain o tidings of comfort and joy comfort and joy o tidings of comfort and joy verse 3 now to the lord sing praises all you within this place and with true love and charity each other now embrace this holy tide of christmas doth bring redeeming grace refrain o tidings of comfort and joy comfort and joy o tidings of comfort and joy </searchtext>
+		<primary>1</primary>
+		<key>Em</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Fast</tempo>
+		<created>2009-12-10 22:38:06</created>
+		<modified>2015-12-11 15:22:58</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

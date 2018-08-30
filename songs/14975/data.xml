@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14975</id>
+		<songbook_id>21</songbook_id>
+		<title>At The Foot Of The Cross</title>
+		<copyright>Words &amp; Music by Steve &amp; Vikki Cook     © 2000 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:09</created>
+		<modified>2009-03-20 09:15:09</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00104FMGC&quot;,&quot;title&quot;:&quot;At the Foot of the Cross&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/614mSX3tPCL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16116</id>
+		<song_id>14975</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+Be[C#m]neath the cross of J[E]esus
+Lord, [F#m]I would spend my da[A]ys
+In the [C#m]shadow of the [E]One{,} who ransomed m[F#m]e
+May I [C#m]not become fa[E]miliar
+With its [F#m]marvelous good [A]news
+But [C#m]live my life
+With it [E]always in my [F#m]view, oh [A]
+	
+Chorus:
+At the foot of the [E]cross  [B]
+Lord I [F#m]bow down and wor[A]ship
+Over[C#m]come by [B]so great a love [A]
+At the foot of the [E]cross  [B]
+I will [F#m]cherish all Your [A]mercy
+All Your [C#m]goodness, Your wi[B]sdom, Your pow’[F#]r
+At the [A]foot of the [||: C#m    E    | F#m    A2    :||]cross.  
+
+Verse 2:
+Up[C#m]on the cross of J[E]esus
+Lord, [F#m]I would fix my [A]eyes
+For it [C#m]always will remi[E]nd me{,} of these [F#m]truths
+My in[C#m]iquity seems e[E]ndless,
+Yet [F#m]greater still your [A]grace
+And I will [C#m]glory in the [E]cross
+Throughout the a[F#m]ges, oh [A]</text>
+		<searchtext>verse 1 beneath the cross of jesus lord i would spend my days in the shadow of the one who ransomed me may i not become familiar with its marvelous good news but live my life with it always in my view oh chorus at the foot of the cross lord i bow down and worship overcome by so great a love at the foot of the cross i will cherish all your mercy all your goodness your wisdom your powr at the foot of the cross verse 2 upon the cross of jesus lord i would fix my eyes for it always will remind me of these truths my iniquity seems endless yet greater still your grace and i will glory in the cross throughout the ages oh </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>70</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:09</created>
+		<modified>2009-03-20 09:15:09</modified>
+		<creator>1543</creator>
+		<ccli>3070905</ccli>
+		<album>King Of Grace</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

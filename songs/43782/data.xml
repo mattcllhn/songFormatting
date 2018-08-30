@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>43782</id>
+		<songbook_id>21</songbook_id>
+		<title>Your Words Of Life</title>
+		<copyright>Words &amp; Music by Joel Sczebel and Pat Sczebel     (C) 2011 Sovereign Grace Worship</copyright>
+		<created>2011-11-27 00:55:55</created>
+		<modified>2011-11-27 00:55:55</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0064Y30E4&quot;,&quot;title&quot;:&quot;Your Words of Life&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/515a-gIbevL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>47144</id>
+		<song_id>43782</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[B/D#   E   | A      | B/D#   E   | A]
+
+VERSE 1:
+[E]  As we g[F#m7]ather c[A]ome and t[Bsus]each us
+[E]  Spirit, c[F#m7]ome and s[A]peak to[Bsus]day
+[E]  You del[F#m7]ight to l[A]ead and g[Bsus]uide us
+[E]  It’s Your [F#m7]Word that l[A]ights the w[Bsus]ay
+
+CHORUS:
+So [A2]come awaken our h[E]earts
+Illumine our m[C#m]inds, magnify J[F#m]esus Christ
+[A2]Come renewing our f[E]aith
+Changing our [C#m]lives
+With Your w[A2]ords of l[E]ife [ | B/D#   E   | A]
+
+VERSE 2:
+[E]  Let Your [F#m7]truth sink d[A]eep with[Bsus]in us
+[E]  Let the f[F#m7]oolish l[A]earn Your w[Bsus]ays
+[E]  We are [F#m7]often pr[A]one to w[Bsus]ander
+[E]  As we h[F#m7]ear may w[A]e be ch[Bsus]anged
+
+BRIDGE:
+We [C#m]need to see You, we [G#m]need to hear You
+We [A2]want to know you, [E]Word of [Bsus]life
+(Repeat)
+
+</text>
+		<searchtext>intro verse 1 as we gather come and teach us spirit come and speak today you delight to lead and guide us its your word that lights the way chorus so come awaken our hearts illumine our minds magnify jesus christ come renewing our faith changing our lives with your words of life verse 2 let your truth sink deep within us let the foolish learn your ways we are often prone to wander as we hear may we be changed bridge we need to see you we need to hear you we want to know you word of life repeat </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>78</bpm>
+		<tempo>Slow</tempo>
+		<created>2011-11-27 00:55:55</created>
+		<modified>2011-11-27 00:55:55</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>The Gathering</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

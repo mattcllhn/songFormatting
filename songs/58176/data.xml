@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>58176</id>
+		<songbook_id>21</songbook_id>
+		<title>Set a Fire </title>
+		<copyright>Reagan, Will/2010 United Pursuit Music</copyright>
+		<created>2014-04-08 19:56:31</created>
+		<modified>2015-11-20 15:15:08</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>63470</id>
+		<song_id>58176</song_id>
+		<description>Initial arrangement</description>
+		<text>[C]  No Place I'd rather be
+[F]  No Place I'd rather be
+[Am]  No place I'd rather be
+[F] Here in your Love, Here in your love
+
+
+                           
+[C] Set a Fire Down in my S[F]oul                                  
+That I can't contain that I can't co[Am]ntrol                
+I want more of you God [F]I want more of you God</text>
+		<searchtext> no place id rather be no place id rather be no place id rather be here in your love here in your love set a fire down in my soul that i cant contain that i cant control i want more of you god i want more of you god</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2014-04-08 19:56:31</created>
+		<modified>2015-11-20 15:15:08</modified>
+		<creator>1546</creator>
+		<ccli>5911299</ccli>
+		<album></album>
+		<font_size>18</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>35168</id>
+		<songbook_id>21</songbook_id>
+		<title>I Belong</title>
+		<copyright>Words &amp; Music by Mildred Rainey and Kathryn Scott. 2007 Vertical Worship Songs.</copyright>
+		<created>2010-07-15 22:12:36</created>
+		<modified>2010-08-28 17:27:22</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>37582</id>
+		<song_id>35168</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[| F    C/E  |  Bb/D    C/E  |  F    C/E  |  Bb/D   C/E |]
+
+
+Verse 1:
+[F]   Not  an[C/E]gels  [Bb/D]       nor demons
+[F]   No po[C/E]w'r on e[Bb/D]arth or he[C/E]aven
+[F]   Not dist[C/E]ance  [Bb/D]       nor danger
+[F]   No tro[C/E]uble n[Bb/D]ow  or e[C/E]ver
+
+Pre-Chorus:
+N[Gm7]othing can t[F/A]ake me from y[Bb2]our great love
+For[Gm7]ever this tr[F/A]uth rem[Csus]ains    [C]
+
+Chorus:
+I belo[F]ng, [C/E]      I bel[Bb/D]ong to you [C/E]
+I belo[F]ng, [C/E]      I bel[Bb/D]ong to y[C/E]ou 
+
+
+Instr:
+[| F    C/E  |  Bb/D    C/E  |  F    C/E  |  Bb/D   C/E |]
+
+
+Verse2:
+[F]   Not ha[C/E]rdship [Bb/D]       nor hunger
+[F]   No p[C/E]ain or d[Bb/D]epth of s[C/E]orrow
+[F]   Not we[C/E]akness [Bb/D]       nor failure
+[F]   No br[C/E]oken d[Bb/D]ream or p[C/E]romise</text>
+		<searchtext>intro verse 1 not angels nor demons no powr on earth or heaven not distance nor danger no trouble now or ever prechorus nothing can take me from your great love forever this truth remains chorus i belong i belong to you i belong i belong to you instr verse2 not hardship nor hunger no pain or depth of sorrow not weakness nor failure no broken dream or promise</searchtext>
+		<primary>1</primary>
+		<key>F</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2010-07-15 22:12:36</created>
+		<modified>2010-08-28 17:27:22</modified>
+		<creator>1546</creator>
+		<ccli>5064067</ccli>
+		<album>I Belong</album>
+		<font_size>18</font_size>
+	</Arrangement>
+</data>
+

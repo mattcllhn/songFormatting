@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>46952</id>
+		<songbook_id>21</songbook_id>
+		<title>Great Things</title>
+		<copyright>© 2012 Sovereign Grace Worship     Verse 1 by Fanny Crosby     Music &amp; additional words by Steve Cook &amp; Vikki Cook</copyright>
+		<created>2012-04-28 15:14:25</created>
+		<modified>2012-04-28 15:14:25</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B007O3RGIA&quot;,&quot;title&quot;:&quot;Great Things&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51QAAIRaApL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>50621</id>
+		<song_id>46952</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[C#m         |            | E        |           | C#m       |          | E         | E]
+Bass line:
+[C# - G# - B - C# - F# - E - G#         C# - G# - A - B - E]
+
+VERSE 1:
+To [C#m]God be the [E]glory, great [B]things He has [C#m]done 
+So [A]loved He the [C#m]world{,} that He [A]gave us His [B]Son 
+Who [F#m]yielded His [E]life, an [C#m]atonement for [A]sin 
+And [A]opened the [C#m]life-gate that [B]all may go [F#m (intro)]in 
+
+VERSE 2:
+To [C#m]God be the [E]glory{,} for [B]wisdom and [C#m]grace 
+That [A]chose us and [C#m]made us{,} the [A]heirs of His [B]name 
+He [F#m]justified [E]freely His [C#m]daughters and [A]sons 
+And [A]gave us His [C#m]Spirit, the [B]seal of Hi[F#m]s love 
+
+CHORUS:
+[C#m] [B]Praise [A2]God from [E]whom all [B]blessings f[C#m]low 
+Through our [A]Savior [E]Jesus Ch[B]rist 
+He has [A2]raised us [E]up to a [B]glorious ho[F#]pe 
+Re[A2]joice, you [C#m]ransomed [B]ones 
+Great things He has [(intro)]done 
+
+VERSE 3:
+To [C#m]God be the [E]glory, He [B]joined us wi[C#m]th Christ 
+We [A]share in His [C#m]death{,} and we’re [A]hid in His [B]life 
+We [F#m]stand in His [E]righteousness, [C#m]never our [A]own 
+And [A]sit with Him [C#m]now{,} on His [B]heaven[F#m]ly throne </text>
+		<searchtext>intro bass line verse 1 to god be the glory great things he has done so loved he the world that he gave us his son who yielded his life an atonement for sin and opened the lifegate that all may go in verse 2 to god be the glory for wisdom and grace that chose us and made us the heirs of his name he justified freely his daughters and sons and gave us his spirit the seal of his love chorus praise god from whom all blessings flow through our savior jesus christ he has raised us up to a glorious hope rejoice you ransomed ones great things he has done verse 3 to god be the glory he joined us with christ we share in his death and were hid in his life we stand in his righteousness never our own and sit with him now on his heavenly throne </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>204</bpm>
+		<tempo>Medium</tempo>
+		<created>2012-04-28 15:14:25</created>
+		<modified>2012-04-28 15:14:25</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>From Age To Age</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

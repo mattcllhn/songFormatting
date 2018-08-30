@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5621</id>
+		<songbook_id>21</songbook_id>
+		<title>Immortal, Invisible, God Only Wise</title>
+		<copyright>Words by Wal­ter Smith     Music by John Ro­berts     Public domain</copyright>
+		<created>2008-10-25 21:31:17</created>
+		<modified>2008-10-25 21:31:17</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6352</id>
+		<song_id>5621</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[G]Im[C9]mortal, in[D]visi[Em]ble, [G/D]God on[D]ly [G]wise,
+In [C9]light inac[D]cessi[Em]ble [G/D]hid from [D]our [G]eyes,
+Most [G]blessed, most [G/F#]glorious, the [Em]Ancient of [D]Days,
+Al[C9]mighty, vic[D]torious,{,} [Em]Thy [G/D]great Name [D]we [G]praise.
+
+
+Verse 2:
+[G]Un[C9]resting, un[D]hasting, [Em]and [G/D]silent [D]as [G]light,
+Nor [C9]wanting, nor [D]wasting, [Em]Thou [G/D]rulest [D]in [G]might;
+Thy [G]justice, like [G/F#]mountains, high [Em]soaring a[D]bove
+Thy [C9]clouds, which are [D]fountains{,} [Em]of [G/D]goodness [D]and [G]love.
+
+
+Verse 3:
+[G]To [C9]all, life Thou [D]givest, [Em]to [G/D]both great [D]and [G]small;
+In [C9]all life Thou [D]livest, [Em]the [G/D]true life [D]of [G]all;
+We [G]blossom and [G/F#]flourish, as [Em]leaves on the [D]tree,
+And [C9]wither and [D]perish, [Em]but [G/D]naught chang[D]eth [G]Thee.
+
+
+Verse 4:
+[G]Great [C9]Father of [D]glory, [Em]pure [G/D]Father [D]of [G]light,
+Thine [C9]angels a[D]dore Thee, [Em]all [G/D]veiling [D]their [G]sight;
+All [G]laud we would [G/F#]render, O [Em]help us to [D]see
+’Tis [C9]only the [D]splendor [Em]of [G/D]light hi[D]deth [G]Thee!</text>
+		<searchtext>verse 1 immortal invisible god only wise in light inaccessible hid from our eyes most blessed most glorious the ancient of days almighty victorious thy great name we praise verse 2 unresting unhasting and silent as light nor wanting nor wasting thou rulest in might thy justice like mountains high soaring above thy clouds which are fountains of goodness and love verse 3 to all life thou givest to both great and small in all life thou livest the true life of all we blossom and flourish as leaves on the tree and wither and perish but naught changeth thee verse 4 great father of glory pure father of light thine angels adore thee all veiling their sight all laud we would render o help us to see tis only the splendor of light hideth thee</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>3/4</time_signature>
+		<bpm>112</bpm>
+		<tempo>Medium</tempo>
+		<created>2008-10-25 21:31:17</created>
+		<modified>2008-10-25 21:31:17</modified>
+		<creator>1543</creator>
+		<ccli>124466</ccli>
+		<album></album>
+		<font_size></font_size>
+	</Arrangement>
+</data>
+

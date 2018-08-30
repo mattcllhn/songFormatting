@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5589</id>
+		<songbook_id>21</songbook_id>
+		<title>We Three Kings Of Orient Are</title>
+		<copyright>Words &amp; Music by John Henry Hopkins</copyright>
+		<created>2008-09-25 21:04:44</created>
+		<modified>2008-09-25 21:04:44</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6320</id>
+		<song_id>5589</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[Em]We three kings of [B]Orient [Em]are, bearing gifts we [B]traverse a[Em]far,
+[Em]Field and [D]fountain, [G]moor and [Em]mountain, [Am]following [B]yonder [Em]star.
+
+
+Chorus:
+[D]O, [G]star of wonder, [C]star of [G]night, star with loyal [C]beauty [G]bright,
+[G]Westward [D]leading, [C]still pro[D]ceeding, [G]guide us to thy [C]perfect [G]light.
+
+
+Verse 2:
+[Em]Born a King on [B]Bethlehem's [Em]plain, gold I bring to [B]crown Him a[Em]gain,
+[Em]King for[D]ever, [G]ceasing [Em]never,{,} [Am]over us [B]all to [Em]reign.
+
+
+Verse 3:
+[Em]Frankincense to [B]offer have [Em]I, incense owns a [B]deity [Em]nigh;
+[Em]Prayer and [D]praising, [G]voices [Em]raising, [Am]worshiping [B]God on [Em]high.
+
+
+Verse 4:
+[Em]Myrrh is mine; its [B]bitter per[Em]fume, breaths a life of [B]gathering [Em]gloom;
+[Em]Sorrowing, [D]sighing, [G]bleeding, [Em]dying, [Am]sealed in the [B]stone-cold [Em]tomb.
+
+
+Verse 5:
+[Em]Glorious now be[B]hold Him a[Em]rise, King and God and [B]Sacri[Em]fice;
+[Em]Alle[D]luia, [G]Alle[Em]luia! [Am]sounds through the [B]earth and [Em]skies.</text>
+		<searchtext>verse 1 we three kings of orient are bearing gifts we traverse afar field and fountain moor and mountain following yonder star chorus o star of wonder star of night star with loyal beauty bright westward leading still proceeding guide us to thy perfect light verse 2 born a king on bethlehems plain gold i bring to crown him again king forever ceasing never over us all to reign verse 3 frankincense to offer have i incense owns a deity nigh prayer and praising voices raising worshiping god on high verse 4 myrrh is mine its bitter perfume breaths a life of gathering gloom sorrowing sighing bleeding dying sealed in the stonecold tomb verse 5 glorious now behold him arise king and god and sacrifice alleluia alleluia sounds through the earth and skies</searchtext>
+		<primary>1</primary>
+		<key>Em</key>
+		<time_signature>6/8</time_signature>
+		<bpm>58</bpm>
+		<tempo>Medium</tempo>
+		<created>2008-09-25 21:04:44</created>
+		<modified>2008-09-25 21:04:44</modified>
+		<creator>1543</creator>
+		<ccli>38002</ccli>
+		<album></album>
+		<font_size></font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

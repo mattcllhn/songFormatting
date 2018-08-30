@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>50496</id>
+		<songbook_id>21</songbook_id>
+		<title>O Come, All Ye Faithful (chorus only)</title>
+		<copyright></copyright>
+		<created>2012-11-30 16:41:14</created>
+		<modified>2015-12-17 05:19:41</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>54635</id>
+		<song_id>50496</song_id>
+		<description>Initial arrangement</description>
+		<text>
+
+Chorus:
+O [D]come, [A]let [D]us  [A]a[D]dore Him,
+O [D]come, [A]let [D]us [G]a[D]dore [A]Him,
+O [Em]come, [D/F#]let [G]us [E]a[A]dore [D  G]Him, [D]Chri[A]st, the [D]Lord.
+</text>
+		<searchtext> chorus o come let us adore him o come let us adore him o come let us adore him christ the lord </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2012-11-30 16:41:14</created>
+		<modified>2015-12-17 05:19:41</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>18</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>72328</id>
+		<song_id>50496</song_id>
+		<description>In Key of G</description>
+		<text>
+
+Chorus:
+O [G]come, [D]let [G]us  [D]a[G]dore Him,
+O [G]come, [D]let [G]us [C]a[G]dore [D]Him,
+O [C]come, [G/B]let [Am]us [G]a[D]dore [C  Am]Him, [G]Chri[D]st, the [Gsus    G]Lord.
+</text>
+		<searchtext> chorus o come let us adore him o come let us adore him o come let us adore him christ the lord </searchtext>
+		<primary>0</primary>
+		<key>G</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2015-11-20 16:46:12</created>
+		<modified>2015-11-20 16:46:12</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>18</font_size>
+	</Arrangement>
+</data>
+

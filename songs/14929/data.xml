@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14929</id>
+		<songbook_id>21</songbook_id>
+		<title>Endless Praises</title>
+		<copyright>Words &amp; Music by Stephen Altrogge     © 2003 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:01</created>
+		<modified>2009-03-20 09:15:01</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B000ZJKY1Q&quot;,&quot;title&quot;:&quot;Endless Praises&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51CotfwF8BL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16064</id>
+		<song_id>14929</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[C     | C]
+
+Verse 1:
+[C] [ ]Look upon this fearful [Gm]scene
+The King of Love nailed to a [Dm]tree
+The Prince of Glory made to [Bb2]bleed [| Bb2]
+[C] [ ]Hear the pardon that He [Gm]speaks
+“Forgive them,” is His [Dm]plea
+Where has love like this been [Bb2]seen? [| G]
+
+Chorus:
+[C]Let us [F]lift up [C]endless [F]praises
+[Am]Let us give Him [F]endless [G]song
+[C]Let us [F]lift up [C]endless [F]praises
+[Am]Let us sing of [F]all He’s [G]done
+[Am]Let us sing of [F]all our [G]God has [||: C   F2   | C   F2   :||] done
+
+Verse 2:
+[C] [ ]Look upon this wondrous [Gm]sight
+Foul sinners clothed in [Dm]white
+With the righteousness of [Bb2]Christ [| Bb2]
+[C] [ ]All our guilt is washed aw[Gm]ay
+Every debt we owed is [Dm]paid
+How astounding is this [Bb2]grace? [| G (to chorus)]
+
+Bridge:
+[F] [ ]A thousand [G]ages is not [Am]long enough [| G/B]
+[F] [ ]To tell the [G]glories of the [Am]Son [| G/B]
+[F] [ ]Forever [G]we will sing red[Am]emption’s song [| G/B]
+[F2] [ ]And of the [C/E]victory You’ve [D]won [| D]</text>
+		<searchtext>intro verse 1 look upon this fearful scene the king of love nailed to a tree the prince of glory made to bleed hear the pardon that he speaks forgive them is his plea where has love like this been seen chorus let us lift up endless praises let us give him endless song let us lift up endless praises let us sing of all hes done let us sing of all our god has done verse 2 look upon this wondrous sight foul sinners clothed in white with the righteousness of christ all our guilt is washed away every debt we owed is paid how astounding is this grace bridge a thousand ages is not long enough to tell the glories of the son forever we will sing redemptions song and of the victory youve won </searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>122</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:01</created>
+		<modified>2009-03-20 09:15:01</modified>
+		<creator>1543</creator>
+		<ccli>4662783</ccli>
+		<album>Worship God Live</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

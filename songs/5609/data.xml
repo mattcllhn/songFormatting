@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5609</id>
+		<songbook_id>21</songbook_id>
+		<title>It Came Upon A Midnight Clear</title>
+		<copyright>Words by Ed­mund Sears     Music by Ri­chard Wil­lis     Public domain</copyright>
+		<created>2008-10-25 23:15:07</created>
+		<modified>2014-12-16 14:02:11</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6340</id>
+		<song_id>5609</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+It [C]came u[F]pon a [C]midnight clear,
+That [F]glorious [D7]song of [G7]old,
+From [C]angels [F]bending [C]near the earth,
+To [F]touch their [G7]harps of [C]gold;
+“Peace [E7]on the earth, good [Am]will to men,
+From [G]Heaven’s all-[D7]gracious [G]King.” [G/F]
+The [C/E]world in [F]solemn [C/G]stillness [C]lay,
+To [F]hear the [G7]angels [C]sing.
+
+
+Verse 2:
+Still [C]through the [F]cloven [C]skies they come
+With [F]peaceful [D7]wings un[G7]furled,
+And [C]still their [F]heavenly [C]music floats
+O’er [F]all the [G7]weary [C]world;
+A[E7]bove its sad and [Am]lowly plains,
+They [G]bend on [D7]hovering [G]wing, [G/F]
+And [C/E]ever [F]o’er its [C/G]Babel [C]sounds
+The [F]blessèd [G7]angels [C]sing.
+
+
+{new_page}
+Verse 3:
+And [C]ye, be[F]neath life’s [C]crushing load,
+Whose [F]forms are [D7]bending [G7]low,
+Who [C]toil a[F]long the [C]climbing way
+With [F]painful [G7]steps and [C]slow,
+Look [E7]now! for glad and [Am]golden hours
+Come [G]swiftly [D7]on the [G]wing. [G/F]
+O [C/E]rest be[F]side the [C/G]weary [C]road,
+And [F]hear the [G7]angels [C]sing!
+
+
+Verse 4:
+For [C]lo! the [F]days are [C]hastening on,
+By [F]prophet-[D7]bards fore[G7]told,
+When [C]with the [F]ever-[C]circling years
+Comes [F]round the [G7]age of [C]gold;
+When [E7]peace shall over [Am]all the earth
+Its [G]ancient [D7]splendors [G]fling, [G/F]
+And [C/E]the whole [F]world send [C/G]back the [C]song
+Which [F]now the [G7]angels [C]sing.</text>
+		<searchtext>verse 1 it came upon a midnight clear that glorious song of old from angels bending near the earth to touch their harps of gold peace on the earth good will to men from heavens allgracious king the world in solemn stillness lay to hear the angels sing verse 2 still through the cloven skies they come with peaceful wings unfurled and still their heavenly music floats oer all the weary world above its sad and lowly plains they bend on hovering wing and ever oer its babel sounds the blessèd angels sing verse 3 and ye beneath lifes crushing load whose forms are bending low who toil along the climbing way with painful steps and slow look now for glad and golden hours come swiftly on the wing o rest beside the weary road and hear the angels sing verse 4 for lo the days are hastening on by prophetbards foretold when with the evercircling years comes round the age of gold when peace shall over all the earth its ancient splendors fling and the whole world send back the song which now the angels sing</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>3/4</time_signature>
+		<bpm>104</bpm>
+		<tempo>Slow</tempo>
+		<created>2008-10-25 23:15:07</created>
+		<modified>2014-12-16 14:02:11</modified>
+		<creator>1543</creator>
+		<ccli>1959303</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

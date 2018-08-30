@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>61363</id>
+		<songbook_id>21</songbook_id>
+		<title>Prepare Him Room</title>
+		<copyright>Words and Music by Rebecca Elliott and Dave Fournier     © 2014 Sovereign Grace Praise</copyright>
+		<created>2014-11-29 12:14:18</created>
+		<modified>2014-12-15 22:00:10</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00NLNSG1I&quot;,&quot;title&quot;:&quot;Prepare Him Room&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/5145fGL8PNL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>67670</id>
+		<song_id>61363</song_id>
+		<description>Chorus Only</description>
+		<text>
+Chorus:
+Pre[A]pare Him [E]room, 
+Pre[F#m]pare Him [Dmaj7]room
+Let the [A]King of [E]Glory enter [F#m]in [D]
+
+
+</text>
+		<searchtext> chorus prepare him room prepare him room let the king of glory enter in </searchtext>
+		<primary>0</primary>
+		<key>A</key>
+		<time_signature>6/8</time_signature>
+		<bpm>168</bpm>
+		<tempo>Medium</tempo>
+		<created>2014-12-15 21:05:05</created>
+		<modified>2014-12-15 22:00:10</modified>
+		<creator>1546</creator>
+		<ccli>7031880</ccli>
+		<album>Prepare Him Room</album>
+		<font_size>18</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>67138</id>
+		<song_id>61363</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[F#m     | D     | A     | A    E/G#   (2x)]
+
+VERSE 1:
+O be[F#m]hold, the [D]mystery now un[A]folds [| A    E/G#]
+See the [F#m]star [D]shine on the virgin fo[A]retold [| A    E/G#]
+Angels [D]sing and light up the [A]sky
+Hope rings [E]out in a newborn's [F#m]cry
+Swing [B]wide, you ancient gates{,} for [D]Christ is born today!
+
+Chorus:
+Pre[A]pare Him [E]room, pre[F#m]pare Him [Dmaj7]room
+Let the [A]King of [E]Glory enter [F#m]in [D]
+
+VERSE 2:
+God with [F#m]us,{,} the [D]promise has come to [A]be [| A    E/G#]
+This, the [F#m]one{,} the [D]prophets were longing to [A]see [| A    E/G#]
+In the [D]darkness a blazing [A]light,{,} to the [E]hungry the words of [F#m]life
+His [B]kingdom now is near{,} for [D]those with ears to hear
+
+Instr:
+[B     | B     | D     | D     | B     | B     | D     | C#]
+
+Verse 3:
+Oh, our [F#m]hearts, as [D]busy as Bethle[A]hem [| A    E/G#]
+Hear Him [F#m]knock, don't [D]say there's no room in the [A]inn [| A    E/G#]
+Through the [D]cradle, cross, and [A]grave
+See the [E]love of God dis[F#m]played
+Now He's [B]risen and he reigns
+Praise the [D]Name above all names!
+
+</text>
+		<searchtext>intro verse 1 o behold the mystery now unfolds see the star shine on the virgin foretold angels sing and light up the sky hope rings out in a newborns cry swing wide you ancient gates for christ is born today chorus prepare him room prepare him room let the king of glory enter in verse 2 god with us the promise has come to be this the one the prophets were longing to see in the darkness a blazing light to the hungry the words of life his kingdom now is near for those with ears to hear instr verse 3 oh our hearts as busy as bethlehem hear him knock dont say theres no room in the inn through the cradle cross and grave see the love of god displayed now hes risen and he reigns praise the name above all names </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>6/8</time_signature>
+		<bpm>168</bpm>
+		<tempo>Medium</tempo>
+		<created>2014-11-29 12:14:18</created>
+		<modified>2014-12-15 21:04:42</modified>
+		<creator>1546</creator>
+		<ccli>7031880</ccli>
+		<album>Prepare Him Room</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

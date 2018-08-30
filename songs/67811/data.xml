@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>67811</id>
+		<songbook_id>21</songbook_id>
+		<title>Be Thou My vision</title>
+		<copyright></copyright>
+		<created>2016-07-03 00:29:13</created>
+		<modified>2016-07-03 00:29:13</modified>
+		<creator>23187</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>74618</id>
+		<song_id>67811</song_id>
+		<description>Initial arrangement</description>
+		<text>[D]Be Thou my Vision, O [G]Lord of my [D]heart.
+[A]Naught be all else to me, [G]save that Thou [A]art.
+[Bm]Thou my best thought by [D]day or by [G]night,
+[D]Waking or sleeping, Thy [G]presence my [D]light. [G D/F# G]
+
+
+[D]Be Thou my Wisdom, and [G]Thou my true [D]Word.
+[A]I ever with Thee and [G]Thou with me, [A]Lord.
+[Bm]Thou my great Father, and [D]I thy true [G]son,
+[D]Thou in me dwelling, and [G]I with Thee [D]one.
+
+
+[D]Riches I need not, nor [G]man's empty [D]praise,
+[A]Thou mine inheritance, [G]now and [A]always.
+[Bm]Thou and Thou only be [D]first in my hea[G]rt,
+[D]High King of heaven, my [G]Treasure Thou [D]art.
+
+
+[D]High King of heaven, [G]my victory [D]won,
+[A]May I reach heaven's joys, [G]O bright heaven's [A]Sun!
+[Bm]Heart of my own heart, [D]whatever be[G]fall,
+[D]Still be my Vision, [G]O Ruler of al[D]l.
+
+</text>
+		<searchtext>be thou my vision o lord of my heart naught be all else to me save that thou art thou my best thought by day or by night waking or sleeping thy presence my light be thou my wisdom and thou my true word i ever with thee and thou with me lord thou my great father and i thy true son thou in me dwelling and i with thee one riches i need not nor mans empty praise thou mine inheritance now and always thou and thou only be first in my heart high king of heaven my treasure thou art high king of heaven my victory won may i reach heavens joys o bright heavens sun heart of my own heart whatever befall still be my vision o ruler of all </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2016-07-03 00:29:13</created>
+		<modified>2016-07-03 00:29:13</modified>
+		<creator>23187</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

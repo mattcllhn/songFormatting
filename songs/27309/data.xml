@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>27309</id>
+		<songbook_id>21</songbook_id>
+		<title>You Gave Your Son</title>
+		<copyright>Words and music by Mark Altrogge     © 2009 Sovereign Grace Praise</copyright>
+		<created>2009-08-24 22:05:59</created>
+		<modified>2017-03-08 20:43:35</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>29083</id>
+		<song_id>27309</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[G      | G      | D/G      | D/G      | Em/G      | Em/G      | D/G      | D/G]
+
+Verse 1:
+[G]Father, compassionate and [D/G]tender
+Your ears are ever [Em/G]open to my pr[D/G]ayers
+[G]Father, You feed the crying [D/G]ravens
+You daily lift the [Em/G]burdens that I b[D/G]ear
+So [C]I will thank You [Em]for Your [D]mercy
+
+Chorus:
+[G]You gave Your [Am]Son
+Righteous [Em]One for [D]the def[C]iled
+[G]You gave Your [Am]Son
+By His [Em]blood we’re [D]recon[C]ciled
+To our [G    | G    | Am    | Am    | Em    | D     | C]God
+
+Verse 2:
+[G]Father, You know that I grow [D]weary
+I need You to draw [Em]near me{,} and be my [D]strength
+[G]Father, I long to know Your p[D]resence
+For You’re the joy of [Em]heaven{,} and my [D]King
+So [C]I will thank You [Em]for Your [D]mercy
+
+Bridge:
+[Em]Whom have [C]I in [D]heaven but You
+And [C6]none on [Em]earth com[Dsus]pares with [D]You [(repeat)]</text>
+		<searchtext>intro verse 1 father compassionate and tender your ears are ever open to my prayers father you feed the crying ravens you daily lift the burdens that i bear so i will thank you for your mercy chorus you gave your son righteous one for the defiled you gave your son by his blood were reconciled to our god verse 2 father you know that i grow weary i need you to draw near me and be my strength father i long to know your presence for youre the joy of heaven and my king so i will thank you for your mercy bridge whom have i in heaven but you and none on earth compares with you </searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>140</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-08-24 22:05:59</created>
+		<modified>2017-03-08 20:43:35</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>Sons &amp; Daughters</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>2355</id>
+		<songbook_id>21</songbook_id>
+		<text>Good Friday</text>
+	</Keyword>
+</data>
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14996</id>
+		<songbook_id>21</songbook_id>
+		<title>The Highest Glory</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 1996 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:12</created>
+		<modified>2009-03-20 09:15:12</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BVHJAQ&quot;,&quot;title&quot;:&quot;The Highest Glory&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51FHJmKXExL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16137</id>
+		<song_id>14996</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[| F2    | C    | C    | C    | C    | F2    | F2    | C    | C   F2]
+
+Verse:
+The [C]highest glory, the richest praise
+The [C]deepest worship in the highest place
+[F]Be to You, Lord
+It all belongs to [C      | C   F   |]You
+The [C]greatest honors that we can bring
+The [Am7]sweetest anthems that we can sing
+[F2]Be to You, Lord
+It all belongs to [C]You.
+
+Bridge:
+[G]You were the [Bb6]One who was
+[G]Willing to [F2]lay down Your [C      | Dm   Bb2   |]life
+[G]Taking our [Bb6]sin, You were [G]humbled
+And [F]emptied and [Eb]died, that is [G]why
+
+Chorus:
+Your [F]name is far above all [G]names
+Be[F]fore You every knee will [G]bow
+[F]You’ve received the highest [G]glory [F    | F   | C   | C  F  | C]now!</text>
+		<searchtext>intro verse the highest glory the richest praise the deepest worship in the highest place be to you lord it all belongs to you the greatest honors that we can bring the sweetest anthems that we can sing be to you lord it all belongs to you bridge you were the one who was willing to lay down your life taking our sin you were humbled and emptied and died that is why chorus your name is far above all names before you every knee will bow youve received the highest glory now</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>120</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:12</created>
+		<modified>2009-03-20 09:15:12</modified>
+		<creator>1543</creator>
+		<ccli>2001937</ccli>
+		<album>I Stand In Awe</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

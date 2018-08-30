@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>50067</id>
+		<songbook_id>21</songbook_id>
+		<title>Your Great Name</title>
+		<copyright>Words and Music by Michael Neale and Krissy Nordhoff</copyright>
+		<created>2012-10-13 21:48:19</created>
+		<modified>2016-06-09 17:49:32</modified>
+		<creator>1547</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>54097</id>
+		<song_id>50067</song_id>
+		<description>Initial Arrangement</description>
+		<text>Intro: 
+[D     | A     | Esus     | E]
+
+Verse 1: 
+Lost a[F#m]re saved; find t[D]heir way; 
+at the [A]sound of your g[C#m]reat name 
+All cond[F#m]emned; feel n[D]o shame, 
+at the [A]sound of your g[E/G#]reat name 
+Eve[F#m]ry fear; has n[D]o place; 
+at the [A]sound of your g[C#m]reat name 
+The ene[F#m]my; he has [D]to leave; 
+at the [A]sound of your g[Esus]reat name[E] 
+
+Chorus: 
+[D]Jes[A]us, W[E]orthy is the L[F#m]amb 
+that was [D]slain for u[A]s, S[E]on of God and m[F#m]an
+You are [D]high and lifted u[A]p; 
+And a[F#m]ll the world will p[E]raise your g[D]reat name[A  Esus E] 
+
+Verse 2: 
+All the w[F#m]eak; find th[D]eir strength; 
+at the [A]sound of your g[C#m]reat name
+Hung[F#m]ry souls; rece[D]ive grace; 
+at the s[A]ound of your g[E/G#]reat name
+The father[F#m]less; they find t[D]heir rest; 
+at the [A]sound of your g[C#m]reat name
+Sick a[F#m]re healed; and the dead a[D]re raised; 
+at the s[A]ound of your g[Esus]reat name[E] 
+
+Bridge: 
+[E]Redeemer,[F#m] my Healer, L[D]ord Al[A/E]mighty, 
+[E]Defender,[F#m] my Savior, Y[D]ou are [A/E]My King</text>
+		<searchtext>intro verse 1 lost are saved find their way at the sound of your great name all condemned feel no shame at the sound of your great name every fear has no place at the sound of your great name the enemy he has to leave at the sound of your great name chorus jesus worthy is the lamb that was slain for us son of god and man you are high and lifted up and all the world will praise your great name verse 2 all the weak find their strength at the sound of your great name hungry souls receive grace at the sound of your great name the fatherless they find their rest at the sound of your great name sick are healed and the dead are raised at the sound of your great name bridge redeemer my healer lord almighty defender my savior you are my king</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2012-10-13 21:48:19</created>
+		<modified>2016-06-09 17:49:32</modified>
+		<creator>1547</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>54342</id>
+		<song_id>50067</song_id>
+		<description>With Key Change to D</description>
+		<text>Intro:
+[D     | A     | Esus     | E]
+
+Verse 1: 
+Lost a[F#m]re saved; find t[D]heir way; 
+at the [A]sound of your g[C#m]reat name 
+All cond[F#m]emned; feel n[D]o shame, 
+at the [A]sound of your g[E/G#]reat name 
+Eve[F#m]ry fear; has n[D]o place; 
+at the [A]sound of your g[C#m]reat name 
+The ene[F#m]my; he has [D]to leave; 
+at the [A]sound of your g[Esus]reat name[E]
+
+Chorus:
+[D(E)]Jes[A(B)]us, W[E(F#)]orthy is the L[F#m(G#m)]amb 
+that was [D(E)]slain for u[A(B)]s, S[E(F#)]on of God and m[F#m(G#m)]an
+You are [D(E)]high and lifted u[A(B)]p; 
+And a[F#m(G#m)]ll the world will p[E(F#)]raise your g[D(E)]reat name[A(B)  Esus(F#sus) E(F#)]
+
+Verse 2:
+All the w[F#m]eak; find th[D]eir strength; 
+at the [A]sound of your g[C#m]reat name
+Hung[F#m]ry souls; rece[D]ive grace; 
+at the s[A]ound of your g[E/G#]reat name
+The father[F#m]less; they find t[D]heir rest; 
+at the [A]sound of your g[C#m]reat name
+Sick a[F#m]re healed; and the dead a[D]re raised; 
+at the s[A]ound of your g[Esus]reat name[E]
+ 
+Bridge:
+Redeemer,[F#m] my Healer, L[D]ord Al[A/E]migh[E]ty, 
+Defender,[F#m] my Savior, Y[D]ou are [A/E]My [E]King</text>
+		<searchtext>intro verse 1 lost are saved find their way at the sound of your great name all condemned feel no shame at the sound of your great name every fear has no place at the sound of your great name the enemy he has to leave at the sound of your great name chorus jesus worthy is the lamb that was slain for us son of god and man you are high and lifted up and all the world will praise your great name verse 2 all the weak find their strength at the sound of your great name hungry souls receive grace at the sound of your great name the fatherless they find their rest at the sound of your great name sick are healed and the dead are raised at the sound of your great name bridge redeemer my healer lord almighty defender my savior you are my king</searchtext>
+		<primary>0</primary>
+		<key>A</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2012-10-28 01:50:18</created>
+		<modified>2012-10-28 01:50:35</modified>
+		<creator>1547</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>61359</id>
+		<songbook_id>21</songbook_id>
+		<title>Who Would Have Dreamed</title>
+		<copyright>￼Words and Music by Jason Hansen and Bob Kauflin     © 2014 Sovereign Grace Praise</copyright>
+		<created>2014-11-29 12:14:18</created>
+		<modified>2014-11-29 12:14:18</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00NLNSCV2&quot;,&quot;title&quot;:&quot;Who Would Have Dreamed&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/5145fGL8PNL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>67134</id>
+		<song_id>61359</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[G     | G     | C     | C ]
+
+VERSE 1:
+[G]On a starlit hillside, [C]shepherds watched their sheep
+[G]Slowly, David's city [C]drifted off to sleep
+But to [Am]this little town of [Em]no great renown
+The [C]Lord had a promise to keep [G   | G   | C   | C]
+
+Verse 2:
+[G]Prophets had foretold it, a [C]mighty King would come
+[G]Long awaited Ruler, [C]God's Anointed One
+But the [Am]Sovereign of all{,} looked [Em]helpless and small
+As [C]God gave the world His own Son
+
+CHORUS:
+And [G]who would have dreamed{,} or [C]ever foreseen
+That [Em]we could hold [D]God in our [C]hands?
+The [G]Giver of Life is [C]born in the night
+Re[Em]vealing God’s [D]glorious [C]plan
+To save the [G]world [| G   | C   | C]
+
+VERSE 3:
+[G]Wondrous gift of heaven: the [C]Father sends the Son
+[G]Planned from time eternal, [C]moved by holy love
+He will [Am]carry our curse{,} and [Em]death He’ll reverse
+So [C]we can be daughters and sons</text>
+		<searchtext>intro verse 1 on a starlit hillside shepherds watched their sheep slowly davids city drifted off to sleep but to this little town of no great renown the lord had a promise to keep verse 2 prophets had foretold it a mighty king would come long awaited ruler gods anointed one but the sovereign of all looked helpless and small as god gave the world his own son chorus and who would have dreamed or ever foreseen that we could hold god in our hands the giver of life is born in the night revealing gods glorious plan to save the world verse 3 wondrous gift of heaven the father sends the son planned from time eternal moved by holy love he will carry our curse and death hell reverse so we can be daughters and sons</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>6/8</time_signature>
+		<bpm>156</bpm>
+		<tempo>Medium</tempo>
+		<created>2014-11-29 12:14:18</created>
+		<modified>2014-11-29 12:14:18</modified>
+		<creator>1546</creator>
+		<ccli>7031876</ccli>
+		<album>Prepare Him Room</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

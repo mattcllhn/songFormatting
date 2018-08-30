@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>20729</id>
+		<songbook_id>21</songbook_id>
+		<title>Beautiful News</title>
+		<copyright>Words and Music by Matt Redman. (c) 2006 Thankyou Music (Admin. by EMI Christian Music Publishing)</copyright>
+		<created>2009-04-17 00:21:12</created>
+		<modified>2009-04-17 00:21:12</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>22180</id>
+		<song_id>20729</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[E]Joy is the theme of my song
+[ ]And the beat of my heart
+And that joy is f[C]ound in Y[D]ou
+For [E]You showed the pow'r of Your cross
+[ ]And Your great saving love
+And my soul woke [C]up to Y[D]ou
+
+PRE-CHORUS:
+[B]   I heard Your beautiful n[A]ews
+[B]   Grace so amazing so t[A]rue
+
+Chorus:
+[E]   Shout it out let the p[B/E]eople sing
+Som[C]ething so powerful
+Should sh[D]ake the whole wide world
+[E]   Make it l[B/E]oud make it louder still
+S[C]avior we're singing now
+To cel[D]ebrate Your beautiful n[E]ews  [C    D (to verse)]
+
+
+BRIDGE:
+[Am]   There's a God who came d[D]own to save  [E]
+[Am]   Showed the world His am[D]azing grace  [E]
+[Am]   There's a God who came d[G]own to save
+A[C]nd He calls your n[A]ame  [A7  (to Chorus)]
+</text>
+		<searchtext>verse 1 joy is the theme of my song and the beat of my heart and that joy is found in you for you showed the powr of your cross and your great saving love and my soul woke up to you prechorus i heard your beautiful news grace so amazing so true chorus shout it out let the people sing something so powerful should shake the whole wide world make it loud make it louder still savior were singing now to celebrate your beautiful news bridge theres a god who came down to save showed the world his amazing grace theres a god who came down to save and he calls your name </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>105</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-04-17 00:21:12</created>
+		<modified>2009-04-17 00:21:12</modified>
+		<creator>1546</creator>
+		<ccli>4836007</ccli>
+		<album>Beautiful News</album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

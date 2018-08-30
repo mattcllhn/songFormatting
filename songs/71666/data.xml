@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>71666</id>
+		<songbook_id>21</songbook_id>
+		<title>Z - Psalm 85:1-7</title>
+		<copyright>English Standard Version</copyright>
+		<created>2017-08-09 23:15:08</created>
+		<modified>2017-08-09 23:15:08</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>79160</id>
+		<song_id>71666</song_id>
+		<description>Initial arrangement</description>
+		<text>LORD, you were favorable to your land;
+You restored the fortunes of Jacob.
+
+You forgave the iniquity of your people;
+   you covered all their sin. 
+
+You withdrew all your wrath;
+   you turned from your hot anger.
+	
+Restore us again, O God of our salvation,
+   and put away your indignation toward us!
+
+Will you be angry with us forever?
+Will you prolong your anger to all generations?
+
+Will you not revive us again,
+   that your people may rejoice in you?
+
+Show us your steadfast love, O LORD,
+   and grant us your salvation.</text>
+		<searchtext>lord you were favorable to your land you restored the fortunes of jacob you forgave the iniquity of your people you covered all their sin you withdrew all your wrath you turned from your hot anger restore us again o god of our salvation and put away your indignation toward us will you be angry with us forever will you prolong your anger to all generations will you not revive us again that your people may rejoice in you show us your steadfast love o lord and grant us your salvation</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2017-08-09 23:15:08</created>
+		<modified>2017-08-09 23:15:08</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>18</font_size>
+	</Arrangement>
+</data>
+

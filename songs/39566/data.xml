@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>39566</id>
+		<songbook_id>21</songbook_id>
+		<title>Oh, What A Day</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2011 Sovereign Grace Praise</copyright>
+		<created>2011-03-30 21:49:36</created>
+		<modified>2012-03-06 10:58:27</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B004RR40SA&quot;,&quot;title&quot;:&quot;Oh, What a Day&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/41QLoqrrewL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>42475</id>
+		<song_id>39566</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[D   Em | G2    | D   Em | G2]
+
+Verse 1:
+Let the [D]joy beg[Em]in, [G2]   let our [D]songs ring [Em]out [G2]
+Let our [D]hearts be [Em]glad, [G2]   love has [D/F#]banished [Asus]doubt
+See the [D]empty [Em]cross, [G2]   all our [D]debts are [Em]gone [G2]
+Only [D]grace re[Em]mains,[G2]    for the [D/F#]victory’s [Asus]won
+
+Chorus:
+Oh, what a [C2]day, [G]  what a[Bm7] glorious day
+Oh, what a [C2]day, [G]  what a [Bm7]glorious day
+When You [Em7]conquered death
+And [D/F#]rose up from the [G]grave
+What a [D]day, [G]  what a [Bm7]day [G]
+
+Verse 2:
+See the [D]empty [Em]tomb, [G2]   see the [D]grave clothes [Em]there [G2]
+He has [D]left this [Em]place, [G2]   You won't [D/F#]find Him [Asus]here
+All our [D]fears have [Em]fled, [G2]   let our [D]hopes ar[Em]ise [G2]
+Heaven [D]waits for [Em]us, [G2]   we will [D/F#]never [Asus]die
+
+Bridge:
+[G]There is still a day that we’re a[A]waiting
+[G/B]When the glorious one we love ap[A/C#]pears
+[G]He will take us home with Him for[A]ever
+[G/B]He will finally wipe away our [A/C#]tears
+
+</text>
+		<searchtext>intro verse 1 let the joy begin let our songs ring out let our hearts be glad love has banished doubt see the empty cross all our debts are gone only grace remains for the victorys won chorus oh what a day what a glorious day oh what a day what a glorious day when you conquered death and rose up from the grave what a day what a day verse 2 see the empty tomb see the grave clothes there he has left this place you wont find him here all our fears have fled let our hopes arise heaven waits for us we will never die bridge there is still a day that were awaiting when the glorious one we love appears he will take us home with him forever he will finally wipe away our tears </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>136</bpm>
+		<tempo>Fast</tempo>
+		<created>2011-03-30 21:49:36</created>
+		<modified>2012-03-06 10:58:27</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>Risen</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

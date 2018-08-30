@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14976</id>
+		<songbook_id>21</songbook_id>
+		<title>Behold The Lamb</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2000 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:09</created>
+		<modified>2009-03-20 09:15:09</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00104FMG2&quot;,&quot;title&quot;:&quot;Behold the Lamb&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/614mSX3tPCL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16117</id>
+		<song_id>14976</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[Em2]  Behold the La[C2]mb,{,} [D2]silent before His accu[C2]sers,
+[Em2]  As thorns are pres[C2]sed into His br[D2    | D    |]ow
+[Em2]  They lift Him u[C2]p,{,} oh [D2]see the spikes that hol[C]d Him,
+[Em2]  Redeeming blo[C2]od flows do[D2]wn  [D]
+
+Bridge:
+[F]But look ag[Am]ain,
+The cross stands [F]empty now
+And He is [Dsus]ri[D]sen
+
+Chorus:
+Be[G]hold the [Dm]Lamb,
+See Him [F]crowned with gl[C]ory [C2]
+[C]Be[G]hold the [Dm]Lamb,
+Cast your [F]crowns bef[C]ore Him [C2]
+[C]Crying, &quot;[Em]Ho[C2]ly, [Dsus4]ho[D]ly is the L[C2    | C2    |]amb&quot;
+
+Verse 2:
+[Em2]  Behold the La[C2]mb,{,} [D2]carrying all our transgre[C2]ssions,
+[Em2]  He freely take[C2]s   our pl[D2    | D    |]ace
+[Em2]  Endures the l[C2]ash,{,} the [D2]mocking and the lau[C]ghter
+[Em2]  Of those He di[C2]es to s[D2]ave  [D]</text>
+		<searchtext>verse 1 behold the lamb silent before his accusers as thorns are pressed into his brow they lift him up oh see the spikes that hold him redeeming blood flows down bridge but look again the cross stands empty now and he is risen chorus behold the lamb see him crowned with glory behold the lamb cast your crowns before him crying holy holy is the lamb verse 2 behold the lamb carrying all our transgressions he freely takes our place endures the lash the mocking and the laughter of those he dies to save </searchtext>
+		<primary>1</primary>
+		<key>Em</key>
+		<time_signature>4/4</time_signature>
+		<bpm>79</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:09</created>
+		<modified>2009-03-20 09:15:09</modified>
+		<creator>1543</creator>
+		<ccli>3070967</ccli>
+		<album>King Of Grace</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

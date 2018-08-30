@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14899</id>
+		<songbook_id>21</songbook_id>
+		<title>Praise The Lord</title>
+		<copyright>Music by Doug Plank     Words by Doug Plank and Bob Kauflin     © 2008 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:14:57</created>
+		<modified>2012-02-04 14:11:08</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001EUTT98&quot;,&quot;title&quot;:&quot;Praise the Lord&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51CGlRp8SUL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16027</id>
+		<song_id>14899</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[||: D     | D     | A     | E     :||]
+
+Verse 1:
+[A]    Praise the Lord, Oh [Asus]praise His name
+[A]    From the heights of [Asus]heav’n He reigns
+[Bm]    Seated in the high[F#m]est place
+[D]    Surrounded by un[E]ending praise
+
+Verse 2:
+[A]    Praise Him for His [Asus]mighty deeds
+[A]    Awesome in His [Asus]majesty
+[Bm]    Praise Him now with [F#m]trumpet sound
+[D]    Lift your voice and [E]dance around
+
+Chorus:
+[A]Everything that [D/A]has breath, praise the [A]Lord
+Everything that’s [D/A]in us, praise Him
+[A/C#]Everything that [D]has breath, praise the [Bm]Lord [| F#m]
+
+VERSE 3:
+[A]    Praise the Lord with [Asus]instruments
+[A]    Praise Him for his [Asus]excellence
+[Bm]    Look at what He’s d[F#m]one for us
+[D]    Bore our sins up[E]on the cross
+
+VERSE 4:
+[A]    Praise the Lord with [Asus]all you are
+[A]    Mind and soul and [Asus]will and heart
+[Bm]    From His hand comes e[F#m]verything
+[D]    He alone is [E]God and king</text>
+		<searchtext>intro verse 1 praise the lord oh praise his name from the heights of heavn he reigns seated in the highest place surrounded by unending praise verse 2 praise him for his mighty deeds awesome in his majesty praise him now with trumpet sound lift your voice and dance around chorus everything that has breath praise the lord everything thats in us praise him everything that has breath praise the lord verse 3 praise the lord with instruments praise him for his excellence look at what hes done for us bore our sins upon the cross verse 4 praise the lord with all you are mind and soul and will and heart from his hand comes everything he alone is god and king</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>119</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:14:57</created>
+		<modified>2012-02-04 14:11:08</modified>
+		<creator>1543</creator>
+		<ccli>5260940</ccli>
+		<album>Psalms</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

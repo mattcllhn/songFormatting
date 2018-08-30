@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>43785</id>
+		<songbook_id>21</songbook_id>
+		<title>Lift High The Cross</title>
+		<copyright>Words &amp; Music by George Romanaccee, Steve &amp; Vikki Cook     (C) 2011 Sovereign Grace Worship</copyright>
+		<created>2011-11-27 00:55:56</created>
+		<modified>2011-11-27 00:55:56</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0064Y358A&quot;,&quot;title&quot;:&quot;Lift High the Cross&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/515a-gIbevL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>47147</id>
+		<song_id>43785</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[F#m      | F#m      | Dmaj7      | Bm]
+
+VERSE 1:
+A wasted [F#m]life, a brutal death, to the [C#m]blind a tragic story
+For they [E]could not see{,} God’s glory was [Bm7]on display
+Yet beauti[F#m]ful to all the ones, given [C#m]eyes to see the Savior
+Objects [E]of the Father’s favor, bought [Bm7]by His grace
+[E]Hope of all the earth and [E]our salvation
+
+CHORUS:
+[A]Lift high the [F#m7]cross
+Here is the [D]Father’s love{,} re[Bm7]vealed to us
+[A]Lift high the [F#m7]cross
+Proclaim to a [D]dying world
+There’s [Bm7]life in Jesus Christ [F#m   | F#m   | Dmaj7   | Bm]
+
+VERSE 2:
+Now You’ve en[F#m]abled us to be, hands that [C#m]reach out to the broken
+With the [E]love that makes hearts open, and [Bm7]come to life
+So by Your [F#m]power may our lives, like the [C#m]moon reflect Your radiance
+Be a s[E]weet and holy fragrance{,} re[Bm7]vealing Christ
+[D]Hope of all the earth and [E]our salvation
+
+BRIDGE:
+[E]  There is no other name
+[A/C#]  By which we can be saved
+[D]  Only Jesus, [Bm]   only Jesus
+(Repeat)</text>
+		<searchtext>intro verse 1 a wasted life a brutal death to the blind a tragic story for they could not see gods glory was on display yet beautiful to all the ones given eyes to see the savior objects of the fathers favor bought by his grace hope of all the earth and our salvation chorus lift high the cross here is the fathers love revealed to us lift high the cross proclaim to a dying world theres life in jesus christ verse 2 now youve enabled us to be hands that reach out to the broken with the love that makes hearts open and come to life so by your power may our lives like the moon reflect your radiance be a sweet and holy fragrance revealing christ hope of all the earth and our salvation bridge there is no other name by which we can be saved only jesus only jesus repeat</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>140</bpm>
+		<tempo>Fast</tempo>
+		<created>2011-11-27 00:55:56</created>
+		<modified>2011-11-27 00:55:56</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>The Gathering</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

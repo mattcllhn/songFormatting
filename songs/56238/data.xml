@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>56238</id>
+		<songbook_id>21</songbook_id>
+		<title>Rejoice</title>
+		<copyright>Dustin Kensrue</copyright>
+		<created>2013-12-12 23:24:01</created>
+		<modified>2015-11-17 22:18:02</modified>
+		<creator>5114</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>61247</id>
+		<song_id>56238</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1: 
+Come and s[Bb]tand before your maker
+Full of w[Eb]onder full of fear
+Come [Bb]behold his power and glory
+Yet with [Eb]confidence draw near
+For the [Gm]one who holds the heavens
+And com[F]mands the stars above
+Is the [Eb]God who bends to bless us
+With an [F]unrelenting love
+
+Chorus: 
+[Bb]Rejoice!
+Come and [Gm]lift your hands and [Eb]raise your [Bb]voice
+He is [Gm]worthy of all [Eb]praise
+[Gm]Rejoice!
+Sing the [Eb]mercies of your king
+And with[Gm] tremb[F]ling, re[Bb]joice
+
+Verse 2: 
+We are c[Bb]hildren of the promise
+The bel[Eb]oved of the Lord
+Won with [Bb]everlasting kindness
+Bought with [Eb]sacrificial blood
+Bringing [Gm]reconciliation
+To a w[F]orld that longs to know
+The aff[Eb]ections of a father
+Who will [F]never let them go
+
+{new_page}
+Verse 3: 
+All our [Bb]sickness all our sorrows
+Jesus c[Eb]arried up the hill
+He has [Bb]walked this path before us
+He is [Eb]walking with us still
+Turning t[Gm]ragedy to triumph
+Turning [F]agony to praise
+There is b[Eb]lessing in the battle
+So take h[F]eart and stand amazed
+
+Chorus 2: 
+[Bb/D]Rejoice!
+When you [Eb]cry to him he hears your [Bb/D]voice
+[Eb]He will wipe away your tears
+[Gm]Rejoice!
+[Eb]In the midst of suffering
+He will [Gm]help you [F]sing...</text>
+		<searchtext>verse 1 come and stand before your maker full of wonder full of fear come behold his power and glory yet with confidence draw near for the one who holds the heavens and commands the stars above is the god who bends to bless us with an unrelenting love chorus rejoice come and lift your hands and raise your voice he is worthy of all praise rejoice sing the mercies of your king and with trembling rejoice verse 2 we are children of the promise the beloved of the lord won with everlasting kindness bought with sacrificial blood bringing reconciliation to a world that longs to know the affections of a father who will never let them go verse 3 all our sickness all our sorrows jesus carried up the hill he has walked this path before us he is walking with us still turning tragedy to triumph turning agony to praise there is blessing in the battle so take heart and stand amazed chorus 2 rejoice when you cry to him he hears your voice he will wipe away your tears rejoice in the midst of suffering he will help you sing</searchtext>
+		<primary>1</primary>
+		<key>Bb</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Fast</tempo>
+		<created>2013-12-12 23:24:01</created>
+		<modified>2015-11-17 22:18:02</modified>
+		<creator>5114</creator>
+		<ccli></ccli>
+		<album>The Water and the Blood</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

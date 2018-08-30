@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>41374</id>
+		<songbook_id>21</songbook_id>
+		<title>Turn Your Eyes - w/tag</title>
+		<copyright></copyright>
+		<created>2011-06-24 11:11:50</created>
+		<modified>2016-02-19 07:16:08</modified>
+		<creator>1548</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>44462</id>
+		<song_id>41374</song_id>
+		<description>Chorus w/ Tag-Fluharty</description>
+		<text>Chorus:
+[D]Turn your [A]eyes upon [Bm]Je[F#m]sus
+Look [G]full in his wonderful [A]face
+And the [D]things of [A]earth
+will grow [Bm]strangely [G]dim 
+In the [D]light of his [A]Glory  and [D]Grace (repeat)
+
+Tag:
+Your [A]GLORY [G]your [D]GRACE
+[G]We [D/F#]plead come [G]fill this [Asus][A]place  [D] (repeat)
+
+And the [D]things of [A]earth
+will grow [Bm]strangely [G]dim
+In the [D]light of His [A]glory and [D]grace
+</text>
+		<searchtext>chorus turn your eyes upon jesus look full in his wonderful face and the things of earth will grow strangely dim in the light of his glory and grace repeat tag your glory your grace we plead come fill this place repeat and the things of earth will grow strangely dim in the light of his glory and grace </searchtext>
+		<primary>0</primary>
+		<key>D</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2011-06-24 11:11:50</created>
+		<modified>2011-10-14 19:21:13</modified>
+		<creator>1548</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>20</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>69219</id>
+		<song_id>41374</song_id>
+		<description>Tommy</description>
+		<text>Chorus:
+[D]Turn your [A/C#]eyes upon [Bm]Je[D]sus
+Look [G]full in his wonderful [A]face
+And the [D]things of [A/C#]earth
+will grow [Bm]strangely [D]dim 
+In the [D]light of his [G]Glory [A]and [D]Grace (repeat)
+
+Tag:
+Your [A]GLORY [G]your [D]GRACE
+[G]We [D/F#]plead come [G]fill this [Asus][A]place  [D] (repeat)
+
+And the [D]things of [A]earth
+will grow [Bm]strangely [G]dim
+In the [D]light of His [A]glory and [D]grace
+</text>
+		<searchtext>chorus turn your eyes upon jesus look full in his wonderful face and the things of earth will grow strangely dim in the light of his glory and grace repeat tag your glory your grace we plead come fill this place repeat and the things of earth will grow strangely dim in the light of his glory and grace </searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2015-02-08 10:05:45</created>
+		<modified>2016-02-19 07:16:08</modified>
+		<creator>1547</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>20</font_size>
+	</Arrangement>
+</data>
+

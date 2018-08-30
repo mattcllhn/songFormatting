@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>15020</id>
+		<songbook_id>21</songbook_id>
+		<title>How Great, How Glorious</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2007 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:14</created>
+		<modified>2009-03-20 09:15:14</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0019IT9EK&quot;,&quot;title&quot;:&quot;How Great, How Glorious&quot;,&quot;artist&quot;:&quot;Mark &amp; Stephen Altrogge&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/517j98UaeeL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16162</id>
+		<song_id>15020</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[| C     C/E    | F     C/E     | C     C/E     | F     C/E     |]
+
+Verse 1:
+[C]Who can com[C/E]pare to [Fmaj7]You, [C/E]Lord
+[C]You are the [C/E]great High [Fmaj7]King
+[Fmaj7]You are the Holy [Am]One
+[F6]Maker of all [G6   G]things
+We [C]look at the stars in [Fmaj7]heav[C/E]en
+You [C]bring each one [C/E]out by [Fmaj7]name
+Be[Fmaj7]cause of Your mighty [Am]power
+[F6]Everyone re[G6   G]mains
+
+Chorus:
+How [C]great, how [Csus4]glo[C]rious,{,} how [Am]strong, how [F/A]awe[Am]some
+How [Gsus4]good, how [G]loving You [C]are   [G]
+How [C]great, how [Csus4]glo[C]rious,{,} how [Am]strong, how [F/A]awe[Am]some
+How [Gsus4]good, how [G]loving You [C     G/B   G]are
+
+Verse 2:
+[C]Why should we [C/E]ever [Fmaj7]won[C/E]der
+If [C]we’re hidden [C/E]from Your [Fmaj7]eyes
+You [Fmaj7]bought us with Your own [Am]blood
+[F6]We can trust in [G6   G]Christ
+And [C]we will mount up like [Fmaj7]ea[C/E]gles
+[C]Held by Your [C/E]mighty [Fmaj7]grace
+[Fmaj7]Keeping our eyes on [Am]Jesus
+The [F6]author of our [G6   G]faith</text>
+		<searchtext>intro verse 1 who can compare to you lord you are the great high king you are the holy one maker of all things we look at the stars in heaven you bring each one out by name because of your mighty power everyone remains chorus how great how glorious how strong how awesome how good how loving you are how great how glorious how strong how awesome how good how loving you are verse 2 why should we ever wonder if were hidden from your eyes you bought us with your own blood we can trust in christ and we will mount up like eagles held by your mighty grace keeping our eyes on jesus the author of our faith</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>64</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:14</created>
+		<modified>2009-03-20 09:15:14</modified>
+		<creator>1543</creator>
+		<ccli>5023754</ccli>
+		<album>In A Little While</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

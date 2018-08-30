@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>27322</id>
+		<songbook_id>21</songbook_id>
+		<title>Gotta Wait</title>
+		<copyright>Words &amp; Music by Rich Gunderlock, Jonathan Baird, Ryan Baird, and Eric Grover     © 2009 Sovereign Grace Worship</copyright>
+		<created>2009-08-24 22:06:16</created>
+		<modified>2009-08-24 22:06:16</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B002E8IJCW&quot;,&quot;title&quot;:&quot;Gotta Wait&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51Q5lGu9tJL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>29096</id>
+		<song_id>27322</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[(swing feel) D     | Bm7     | F#m     | F#m     A]
+
+Verse 1:
+[D] [ ]When I d[Bm7]on’t get{,} what I w[F#m]ant, wh[F#m]oa  [A]
+[D] [ ]And things take l[Bm7]onger{,} than they o[F#m]ught, wh[F#m]oa [A]
+[Em7] [ ]Waiting’s h[G]ard for me to d[Asus]o   [| A]
+[Em7] [ ]But I k[G]now one thing that’s tr[A]ue   [| F#7]
+
+Chorus:
+[Bm]Jes[G]us, [D]You will always b[Asus]e   [A]
+[Bm]Pati[G]ent, [D]gently teaching m[Asus]e   [A]
+I s[Gmaj7]ee in You what [Gm6]I want to b[D]e   [| Bm7   D/A]
+
+Verse 2:
+[D] [ ]When my s[Bm7]ister isn’t k[F#m]ind, w[|]ho[F#m]a [A]
+[D] [ ]And when my [Bm7]brother{,} takes what’s m[F#m]ine, [|]wh[F#m]oa [A]
+[Em7] [ ]Loving’s h[G]arder than it s[Asus]eems   [| A]
+[Em7] [ ]Show me, L[G]ord, what patience m[A]eans   [| F#7]
+
+Bridge:
+[D]Wait, wait, gotta wait
+[Bm7]Wait, gotta wait{,} when it’s [F#m]hard to, but [A]You say to
+[D]Wait, wait, gotta wait
+[Bm7]Wait, gotta wait for the [F#m]right time, Your time, [A]not mine
+[D]Wait, wait, gotta wait
+[Bm7]Wait, gotta wait for my [F#m]brothers, sisters, and [A]others
+[D]Wait, wait, gotta wait
+[Bm7]Wait, gotta wait{,} cause I [F#m]want to be [A]more like You</text>
+		<searchtext>intro verse 1 when i dont get what i want whoa and things take longer than they ought whoa waitings hard for me to do but i know one thing thats true chorus jesus you will always be patient gently teaching me i see in you what i want to be verse 2 when my sister isnt kind whoa and when my brother takes whats mine whoa lovings harder than it seems show me lord what patience means bridge wait wait gotta wait wait gotta wait when its hard to but you say to wait wait gotta wait wait gotta wait for the right time your time not mine wait wait gotta wait wait gotta wait for my brothers sisters and others wait wait gotta wait wait gotta wait cause i want to be more like you</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>124</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-08-24 22:06:16</created>
+		<modified>2009-08-24 22:06:16</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>To Be Like Jesus</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

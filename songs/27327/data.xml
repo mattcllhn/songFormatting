@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>27327</id>
+		<songbook_id>21</songbook_id>
+		<title>Make Me Faithful</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2009 Sovereign Grace Praise</copyright>
+		<created>2009-08-24 22:06:16</created>
+		<modified>2009-08-24 22:06:16</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B002E8GJBA&quot;,&quot;title&quot;:&quot;Make Me Faithful&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51Q5lGu9tJL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>29101</id>
+		<song_id>27327</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: C     | C     | Am     | F     :||]
+
+Verse 1:
+[C]   Jesus, You came, a servant [G] [ ]to do Your [C]Father’s will
+[C]   Through Satan’s worst temptations
+[G]   You were o[C]bedient still
+[F]   You are the [Am]Rock of Ages,{,} [G] [ ]You are so [Csus]faith[C]ful
+[F]   Though I grow [Am]weak and weary
+[G]You will make me stand
+
+Chorus:
+[C]I want to be like [G]You are,{,} [Dm] I want to be [F]faithful
+[C]Help me to be like [G]You are.
+[Dm]   Oh, make me [F]faithful [| C     | C     | Am     | F]
+
+Verse 2:
+[C]   I, too, must be a servant,{,} [G] [ ]today and [C]all my days
+[C]   To use the gifts You’ve given
+[G]   To bring You [C]joy and praise
+[F]   Though I am [Am]sure to fail You,{,} [G] [ ]You are so [Csus]faith[C]ful
+[F]   And though I [Am]stumble,{,} You will [G]pick me up again
+
+Bridge:
+[Dm]Jesus, [G]You’re my faithful [C]friend
+[Dm]You will [F]help me till the [G]end</text>
+		<searchtext>intro verse 1 jesus you came a servant to do your fathers will through satans worst temptations you were obedient still you are the rock of ages you are so faithful though i grow weak and weary you will make me stand chorus i want to be like you are i want to be faithful help me to be like you are oh make me faithful verse 2 i too must be a servant today and all my days to use the gifts youve given to bring you joy and praise though i am sure to fail you you are so faithful and though i stumble you will pick me up again bridge jesus youre my faithful friend you will help me till the end</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>154</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-08-24 22:06:16</created>
+		<modified>2009-08-24 22:06:16</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>To Be Like Jesus</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

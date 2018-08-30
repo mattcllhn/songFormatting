@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>27314</id>
+		<songbook_id>21</songbook_id>
+		<title>You Never Change</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2009 Sovereign Grace Praise</copyright>
+		<created>2009-08-24 22:06:00</created>
+		<modified>2009-08-24 22:06:00</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>29088</id>
+		<song_id>27314</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro: 
+[C     F     | G/B     C     | C     F     | Gsus]
+Verse 1: 
+[C]Father of [F]lights, [G/B] giver of [C]gifts
+[C]There is no [F]shadow in Y[G/B]ou
+[Am7]Author of [F]life, [G] Fountain of [Am7] grace
+Each [F]morning Your [D7/F#]mercies are n[Gsus   G]ew
+
+Chorus: 
+And You [F]never [C/E]change, and You [F]never [C/E]lie
+Age to [F]age You [C/E]are the [Am]same
+I will [F]trust in [C/E]You, all Your [E7]faithful[Am7]ness
+For I [F]know You [Gsus]never [C]chan[F     | G/B     C]ge
+
+Verse 2: 
+[C]Father of [F]love, [G/B]source of all [C]good
+[C]Tower of S[F]trength and my [G/B]shield
+When [Am7]You gave Your [F]Son{,} for [G]those who re[Am7]belled
+Your [F]love for the w[D7/F#]orld was reve[Gsus  G]aled
+
+Verse 3: 
+[D]Father of [G]peace, [A/C#]help of the [D]weak
+Though [D]mountains fall i[G]nto the s[A/C#]ea
+Though [Bm]tempests may [G]rage,{,} the s[A]un hide its [Bm7]face
+Your [G]favor will [E7/G#]rest upon [Asus  A]me
+
+Chorus: 
+And You [G]never [D/F#]change, and You [G]never [D/F#]lie
+Age to [G]age You [D/F#]are the [Bm]same
+I will [G]trust in [D/F#]You, all Your [F#7]faithful[Bm7]ness
+For I [G]know You [Asus]never [D]chan[G     | A/C#     D]ge</text>
+		<searchtext>intro verse 1 father of lights giver of gifts there is no shadow in you author of life fountain of grace each morning your mercies are new chorus and you never change and you never lie age to age you are the same i will trust in you all your faithfulness for i know you never change verse 2 father of love source of all good tower of strength and my shield when you gave your son for those who rebelled your love for the world was revealed verse 3 father of peace help of the weak though mountains fall into the sea though tempests may rage the sun hide its face your favor will rest upon me chorus and you never change and you never lie age to age you are the same i will trust in you all your faithfulness for i know you never change</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>78</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-08-24 22:06:00</created>
+		<modified>2009-08-24 22:06:00</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>Sons &amp; Daughters</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

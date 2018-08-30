@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14870</id>
+		<songbook_id>21</songbook_id>
+		<title>How Sweet The Day</title>
+		<copyright>Words and Music by Stephen Altrogge     © 2006 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2010-12-02 10:45:05</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0012AMDLQ&quot;,&quot;title&quot;:&quot;How Sweet the Day&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61AitRsTtfL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>15998</id>
+		<song_id>14870</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: G/B    C    | D/Gb    G    | G/B    C    | D/Gb    G    |]
+
+Verse 1:
+[G/B] [ ]How sweet the [C]day [D/Gb] [ ]when Christ was [G]born
+[G/B] [ ]When God Him[C]self [D/Gb] [ ]took hum[G]an form
+[Em] [ ]He came t[D/Gb]o wash our sins a[G]way
+[Em] [ ]Our death t[D/Gb]o die, our debt to [G]pay
+
+
+Verse 2:
+[G/B] [ ]How sweet the [C]day [D/Gb] [ ]when Hope ap[G]peared
+[G/B] [ ]The One who [C]frees [D/Gb] [ ]us from ou[G]r fears
+[Em] [ ]He came to [D/Gb] [ ]break the power o[G]f sin
+[Em] [ ]And give u[D/Gb]s [ ]power to follo[G]w Him
+
+
+Chorus:
+Oh [Cmaj9]sing for [D6]joy, [G]lift up [D/Gb]your v[Em7]oice
+Let us [Cmaj9]sing for [D6]joy, the [G]whole earth [D/Gb]re[Em7]joice
+Let us [Cmaj9]sing for [D6]joy to the [| Asus4    A    |]Son
+For [Cmaj9]Jesus our [D]Savior has com[| G/B   C2   | D   G   |]e
+
+
+Verse 3:
+[G/B] [ ]How sweet the [C]day [D/Gb] [ ]when Christ re[G]turns
+[G/B] [ ]We’ll see the [C]One [D/Gb] [ ]for whom w[G]e yearn
+[Em] [ ]Then we’ll loo[D/Gb]k full upon Hi[G]s face
+[Em] [ ]Our hearts w[D/Gb]ill burst with songs o[G]f praise
+
+
+Tag:
+[G]Come, [D/Gb]Lord [C/E]Je[G/D]sus, [C2]come (repeat)</text>
+		<searchtext>intro verse 1 how sweet the day when christ was born when god himself took human form he came to wash our sins away our death to die our debt to pay verse 2 how sweet the day when hope appeared the one who frees us from our fears he came to break the power of sin and give us power to follow him chorus oh sing for joy lift up your voice let us sing for joy the whole earth rejoice let us sing for joy to the son for jesus our savior has come verse 3 how sweet the day when christ returns well see the one for whom we yearn then well look full upon his face our hearts will burst with songs of praise tag come lord jesus come repeat</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>76</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2010-12-02 10:45:05</modified>
+		<creator>1543</creator>
+		<ccli>4866194</ccli>
+		<album>Savior</album>
+		<font_size>16</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

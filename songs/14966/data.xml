@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14966</id>
+		<songbook_id>21</songbook_id>
+		<title>Here At The Throne</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2001 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:07</created>
+		<modified>2009-03-20 09:15:07</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0010V1C4Q&quot;,&quot;title&quot;:&quot;Here At the Throne&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/41het-XU6lL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16107</id>
+		<song_id>14966</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[C] How can I ever [G] begin to thank You
+[Dm] For all You’ve done for m[Gsus4    G]e
+You [C] emptied Yourself, Lord, [G] and You became poor
+[Dm] To lavish grace on m[F]e
+[Dm] And You have loved me, [Gsus    G]Lord
+[Dm] With an eve[F]rlasting l[Gsus4    G]ove
+
+Chorus:
+So [C]here at the thr[Am]one of gr[G/B]ace I s[C]tand
+To ex[Am]alt the g[G]reat I A[C]M
+Where the [Dm]blood of J[C/E]esus cov[G]ers me
+[C]Here at the thr[Am]one of gr[G/B]ace I s[C]tand
+Finding [Am]mercy a[G]t Your ha[C]nd
+And Your m[Dm]ighty po[C/E]wer in time [G]of need
+[Dm]Her[F]e at the t[Gsus]hron[G]e of [C]grace [| Am    G]
+
+Verse 2:
+[C] In You is mercy [G] and sweet forgiveness
+[Dm] And cleansing of my si[Gsus4    G]ns
+[C] In You is beauty, [G] all heaven’s glory
+[Dm] All holiness and st[F]rength
+[Dm] And You have loved me, [Gsus    G]Lord
+[Dm] With an eve[F]rlasting l[Gsus4    G]ove</text>
+		<searchtext>verse 1 how can i ever begin to thank you for all youve done for me you emptied yourself lord and you became poor to lavish grace on me and you have loved me lord with an everlasting love chorus so here at the throne of grace i stand to exalt the great i am where the blood of jesus covers me here at the throne of grace i stand finding mercy at your hand and your mighty power in time of need here at the throne of grace verse 2 in you is mercy and sweet forgiveness and cleansing of my sins in you is beauty all heavens glory all holiness and strength and you have loved me lord with an everlasting love</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>87</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:07</created>
+		<modified>2009-03-20 09:15:07</modified>
+		<creator>1543</creator>
+		<ccli>3337600</ccli>
+		<album>No Greater Love</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

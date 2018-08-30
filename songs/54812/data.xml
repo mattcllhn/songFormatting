@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>54812</id>
+		<songbook_id>21</songbook_id>
+		<title>You're So Good</title>
+		<copyright>Tim Schmidt 2013</copyright>
+		<created>2013-08-20 22:56:04</created>
+		<modified>2013-08-20 23:00:22</modified>
+		<creator>1547</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>59615</id>
+		<song_id>54812</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[F#m]Why do I [D]doubt You Lord, you are [A]faithful [E]
+[F#m]You have [D]supplied my every [A]need [E]
+[F#m]You laid Your [D]life down for me [A]Jesus [E]
+[F#m]I lay my [D]life down for You [A  E]
+
+
+CHORUS:
+You’re so [F#m7]good, You’re so good
+You’re so [D]good, You’re so good
+Yes You [A]are, You are good, so [Esus]good to [E]me
+
+VERSE 2:
+[F#m7]Oh why this [D]downcast soul in my [A]suff’ring  [E]
+[F#m7]These hard things [D]are your loving [A]plan [E]
+[F#m]You’re making [D]me more like you, [A]Jesus [E]
+[F#m]I will com[D]pletely trust you [A  E]
+
+VERSE 3:
+[F#m]By grace I [D]place my hope in Your [A]promise [E]
+[F#m]Soon one day [D]You will call me [A]home [E]
+[F#m]There at last [D]I will see You [A]Jesus [E]
+[F#m]And throw my [D]arms around You [A  E]
+
+
+</text>
+		<searchtext>verse 1 why do i doubt you lord you are faithful you have supplied my every need you laid your life down for me jesus i lay my life down for you chorus youre so good youre so good youre so good youre so good yes you are you are good so good to me verse 2 oh why this downcast soul in my suffring these hard things are your loving plan youre making me more like you jesus i will completely trust you verse 3 by grace i place my hope in your promise soon one day you will call me home there at last i will see you jesus and throw my arms around you </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2013-08-20 22:56:04</created>
+		<modified>2013-08-20 23:00:22</modified>
+		<creator>1547</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

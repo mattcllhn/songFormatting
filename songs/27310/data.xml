@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>27310</id>
+		<songbook_id>21</songbook_id>
+		<title>We Sing</title>
+		<copyright>Music by Joel Sczebel, Pat Sczebel, and Todd Twining     © 2009 Sovereign Grace Worship/Sovereign Grace Praise</copyright>
+		<created>2009-08-24 22:05:59</created>
+		<modified>2009-08-24 22:05:59</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>29084</id>
+		<song_id>27310</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: F#m     D |       | A     E |       :||]
+
+Verse 1:
+[A]   We’ve come together in Your n[D2]ame
+We’ve come together to pro[F#m]claim, how [E]great You [D]are [ | D]
+[A]   Once we were going our own w[D2]ays
+Now we’re a people for Your [F#m]praise, how [E]great You [D]are [ | D]
+
+Chorus:
+We [F#m]sing as s[E]ons and daughters
+[A]Sing to [D]God our Father, [Bm]all because of Jesus we [F#m]sing
+His [E]blood has bought us, [A]sing, Your [D]mercy called us
+[Bm]All because of Jesus we [D]sing [ | D]
+
+Verse 2:
+[A]   Jesus, You’re powerful to s[D2]ave
+Jesus, You’ve risen from the gr[F#m]ave
+How [E]great You [D]are [ | D]
+[A]   Your blood gave us peace with G[D2]od
+Your love has broken down our w[F#m]alls
+How [E]great You [D]are [ | D]
+
+Bridge:
+[Bm]    By grace we have been saved
+[F#m]    To be Your dwelling place
+[D]    You took our curse and made us [E]one [ | E]
+[Bm]    It’s nothing we could do,
+[F#m]    Our only boast is You
+[D]    So we rejoice in what You’ve [E]done</text>
+		<searchtext>intro verse 1 weve come together in your name weve come together to proclaim how great you are once we were going our own ways now were a people for your praise how great you are chorus we sing as sons and daughters sing to god our father all because of jesus we sing his blood has bought us sing your mercy called us all because of jesus we sing verse 2 jesus youre powerful to save jesus youve risen from the grave how great you are your blood gave us peace with god your love has broken down our walls how great you are bridge by grace we have been saved to be your dwelling place you took our curse and made us one its nothing we could do our only boast is you so we rejoice in what youve done</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>148</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-08-24 22:05:59</created>
+		<modified>2009-08-24 22:05:59</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>Sons &amp; Daughters</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

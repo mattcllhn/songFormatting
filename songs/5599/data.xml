@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5599</id>
+		<songbook_id>21</songbook_id>
+		<title>Low In The Grave He Lay</title>
+		<copyright>Words &amp; Music by Robert Lowry     Public domain</copyright>
+		<created>2008-10-25 23:19:10</created>
+		<modified>2008-10-25 23:19:10</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6330</id>
+		<song_id>5599</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[A]Low in [D/A]the grave [A]He lay,
+[E]Je[E7]sus, my [D/A]Sav[A]ior
+[D]Wait[Ddim]ing [D]the [A]coming day
+[F#m]Je[E/B]sus [B7]my [E]Lord
+
+Chorus:
+[A]Up from the grave He arose{,} (He arose)
+With a mighty [D]triumph o'er His [A]foes{,} (He arose)
+[E]He a[E7]rose a victor{,} from the [F#m]dark [D]do[A]main,
+And He [D]lives for[B]ever{,} with His [E]saints [B7]to [E]reign
+He a[A]rose! (He arose)
+He a[D]rose! (He arose)
+Halle[A/E]lujah! [E6]Christ [E]a[A]rose!
+
+Verse 2:
+[A]Vainly [D/A]they watched [A]His bed
+[E]Je[E7]sus, my [D/A]Sav[A]ior!
+[D]Vain[Ddim]ly [D]they [A]sealed the dead
+[F#m]Je[E/B]sus, [B7]my [E]Lord!
+
+Verse 3:
+[A]Death could [D/A]not keep [A]his prey,
+[E]Je[E7]sus, my [D/A]Sav[A]ior!
+[D]He [Ddim]tore [D]the [A]bars away,
+[F#m]Je[E/B]sus, [B7]my [E]Lord!</text>
+		<searchtext>verse 1 low in the grave he lay jesus my savior waiting the coming day jesus my lord chorus up from the grave he arose he arose with a mighty triumph oer his foes he arose he arose a victor from the dark domain and he lives forever with his saints to reign he arose he arose he arose he arose hallelujah christ arose verse 2 vainly they watched his bed jesus my savior vainly they sealed the dead jesus my lord verse 3 death could not keep his prey jesus my savior he tore the bars away jesus my lord</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>108</bpm>
+		<tempo>Medium</tempo>
+		<created>2008-10-25 23:19:10</created>
+		<modified>2008-10-25 23:19:10</modified>
+		<creator>1543</creator>
+		<ccli>27783</ccli>
+		<album></album>
+		<font_size></font_size>
+	</Arrangement>
+	<Keyword>
+		<id>257</id>
+		<songbook_id>21</songbook_id>
+		<text>Easter</text>
+	</Keyword>
+</data>
+

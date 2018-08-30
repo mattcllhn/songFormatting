@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>32981</id>
+		<songbook_id>21</songbook_id>
+		<title>Nothing But the Blood</title>
+		<copyright>MATT REDMAN</copyright>
+		<created>2010-03-06 12:06:59</created>
+		<modified>2017-03-08 20:30:04</modified>
+		<creator>1548</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>35210</id>
+		<song_id>32981</song_id>
+		<description>Initial arrangement</description>
+		<text>INTRO:
+[A]    [F#m7]         [A]         [F#m7]
+
+Verse 1:
+Your bloo[A]d speaks a better word [F#m7]
+Than all the empty claims [A]
+I’ve heard upon this eart[F#m7]h
+Speaks righteousness for me [E]
+And stands in my defense [D]
+Jesus, it’s your bl[A]ood [F#m7    E]
+
+Chorus:
+[A]What can wash away our sins?
+What [F#m7]can make us whole again?
+Noth[E]ing but the blood
+Noth[D]ing but the blood of Jesus [A     F#m7    E]
+What c[A]an wash us pure as snow?
+Welco[F#m7]med as the friends of God?
+Noth[E]ing but the blood
+Noth[D]ing but the blood of Jesus [A       F#m7    E]
+
+Verse 2:
+Your cros[A]s testifies in grace [F#m7]
+Tells of the Father’s heart [A]
+To make a way for us [F#m7]
+Now boldly we approach [E]
+Not earthly confidence [D]
+It's only by your b[A]lood [F#m7    E]
+</text>
+		<searchtext>intro verse 1 your blood speaks a better word than all the empty claims ive heard upon this earth speaks righteousness for me and stands in my defense jesus its your blood chorus what can wash away our sins what can make us whole again nothing but the blood nothing but the blood of jesus what can wash us pure as snow welcomed as the friends of god nothing but the blood nothing but the blood of jesus verse 2 your cross testifies in grace tells of the fathers heart to make a way for us now boldly we approach not earthly confidence its only by your blood </searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2010-03-06 12:06:59</created>
+		<modified>2017-03-08 20:30:04</modified>
+		<creator>1548</creator>
+		<ccli>47127</ccli>
+		<album></album>
+		<font_size>12</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>2355</id>
+		<songbook_id>21</songbook_id>
+		<text>Good Friday</text>
+	</Keyword>
+</data>
+

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14938</id>
+		<songbook_id>21</songbook_id>
+		<title>Wonderful Savior</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2003 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:03</created>
+		<modified>2009-03-20 09:15:03</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B000YZKKSI&quot;,&quot;title&quot;:&quot;Wonderful Savior&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/516fS-1BfuL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16073</id>
+		<song_id>14938</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[C2     | C2/B     | C2/A     | Fm/Ab     |]
+
+Verse 1:
+[C2]How can we not sing [C2/B]out{,} to the One who [F/A]saved us
+And [Fm/Ab]covered us with Your [C2]blood
+Casting all our [C2/B]sin into Your sea of [F/A]mercy
+[Fm/Ab]Crowning us with Y[Bb]our lo[Eb]ve?
+
+Chorus:
+Wonderful [Eb/D]Savior, beautiful Je[Cm]sus
+[Abmaj7]Bending down to li[Bb]ft us u[Eb]p
+Out of our [Eb/D]darkness, into Your br[Cm]ightness
+[Abmaj7]Calling us Y[Bb]our own
+[F]Wonderful S[F/E]avior, beautiful [Dm]Jesus
+[Bbmaj7]We will always lo[C]ve [F]You
+Wonderful S[F/E]avior, beautiful [Bbmaj7]Jesus [ | 6/4 Fm/Ab    Bb      |]
+
+Verse 2:
+[C2]How can we not sing [C2/B]out
+To the One who ch[F/A]anged us
+And [Fm/Ab]gave us eternal h[C2]ope
+Capturing our [C2/B]hearts,{,} flooding us with g[F/A]ladness
+That [Fm/Ab]someday we’ll see Y[Bb]our fa[Eb]ce?</text>
+		<searchtext>intro verse 1 how can we not sing out to the one who saved us and covered us with your blood casting all our sin into your sea of mercy crowning us with your love chorus wonderful savior beautiful jesus bending down to lift us up out of our darkness into your brightness calling us your own wonderful savior beautiful jesus we will always love you wonderful savior beautiful jesus verse 2 how can we not sing out to the one who changed us and gave us eternal hope capturing our hearts flooding us with gladness that someday well see your face</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>80</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:15:03</created>
+		<modified>2009-03-20 09:15:03</modified>
+		<creator>1543</creator>
+		<ccli>4523468</ccli>
+		<album>Songs For The Cross-Centered Life</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

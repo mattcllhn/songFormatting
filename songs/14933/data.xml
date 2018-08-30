@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14933</id>
+		<songbook_id>21</songbook_id>
+		<title>Perfect Lamb Of God</title>
+		<copyright>Words &amp; Music by Adam Saks     © 2004 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:01</created>
+		<modified>2017-03-08 20:32:55</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B000ZJOGN8&quot;,&quot;title&quot;:&quot;Perfect Lamb of God&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51CotfwF8BL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16068</id>
+		<song_id>14933</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[Am    F    | C2    G    | Am    F    | C2    G]
+
+Verse 1:
+The [Am]light of day was [F2]cloaked by night, and [C2]heaven closed its [Gsus  G]eyes
+[Am]Wrath unspared for [F2]countless sins, the [C2]guiltless [G/B]cruci[Am7]fied
+[Am]Hands of kindness [F2]driven through, [C2]back on splintered [Gsus   G]beam
+The [Am]holy curtain [F2]torn in two, a[C2]tonement made for [G   Em]me
+
+Chorus:
+[Am]Hail [F] [ ]the [C2]perfect [G]Lamb of [Am   F]God
+A [C2]kingly [G]ransom [Am   F]paid
+When [C2]You, my [G]Lord, were [D]slain
+[Am]Love[F], [ ]un[C2]rivaled [G]here, dis[Am]play[F]ed
+[C2]Calls my [G]heart to [Am   F]praise
+The [C2]perfect [G]Lamb [6/4]of [Am]God
+
+Verse 2:
+[Am]Insults mock the [F2]Son of God, the [C2]angels are rest[Gsus    G]rained
+But [Am]all the cup must [F2]be endured, for [C2]sinners [G/B]to be [Am7]saved
+Can [Am]grace prevail in [F2]such a day, of [C2]scandal and of [Gsus    G]scorn?
+But [Am]with a cry, &quot;For[F2]give!&quot; You claim
+[C2]Traitors as Your [G  Em (to chorus)]own
+
+Verse 3:
+[Am]As You drew Your [F/A]final breath
+My [Am]debt was satis[F/A]fied
+And [Am]love divine, in [F2]glorious might
+Would [C2]vanquish death and [G   Em (to chorus)]rise</text>
+		<searchtext>intro verse 1 the light of day was cloaked by night and heaven closed its eyes wrath unspared for countless sins the guiltless crucified hands of kindness driven through back on splintered beam the holy curtain torn in two atonement made for me chorus hail the perfect lamb of god a kingly ransom paid when you my lord were slain love unrivaled here displayed calls my heart to praise the perfect lamb of god verse 2 insults mock the son of god the angels are restrained but all the cup must be endured for sinners to be saved can grace prevail in such a day of scandal and of scorn but with a cry forgive you claim traitors as your own verse 3 as you drew your final breath my debt was satisfied and love divine in glorious might would vanquish death and rise</searchtext>
+		<primary>1</primary>
+		<key>Am</key>
+		<time_signature>4/4</time_signature>
+		<bpm>120</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:15:01</created>
+		<modified>2017-03-08 20:32:55</modified>
+		<creator>1543</creator>
+		<ccli>4662855</ccli>
+		<album>Worship God Live</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>2355</id>
+		<songbook_id>21</songbook_id>
+		<text>Good Friday</text>
+	</Keyword>
+</data>
+

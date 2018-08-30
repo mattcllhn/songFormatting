@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14988</id>
+		<songbook_id>21</songbook_id>
+		<title>I'm Calling Out</title>
+		<copyright>Words &amp; Music by Mark Altrogge     @ 1999 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:11</created>
+		<modified>2009-03-20 09:15:11</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B00111XZN6&quot;,&quot;title&quot;:&quot;I'm Calling Out&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51772JOjBtL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16129</id>
+		<song_id>14988</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[G     | D     | Em     | C     | G     | F     | Am7      |  Dsus   D]
+
+Verse 1:
+When this [D]world is [G]filled with [C]change [G]
+And so [D]much I [G]can’t exp[C]lain
+From the [D]peaks of [G]joy to the [Am]valleys of [Em]pain
+Your [C]faithful[G]ness re[Dsus     D]mains
+Your [C]faithful[G]ness re[Dsus     D]mains
+
+Chorus:
+So I’m calling [G]out{,} to You who [Dsus]called me  [D]
+I’m holding [Em]on{,} to You who [C]holds me
+I’m seeking [G]You{,} who came and [F]sought me in my sin
+And You’ve been [Am]faithful again and a[Dsus    D]gain
+So I’m calling [G     | F     | Am7     | Dsus   D   | (G)]out.
+
+Verse 2:
+When my [D]strength is [G]dry and [C]drained [G]
+And my [D]hope be[G]gins to [C]wane
+You are [D]always [G]near to [Am]lift me [Em]again
+Your [C]faithful[G]ness re[Dsus    D]mains
+Your [C]faithful[G]ness re[Dsus    D]mains</text>
+		<searchtext>intro verse 1 when this world is filled with change and so much i cant explain from the peaks of joy to the valleys of pain your faithfulness remains your faithfulness remains chorus so im calling out to you who called me im holding on to you who holds me im seeking you who came and sought me in my sin and youve been faithful again and again so im calling out verse 2 when my strength is dry and drained and my hope begins to wane you are always near to lift me again your faithfulness remains your faithfulness remains</searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>98</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:11</created>
+		<modified>2009-03-20 09:15:11</modified>
+		<creator>1543</creator>
+		<ccli>2847696</ccli>
+		<album>Everlasting</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

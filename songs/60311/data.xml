@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>60311</id>
+		<songbook_id>21</songbook_id>
+		<title>Though You Slay Me</title>
+		<copyright>Beth Barnard, Brian Woods, Josh Moore, Lauren Chandler, Shane Barnard</copyright>
+		<created>2014-09-30 21:58:36</created>
+		<modified>2014-10-12 07:59:21</modified>
+		<creator>7317</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>65925</id>
+		<song_id>60311</song_id>
+		<description>Initial arrangement</description>
+		<text>verse 1: 
+I [Em]come, God, I [D]come
+I r[Am]eturn to the [Em]Lord
+The one who’s[C] broken
+The one who’s [G]torn me apart [D] 
+You strike[Em] down to bind me[D] up
+You say you[Am] do it all in [Em]love
+That I might [C]know you [G]in your suff[D]ering
+
+
+chorus: 
+Though you [C]slay [G]me
+[Em]Yet I will [D]praise you
+Though you [C]take from[G] me
+[Em]I will bless your[D] name
+Though you [C]ruin [G]me
+[Em]Still I will wo[D]rship
+Sing a [C]song to the one who’s [D]all I n[C]eed
+
+{new_page}
+verse 2: 
+My [Em]heart and flesh may [D]fail
+The [Am]earth below give [Em]way
+But with my [C]eyes, with my [G]eyes I’ll see the [D]Lord
+Lifted [Em]high on that [D]day
+Behold, the[Am] Lamb that was [Em]slain
+And I’ll [C]know every [G]tear was worth it [D]all
+[Em  C   Em   C]
+
+bridge: 
+[Am]Though tonight I’m [Em]crying out
+[D]Let this cup pass [Am]from me now
+[C]You’re still more than I ne[Em]ed
+You’re [C]enoug[G]h for me [Em] 
+You’re [C]enoug[G]h for me [D] 
+</text>
+		<searchtext>verse 1 i come god i come i return to the lord the one whos broken the one whos torn me apart you strike down to bind me up you say you do it all in love that i might know you in your suffering chorus though you slay me yet i will praise you though you take from me i will bless your name though you ruin me still i will worship sing a song to the one whos all i need verse 2 my heart and flesh may fail the earth below give way but with my eyes with my eyes ill see the lord lifted high on that day behold the lamb that was slain and ill know every tear was worth it all bridge though tonight im crying out let this cup pass from me now youre still more than i need youre enough for me youre enough for me </searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2014-09-30 21:58:36</created>
+		<modified>2014-10-12 07:59:21</modified>
+		<creator>7317</creator>
+		<ccli>6590798</ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>66210</id>
+		<song_id>60311</song_id>
+		<description>Key of D, change to E</description>
+		<text>verse 1: 
+I [Bm]come, God, I [A]come
+I r[Em]eturn to the [Bm]Lord
+The one who’s[G] broken
+The one who’s [D]torn me apart [A] 
+You strike[Bm] down to bind me[A] up
+You say you[Em] do it all in [Bm]love
+That I might [G]know you [D]in your suff[A]ering
+
+chorus: 
+Though you [G]slay [D]me
+[Bm]Yet I will [A]praise you
+Though you [G]take from[D] me
+[Bm]I will bless your[A] name
+Though you [G]ruin [D]me
+[Bm]Still I will wo[A]rship
+Sing a [G]song to the one who’s [A]all I n[G]eed
+
+{new_page}
+verse 2: 
+My [Bm]heart and flesh may [A]fail
+The [Em]earth below give [Bm]way
+But with my [G]eyes, with my [D]eyes I’ll see the [A]Lord
+Lifted [Bm]high on that [A]day
+Behold, the[Em] Lamb that was [Bm]slain
+And I’ll [G]know every [D]tear was worth it [A]all
+[Bm  G   Bm   G]
+
+bridge: 
+[Em]Though tonight I’m [Bm]crying out
+[A]Let this cup pass [Em]from me now
+[G]You’re still more than I ne[Bm]ed
+You’re [G]enoug[D]h for me [Bm] 
+You’re [G]enoug[D]h for me [A    | B (key change)  |] 
+
+{key:E}
+chorus: 
+Though you [A]slay [E]me
+[C#m]Yet I will [B]praise you
+Though you [A]take from[E] me
+[C#m]I will bless your[B] name
+Though you [A]ruin [E]me
+[C#m]Still I will wo[B]rship
+Sing a [A]song to the one who’s [B]all I n[C#m]eed
+Sing a [A]song to the one who’s [B]all I n[C#m]eed
+Sing a [A]song to the one who’s [B]all I n[E]eed
+</text>
+		<searchtext>verse 1 i come god i come i return to the lord the one whos broken the one whos torn me apart you strike down to bind me up you say you do it all in love that i might know you in your suffering chorus though you slay me yet i will praise you though you take from me i will bless your name though you ruin me still i will worship sing a song to the one whos all i need verse 2 my heart and flesh may fail the earth below give way but with my eyes with my eyes ill see the lord lifted high on that day behold the lamb that was slain and ill know every tear was worth it all bridge though tonight im crying out let this cup pass from me now youre still more than i need youre enough for me youre enough for me chorus though you slay me yet i will praise you though you take from me i will bless your name though you ruin me still i will worship sing a song to the one whos all i need sing a song to the one whos all i need sing a song to the one whos all i need </searchtext>
+		<primary>0</primary>
+		<key>D</key>
+		<time_signature></time_signature>
+		<bpm></bpm>
+		<tempo>Slow</tempo>
+		<created>2014-10-12 07:44:08</created>
+		<modified>2014-10-12 07:51:13</modified>
+		<creator>1546</creator>
+		<ccli>6590798</ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

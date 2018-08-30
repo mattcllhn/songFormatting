@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14871</id>
+		<songbook_id>21</songbook_id>
+		<title>The Son Of God Came Down</title>
+		<copyright>Words and Music by Doug Plank     © 2004 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2009-03-20 09:14:54</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0012AH6PO&quot;,&quot;title&quot;:&quot;The Son of God Came Down&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61AitRsTtfL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>15999</id>
+		<song_id>14871</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: D      | G      | D      | Asus4    A    :||]
+
+
+Verse 1:
+[D] [ ]The Son of God came down{,} [G] [ ]and laid aside His crown
+[D] [ ]Born without great renown,{,} this [Asus4]Sovereign [A]One
+[D] [ ]All holiness and might,{,} [G] [ ]all glory shining bright
+[D] [ ]Have come to earth this night{,} in [Asus4]Mary’s [A]son
+O [G2] come, let us a[Asus4   A]dore
+
+
+Chorus:
+O Ch[Bm]rist the L[G]ord, our h[A]ope and Sav[Bm]ior
+  Son of God yet [G]made like [Asus4   A]us
+O Ch[Bm]rist the L[G]ord, our K[A]ing ad[Bm]ored
+  Born a [Em]child, our L[A]ord Jes[D      | G      | D      | Asus4    A    |]us
+
+
+Verse 2:
+[D] [ ]Messiah born so small,{,} [G] [ ]asleep in cattle stall
+[D] [ ]Come to redeem our fall,{,} nailed [Asus4]to a [A]tree
+[D] [ ]This tiny, helpless child, [G] [ ]through death would reconcile
+[D] [ ]The holy God and vile,{,} His [Asus4]grace so [A]free
+O [G2] come, let us a[Asus4   A]dore</text>
+		<searchtext>intro verse 1 the son of god came down and laid aside his crown born without great renown this sovereign one all holiness and might all glory shining bright have come to earth this night in marys son o come let us adore chorus o christ the lord our hope and savior son of god yet made like us o christ the lord our king adored born a child our lord jesus verse 2 messiah born so small asleep in cattle stall come to redeem our fall nailed to a tree this tiny helpless child through death would reconcile the holy god and vile his grace so free o come let us adore</searchtext>
+		<primary>1</primary>
+		<key>D</key>
+		<time_signature>4/4</time_signature>
+		<bpm>69</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:14:54</created>
+		<modified>2009-03-20 09:14:54</modified>
+		<creator>1543</creator>
+		<ccli>4866259</ccli>
+		<album>Savior</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

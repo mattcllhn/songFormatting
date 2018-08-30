@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>42765</id>
+		<songbook_id>21</songbook_id>
+		<title>I Will Rise</title>
+		<copyright>© 2008 Vamos Publishing | worshiptogether.com songs | sixsteps Music | Thankyou Music |  Chris Tomlin | Jesse Reeves | Louie Giglio | Matt Maher</copyright>
+		<created>2011-10-07 19:10:50</created>
+		<modified>2011-10-08 13:19:18</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B003Y2B8IE&quot;,&quot;title&quot;:&quot;I Will Rise&quot;,&quot;artist&quot;:&quot;Chris Tomlin&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/61st2Pq0XIL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>46036</id>
+		<song_id>42765</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1: 
+There's a [C#m9]peace I've come to k[A]now
+Though my h[E]eart and flesh may f[B5]ail
+There's an [C#m9]anchor for my s[A]oul
+I can s[E]ay it is w[B]ell
+
+Pre-Chorus: 
+J[E]esus has over[B/D#]come
+And the [C#m7]grave is overwh[A2]elmed
+The v[E/G#]ictory is [Bsus]won  [B] 
+He is [C#m9]risen from the d[A2]ead
+
+Chorus: 
+(And) I will r[E2]ise when He [B(4)]calls my name
+[C#m9]No more sorrow [A2]no more pain
+I will r[E2]ise on e[B(4)]agle's wings
+Be[C#m9]fore my God fall [A2]on my knees and r[E2]ise  [A2] 
+I will [E/B]rise  [B] 
+
+{new_page}
+Verse 2: 
+There's a [C#m9]day that's drawing n[A2]ear
+When this d[Emaj7]arkness breaks to [B(4)]light
+And the sh[C#m9]adows disapp[A2]ear
+And my [Emaj7]faith shall be my [B(4)]eyes
+
+Chorus: 
+(And) I will r[E2]ise when He [B(4)]calls my name
+[C#m9]No more sorrow [A2]no more pain
+I will r[E2]ise on e[B(4)]agle's wings
+Be[C#m9]fore my God fall [A2]on my knees and r[E2]ise  [A2] 
+I will [E/B]rise  [B] 
+
+Bridge: 
+And I hear the v[A2]oice of m[E]any an[B]gels sing
+W[A2]orthy [E]is the L[B]amb
+And I hear the [A2]cry of [E]ev'ry l[B]onging [C#m7]heart
+W[A2]orthy [E]is the L[B]amb [REPEAT] 
+W[A2]orthy [E]is the L[B]amb   [E2  |  B(4)  | C#m7  |  A2  |] 
+
+Ending: 
+I will [E/B]rise   [A2/C#] 
+I will [E/B]rise   [B(4)   E] </text>
+		<searchtext>verse 1 theres a peace ive come to know though my heart and flesh may fail theres an anchor for my soul i can say it is well prechorus jesus has overcome and the grave is overwhelmed the victory is won he is risen from the dead chorus and i will rise when he calls my name no more sorrow no more pain i will rise on eagles wings before my god fall on my knees and rise i will rise verse 2 theres a day thats drawing near when this darkness breaks to light and the shadows disappear and my faith shall be my eyes chorus and i will rise when he calls my name no more sorrow no more pain i will rise on eagles wings before my god fall on my knees and rise i will rise bridge and i hear the voice of many angels sing worthy is the lamb and i hear the cry of evry longing heart worthy is the lamb worthy is the lamb ending i will rise i will rise </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>90</bpm>
+		<tempo>Medium</tempo>
+		<created>2011-10-07 19:10:50</created>
+		<modified>2011-10-08 13:19:18</modified>
+		<creator>1546</creator>
+		<ccli>5183450</ccli>
+		<album></album>
+		<font_size>18</font_size>
+	</Arrangement>
+</data>
+

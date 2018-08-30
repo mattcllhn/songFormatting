@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>40752</id>
+		<songbook_id>21</songbook_id>
+		<title>Our God</title>
+		<copyright>Chris Tomlin, Jesse Reeves, Jonas Myrin, Matt Redman (c) 2010 Thankyou Music (Admin. by EMI Christian Music Publishing), sixsteps Music, Said And Done Music , Vamos Publishing, SHOUT! Publishing, worshiptogether.com songs </copyright>
+		<created>2011-06-01 00:15:22</created>
+		<modified>2011-06-01 00:15:54</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>43790</id>
+		<song_id>40752</song_id>
+		<description>Initial arrangement</description>
+		<text>Chords coming... We'll use a print out from CCLI for Band Night.</text>
+		<searchtext>chords coming well use a print out from ccli for band night</searchtext>
+		<primary>1</primary>
+		<key>F</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2011-06-01 00:15:22</created>
+		<modified>2011-06-01 00:15:54</modified>
+		<creator>1546</creator>
+		<ccli>5677416</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

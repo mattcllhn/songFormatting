@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>39576</id>
+		<songbook_id>21</songbook_id>
+		<title>Behold Our God (from Risen)</title>
+		<copyright>Words &amp; Music by Jonathan Baird, Meghan Baird, Ryan Baird, &amp; Stephen Altrogge     © 2011 Sovereign Grace Worship / Sovereign Grace Praise</copyright>
+		<created>2011-03-30 21:49:36</created>
+		<modified>2011-03-30 21:49:36</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B004RR02M8&quot;,&quot;title&quot;:&quot;Behold Our God&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/41QLoqrrewL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>42485</id>
+		<song_id>39576</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[C]Who has held the [Em]oceans in His hand?
+[C]Who has numbered [Em]every grain of sand?
+[C]Kings and nations [Em]tremble at His voice
+[C]All creation [Em7]rises to re[G]joice
+
+Chorus:
+Be[C]hold [G/B]our [Am]God seated on His [F]throne
+Come let us a[C]dore [G]Him
+Be[C]hold [G/B]our [Am]King, nothing can com[F]pare
+Come let us a[C]do[G]re [C]Him! [| Em     | C    | Em]
+
+Verse 2:
+[C]Who has given [Em]counsel to the Lord?
+[C]Who can question [Em]any of His words?
+[C]Who can teach the [Em]One{,} who knows all things?
+[C]Who can fathom{,} [Em7]all His wondrous [G]deeds?
+
+Verse 3:
+[C]Who has felt the [Em]nails upon His hands
+[C]Bearing all the [Em]guilt of sinful man?
+[C]God eternal, [Em]humbled to the grave
+[C]Jesus, Savior, [Em7]risen now to [G]reign
+
+Bridge:
+[C]You will reign for[F/C]ever! (Let Your glory fill the earth)
+[C]You will reign for[F/C]ever! (Let Your glory fill the earth)
+[Am7]You will reign for[F/C]ever! (Let Your glory fill the earth)
+[Am7]You will reign for[F/C]ever! (Let Your glory fill)</text>
+		<searchtext>verse 1 who has held the oceans in his hand who has numbered every grain of sand kings and nations tremble at his voice all creation rises to rejoice chorus behold our god seated on his throne come let us adore him behold our king nothing can compare come let us adore him verse 2 who has given counsel to the lord who can question any of his words who can teach the one who knows all things who can fathom all his wondrous deeds verse 3 who has felt the nails upon his hands bearing all the guilt of sinful man god eternal humbled to the grave jesus savior risen now to reign bridge you will reign forever let your glory fill the earth you will reign forever let your glory fill the earth you will reign forever let your glory fill the earth you will reign forever let your glory fill</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>76</bpm>
+		<tempo>Slow</tempo>
+		<created>2011-03-30 21:49:36</created>
+		<modified>2011-03-30 21:49:36</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>Risen</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

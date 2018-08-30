@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>42536</id>
+		<songbook_id>21</songbook_id>
+		<title>Take Me In</title>
+		<copyright>Words &amp; Music by Clayton Brooks © 2010 Presence Publishing (Admin. by The Oaks Fellowship)</copyright>
+		<created>2011-09-06 18:29:28</created>
+		<modified>2011-09-10 12:28:58</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>45766</id>
+		<song_id>42536</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro: 
+[||:  Dm  |  Bb  |  F  |  C  :||     OR      ||:  D  |  Bb  |  F  |  C  :||]
+
+Verse 1:
+[Dm]  I am a sinner who’s been washed clean
+[Bb]  I am a captive who’s been set free.
+[F]  I've been forgiven by the King of grace 
+And [C]Oh! the joy when I see your face
+
+Verse 2: 
+[Dm]  You made a way where there was none
+[Bb]  Purchased my name with the blood of your son
+[F]  I’m welcomed in to the courts of your throne 
+And [C] Oh! the joy that floods my soul 
+
+Chorus:
+[Dm]Oh the joy that f[Bb]loods my soul 
+When I’m [F]with you Lord 
+When I’m [C]with you Lord [(Repeat)]
+ 
+Bridge:
+[Dm]By your blood I’m red[Bb]eemed
+By your mercy I am [F]free 
+You’ve forgiven every [C]sin
+In your love you take me [Dm]in
+To your heart to your th[Bb]rone
+That I may know you and be k[F]nown
+So I come in confi[C]dence 
+in your love you take me [Dm]in. [(Repeat or to Tag)]
+
+Tag:
+Take me [Bb]in 
+Take me [F]in [C]Oh 
+In your love you take me [Dm]in [(Repeat tag or to ___)]
+</text>
+		<searchtext>intro verse 1 i am a sinner whos been washed clean i am a captive whos been set free ive been forgiven by the king of grace and oh the joy when i see your face verse 2 you made a way where there was none purchased my name with the blood of your son im welcomed in to the courts of your throne and oh the joy that floods my soul chorus oh the joy that floods my soul when im with you lord when im with you lord bridge by your blood im redeemed by your mercy i am free youve forgiven every sin in your love you take me in to your heart to your throne that i may know you and be known so i come in confidence in your love you take me in tag take me in take me in oh in your love you take me in </searchtext>
+		<primary>1</primary>
+		<key>F</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2011-09-06 18:29:28</created>
+		<modified>2011-09-10 12:28:58</modified>
+		<creator>1546</creator>
+		<ccli>6055745</ccli>
+		<album>LIft Up the Light</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

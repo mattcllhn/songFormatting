@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14991</id>
+		<songbook_id>21</songbook_id>
+		<title>More Than Life Itself</title>
+		<copyright>Words &amp; Music by Steve &amp; Vikki Cook     © 1999 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:11</created>
+		<modified>2009-03-20 09:15:11</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16132</id>
+		<song_id>14991</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[Bb]My soul finds rest[Dm7] [ ]in [C]You alone
+[Dm7]You are the [Bb]God who knows [F]my w[C]ays
+[Bb]Your sov’reignty [Dm7]is so [C]sweet to me
+[Dm7]In Your [Gm]hands are [Bb]all my d[C]ays
+
+Chorus:
+More than [F]life [Bb] [ ]it[Csus   C]self
+[Gm]My God how I n[Dm]eed You
+My [Bb]precious All in [Csus]All
+[C]More than [F]life [Bb] [ ]it[Csus   C]self
+[Gm]Oh Lord how I l[Dm]ove You
+And [Eb]long to be with You
+[Bb]More than [Csus   C]life [Dm7]it[Bb    Dm7 | C    Dm7 | Bb    F | C]self.
+
+Verse 2:
+[Bb]My soul finds joy[Dm7] [ ]in [C]You alone
+[Dm7]You are my [Bb]fountain of [F]del[C]ight
+[Bb]The mention of [Dm7] Your [C]matchless name
+[Dm7]Causes my [Gm]heart to s[Bb]oar on h[C]igh</text>
+		<searchtext>verse 1 my soul finds rest in you alone you are the god who knows my ways your sovreignty is so sweet to me in your hands are all my days chorus more than life itself my god how i need you my precious all in all more than life itself oh lord how i love you and long to be with you more than life itself verse 2 my soul finds joy in you alone you are my fountain of delight the mention of your matchless name causes my heart to soar on high</searchtext>
+		<primary>1</primary>
+		<key>F</key>
+		<time_signature>4/4</time_signature>
+		<bpm>69</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:11</created>
+		<modified>2009-03-20 09:15:11</modified>
+		<creator>1543</creator>
+		<ccli>2943181</ccli>
+		<album>Everlasting</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

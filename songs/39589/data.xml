@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>39589</id>
+		<songbook_id>21</songbook_id>
+		<title>Hail the Day</title>
+		<copyright>Lyrics adapted from Charles Wesley’s “Hail the Day That Sees Him Rise”. New lyrics and music by Steve &amp; Vikki Cook. © 2011 Integrity's Hosanna! Music (ASCAP). All rights reserved. International copyright secured.   Administration by Integrity Music. Used with permission. </copyright>
+		<created>2011-04-04 21:15:39</created>
+		<modified>2011-04-16 23:41:29</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>42508</id>
+		<song_id>39589</song_id>
+		<description>Initial arrangement</description>
+		<text>VERSE 1:
+Hail the [E]day that [Esus]Christ a[E]rose
+Through the [E]skies to worlds unk[B/E]nown
+Glorious [E]there, He [Esus]ever r[E]eigns
+Object [E]of all [B/E]heaven’s [E]praise  [Esus   E     B/E]
+	
+VERSE 2:
+See Him [E]lift His [Esus]hands ab[E]ove 			
+See the [E]scars of His great lo[B/E]ve      
+He has c[E]onquered [Esus]death and [E]sin
+Saving [E]all who [B/E]hope in [E]Him
+
+CHORUS:
+[E/G#]Halle[A]lujah! Hallel[E]ujah!
+The King of [B]love is on His th[E]rone
+Hallel[A]ujah! Hallel[E]ujah! 
+His grace will[B] lead us s[A]afely [C#m]home   [A    E    B    (E)]
+
+VERSE 3:
+Though He [E]dwells be[Esus]yond the [E]stars 
+His red[E]eemed are on His h[B]eart
+Even [E]now he [Esus]inter[E]cedes
+Jesus c[E]ares for [B/E]all our n[E]eeds
+</text>
+		<searchtext>verse 1 hail the day that christ arose through the skies to worlds unknown glorious there he ever reigns object of all heavens praise verse 2 see him lift his hands above see the scars of his great love he has conquered death and sin saving all who hope in him chorus hallelujah hallelujah the king of love is on his throne hallelujah hallelujah his grace will lead us safely home verse 3 though he dwells beyond the stars his redeemed are on his heart even now he intercedes jesus cares for all our needs </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>69</bpm>
+		<tempo>Medium</tempo>
+		<created>2011-04-04 21:15:39</created>
+		<modified>2011-04-16 23:41:29</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album>Risen</album>
+		<font_size>18</font_size>
+	</Arrangement>
+</data>
+

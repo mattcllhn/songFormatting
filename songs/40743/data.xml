@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>40743</id>
+		<songbook_id>21</songbook_id>
+		<title>Better Is One Day</title>
+		<copyright>Words and music by Matt Redman © 1994 Kingsway’s Thankyou Music All rights reserved. Used by permission.</copyright>
+		<created>2011-05-28 13:08:10</created>
+		<modified>2016-01-23 00:37:04</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>43778</id>
+		<song_id>40743</song_id>
+		<description>Initial arrangement</description>
+		<text>VERSE 1:
+How [E]lovely is Your dwelling place, [A2]   Oh Lord Al[Bsus]mighty
+[E]My soul longs and even faints for [Bsus]  You
+For [E]here my heart is satisfied, [A2]   within Your pr[Bsus]esence
+I [E]sing beneath the shadow of Your [Bsus]wings
+
+
+CHORUS:
+Better is [A2]one day in Your courts
+Better is [Bsus]one day in Your house
+Better is [A2]one day in Your courts
+Than thousands [Bsus]elsewhere, [(Repeat)] 
+Thousands [E]elsewhere
+
+
+VERSE 2:
+One [E]thing I ask and I would seek,[A2]   to see Your [Bsus]beauty
+To [E]find You in the place Your glory [Bsus]dwells (repeat)
+
+
+BRIDGE:
+[C#m7]My heart and flesh cry [Bsus]out, [A2]  for You the living [Bsus]God
+[C#m7]Your spirit’s water [Bsus]for my [A]soul   [Bsus]
+[C#m7]I’ve tasted and I’ve [Bsus]seen, [A2]  come once again to [Bsus]me
+[C#m7]I will draw near to [Bsus]You, [A2] I will draw near to [F#m7]You
+To [Bsus]You
+
+</text>
+		<searchtext>verse 1 how lovely is your dwelling place oh lord almighty my soul longs and even faints for you for here my heart is satisfied within your presence i sing beneath the shadow of your wings chorus better is one day in your courts better is one day in your house better is one day in your courts than thousands elsewhere thousands elsewhere verse 2 one thing i ask and i would seek to see your beauty to find you in the place your glory dwells repeat bridge my heart and flesh cry out for you the living god your spirits water for my soul ive tasted and ive seen come once again to me i will draw near to you i will draw near to you to you </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2011-05-28 13:08:10</created>
+		<modified>2014-07-24 23:36:21</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>72817</id>
+		<song_id>40743</song_id>
+		<description>With 2nd Bridge and alternate ending</description>
+		<text>VERSE 1: 
+How [E]lovely is Your dwelling place, [A2]   Oh Lord Al[Bsus]mighty
+[E]My soul longs and even faints for [Bsus]  You
+For [E]here my heart is satisfied, [A2]   within Your pr[Bsus]esence
+I [E]sing beneath the shadow of Your [Bsus]wings
+
+
+CHORUS: 
+Better is [A2]one day in Your courts
+Better is [Bsus]one day in Your house
+Better is [A2]one day in Your courts
+Than thousands [Bsus]elsewhere, [(Repeat)] 
+Thousands [E]elsewhere
+
+
+VERSE 2: 
+One [E]thing I ask and I would seek,[A2]   to see Your [Bsus]beauty
+To [E]find You in the place Your glory [Bsus]dwells (repeat)
+
+
+BRIDGE 1: 
+[C#m7]My heart and flesh cry [Bsus]out, [A2]  for You the living [Bsus]God
+[C#m7]Your spirit’s water [Bsus]for my [A]soul   [Bsus] 
+[C#m7]I’ve tasted and I’ve [Bsus]seen, [A2]  come once again to [Bsus]me
+[G#m7]I will draw near to You, [F#m7] I will draw near to You
+To [F#m7]You
+
+
+{new_page}
+Bridge 2: 
+Better is [A2]one day 
+Better is [Bsus]one day 
+Better is [A2]one day
+Than thousands [Bsus]elsewhere
+Better is [A2]one day 
+Better is [Bsus]one day 
+Better is [A/C#]one day in Your courts
+Than thousands [B/D#]elsewhere
+
+
+CHORUS: 
+Better is [A2]one day in Your courts
+Better is [Bsus]one day in Your house
+Better is [A2]one day in Your courts
+Than thousands [Bsus]elsewhere, [(Repeat)] 
+Thousands [E]elsewhere
+
+
+Ending: 
+[A2  |   B   |   A2   |   B    |]
+</text>
+		<searchtext>verse 1 how lovely is your dwelling place oh lord almighty my soul longs and even faints for you for here my heart is satisfied within your presence i sing beneath the shadow of your wings chorus better is one day in your courts better is one day in your house better is one day in your courts than thousands elsewhere thousands elsewhere verse 2 one thing i ask and i would seek to see your beauty to find you in the place your glory dwells repeat bridge 1 my heart and flesh cry out for you the living god your spirits water for my soul ive tasted and ive seen come once again to me i will draw near to you i will draw near to you to you bridge 2 better is one day better is one day better is one day than thousands elsewhere better is one day better is one day better is one day in your courts than thousands elsewhere chorus better is one day in your courts better is one day in your house better is one day in your courts than thousands elsewhere thousands elsewhere ending </searchtext>
+		<primary>0</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm></bpm>
+		<tempo>Medium</tempo>
+		<created>2016-01-23 00:29:03</created>
+		<modified>2016-01-23 00:37:04</modified>
+		<creator>1546</creator>
+		<ccli></ccli>
+		<album></album>
+		<font_size>16</font_size>
+	</Arrangement>
+</data>
+

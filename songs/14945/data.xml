@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14945</id>
+		<songbook_id>21</songbook_id>
+		<title>Unashamed</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 2002 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:04</created>
+		<modified>2009-03-20 09:15:04</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0010VPHZ6&quot;,&quot;title&quot;:&quot;Unashamed&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/519CuW9nbdL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16081</id>
+		<song_id>14945</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[| G     | C     | Em     | C     | G     | C     | Em     | C     |]
+
+Verse 1:
+[G]You were not ashamed to be
+[C]Emptied and poured out to death
+[Em]Unashamed to [C]give Your dying br[G    | G    |]eath
+[G]You were not ashamed to bear
+[C]All of my reproach and sin
+[Em]Jesus, You were [C]such a faithful fr[G    | G    |]iend
+
+Bridge:
+So [Em]I will glory [B/D#]in the cross
+And [G/D]in the blood You [A/C#]shed for us
+[C]Glory in the [Cm]gospel of Your [Dsus4    | D    |]grace
+
+Chorus:
+Let me be [G]unashamed, [C] [ ]Jesus, to [Em]speak Your name [C]
+For You were the [G]one who came, [C] [ ]the [Em]Savior of the [F]world
+Let me be [G]unashamed, [C] [ ]Jesus, to [Em]speak Your name [C]
+Let me be [G]bold to claim{,} [F] [ ]You as my [G (to intro)]Lord
+
+Verse 2:
+[G]You were not ashamed to give
+Your [C]body to a Roman lash,
+[Em]Unashamed to [C]bear God’s holy wr[G    | G    |]ath
+[G]You were not ashamed to hang
+[C]Naked bleeding on a tree
+[Em]Gladly You did [C]all of this for m[G    | G    | (to bridge)]e</text>
+		<searchtext>intro verse 1 you were not ashamed to be emptied and poured out to death unashamed to give your dying breath you were not ashamed to bear all of my reproach and sin jesus you were such a faithful friend bridge so i will glory in the cross and in the blood you shed for us glory in the gospel of your grace chorus let me be unashamed jesus to speak your name for you were the one who came the savior of the world let me be unashamed jesus to speak your name let me be bold to claim you as my lord verse 2 you were not ashamed to give your body to a roman lash unashamed to bear gods holy wrath you were not ashamed to hang naked bleeding on a tree gladly you did all of this for me</searchtext>
+		<primary>1</primary>
+		<key>F</key>
+		<time_signature>4/4</time_signature>
+		<bpm>140</bpm>
+		<tempo>Fast</tempo>
+		<created>2009-03-20 09:15:04</created>
+		<modified>2009-03-20 09:15:04</modified>
+		<creator>1543</creator>
+		<ccli>4126566</ccli>
+		<album>All We Long To See</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

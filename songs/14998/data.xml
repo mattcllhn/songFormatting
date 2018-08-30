@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14998</id>
+		<songbook_id>21</songbook_id>
+		<title>I Stand In Awe</title>
+		<copyright>Words &amp; Music by Mark Altrogge     © 1986 Sovereign Grace Praise</copyright>
+		<created>2009-03-20 09:15:12</created>
+		<modified>2009-03-20 09:15:12</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B001BVFQTM&quot;,&quot;title&quot;:&quot;I Stand in Awe&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/51FHJmKXExL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16139</id>
+		<song_id>14998</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro:
+[||: F#m    A    | C       :||]
+
+Verse 1:
+You are [F#m]beautiful beyond desc[A]ription
+Too [F#m7]marvelous for [A]words
+Too [A]wonderful for comprehension
+Like [Bm]nothing ever seen or [E]heard
+Who can [F#m]grasp Your infinite w[E/G#]isdom?
+Who can [A]fathom the depth of Your l[D6]ove?
+You are [F#m7]beautiful beyond desc[A]ription
+Majes[Bm7]ty enthr[E]oned a[F#m7    | F#m7   E/G#   |]bove.
+
+Chorus:
+[E/G#]And I [A]stand, I [E/A]stand in [D]awe of You
+I [A]stand, I [E/A]stand in [D]awe of You
+Holy [F#m]God to [E]whom all [Bm7]praise is due
+I [D]stand in [E9]awe of [||: F#m   A   | C      :||]You.
+
+Verse 2:
+You are [F#m7]beautiful beyond desc[A]ription
+Yet God [F#m7]crushed You for my [A]sin
+In [A]agony and deep affl[A]iction
+Cut [Bm]off that I might enter [E]in
+Who can [F#m]grasp such tender com[E/G#]passion?
+Who can f[A]athom this mercy so [D6]free?
+You are [F#m7]beautiful beyond desc[A]ription
+Lamb of [Bm]God who [E]died for [F#m7    E/G#]me.</text>
+		<searchtext>intro verse 1 you are beautiful beyond description too marvelous for words too wonderful for comprehension like nothing ever seen or heard who can grasp your infinite wisdom who can fathom the depth of your love you are beautiful beyond description majesty enthroned above chorus and i stand i stand in awe of you i stand i stand in awe of you holy god to whom all praise is due i stand in awe of you verse 2 you are beautiful beyond description yet god crushed you for my sin in agony and deep affliction cut off that i might enter in who can grasp such tender compassion who can fathom this mercy so free you are beautiful beyond description lamb of god who died for me</searchtext>
+		<primary>1</primary>
+		<key>A</key>
+		<time_signature>4/4</time_signature>
+		<bpm>80</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:12</created>
+		<modified>2009-03-20 09:15:12</modified>
+		<creator>1543</creator>
+		<ccli>23914</ccli>
+		<album>I Stand In Awe</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+

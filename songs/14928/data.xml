@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14928</id>
+		<songbook_id>21</songbook_id>
+		<title>The Gospel Song</title>
+		<copyright>Words by Drew Jones © 2002 Sovereign Grace Worship (ASCAP)     Music by Bob Kauflin © 2002 Sovereign Grace Praise (BMI)</copyright>
+		<created>2009-03-20 09:15:01</created>
+		<modified>2017-03-08 20:37:33</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B000YZOPKM&quot;,&quot;title&quot;:&quot;The Gospel Song&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/516fS-1BfuL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16062</id>
+		<song_id>14928</song_id>
+		<description>Arrangement from Awesome God</description>
+		<text>Intro:
+[C2     | F2/C     | C2     | F2/C     | ]
+
+
+Verse:
+[C]Ho[G/B]ly [Am]God, [C/G]in [F]love, [Gsus]be[G]-[| C]came [F2/C |] 
+[C]Per[G/B]fect [Am]Man [C/G]to [Dm]bear [Fmaj7]my [Gsus]blame [G]
+[C]On [G/B]the [Am]cross [C/G]He [F]took [E7]my [E] [Am]sin
+[G/F]By [F]His [Em]death [Am]I [Gsus]live [G] [ ]a[C]gain [| F2/C     | (to modulate) Asus   A]
+
+
+{key:D}
+Verse:
+[D2]Ho[A/C#]ly [Bm]God, [D2/A]in [G]love, [Asus]be[A |]-[D2]came [G/B   A/C#  |] 
+[D2]Per[A/C#]fect [Bm]Man [D2/A]to [Em7]bear [Gmaj7]my [Asus]blame  [A   A/C#]
+[D2]On [A/C#]the [Bm]cross [D2/A]He [G]took [F#]my [Bm2]sin
+[A/G]By [G]His [F#m7]death [Bm]I [Asus]live [A] [ ]a[D]gain</text>
+		<searchtext>intro verse holy god in love became perfect man to bear my blame on the cross he took my sin by his death i live again verse holy god in love became perfect man to bear my blame on the cross he took my sin by his death i live again</searchtext>
+		<primary>1</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>65</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:01</created>
+		<modified>2017-03-08 20:37:33</modified>
+		<creator>1543</creator>
+		<ccli>4401298</ccli>
+		<album>Awesome God</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Arrangement>
+		<id>16063</id>
+		<song_id>14928</song_id>
+		<description>Arrangement from Songs For The Cross-Centered Life</description>
+		<text>Intro:
+[C2     | F2/C     | C2     | F2/C     | ]
+
+
+Verse:
+[C]Ho[G/B]ly [Am]God, [C/G]in [F]love, [G]be[Gsus]-[| C]came [F  G |] 
+[C]Per[G/B]fect [Am]Man [C/G]to [Dm]bear [Fmaj7]my [Gsus]blame [G]
+[C]On [G/B]the [Am]cross [C/G]He [F]took [E7]my [Am]sin
+[G/F]By [F]His [Em]death [Am]I [Gsus]live [G] [ ]a[C]gain [| F    G    |] 
+
+
+{key:D}
+Verse:
+[D]Ho[A/C#]ly [Bm]God, [D/A]in [G]love, [Asus]be[A |]-[D]came [G   A  |] 
+[D]Per[A/C#]fect [Bm]Man [D/A]to [Em]bear [Gmaj7]my [Asus]blame [A]
+[D]On [A/C#]the [Bm]cross [D/A]He [G]took [F#7]my [Bm]sin
+[A/G]By [G]His [F#m]death [Bm]I [Asus]live [A] [ ]a[D]gain</text>
+		<searchtext>intro verse holy god in love became perfect man to bear my blame on the cross he took my sin by his death i live again verse holy god in love became perfect man to bear my blame on the cross he took my sin by his death i live again</searchtext>
+		<primary>0</primary>
+		<key>C</key>
+		<time_signature>4/4</time_signature>
+		<bpm>65</bpm>
+		<tempo>Slow</tempo>
+		<created>2009-03-20 09:15:01</created>
+		<modified>2009-03-20 09:15:01</modified>
+		<creator>1543</creator>
+		<ccli>4401298</ccli>
+		<album>Songs For The Cross-Centered Life</album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>2355</id>
+		<songbook_id>21</songbook_id>
+		<text>Good Friday</text>
+	</Keyword>
+</data>
+

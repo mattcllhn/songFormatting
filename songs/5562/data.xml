@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5562</id>
+		<songbook_id>21</songbook_id>
+		<title>Good Christian Men Rejoice</title>
+		<copyright>Words &amp; Music by John M. Neale     Public domain</copyright>
+		<created>2008-09-25 20:38:17</created>
+		<modified>2014-12-16 14:00:16</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6293</id>
+		<song_id>5562</song_id>
+		<description>Initial arrangement</description>
+		<text>VERSE 1:
+[E]Good Christian men, rejoice, with heart and soul, and voice;
+Give ye heed [A]to [E]what we [C#m]say: [F#m7]Jesus [B7]Christ is [C#m]born to[E]day;
+Earth and Heav'n [A]be[E]fore Him [C#m]bow, and [F#m7]He is [B7]in the [C#m]manger [E]now.
+[A]Christ is [B7/F#]born to[E/G#]d[B]ay!
+[E]Christ is [B7]born to[E]day!
+
+VERSE 2:
+[E]Good Christian men, rejoice, with heart and soul and voice;
+Now ye hear [A]of [E]endless [C#m]bliss: [F#m7]Jesus [B7]Christ was [C#m]born for [E]this!
+He has opened the [A]heaven[E]ly [C#m]door, and [F#m7]man is [B7]blest for[C#m]ever[E]more.
+[A]Christ was [B7/F#]born for [E/G#]th[B]is!
+[B]Chri[E]st was born[B7] for this[E]!
+
+VERSE 3:
+[E]Good Christian men, rejoice, with heart and soul and voice;
+Now ye need [A]not [E]fear the [C#m]grave: [F#m7]Jesus [B7]Christ was [C#m]born to [E]save!
+Calls you one and [A]calls [E]you [C#m]all, to [F#m7]gain His [B7]ever[C#m]lasting [E]hall.
+[A]Christ was [B7/F#]born to [E/G#]sa[B]ve!
+[B]Chri[E]st was born[B7] to save[E]!
+</text>
+		<searchtext>verse 1 good christian men rejoice with heart and soul and voice give ye heed to what we say jesus christ is born today earth and heavn before him bow and he is in the manger now christ is born today christ is born today verse 2 good christian men rejoice with heart and soul and voice now ye hear of endless bliss jesus christ was born for this he has opened the heavenly door and man is blest forevermore christ was born for this christ was born for this verse 3 good christian men rejoice with heart and soul and voice now ye need not fear the grave jesus christ was born to save calls you one and calls you all to gain his everlasting hall christ was born to save christ was born to save </searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>92</bpm>
+		<tempo>Medium</tempo>
+		<created>2008-09-25 20:38:17</created>
+		<modified>2014-12-16 14:00:16</modified>
+		<creator>1543</creator>
+		<ccli>85158</ccli>
+		<album></album>
+		<font_size>14</font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

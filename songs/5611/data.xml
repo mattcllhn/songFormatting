@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>5611</id>
+		<songbook_id>21</songbook_id>
+		<title>Break Forth, O Beauteous Heavenly Light</title>
+		<copyright>Words by Jo­hann Rist     Music by Jo­hann Schop     Public domain</copyright>
+		<created>2008-10-24 01:25:10</created>
+		<modified>2008-10-24 01:25:10</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>6342</id>
+		<song_id>5611</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1:
+[F]Break [Dm]forth, [C]O [F]beau[C/E]teous [Gsus]heav'n[G7]ly [C]light,
+[A7/Db]And [Gm7/D]ush[F]er [C]in [F]the [C]morn[F]ing;
+[F]O [Dm]shep[C]herds, [F]shrink [C/E]not [Gsus]with [G7]a[C]fright,
+[A7/Db]But [Gm7/D]hear [F]the [C]an[F]gel’s [C]warn[F]ing.
+
+[C]This Child, [F/A]now [Gm]weak in [Dsus]in[D7]fan[Gm]cy,
+[Dm]Our [Dm/F]con[D7/Gb]fi[Gm]dence [E7/Ab]and [Dm/A]joy [A7]shall [Dm]be,
+[C7]The [F/A]power [F]of [Bb/D]Sa[F]tan [G7/B]break[C]ing,
+[F/A]Our [B]peace [C]e[B/D]ter[F]nal [Gm7/B C]mak[F]ing.
+
+
+Verse 2:
+[F]All [Dm]bles[C]sing, [F]thanks, [C/E]and [Gsus]praise [G7]to [C]Thee,
+[A7/Db]Lord [Gm7/D]Je[F]sus [C]Christ, [F]be [C]giv[F]en
+[F]Thou [Dm]has [C]our [F]broth[C/E]er [Gsus]deigned [G7]to [C]be,
+[A7/Db]Our [Gm7/D]foes [F]in [C]sund[F]er [C]riv[F]en,
+
+[C]O grant [F/A]us [Gm]through our [Dsus]day [D7]of [Gm]grace,
+[Dm]With [Dm/F]con[D7/Gb]stant [Gm]praise [E7/Ab]to [Dm/A]seek [A7]Thy [Dm]face,
+[C7]Grant [F/A]us [F]ere [Bb/D]long [F]in [G7/B]glo[C]ry,
+[F/A]With [B]prai[C]ses [B/D]to [F]a[Gm7/B C]dore [F]Thee</text>
+		<searchtext>verse 1 break forth o beauteous heavnly light and usher in the morning o shepherds shrink not with afright but hear the angels warning this child now weak in infancy our confidence and joy shall be the power of satan breaking our peace eternal making verse 2 all blessing thanks and praise to thee lord jesus christ be given thou has our brother deigned to be our foes in sunder riven o grant us through our day of grace with constant praise to seek thy face grant us ere long in glory with praises to adore thee</searchtext>
+		<primary>1</primary>
+		<key>F</key>
+		<time_signature>4/4</time_signature>
+		<bpm>92</bpm>
+		<tempo>Slow</tempo>
+		<created>2008-10-24 01:25:10</created>
+		<modified>2008-10-24 01:25:10</modified>
+		<creator>1543</creator>
+		<ccli>300228</ccli>
+		<album></album>
+		<font_size></font_size>
+	</Arrangement>
+	<Keyword>
+		<id>256</id>
+		<songbook_id>21</songbook_id>
+		<text>Christmas</text>
+	</Keyword>
+</data>
+

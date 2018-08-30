@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>64782</id>
+		<songbook_id>21</songbook_id>
+		<title>Abide with Me</title>
+		<copyright>David Crowder | Jason Ingram | Matt Maher | Matt Redman © Inot Music, Said And Done Music, sixsteps Music (Admin. by Capitol CMG Publishing)</copyright>
+		<created>2015-06-22 23:43:07</created>
+		<modified>2015-07-19 09:57:21</modified>
+		<creator>1546</creator>
+		<active>1</active>
+		<ccli_required>0</ccli_required>
+		<amazon_links></amazon_links>
+	</Song>
+	<Arrangement>
+		<id>70986</id>
+		<song_id>64782</song_id>
+		<description>Initial arrangement</description>
+		<text>Verse 1: 
+I have a [Bm]home eternal [C]home
+But for [G]now I walk this broken w[D]orld
+You walked it [Bm]first You know our p[C]ain
+But You show [G]hope can rise
+Ag[D]ain up from the [Gsus       G]grave
+
+
+Chorus: 
+Ab[Em]ide with [D]me ab[C6]ide with [G]me
+Don't l[Em]et me [D]fall and [C6]don't let [G]go
+[Em]Walk with [D]me and [C6]never [Em]leave  [G/B] 
+Ever [Cmaj7]close God ab[D]ide with [Gsus]me  [G   Gsus   G] 
+
+
+Verse 2: 
+There in the [Bm]night Gethsema[C]ne
+Before the cr[G]oss before the [D]nails
+Overwh[Bm]elmed alone You pr[C]ayed
+You met us [G]in our suffer[D]ing
+And bore [Gsus]      our shame   [G] 
+
+
+{new_page}
+Bridge: 
+Oh l[G]ove that will not [C]ever [G]let me go  [D] 
+Love that [Em]will not [C]ever [G]let me [D]go
+You n[C]ever [G]let me [D]go
+Love that [Em]will not [C]ever [G]let me [D]go
+
+
+Ending: 
+And up ah[Bm]ead eterni[C]ty
+We'll weep no [G]more we'll sing for [D]joy
+Abide with [Gsus    G]me
+</text>
+		<searchtext>verse 1 i have a home eternal home but for now i walk this broken world you walked it first you know our pain but you show hope can rise again up from the grave chorus abide with me abide with me dont let me fall and dont let go walk with me and never leave ever close god abide with me verse 2 there in the night gethsemane before the cross before the nails overwhelmed alone you prayed you met us in our suffering and bore our shame bridge oh love that will not ever let me go love that will not ever let me go you never let me go love that will not ever let me go ending and up ahead eternity well weep no more well sing for joy abide with me </searchtext>
+		<primary>1</primary>
+		<key>G</key>
+		<time_signature>4/4</time_signature>
+		<bpm>70</bpm>
+		<tempo>Medium</tempo>
+		<created>2015-06-22 23:43:07</created>
+		<modified>2015-07-19 09:57:21</modified>
+		<creator>1546</creator>
+		<ccli>7038447</ccli>
+		<album></album>
+		<font_size>18</font_size>
+	</Arrangement>
+</data>
+

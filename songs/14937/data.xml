@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<Song>
+		<id>14937</id>
+		<songbook_id>21</songbook_id>
+		<title>My Glorious Hope</title>
+		<copyright>Words &amp; Music by Steve &amp; Vikki Cook     © 2002 Sovereign Grace Worship</copyright>
+		<created>2009-03-20 09:15:02</created>
+		<modified>2009-03-20 09:15:02</modified>
+		<creator>1543</creator>
+		<active>1</active>
+		<ccli_required>1</ccli_required>
+		<amazon_links>[{&quot;asin&quot;:&quot;B0010VPHWY&quot;,&quot;title&quot;:&quot;My Glorious Hope&quot;,&quot;artist&quot;:&quot;Sovereign Grace Music&quot;,&quot;image_url&quot;:&quot;http:\/\/ecx.images-amazon.com\/images\/I\/519CuW9nbdL._SL75_.jpg&quot;}]</amazon_links>
+	</Song>
+	<Arrangement>
+		<id>16072</id>
+		<song_id>14937</song_id>
+		<description>Initial arrangement</description>
+		<text>Intro: 
+[| E2     | A2     | E2     | A2     |]
+
+Verse 1: 
+[E] [ ]Though waves of troubles [Amaj7]come, and pour in like a [C#m]flood
+My [B]soul will no[A2]t despair
+[E] [ ]Within Your sovereign [Amaj7]arms, no valley is too [C#m]dark
+To [B]keep me fro[A2]m your care
+Your [B/D#]presence and Your p[A/C#]romises, are [B/D#]joy and life to [A]me
+
+Chorus: 
+Jesus, [E]You’re my [F#9]glorious [Amaj7    B]hope, [ ]ever [E]faithful [F#9]to Your [Amaj7    B]own
+You have [E/G#]filled my [A]nights, with Your [F#m7]sweet song of gr[B]ace
+Jesus [C#m]You’re my [B]glorious [A2]hope
+My glorious [E     | Amaj9     | C#m   B   | A     |]hope
+
+Verse 2: 
+[E] [ ]When condemnations [Amaj7]rise, when failures fill my [C#m]eyes
+Re[B]mind me onc[A2]e again
+[E] [ ]That my sufficien[Amaj7]cy,{,} is found upon the [C#m]tree
+That [B]bought my right[A]eousness
+The [B/D#]depth of Your unchang[A/C#]ing love, dis[B/D#]played on Calva[A (to chorus)]ry
+
+Bridge: 
+And [F#m7]Je[E/G#]sus, ev’ry [A]trial only [Bsus4]proves
+You're [F#m7]wor[E/G#]thy of all the [A]trust I place in [Bsus4]You
+My glorious [| C#m     B  A  | A     |]hope
+[C#m] [ ]You’re my [B]glorious [A]hope
+[C#m] [ ]You’re my [B]glorious [A]hope</text>
+		<searchtext>intro verse 1 though waves of troubles come and pour in like a flood my soul will not despair within your sovereign arms no valley is too dark to keep me from your care your presence and your promises are joy and life to me chorus jesus youre my glorious hope ever faithful to your own you have filled my nights with your sweet song of grace jesus youre my glorious hope my glorious hope verse 2 when condemnations rise when failures fill my eyes remind me once again that my sufficiency is found upon the tree that bought my righteousness the depth of your unchanging love displayed on calvary bridge and jesus evry trial only proves youre worthy of all the trust i place in you my glorious hope youre my glorious hope youre my glorious hope</searchtext>
+		<primary>1</primary>
+		<key>E</key>
+		<time_signature>4/4</time_signature>
+		<bpm>83</bpm>
+		<tempo>Medium</tempo>
+		<created>2009-03-20 09:15:02</created>
+		<modified>2009-03-20 09:15:02</modified>
+		<creator>1543</creator>
+		<ccli>4126401</ccli>
+		<album>All We Long To See</album>
+		<font_size>14</font_size>
+	</Arrangement>
+</data>
+
