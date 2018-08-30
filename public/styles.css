@@ -1,23 +1,26 @@
+header{
+    background-color:#f3f2f2;
+    margin-bottom:1rem;
+}
+label{
+    display:block;
+}
 h4{
     cursor: pointer;
 }
-header{
-    background-color:#f3f2f2
-}
+
 .expand-collapse{
     max-height:0px;
     overflow:hidden;
-    transition: all 500ms ease-out;
+    transition: max-height 500ms ease-out;
 
 }
 .expand-collapse.expanded{
-    max-height:inherit;
+    max-height:100%;
     overflow: auto;
-    transition: all 500ms ease-out;
-
+    transition: max-height 500ms ease-out;
 }
 
 .text{
     width:100%;
-    /* min-height:100vh; */
 }
