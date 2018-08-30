@@ -1,6 +1,9 @@
 h4{
     cursor: pointer;
 }
+header{
+    background-color:#f3f2f2
+}
 .expand-collapse{
     max-height:0px;
     overflow:hidden;

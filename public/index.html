@@ -5,22 +5,34 @@
   <meta charset="utf-8">
   <title>SG Songs</title>
   <!-- Bootstrap CDN -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+    crossorigin="anonymous">
   <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
-        <h1>Welcome to the songs app</h1>
-        <button onclick="getSongs()"> Get Songs!</button>
-        <div class="row" id="song-target"></div>
+  <header >
+    <div class = "container">
+      <div class="row">
+        <div class="col-xs-12">
+          <h1>Matt's Node tool</h1>
+          <p>Converting songbook data for Planning Center</p>
+        </div>
       </div>
     </div>
+  </header>
+  <section class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <label for="get_songs_btn">Click to populate songs</label>
+      <button onclick="getSongs()" id="get_songs_btn"> Get Songs!</button>
+      <div class="row" id="song-target"></div>
+    </div>
   </div>
-  <template class="hidden" id = "song_pres_template">
-    <h4 id = "song_title" > title</h4>
-    <input type="text" value = "wut" id = "song_text">
+  </section>
+  <template class="hidden" id="song_pres_template">
+    <h4 id="song_title"> title</h4>
+    <input type="text" value="wut" id="song_text">
 
   </template>
 
