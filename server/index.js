@@ -2,8 +2,7 @@ const express = require('express');
 const path = require('path');
 const app = express();
 const fs = require('fs');
-const xml2js = require('xml2js');
-const parser = new xml2js.Parser();
+const parser = require('./parseString');
 const secretStuff = require('./environment.json');
 const port = secretStuff.PORT;
 const appID = secretStuff.APP_ID;
@@ -30,7 +29,7 @@ app.get('/songs', function (req, res) {
   for (let i = 0; i < folders.length; i++) {
     const loopPath = rootPath + '/' + folders[i] + '/data.xml';
     let song = fs.readFileAsync(loopPath).then((song) => {
-      return parser.parseStringAsync(song);
+      return parser(song);
     });
     songArr.push(song);
   }
@@ -76,16 +75,7 @@ async function returnID(title) {
 
 
 
-parser.parseStringAsync = function (song) {
-  return new Promise(function (resolve, reject) {
-    parser.parseString(song, function (err, result) {
-      if (err)
-        reject(err);
-      else
-        resolve(result);
-    });
-  });
-};
+
 
 fs.readFileAsync = function (filename) {
   return new Promise(function (resolve, reject) {
