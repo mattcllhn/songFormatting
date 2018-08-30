@@ -24,7 +24,7 @@ for (let i = 0; i < songList.length; i++) {
   // input.setAttribute('value', formatSong(songList[i].Arrangement[0].text));
   input.value = formatSong(songList[i].Arrangement[0].text);
 
-  let submitButton = createDomElement('button','text-right', 'Update');
+  let submitButton = createDomElement('button',['btn','btn-primary'], 'Update');
   submitButton.setAttribute('onClick', 'makeUpdate(songList['+i+'].Song[0].title)')
   songEc.appendChild(input);
   songEc.appendChild(submitButton);
